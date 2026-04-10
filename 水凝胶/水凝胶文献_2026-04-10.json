@@ -1,0 +1,107 @@
+{
+  "搜集时间": "2026-04-10 16:27 (UTC+8)",
+  "关键词": "anti-freezing hydrogel, freezing tolerant hydrogel, self-healing hydrogel, cellulose hydrogel, ionic conductor hydrogel, zinc ion battery electrolyte",
+  "重点方向": ["抗冻水凝胶", "离子导体", "锌离子电池电解质"],
+  "文献总数": 10,
+  "文献列表": [
+    {
+      "编号": 1,
+      "英文标题": "Anti-freezing Hydrogel Electrolyte with a Regulated Hydrogen Bond Network Enables High-rate and Long Cycling Zinc Batteries",
+      "中文标题": "抗冻水凝胶电解质：调控氢键网络实现高性能锌电池",
+      "期刊": "Energy & Environmental Science",
+      "DOI": "10.1039/d4ee02772h",
+      "年份": 2025,
+      "方向": "抗冻水凝胶电解质 | 锌离子电池 | 氢键调控",
+      "链接": "https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee02772h"
+    },
+    {
+      "编号": 2,
+      "英文标题": "Stretchable, Adhesive, Anti-Freezing Hydrogel Electrolytes with Dual-Functional Water Regulation",
+      "中文标题": "可拉伸、粘附、抗冻水凝胶电解质：双功能水调控",
+      "期刊": "Advanced Materials",
+      "DOI": "10.1002/adma.202509975",
+      "年份": 2025,
+      "方向": "抗冻水凝胶电解质 | 可拉伸 | 粘附性 | 柔性锌离子电池",
+      "链接": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509975"
+    },
+    {
+      "编号": 3,
+      "英文标题": "Hydrogel Electrolytes for Temperature-Robust Aqueous Zinc-Ion Batteries",
+      "中文标题": "宽温度水凝胶电解质：温度适应性锌离子电池",
+      "期刊": "Advanced Energy Materials",
+      "DOI": "10.1002/aenm.202503226",
+      "年份": 2025,
+      "方向": "水凝胶电解质 | 宽温度范围 | 锌离子电池",
+      "链接": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202503226"
+    },
+    {
+      "编号": 4,
+      "英文标题": "Rational Design of Cellulose-Based Gel Electrolytes for Next Generation Zinc-Ion Batteries",
+      "中文标题": "纤维素基凝胶电解质理性设计：下一代锌离子电池",
+      "期刊": "Advanced Energy Materials",
+      "DOI": "10.1002/aenm.202506462",
+      "年份": 2025,
+      "方向": "纤维素水凝胶 | 凝胶电解质 | 锌离子电池",
+      "链接": "https://onlinelibrary.wiley.com/doi/10.1002/aenm.202506462"
+    },
+    {
+      "编号": 5,
+      "英文标题": "Hydrogel Electrolytes for Zinc-Ion Batteries: Materials Design",
+      "中文标题": "锌离子电池水凝胶电解质：材料设计",
+      "期刊": "Nano-Micro Letters",
+      "DOI": "10.1007/s40820-025-01993-w",
+      "年份": 2026,
+      "方向": "水凝胶电解质 | 锌离子电池 | 材料设计",
+      "链接": "https://link.springer.com/article/10.1007/s40820-025-01993-w"
+    },
+    {
+      "编号": 6,
+      "英文标题": "Tough Cellulose Hydrogel Electrolyte with Low Solvation for Highly Reversible and Flexible Aqueous Zinc-Ion Battery",
+      "中文标题": "低溶剂化坚韧纤维素水凝胶电解质：高可逆柔性锌离子电池",
+      "期刊": "Advanced Science",
+      "DOI": "10.1002/advs.202500764",
+      "年份": 2025,
+      "方向": "纤维素水凝胶 | 低溶剂化 | 柔性锌离子电池",
+      "链接": "https://pubmed.ncbi.nlm.nih.gov/40726468/"
+    },
+    {
+      "编号": 7,
+      "英文标题": "Hydrogel Electrolytes for Zinc-Ion Batteries under Harsh Conditions",
+      "中文标题": "严苛条件下锌离子电池水凝胶电解质研究",
+      "期刊": "Nano-Micro Letters",
+      "DOI": "10.1007/s40820-025-01727-y",
+      "年份": 2025,
+      "方向": "水凝胶电解质 | 锌离子电池 | 严苛条件 | 宽温度",
+      "链接": "https://link.springer.com/article/10.1007/s40820-025-01727-y"
+    },
+    {
+      "编号": 8,
+      "英文标题": "Anti-Freezing Ionic Conductive Hydrogel for Strain Sensing and Energy Harvesting",
+      "中文标题": "抗冻离子导电水凝胶：应变传感与能量收集",
+      "期刊": "npj Flexible Electronics (Nature)",
+      "年份": 2024,
+      "方向": "抗冻离子导电水凝胶 | 应变传感 | 能量收集",
+      "链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12694472/"
+    },
+    {
+      "编号": 9,
+      "英文标题": "Antifreezing Hydrogels for Biomedical Applications",
+      "中文标题": "抗冻水凝胶生物医疗应用",
+      "期刊": "Materials Today",
+      "DOI": "10.1016/j.matre.2025.06449",
+      "年份": 2025,
+      "方向": "抗冻水凝胶 | 生物医疗 | 低温保存",
+      "链接": "https://www.sciencedirect.com/science/article/abs/pii/S1369702125003980"
+    },
+    {
+      "编号": 10,
+      "英文标题": "Anisotropic and Anti-Freezing Cellulose Hydrogel Electrolyte with Aligned Channels for Zinc-Ion Batteries",
+      "中文标题": "各向异性抗冻纤维素水凝胶电解质：定向通道助力锌离子电池",
+      "期刊": "Chemical Engineering Journal",
+      "DOI": "10.1016/j.cej.2025.164745",
+      "年份": 2025,
+      "方向": "各向异性纤维素水凝胶 | 定向冷冻 | 抗冻 | 锌离子电池",
+      "链接": "https://www.sciencedirect.com/science/article/abs/pii/S1385894725007491"
+    }
+  ]
+}

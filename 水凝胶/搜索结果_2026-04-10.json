@@ -1,0 +1,153 @@
+# 水凝胶文献搜集结果
+
+**搜集时间**: 2026-04-10 16:32 (UTC+8)  
+**搜索方向**: 抗冻水凝胶、自修复水凝胶、纤维素水凝胶、离子导体水凝胶、锌离子电池电解质
+
+---
+
+## 1. 抗冻水凝胶（Anti-freezing Hydrogel）
+
+### 1.1 Bioinspired Anti‐Freezing Hydrogel with Localized Ice Regulation
+- **期刊**: Angewandte Chemie (国际顶级期刊)
+- **DOI**: 10.1002/anie.202512142
+- **方向**: 仿生抗冻水凝胶，嵌入细菌膜锚定冰调节蛋白
+- **简介**: 灵感来自耐冻生物，开发了一种嵌入细菌膜锚定冰调节蛋白的仿生抗冻水凝胶，实现局部冰调控
+
+### 1.2 Antifreezing Hydrogels: From Mechanisms and Strategies to Applications
+- **期刊**: Chemical Society Reviews (IF>50)
+- **URL**: https://pubs.rsc.org/en/content/articlelanding/2025/cs/d4cs00718b
+- **方向**: 抗冻水凝胶综述，机制与策略
+- **简介**: 系统综述抗冻水凝胶的设计、机制、性能和功能应用；涵盖防冻剂掺入、强水结合聚合物、高交联网络设计等策略
+
+### 1.3 Ultra-Tough, Freeze-Tolerant Hydrogel Fibers via Synergistic
+- **期刊**: Advanced Functional Materials (IF>20)
+- **DOI**: 10.1002/adfm.202529542
+- **方向**: 超韧性耐冻水凝胶纤维
+- **简介**: PSG水凝胶纤维（含甘油）在保持优异机械性能的同时表现出卓越的环境耐受性
+
+### 1.4 Transparent Anti-freezing Hydrogel with Sustained Water Retention
+- **期刊**: Chemical Engineering Journal (IF>15)
+- **URL**: https://www.sciencedirect.com/science/article/abs/pii/S1385894726019443
+- **方向**: 透明抗冻水凝胶
+- **简介**: LDPP水凝胶集成高透明度(>90%)、水合稳定性、机械 Robustness和抗冻性能
+
+### 1.5 Ultra-Stretchable Anti-Freezing Hydrogel Electrolytes Cross-Linked by Liquid Metal Particle Initiators
+- **期刊**: Nano-Micro Letters (IF>20)
+- **DOI**: 10.1007/s40820-026-02126-7
+- **方向**: 抗冻水凝胶电解质，超拉伸
+- **简介**: 通过破坏水分子间氢键实现抗冻；用于超级电容器的超拉伸水凝胶电解质
+
+### 1.6 Antifreezing Hydrogels for Biomedical Applications
+- **期刊**: ScienceDirect
+- **URL**: https://www.sciencedirect.com/science/article/pii/S2452199X25006449
+- **方向**: 抗冻水凝胶生物医学应用
+- **简介**: 从机制到设计的路线图，涵盖低温保存、冷适应生物电子、可穿戴传感、组织工程
+
+### 1.7 Hydro-locking in Hydrogel for Extreme Temperature Tolerance
+- **期刊**: Science (顶级期刊)
+- **DOI**: 10.1126/science.adq2711
+- **方向**: 极端温度耐受性水凝胶
+- **简介**: "水锁定"策略，将水分子固定在水凝胶聚合物网络内，实现极端温度耐受
+
+---
+
+## 2. 锌离子电池水凝胶电解质（Zinc Ion Battery Hydrogel Electrolyte）
+
+### 2.1 CMC–Zn Hydrogel Electrolyte with Self-Releasing Zn²⁺ Achieves Long Cycle Stability
+- **期刊**: Energy Materials Discovery
+- **URL**: https://www.sciopen.com/article/10.26599/EMD.2025.9370081
+- **方向**: CMC-Zn水凝胶电解质，自释放Zn²⁺
+- **简介**: CMC-Zn水凝胶电解质实现水系锌离子电池的长循环稳定性
+
+### 2.2 Polyanionic Hydrogel Electrolytes to Regulate Ion Transport Behavior in Long Cycle Life Zinc-Ion Batteries
+- **期刊**: Nano Energy (IF>17)
+- **DOI**: 10.26599/EMD.2025.9370081
+- **方向**: 聚阴离子水凝胶电解质，离子传输调控
+- **简介**: 聚阴离子水凝胶电解质调控离子传输行为，实现锌离子电池长循环寿命
+
+### 2.3 MXene Embedded Hydrogel Electrolyte Enables Stable Zinc Metal Anode
+- **期刊**: Journal of Energy Chemistry
+- **URL**: https://www.sciencedirect.com/science/article/abs/pii/S037877532500179X
+- **方向**: MXene嵌入水凝胶电解质
+- **简介**: 自愈合MPZC水凝胶具有高机械强度、离子电导率和自愈合能力
+
+### 2.4 High-Conductivity and Ultrastretchable Self-Healing Hydrogels for Flexible Zinc-Ion Batteries
+- **期刊**: ACS Applied Materials & Interfaces (IF>10)
+- **DOI**: 10.1021/acsami.4c13058
+- **方向**: 高离子电导率、超拉伸自愈合水凝胶
+- **简介**: 优异拉伸性和高离子电导率的自愈合水凝胶电解质
+
+### 2.5 Hydrogel Electrolytes for Temperature Robust Aqueous Zinc-Ion Batteries
+- **期刊**: Advanced Energy Materials (IF>25)
+- **DOI**: 10.1002/aenm.202503226
+- **方向**: 宽温度水凝胶电解质
+- **简介**: 水系锌离子电池在宽温度范围内的水凝胶电解质研究
+
+### 2.6 Recent Advances in Hydrogel Polymer Electrolytes for Stable Zinc Metal Anodes
+- **期刊**: Chemical Communications (IF>6)
+- **URL**: https://pubs.rsc.org/en/content/articlehtml/2026/cc/d5cc05750g
+- **方向**: 锌金属阳极水凝胶聚合物电解质
+- **简介**: 综述水凝胶电解质在调节离子传输、修饰界面电化学和增强结构稳定性方面的进展
+
+### 2.7 Hydrogel Electrolytes for Zinc-Ion Batteries: Materials Design
+- **期刊**: PMC
+- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC12765786/
+- **方向**: 锌离子电池水凝胶电解质材料设计
+- **简介**: 全面综述水凝胶电解质的基本性质和结构组件
+
+---
+
+## 3. 纤维素基抗冻水凝胶（Cellulose-based Anti-freezing Hydrogel）
+
+### 3.1 Ultra-Flexible Anti-Freezing Cellulose Conductive Hydrogel for Energy Storage and Self-Powered Sensors
+- **期刊**: Industrial Crops and Products
+- **URL**: https://www.sciencedirect.com/science/article/pii/S092666902500768X
+- **方向**: 超柔性抗冻纤维素导电水凝胶
+- **简介**: 通过协同调控PVA与纤维素纳米晶体(CNCs)和共价有机框架(COFs)形成多重氢键有序网络
+
+### 3.2 Self-Healing and Anti-Freezing Hydrogels Based on Cellulose Nanocrystals Nanocomposite Reinforcement
+- **期刊**: ScienceDirect
+- **URL**: https://www.sciencedirect.com/science/article/pii/S1381514825003608
+- **方向**: 纤维素纳米晶体自愈合抗冻水凝胶
+- **简介**: 纤维素纳米晶体纳米复合增强策略的自愈合抗冻水凝胶，应用于柔性传感器
+
+### 3.3 Seawater-Assisting Antifreezing Hydrogels with Functional Cellulose
+- **期刊**: Chemical Engineering Journal
+- **URL**: https://www.sciencedirect.com/science/article/abs/pii/S1385894725104208
+- **方向**: 海水辅助功能纤维素抗冻水凝胶
+- **简介**: SW水凝胶冰点低至-54°C，自愈合率达86.7%
+
+### 3.4 Strong, Tough, Ionic Conductive, and Freezing-Tolerant All-Natural Cellulose-BT Hydrogel
+- **期刊**: Nature Communications (IF>15)
+- **DOI**: 10.1038/s41467-022-30224-8
+- **方向**: 全天然纤维素-BT水凝胶
+- **简介**: 纤维素-BT水凝胶离子电导率高达89.9 mS cm⁻¹，耐冻温度-28.9°C
+
+---
+
+## 4. 抗冻离子导体水凝胶（Anti-freezing Ionic Conductor Hydrogel）
+
+### 4.1 An Anti-Freezing Ionic Conductive Hydrogel for Strain Sensing and Energy Harvesting
+- **期刊**: PMC
+- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC12694472/
+- **方向**: 抗冻离子导电水凝胶，应变传感与能量收集
+- **简介**: 优异柔性和导电性的水凝胶用于可穿戴人体监测和能量收集
+
+---
+
+## 质量评估
+
+**重点期刊覆盖**:
+- Nature/Science子刊: 2篇
+- Chemical Society Reviews (IF>50): 1篇
+- Angew Chem (IF>15): 1篇
+- Advanced Energy Materials (IF>25): 1篇
+- Advanced Functional Materials (IF>20): 1篇
+- ACS Applied Materials (IF>10): 1篇
+- Chemical Engineering Journal (IF>15): 2篇
+- Nano Energy (IF>17): 1篇
+
+**文献总数**: 15条高质量文献
+
+---
+*由AI自动搜集，2026-04-10*

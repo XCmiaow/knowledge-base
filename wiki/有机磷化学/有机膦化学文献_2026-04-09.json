@@ -1,0 +1,141 @@
+{
+  "topic": "有机膦化学文献搜集 - 化学信息学方向",
+  "date": "2026-04-09",
+  "search_keywords": [
+    "phosphine OR phosphane asymmetric catalysis C-P bond formation chiral phosphine ligand",
+    "AI machine learning predict ee value enantioselective organophosphorus asymmetric catalysis"
+  ],
+  "papers": [
+    {
+      "id": 1,
+      "title_en": "P-Stereogenic Phosphorus Ligands in Asymmetric Catalysis",
+      "title_cn": "不对称催化中的P-手性磷配体",
+      "authors": "Chemical Reviews",
+      "year": 2024,
+      "journal": "Chemical Reviews",
+      "doi": "10.1021/acs.chemrev.3c00875",
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.3c00875",
+      "highlight": "P-手性磷配体是不对称催化领域的核心手性骨架，综述涵盖了该领域的最新进展与应用",
+      "tags": ["P-手性", "磷配体", "不对称催化", "综述"]
+    },
+    {
+      "id": 2,
+      "title_en": "Enantiopure P-Chiral Secondary Phosphines (P*HRR') from the Catalytic Asymmetric Hydrogenation of P=C Bonds",
+      "title_cn": "不对称氢化P=C键制备手性P-手性二级膦",
+      "authors": "Li M. et al.",
+      "year": 2024,
+      "journal": "Journal of the American Chemical Society",
+      "doi": "10.1021/jacs.4c09501",
+      "url": "https://pubs.acs.org/doi/10.1021/jacs.4c09501",
+      "highlight": "首次实现瓶装手性P-手性二级膦的合成，通过铑催化不对称氢化phosphaalkenes实现",
+      "tags": ["P-手性膦", "不对称氢化", "phosphaalkene", "JACS"]
+    },
+    {
+      "id": 3,
+      "title_en": "Pd-Catalyzed Asymmetric P-C Cross-Coupling to Access ortho-NH2 or -OH Substituted P-Chiral Phosphine Oxides",
+      "title_cn": "钯催化不对称P-C交叉偶联制备邻氨基/羟基P-手性膦氧化物",
+      "authors": "Matter",
+      "year": 2025,
+      "journal": "Chem",
+      "doi": "10.1016/j.chempr.2025.02.001",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666386425003972",
+      "highlight": "开发了钯/Xiao-Phos催化体系，实现邻氨基/羟基取代P-手性膦氧化物的高对映选择性合成",
+      "tags": ["P-C交叉偶联", "P-手性", "钯催化", "膦氧化物", "Chem"]
+    },
+    {
+      "id": 4,
+      "title_en": "Diversity-Oriented Synthesis of P-Stereogenic and Axially Chiral Phosphorus Compounds",
+      "title_cn": "P-手性与轴手性磷化合物的多样性导向合成",
+      "authors": "Nature Communications",
+      "year": 2023,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-023-40138-8",
+      "url": "https://www.nature.com/articles/s41467-023-40138-8",
+      "highlight": "实现了P-手性与轴手性磷化合物的同时构建，为手性磷配体库的多样性提供了新方法",
+      "tags": ["P-手性", "轴手性", "多样性合成", "Nature Communications"]
+    },
+    {
+      "id": 5,
+      "title_en": "Ni-Catalyzed Asymmetric C-P Cross-Coupling Reaction for the Synthesis of Chiral Heterocyclic Tertiary Phosphine Oxides",
+      "title_cn": "镍催化不对称C-P交叉偶联合成手性杂环叔膦氧化物",
+      "authors": "Organic Letters",
+      "year": 2023,
+      "journal": "Organic Letters",
+      "doi": "10.1021/acs.orglett.3c02216",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.orglett.3c02216",
+      "highlight": "Ni(II)催化的不对称C-P交叉偶联反应，为手性杂环叔膦氧化物的合成提供了高效方法",
+      "tags": ["镍催化", "C-P偶联", "手性膦氧化物", "有机 Lett"]
+    },
+    {
+      "id": 6,
+      "title_en": "Asymmetric Synthesis of P-Stereogenic Phosphindane Derivatives via Chiral Phosphine Oxide Reduction",
+      "title_cn": "通过手性膦氧化物还原实现P-手性phosphindane衍生物的不对称合成",
+      "authors": "Yin L. et al.",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-024-46892-7",
+      "url": "https://www.nature.com/articles/s41467-024-46892-7",
+      "highlight": "手性膦氧化物可被还原为有价值的手性膦，为P-手性phosphindane衍生物的合成提供了新路线",
+      "tags": ["P-手性", "膦氧化物还原", "phosphindane", "Nature Communications"]
+    },
+    {
+      "id": 7,
+      "title_en": "Machine Learning Prediction of Enantioselectivity in Asymmetric Catalysis from Small Curated Datasets",
+      "title_cn": "基于小型精选数据集的不对称催化对映选择性机器学习预测",
+      "authors": "Baczewska P. et al.",
+      "year": 2025,
+      "journal": "ChemRxiv",
+      "doi": "10.26434/chemrxiv-2025-l7c4q",
+      "url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-l7c4q",
+      "highlight": "提出基于小型、精选实验数据集训练ML框架预测对映选择性 ee 值，应用于手性磷酸催化体系",
+      "tags": ["机器学习", "ee值预测", "不对称催化", "化学信息学"]
+    },
+    {
+      "id": 8,
+      "title_en": "Molecular Machine Learning Approach to Enantioselective C(sp³)–H Activation",
+      "title_cn": "C(sp³)–H活化对映选择性预测的分子机器学习方法",
+      "authors": "Hoque A. et al.",
+      "year": 2025,
+      "journal": "PMC",
+      "doi": "PMC12184194",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12184194/",
+      "highlight": "生成式AI用于新型手性配体设计，结合集成预测模型预测%ee，可用于不对称催化开发",
+      "tags": ["分子ML", "C-H活化", "对映选择性", "AI配体设计"]
+    },
+    {
+      "id": 9,
+      "title_en": "Deep Learning for Enantioselectivity Predictions in Catalytic β-C(sp³)–H Functionalization",
+      "title_cn": "催化β-C(sp³)–H功能化中对映选择性预测的深度学习",
+      "authors": "Hoque A. et al.",
+      "year": 2022,
+      "journal": "RSC Drug Discovery",
+      "doi": "10.1039/d2dd00084a",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00084a",
+      "highlight": "使用DNN作为主要ML模型预测Pd催化不对称功能化反应的% ee值，应用于β-C(sp³)–H键活化",
+      "tags": ["深度学习", "ee预测", "DNN", "C-H活化"]
+    },
+    {
+      "id": 10,
+      "title_en": "A Machine Learning Model for Predicting Enantioselectivity Overcoming High ee Value Bias",
+      "title_cn": "克服高ee值偏差的对映选择性预测机器学习模型",
+      "authors": "Gao B. et al.",
+      "year": 2024,
+      "journal": "CCS Chemistry",
+      "doi": "10.31635/ccschem.024.202303774",
+      "url": "https://www.chinesechemsoc.org/doi/10.31635/ccschem.024.202303774",
+      "highlight": "针对高ee值(>90%)样本导致的模型偏差问题提出解决方案，提高了对映选择性预测的准确性",
+      "tags": ["机器学习", "ee预测", "偏差校正", "CCS Chemistry"]
+    }
+  ],
+  "summary": {
+    "total": 10,
+    "top_journals": ["JACS", "Chem", "Nature Communications", "Chemical Reviews", "Organic Letters", "CCS Chemistry", "ChemRxiv"],
+    "directions": [
+      "P-手性膦配体的设计与不对称催化应用",
+      "C-P键交叉偶联反应的进展",
+      "不对称氢化制备P-手性膦",
+      "机器学习/深度学习预测对映选择性(ee值)",
+      "生成式AI辅助手性配体设计"
+    ]
+  }
+}

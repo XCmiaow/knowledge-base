@@ -1,0 +1,19 @@
+{
+  "commitMessage": "auto: vault sync {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 5,
+  "autoPushInterval": 10,
+  "autoPullInterval": 10,
+  "autoCommitMessage": "auto: vault sync {{date}}",
+  "syncMethod": "rebase",
+  "pushBranch": "master",
+  "pullBeforePush": true,
+  "updateSubmodules": false,
+  "listChangedFiles": false,
+  "showStatusBar": true,
+  "confirmBeforePush": false,
+  "confirmBeforeCommit": false,
+  "currentBranch": "master",
+  "remoteBranch": "master",
+  "remote": "origin"
+}

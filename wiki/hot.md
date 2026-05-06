@@ -9,6 +9,9 @@ updated: 2026-05-06
 
 - [2026-05-06] **服务器同步**：从服务器（`peach-lover.com`）完整同步 KB wiki（146 篇 arXiv 文献）+ Obsidian vault（227 篇深读笔记），总计 +373 篇。本地文献从 170 → 543 篇。
 - [2026-05-06] **paper-ingest 打通**：完成 paper-ingest/paper-query 技能、全局配置、项目 hooks。批量处理 raw/水凝胶/ 中 53 个 JSON 文件。
+- [2026-05-06] **服务器架构发现**：OpenClaw 服务器（peach-lover.com）含 KB wiki（146 篇）+ Obsidian vault（314 篇），通过 `accept_literature.py` cron 每日同步 + 飞书通知
+- [2026-05-06] **literature-review 仓库**：发现 GitHub 上 617MB 的 `literature-review` 库，含 44 篇 PDF + 60 篇 MD 文献笔记（水凝胶方向）
+- [2026-05-06] **全量文献总览**：服务器 KB 146 + Obsidian vault 314 + Zotero 396 + lit-review 44PDF/60MD，知识库基数充足
 - [2026-04-30] 知识库初始建立，~82 篇文献笔记
 
 ## 当前状态

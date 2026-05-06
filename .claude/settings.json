@@ -1,0 +1,40 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"wiki/hot.md\" 2>/dev/null || true",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": {
+          "patterns": ["**/wiki/**", "**/raw/**", "SUMMARY.md"]
+        },
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"E:\\工作区\\knowledge-base\" && git add -A && git diff --cached --quiet || git commit -m \"auto: vault sync\"",
+            "timeout": 15000
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Session ended with wiki changes. Consider updating wiki/hot.md to retain context.'",
+            "timeout": 5000
+          }
+        ]
+      }
+    ]
+  }
+}

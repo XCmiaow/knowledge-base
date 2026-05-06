@@ -20,54 +20,67 @@ knowledge-base/
 └── README.md              # 入口说明
 ```
 
-## 核心规则
+## 完整流水线（文献管理版）
 
-### 1. 知识沉淀流程
+### 第一阶段：采集（Clipper → raw/）
 
-当主人给你新的文献/资料时：
-1. 读取并理解内容
-2. 提取 DOI、标题（中英双语）、链接、日期
-3. 更新到 `wiki/<学科>/<DOI>.md`（Markdown 格式）
-4. 建立与其他文献的交叉链接
-5. 同步更新 `总览.md`
+用 Obsidian Web Clipper（浏览器扩展）一键剪藏文献网页：
+1. 安装 [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-clipper/mpnfmbmjglonmlbapnpjcmgmmoheghpn)
+2. 看到好文章 → 点扩展图标 → 自动存入 `raw/<主题>/`
 
-### 2. 查询流程
+**或者** Zotero 批量导出后手动放入 `raw/<主题>/`，文件格式为 JSON（含 doi, title_en, title_zh, url, date 字段）。
 
-当主人询问学术问题时：
-1. 先查 wiki 中已有的知识
-2. 综合答案，有引用（`[[链接]]`）
-3. 好答案存回 wiki 供以后使用
+### 第二阶段：消化（paper-ingest → wiki/）
 
-### 3. 文件格式
+新剪藏到 raw/ 后，手动调用 `paper-ingest` 技能：
 
-每个 Wiki 页面包含：
 ```markdown
----
-type: literature
-doi: xxx
-topic: xxx
-date: xxx
----
-
-# 英文标题
-**中文标题**: xxx
-
-## 基本信息
-| 属性 | 值 |
-|------|-----|
-| DOI | [链接](url) |
-
-## 关键词
-#标签1 #标签2
-
-## 摘要
-> 关键内容
-
-## 相关文献
-- [DOI](./file.md)
+流程：
+1. 扫描 raw/<topic>/ 找 status 不为 processed 的文件
+2. 提取 DOI，检查 wiki/<topic>/ 中是否已存在
+3. 用 Crossref API 富化元数据（作者、期刊、摘要）
+4. 按 literature-note.md 模板生成 wiki 页面
+5. 写入 wiki/<topic>/<doi-slug>.md
+6. 更新 topic 索引页
+7. 更新 总览.md 和 SUMMARY.md 计数
+8. 标记 raw 文件为已处理
 ```
 
-### 4. GitHub 协作
+### 第三阶段：查询（paper-query）
+
+需要综合文献回答问题时：
+
+| 层 | 触发 | 读取范围 |
+|----|------|---------|
+| **Quick** | 简单事实问答 | hot.md + 总览.md + topic README |
+| **Standard** | 综合问题 | grep 关键词 + 读 3-5 篇具体页面 |
+| **Deep** | 全面综述 | 全 wiki grep + WebSearch 补充 |
+
+### 第四阶段：维护（paper-lint — 待实现）
+
+健康检查、孤儿页/断链修复（未来）。
+
+### 工作流触发场景
+
+| 场景 | 触发 | 执行 |
+|------|------|------|
+| 浏览器看到好文章 | Web Clipper 一键剪藏 | 自动 → raw/ |
+| raw/ 有新文件 | `paper-ingest` 技能 | raw/ → wiki/ |
+| 有研究问题 | `paper-query` 技能 | wiki → 综合回答 |
+
+## 文件格式约定
+
+| 笔记类型 | 模板位置 | 适用场景 |
+|---------|---------|---------|
+| 文献笔记 | `wiki/templates/literature-note.md` | 单篇论文精读 |
+| 概念笔记 | `wiki/templates/concept-note.md` | 方法/概念/机制总结 |
+| 周总结 | `wiki/templates/weekly-summary.md` | 每周文献汇总 |
+
+**命名规则**：`<DOI关键部分>.md`（文献）/ `<英文短名>.md`（概念）/ `<日期>-<主题>.md`（总结）
+
+**交叉引用**：使用 `[[wikilink]]` 或 `[显示名](相对路径.md)`
+
+## GitHub 协作
 
 - 仓库：https://github.com/XCmiaow/knowledge-base
 - 分支：master
@@ -99,3 +112,11 @@ date: xxx
 ---
 
 *本文件由桃桃Claw维护 | 知识复利积累喵~ 🐱*
+
+<!-- MEMORY:START -->
+# knowledge-base
+
+_Last updated: 2026-05-03 | 0 active memories, 0 total_
+
+_For deeper context, use memory_search, memory_related, or memory_ask tools._
+<!-- MEMORY:END -->

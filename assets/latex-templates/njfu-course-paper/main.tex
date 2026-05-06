@@ -1,0 +1,99 @@
+\documentclass[12pt,a4paper]{ctexart}
+\usepackage{NJFUReport}
+
+% ==================================================
+% 封面与摘要信息（修改这里的字段即可）
+% ==================================================
+\schoollogo{img/njfu-logo.jpg}
+\reportheader{课程名称课程研究报告}
+
+\reporttitle{论文标题}
+\coursename{课程名称}
+\college{化学工程学院}
+\majorname{林产化工}
+\studentid{2410407105}
+\studentname{方绪杰}
+\teachername{教师姓名}
+\schoolname{南京林业大学}
+\reportdate{\number\year 年 \number\month 月}
+
+\cabstract{中文摘要内容。}
+\ckeywords{关键词1，关键词2，关键词3}
+
+\etitle{English Title}
+\eabstract{English abstract content.}
+\ekeywords{keyword1, keyword2, keyword3}
+
+\begin{document}
+
+% ==================================================
+% 前置部分
+% ==================================================
+\cover
+\abstractpage
+\tableofcontents
+\NJFUmainmatter
+
+% ==================================================
+% 正文
+% ==================================================
+
+\section{引言}
+% TODO: 研究背景、问题提出、研究目的与意义
+
+
+\section{资料来源与研究框架}
+% TODO: 数据来源、研究方法、分析框架
+
+% --- 三线表示例 ---
+\begin{table}[htbp]
+\centering
+\caption{表格标题}
+\label{tab:example}
+\begin{tabular}{lcc}
+\toprule
+\textbf{指标} & \textbf{数值} & \textbf{来源} \\
+\midrule
+示例数据1 & 100 & 文献\cite{ref1} \\
+示例数据2 & 200 & 文献\cite{ref2} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\section{结果与分析}
+% TODO: 核心分析内容
+
+% --- 图片示例 ---
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.85\textwidth]{img/figure_name.pdf}
+\caption{图片标题}
+\label{fig:example}
+\end{figure}
+
+
+\section{讨论}
+% TODO: 结果讨论、局限性、启示
+
+
+\section{结论}
+% TODO: 主要结论总结
+
+% ==================================================
+% 参考文献
+% ==================================================
+\clearpage
+\phantomsection
+\addcontentsline{toc}{section}{参考文献}
+\begin{thebibliography}{99}
+
+\bibitem{ref1}
+% 作者. 标题[J]. 期刊, 年份, 卷(期): 页码.
+
+\bibitem{ref2}
+% 作者. 标题[J]. 期刊, 年份, 卷(期): 页码.
+
+\end{thebibliography}
+
+\end{document}

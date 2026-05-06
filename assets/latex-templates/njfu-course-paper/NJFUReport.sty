@@ -1,0 +1,358 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{NJFUReport}[2025/02/13 Overleaf-ready NJFU Report Template]
+
+% ==================================================
+% 编译器检查：必须使用 XeLaTeX
+% ==================================================
+\RequirePackage{iftex}
+\ifXeTeX\else
+  \PackageError{NJFUReport}
+    {This package requires XeLaTeX}
+    {Please set the compiler to XeLaTeX in Overleaf.}
+\fi
+
+% 必须在 hyperref/url 之前传递参数
+\PassOptionsToPackage{hyphens}{url}
+
+% ==================================================
+% 基础宏包
+% ==================================================
+\RequirePackage[left=2.50cm,right=2.50cm,top=2.50cm,bottom=2.50cm]{geometry}
+\RequirePackage{xcolor}
+\RequirePackage{graphicx}
+\RequirePackage{enumerate}
+\RequirePackage{fancyhdr}
+\RequirePackage{listings}
+\RequirePackage{multirow}
+\RequirePackage{makeidx}
+\RequirePackage{fontspec}
+\RequirePackage{xeCJK}
+\RequirePackage{subfigure}
+\RequirePackage{tcolorbox}
+\RequirePackage{booktabs}
+\RequirePackage{caption}
+\RequirePackage{latexsym,amssymb,amsmath,amsbsy,amsopn,amstext,amsthm,amsxtra}
+
+% pythonhighlight 在某些环境下可能不存在，因此做兼容处理
+\IfFileExists{pythonhighlight.sty}{\RequirePackage{pythonhighlight}}{}
+
+% 超链接尽量最后加载
+\RequirePackage[
+  unicode=true,
+  colorlinks=true,
+  urlcolor=black,
+  linkcolor=black,
+  citecolor=black,
+  bookmarksnumbered=true,
+  pdfstartview=FitH,
+  breaklinks=true
+]{hyperref}
+
+% ==================================================
+% 字体设置（Overleaf 兼容）
+% 说明：
+% 1. 不再使用 SimSun / SimHei / Arial / Times New Roman
+% 2. 改为 TeX Live 自带字体，Overleaf 可稳定编译
+% ==================================================
+\setmainfont{TeX Gyre Termes}     % 英文正文，近似 Times New Roman
+\setsansfont{TeX Gyre Heros}      % 英文无衬线，近似 Arial
+\setmonofont{Latin Modern Mono}
+
+\setCJKmainfont{FandolSong-Regular}   % 中文正文：宋体风格
+\setCJKsansfont{FandolHei-Regular}    % 中文标题：黑体风格
+\setCJKmonofont{FandolFang-Regular}
+
+\setCJKfamilyfont{song}{FandolSong-Regular}
+\setCJKfamilyfont{hei}{FandolHei-Regular}
+\setCJKfamilyfont{kai}{FandolKai-Regular}
+\setCJKfamilyfont{fs}{FandolFang-Regular}
+
+% 若主文件不是 ctex 类，也可使用这些命令
+\providecommand{\songti}{\CJKfamily{song}}
+\providecommand{\heiti}{\CJKfamily{hei}}
+\providecommand{\kaishu}{\CJKfamily{kai}}
+\providecommand{\fangsong}{\CJKfamily{fs}}
+
+\newfontfamily\NJFUEnglishFont{TeX Gyre Termes}
+
+% ==================================================
+% 基本版式设置
+% ==================================================
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0pt}
+\linespread{1.35}\selectfont
+\renewcommand{\arraystretch}{1.2}
+
+% listings 基本设置
+\lstset{
+  basicstyle=\ttfamily\small,
+  breaklines=true,
+  frame=single,
+  tabsize=4,
+  showstringspaces=false,
+  numbers=left,
+  numberstyle=\tiny,
+  keywordstyle=\color{blue},
+  commentstyle=\color{green!50!black},
+  stringstyle=\color{red!60!black}
+}
+
+% ==================================================
+% 摘要标题样式
+% ==================================================
+\renewcommand{\abstractname}{\CJKfamily{hei}\bfseries\large 摘\quad 要}
+
+% ==================================================
+% 固定长度下划线命令
+% ==================================================
+\makeatletter
+\newcommand\dlmu[2][4cm]{\hskip1pt\underline{\hb@xt@ #1{\hss#2\hss}}\hskip3pt}
+\makeatother
+
+% ==================================================
+% 中文自动引用名称
+% ==================================================
+\def\equationautorefname{式}
+\def\figureautorefname{图}
+\def\tableautorefname{表}
+\def\chapterautorefname{章}
+\def\sectionautorefname{节}
+\def\subsectionautorefname{小节}
+\def\appendixautorefname{附录}
+
+% ==================================================
+% 定理环境
+% ==================================================
+\newtheorem{Theorem}{定理}[section]
+\newtheorem{Lemma}[Theorem]{引理}
+\newtheorem{Corollary}[Theorem]{推论}
+\newtheorem{Proposition}[Theorem]{命题}
+\newtheorem{Definition}[Theorem]{定义}
+\newtheorem{Example}[Theorem]{例}
+
+% ==================================================
+% 参考文献命令
+% 默认读取 reference.bib
+% ==================================================
+\newcommand{\reference}{
+    \clearpage
+    \phantomsection
+    \addcontentsline{toc}{section}{参考文献}
+    \bibliographystyle{unsrt}
+    \bibliography{reference}
+}
+
+% ==================================================
+% 文本框命令
+% ==================================================
+\newcommand{\tbox}[1]{
+    \begin{center}
+        \begin{tcolorbox}[
+            colback=gray!10,
+            colframe=black,
+            width=0.75\textwidth,
+            arc=1mm,
+            auto outer arc,
+            boxrule=0.5pt
+        ]
+            #1
+        \end{tcolorbox}
+    \end{center}
+}
+
+% ==================================================
+% 可配置字段：默认值
+% 你可以在主文件中用相应命令重设
+% ==================================================
+\newcommand{\NJFULogoFile}{img/njfu-logo.jpg}
+\newcommand{\NJFUHeaderText}{湿地保护课程研究报告}
+
+\newcommand{\NJFUReportTitle}{绿织巢岸，韧守水脉——论环巢湖湿地植被的危机破解与生态福祉}
+\newcommand{\NJFUCourseName}{湿地保护}
+\newcommand{\NJFUCollege}{化学工程学院}
+\newcommand{\NJFUMajor}{林产化工}
+\newcommand{\NJFUStudentID}{2410407105}
+\newcommand{\NJFUStudentName}{方绪杰}
+\newcommand{\NJFUTeacher}{程虎}
+\newcommand{\NJFUSchoolName}{南京林业大学}
+\newcommand{\NJFUDateText}{\number\year 年 \number\month 月 \number\day 日}
+
+\newcommand{\NJFUChineseAbstract}{本文聚焦环巢湖湿地植被面临的“水文-污染-生物-空间”多重威胁，以生态系统韧性提升与可持续发展为目标，通过实地监测（2018-2024年）、数据量化分析（植被覆盖度、生物多样性、污染物拦截率）及典型案例实证（十八联圩、巢湖半岛湿地），识别了水利扰序、物种入侵、污染承压、生境破碎四大核心胁迫因子的作用机制。基于“问题-对策-验证”逻辑，构建“生态修复-工程调控-源头治理-社会参与”四维修复方案，提出梯度植被重建、智慧水文调度、多层污染拦截、社区共治共享等具体措施，并通过烔炀河、槐林湿地试点验证：方案实施后沉水植物恢复面积提升12.5倍，鸟类多样性增长35\%，氮磷拦截率达32\%。研究成果可为环巢湖湿地生态保护提供实操依据，亦为长江中下游淡水湖滨湿地植被修复与生态福祉提升提供范式参考。}
+
+\newcommand{\NJFUChineseKeywords}{环巢湖湿地，植被危机，生态修复，四维方案，生态福祉}
+
+\newcommand{\NJFUEnglishTitle}{Study on the Crisis Resolution and Ecological Welfare of Vegetation in Chaohu Lake Wetlands}
+
+\newcommand{\NJFUEnglishAbstract}{This study focuses on the ``hydrological-pollution-biological-spatial'' multiple threats faced by vegetation in Chaohu Lake Wetlands, aiming at enhancing ecosystem resilience and sustainable development. Through field monitoring (2018--2024), quantitative data analysis (vegetation coverage, biodiversity, pollutant interception rate) and typical case verification (Shibalianwei, Chaohu Peninsula Wetlands), the mechanism of four core stress factors---hydrological disturbance, species invasion, pollution pressure, and habitat fragmentation---was identified. Based on the ``problem-countermeasure-verification'' logic, a four-dimensional restoration scheme of ``ecological restoration-engineering regulation-source governance-community participation'' was constructed, proposing specific measures such as gradient vegetation reconstruction, intelligent hydrological scheduling, multi-layer pollution interception, and community co-governance. Verified by pilot projects in Tongyang River and Huailin Wetlands: after the implementation of the scheme, the recovery area of submerged plants increased by 12.5 times, bird diversity increased by 35\%, and nitrogen and phosphorus interception rate reached 32\%. The research results can provide practical basis for ecological protection of Chaohu Lake Wetlands, and also serve as a paradigm reference for vegetation restoration and ecological welfare improvement of freshwater lakeside wetlands in the middle and lower reaches of the Yangtze River.}
+
+\newcommand{\NJFUEnglishKeywords}{Chaohu Lake Wetlands, Vegetation Crisis, Ecological Restoration, Four-Dimensional Scheme, Ecological Welfare}
+
+% ==================================================
+% 对外设置命令：在主文件中可覆盖默认值
+% ==================================================
+\newcommand{\schoollogo}[1]{\renewcommand{\NJFULogoFile}{#1}}
+\newcommand{\reportheader}[1]{\renewcommand{\NJFUHeaderText}{#1}}
+
+\newcommand{\reporttitle}[1]{\renewcommand{\NJFUReportTitle}{#1}}
+\newcommand{\coursename}[1]{\renewcommand{\NJFUCourseName}{#1}}
+\newcommand{\college}[1]{\renewcommand{\NJFUCollege}{#1}}
+\newcommand{\majorname}[1]{\renewcommand{\NJFUMajor}{#1}}
+\newcommand{\studentid}[1]{\renewcommand{\NJFUStudentID}{#1}}
+\newcommand{\studentname}[1]{\renewcommand{\NJFUStudentName}{#1}}
+\newcommand{\teachername}[1]{\renewcommand{\NJFUTeacher}{#1}}
+\newcommand{\schoolname}[1]{\renewcommand{\NJFUSchoolName}{#1}}
+\newcommand{\reportdate}[1]{\renewcommand{\NJFUDateText}{#1}}
+
+\newcommand{\cabstract}[1]{\renewcommand{\NJFUChineseAbstract}{#1}}
+\newcommand{\ckeywords}[1]{\renewcommand{\NJFUChineseKeywords}{#1}}
+\newcommand{\etitle}[1]{\renewcommand{\NJFUEnglishTitle}{#1}}
+\newcommand{\eabstract}[1]{\renewcommand{\NJFUEnglishAbstract}{#1}}
+\newcommand{\ekeywords}[1]{\renewcommand{\NJFUEnglishKeywords}{#1}}
+
+% ==================================================
+% 页眉页脚
+% ==================================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\small\CJKfamily{fs}\NJFUHeaderText}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyhead[C]{\small\CJKfamily{fs}\NJFUHeaderText}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0.4pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% ==================================================
+% 封面页
+% ==================================================
+\newcommand{\cover}{
+    \clearpage
+    \thispagestyle{empty}
+    \begin{center}
+        \vspace*{0.5cm}
+
+        % 校徽图片：若文件不存在，则显示占位框，不直接报错
+        \IfFileExists{\NJFULogoFile}{
+            \includegraphics[width=0.6\textwidth]{\NJFULogoFile}
+        }{
+            \fbox{
+                \parbox[c][3.2cm][c]{0.65\textwidth}{
+                    \centering
+                    请将校徽图片放入项目中\\[0.3em]
+                    当前默认路径：\texttt{\NJFULogoFile}\\[0.3em]
+                    或在主文件中使用\\
+                    \texttt{\string\schoollogo\{你的图片路径\}}
+                }
+            }
+        }
+
+        \vspace{1.0cm}
+
+        {\CJKfamily{hei}\bfseries\fontsize{22pt}{30pt}\selectfont
+        \parbox{0.92\textwidth}{\centering \NJFUReportTitle}\par}
+
+        \vspace{1.2cm}
+
+        \begin{minipage}{0.82\textwidth}
+            \centering
+            \renewcommand\arraystretch{1.4}
+            {\CJKfamily{kai}\Large
+            \begin{tabular}{l@{\quad}l}
+                \makebox[4em][s]{课程名称} & \dlmu[8cm]{\NJFUCourseName} \\
+                \makebox[4em][s]{学\quad 院} & \dlmu[8cm]{\NJFUCollege} \\
+                \makebox[4em][s]{专\quad 业} & \dlmu[8cm]{\NJFUMajor} \\
+                \makebox[4em][s]{学\quad 号} & \dlmu[8cm]{\NJFUStudentID} \\
+                \makebox[4em][s]{姓\quad 名} & \dlmu[8cm]{\NJFUStudentName} \\
+                \makebox[4em][s]{授课教师} & \dlmu[8cm]{\NJFUTeacher} \\
+            \end{tabular}}
+        \end{minipage}
+
+        \vfill
+
+        {\CJKfamily{hei}\Large \NJFUSchoolName \par}
+        \vspace{0.5cm}
+        {\large \NJFUDateText \par}
+    \end{center}
+    \clearpage
+}
+
+% ==================================================
+% 中英文摘要页
+% ==================================================
+\newcommand{\abstractpage}{
+    \clearpage
+    \pagenumbering{Roman}
+    \setcounter{page}{1}
+
+    % ---------- 中文摘要页 ----------
+    \thispagestyle{empty}
+    \begin{center}
+        \vspace*{0.5cm}
+        {\CJKfamily{hei}\Large \textbf{\Roman{page}}}
+    \end{center}
+
+    \vspace{0.3cm}
+    \begin{center}
+        \abstractname
+    \end{center}
+    \vspace{0.3cm}
+
+    {\CJKfamily{song}
+    \NJFUChineseAbstract \par
+    }
+
+    \vspace{0.6cm}
+    {\CJKfamily{hei}\large 关键词：}
+    {\CJKfamily{song} \NJFUChineseKeywords}
+
+    \newpage
+
+    % ---------- 英文摘要页 ----------
+    \thispagestyle{empty}
+    \begin{center}
+        \vspace*{0.5cm}
+        {\bfseries\Large \Roman{page}\par}
+        \vspace{0.4cm}
+        {\NJFUEnglishFont\bfseries\Large
+        \parbox{0.92\textwidth}{\centering \NJFUEnglishTitle}\par}
+    \end{center}
+
+    \vspace{0.4cm}
+    {\NJFUEnglishFont\itshape\large Abstract}\par
+    \vspace{0.2cm}
+
+    {\NJFUEnglishFont
+    \NJFUEnglishAbstract \par
+    }
+
+    \vspace{0.6cm}
+    {\NJFUEnglishFont\bfseries Keywords: }
+    {\NJFUEnglishFont \NJFUEnglishKeywords}
+
+    \newpage
+}
+
+% ==================================================
+% 正文页码切换命令
+% 在目录和正文开始前可调用
+% ==================================================
+\newcommand{\NJFUmainmatter}{
+    \clearpage
+    \pagenumbering{arabic}
+    \setcounter{page}{1}
+}
+
+% ==================================================
+% 目录页提示：
+% 如需目录，请在正文前使用 \tableofcontents
+% 例如：
+% \cover
+% \abstractpage
+% \tableofcontents
+% \NJFUmainmatter
+% ==================================================

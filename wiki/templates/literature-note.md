@@ -4,6 +4,8 @@ doi:
 topic: 
 date: {{date}}
 rating: ⭐
+_audit: pending
+_audit_codex: pending
 ---
 
 # English Title

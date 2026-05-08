@@ -1,0 +1,66 @@
+---
+doi: 10.1007/s40820-024-01329-0
+title: "A Sustainable Dual Cross-Linked Cellulose Hydrogel Electrolyte for High-Performance Zinc-Metal Batteries"
+tags: [水凝胶, 纤维素溶解, deepread-mimo, v2]
+---
+
+# A Sustainable Dual Cross-Linked Cellulose Hydrogel Electrolyte for High-Performance Zinc-Metal Batteries
+
+**精读:** mimo-v2.5-pro | 2026-05-07
+
+## 基础信息
+
+- **DOI:** 10.1007/s40820-024-01329-0
+- **期刊:** Nano-Micro Letters
+- **年份:** 2024
+- **作者:** Haodong Zhang, Xiaotang Gan, Yuyang Yan, Jinping Zhou
+
+---
+
+### 1. 核心发现（2-3句）
+本文成功开发了一种基于碱/尿素水溶液的可持续双交联纤维素水凝胶电解质。该电解质通过优异的机械强度、高Zn²⁺离子结合能力和丰富的多孔结构，有效抑制了锌枝晶生长和副反应，显著提升了锌金属电池的循环稳定性与性能。该材料易于制备且可生物降解，为锌电池的规模化与可持续发展提供了新路径。
+
+### 2. 创新点
+- **[原文]「fabricated from aqueous alkali hydroxide/urea solution using a sequential chemical and physical cross-linking strategy」** — 采用了一种顺序化学-物理双交联策略，从碱/尿素水溶液中制备纤维素水凝胶，这是一种创新的材料构筑方法。
+- **[原文]「proved by a multi-perspective and in-depth mechanism investigation」** — 通过多角度、深入的机制研究证实了水凝胶电解质抑制枝晶和副反应的作用，体现了研究的深度和系统性。
+- **[原文]「The hydrogel electrolyte is easily accessible and biodegradable」** — 强调了所开发的水凝胶电解质兼具易获取性和生物可降解性，突出了其在可持续性方面的创新优势。
+
+### 3. 实验/方法简述
+- **[原文]「fabricated from aqueous alkali hydroxide/urea solution」** — 核心制备方法是使用氢氧化碱/尿素水溶液作为纤维素的溶剂体系。
+- **[原文]「using a sequential chemical and physical cross-linking strategy」** — 采用顺序交联策略，即先进行化学交联，再进行物理交联，以构建双网络结构。
+
+### 4. 关键结果（定量数据）
+- **[原文]「over 2000 h for Zn||Zn cell」** → 在Zn||Zn对称电池中，使用该水凝胶电解质实现了超过2000小时的稳定循环。
+- **[原文]「more than 400 h under a high current density of 10 mA cm−2」** → 在高达10 mA cm⁻²的高电流密度下，Zn||Zn电池的稳定循环时间超过400小时。
+- **[原文]「> 2000 cycles at 2000 mA g−1」** → 在Zn||聚苯胺全电池中，在2000 mA g⁻¹的电流密度下实现了超过2000次的长循环性能。
+
+### 5. 与本综述（纤维素基宽温域水凝胶）的相关性
+本文对纤维素基宽温域水凝胶研究具有以下参考价值：
+1.  **[推断] 溶剂体系参考**：文中使用的“碱/尿素水溶液”是纤维素的一种经典、高效的低温溶解体系。这为在宽温域（特别是低温）条件下制备纤维素水凝胶提供了成熟的溶剂选择和工艺思路。
+2.  **[推断] 交联策略启示**：所采用的“顺序化学-物理双交联策略”是提升水凝胶机械强度和稳定性的有效方法。这种策略可被借鉴用于设计能在宽温度范围内保持结构完整性和力学性能的纤维素水凝胶。
+3.  **[推断] 性能目标关联**：该研究强调的“优异的机械强度”和“抑制副反应”能力，是宽温域水凝胶电解质也需要具备的关键特性，以应对温度变化带来的应力及界面稳定性挑战。
+
+### 6. 原文依据核查
+| 核心断言 | 原文支持句 | 可信度 |
+|----------|-----------|--------|
+| 水凝胶具有优异的机械强度 | 「A sustainable dual cross-linked cellulose hydrogel with excellent mechanical strength」 | 高 |
+| 采用顺序化学-物理双交联策略 | 「using a sequential chemical and physical cross-linking strategy」 | 高 |
+| 电解质能有效抑制枝晶和副反应 | 「effectively suppresses dendrites growth and side reactions」 | 高 |
+| Zn||Zn电池稳定循环超2000小时 | 「over 2000 h for Zn||Zn cell」 | 高 |
+| 在10 mA cm⁻²下循环超400小时 | 「more than 400 h under a high current density of 10 mA cm−2」 | 高 |
+| Zn||PANI电池在2000 mA g⁻¹下循环超2000次 | 「> 2000 cycles at 2000 mA g−1」 | 高 |
+| 材料易于获取且可生物降解 | 「easily accessible and biodegradable」 | 高 |
+
+### 7. 局限性
+- **摘要中提到的局限性**：摘要中未明确提及本研究的局限性。
+- **[推断] 基于摘要推断的局限性**：
+    1.  **[推断] 温度范围未涉及**：摘要中所有性能数据均在常规温度下测试，未提及该水凝胶电解质在极端高温或低温下的性能表现，其“宽温域”适用性未知。
+    2.  **[推断] 机理深度待考**：虽然提到进行了“多角度、深入的机制研究”，但摘要未展示具体机制细节（如Zn²⁺传输通道、界面化学等），其机理的普适性和深度有待通过全文进一步评估。
+    3.  **[推断] 规模化挑战**：尽管强调了“易获取”和“可扩展性”，但从实验室的碱/尿素溶解体系到大规模、低成本、连续化的生产，仍可能存在工艺和工程上的挑战。
+
+### 8. 关键词
+纤维素水凝胶，双交联，锌金属电池，电解质，枝晶抑制，可持续性
+
+---
+
+*本笔记由 mimo-v2.5-pro 自动生成，已基于原文摘要进行事实核查。*

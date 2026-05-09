@@ -7,7 +7,7 @@ updated: 2026-05-07
 
 ## 最近活动
 
-- [2026-05-09] **Codex Section 2 精读：5 篇保水/抗冻机制文献入库**：Codex (GPT-5.4) 零上下文精读综述 Section 2 机制部分。覆盖水状态综述(Prog. Mater. Sci. 2025)、氢键结构变化(Chem. Phys. Lett. 2024)、抗冻机制综述(Chem. Soc. Rev. 2025)、两性离子CNF不可冻结水(Carbohydr. Polym. 2024)、GelMA水状态DSC+NMR(JMCB 2024)。KB水凝胶页：307→309 篇。
+- [2026-05-09] **Codex Section 3 精读：5 篇纤维素基凝胶设计/制备/抗冻策略入库**：Codex (GPT-5.4) 精读综述 Section 3 方向。覆盖面条预拉伸超强水凝胶(>50 MPa, -80°C, Carbohydr. Polym. 2024)、BmimCl/AM PDES离子凝胶(-20°C, 2.44 S/m, ACS APM 2023)、全纤维素44200%伸长水凝胶(Mater. Today 2024)、PLCNF/Fe³⁺/Zn²⁺宽温域传感(CEJ 2025)、CNC+DMSO/H₂O抗冻-70°C(Carbohydr. Polym. 2022)。KB水凝胶页：307→314 篇。Codex精读：76→81 篇。
 
 - [2026-05-09] **Codex 检索补充：22 篇纤维素基凝胶入库**：Codex (GPT-5.4) 零上下文检索 3 个综述缺口。纤维素溶解/fabrication(8篇，含 Research 2024、Mater. Today Chem综述、Carbohydr. Polym.×2), 软体机器人/执行器(6篇，含 Soft Robotics 2025、Nano Lett. 2024、Biomacromolecules), 细菌纤维素创面敷料(8篇，含 Adv. Mater. 2025、Carbohydr. Polym.×2、IJBMC×3)。KB水凝胶页：285→307 篇。：针对半成品综述 *Wide-Temperature Tolerant Cellulose-Based Gels* 的 6 个薄弱方向补充。CNC/CNF抗冻凝胶(3)、DES纤维素共晶凝胶(2)、纤维素TENG(2)、冷冻保存(2)、ML辅助设计(2)、水状态表征(3)。KB水凝胶页：271→285 篇。
 - [2026-05-09] **深度扩充：17 篇高影响力水凝胶论文入库**：Web检索+Crossref富化，覆盖5薄弱方向。自修复/粘附(Nature 2025, Nat. Mater.×2 2025, Nat. Commun.×2), 防冰/冷冻保存(Nat. Commun.×2, Adv. Mater.×3), 电子皮肤/生物电子(Nat. Commun.×3, Adv. Sci. 2026), 有机水凝胶/抗脱水(Adv. Healthc. Mater., Nanoscale, IJEM)。Nature 1篇, Nat. Mater. 2篇, Nat. Commun. 7篇, Adv. Mater. 3篇。KB水凝胶页：254→271 篇。
@@ -32,7 +32,7 @@ updated: 2026-05-07
 
 | 领域 | 文献（.md笔记） | 方向 |
 |------|------|------|
-| 水凝胶 | 309 篇（76篇精读） | 抗冻、抗脱水、Eutectogels、自修复粘附、防冰/冷冻保存、电子皮肤、纤维素、传感器/能源、执行器/软体机器人、创面敷料 |
+| 水凝胶 | 314 篇（81篇精读） | 抗冻、抗脱水、Eutectogels、自修复粘附、防冰/冷冻保存、电子皮肤、纤维素、传感器/能源、执行器/软体机器人、创面敷料 |
 | 有机磷化学 | 57 篇 | 手性膦催化剂、C-P键、不对称催化 |
 | 化学信息学 | 51 篇 | ML分子建模、AI药物发现 |
 | 化工设计竞赛 | 33 篇 | 苯乙烯清洁生产、乙苯脱氢 |

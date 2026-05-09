@@ -11,7 +11,7 @@ tags: [hydrogel]
 
 # Ionic Conductive Organogels Based on Cellulose and Lignin-Derived Metabolic Intermediates
 
-**中文标题**: 基于纤维素与木质素来源代谢中间体的离子导电有机凝胶
+**中文标题**: 基于纤维素和木质素来源代谢中间体的离子导电有机凝胶
 
 ## 基本信息
 

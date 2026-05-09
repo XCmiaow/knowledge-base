@@ -7,6 +7,7 @@ updated: 2026-05-07
 
 ## 最近活动
 
+- [2026-05-09] **深度扩充：17 篇高影响力水凝胶论文入库**：Web检索+Crossref富化，覆盖5薄弱方向。自修复/粘附(Nature 2025, Nat. Mater.×2 2025, Nat. Commun.×2), 防冰/冷冻保存(Nat. Commun.×2, Adv. Mater.×3), 电子皮肤/生物电子(Nat. Commun.×3, Adv. Sci. 2026), 有机水凝胶/抗脱水(Adv. Healthc. Mater., Nanoscale, IJEM)。Nature 1篇, Nat. Mater. 2篇, Nat. Commun. 7篇, Adv. Mater. 3篇。KB水凝胶页：254→271 篇。
 - [2026-05-09] **Batch Ingest: 15 篇 Eutectogel 文献入库**：通过 Codex + Crossref 批量处理 raw/水凝胶/ 中的 15 篇待处理 JSON。覆盖疏水共晶凝胶(CEJ)、纤维素增强(IJBMC)、交联共晶凝胶传感器(Nat. Commun. 2025)、两性离子双网络(JMCA)、MXene超级电容器(JMCC)、药物透皮(JMCB 2025)、DES凝胶(Green Chem. 2026)等方向。KB水凝胶页：239→254 篇。脚本: `scripts/batch_ingest.py`。
 
 - [2026-05-07] **Deep Read v2 批量：65篇新增精读 + 11篇补入库**：批量处理全部 round 2 剩余文献，覆盖有机水凝胶(15)、Eutectogels(9)、传感器/能源(9)、抗脱水/纤维素(12)、综述(6)、其他(13) 及 11篇补入库。47篇 MiMo 精读成功，28篇无摘要标记。累计精读 76 篇（含 v1）。脚本: `Desktop/deepread_v2.py`。
@@ -28,7 +29,7 @@ updated: 2026-05-07
 
 | 领域 | 文献（.md笔记） | 方向 |
 |------|------|------|
-| 水凝胶 | 254 篇（76篇精读） | 抗冻、抗脱水、Eutectogels、纤维素、传感器/能源 |
+| 水凝胶 | 271 篇（76篇精读） | 抗冻、抗脱水、Eutectogels、自修复粘附、防冰/冷冻保存、电子皮肤、纤维素、传感器/能源 |
 | 有机磷化学 | 57 篇 | 手性膦催化剂、C-P键、不对称催化 |
 | 化学信息学 | 51 篇 | ML分子建模、AI药物发现 |
 | 化工设计竞赛 | 33 篇 | 苯乙烯清洁生产、乙苯脱氢 |

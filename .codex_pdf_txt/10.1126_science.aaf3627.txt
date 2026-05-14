@@ -1,0 +1,894 @@
+R ES E A RC H
+
+
+                                      ◥                                                                   manner. Three-dimensional printing enables
+ REVIEW SUMMARY                                                                                           architectural control of hydrogels at high pre-
+                                                                                                          cision, with a potential to further integrate
+                                                                                                          elements that enable change of hydrogel con-
+MATERIALS SCIENCE
+                                                                                                          figurations along prescribed paths.
+
+
+Advances in engineering hydrogels                                                                         OUTLOOK: We envision the continuation of
+                                                                                                          innovation in new bioorthogonal chemistries
+                                                                                                          for making hydrogels, enabling their fabri-
+Yu Shrike Zhang and Ali Khademhosseini*                                                                                                ◥
+                                                                                                                                                             cation in the presence of
+                                                                                                            ON OUR WEBSITE                                   biological species with-
+                                                                                                          Read the full article
+                                                                                                                                                             out impairing cellular or
+BACKGROUND: Hydrogels are formed through               level and control over multiscale architecture.    at http://dx.doi.                                  biomolecule functions. We
+the cross-linking of hydrophilic polymer chains        For example, formulations that combine per-        org/10.1126/                                       also foresee opportunities
+within an aqueous microenvironment. The ge-            manent polymer networks with reversibly bond-      science.aaf3627                                    in the further development
+                                                                                                          ..................................................
+lation can be achieved through a variety of mech-      ing chains for energy dissipation show strong                                                         of more sophisticated fab-
+anisms, spanning physical entanglement of              toughness and stretchability. Similar strategies   rication methods that allow better-controlled
+polymer chains, electrostatic interactions, and        may also substantially enhance the bonding         hydrogel architecture across multiple length
+covalent chemical cross-linking. The water-rich        affinity of hydrogels at interfaces with solids    scales. In addition, technologies that precisely
+
+
+
+
+                                                                                                                                                                                          Downloaded from http://science.sciencemag.org/ on May 4, 2017
+nature of hydrogels makes them broadly appli-          by covalently anchoring the polymer networks       regulate the physicochemical properties of
+cable to many areas, including tissue engineering,     of tough hydrogels onto solid surfaces. Shear-     hydrogels in spatiotemporally controlled manners
+drug delivery, soft electronics, and actuators. Con-   thinning hydrogels that feature reversible bonds   are crucial in controlling their dynamics, such
+ventional hydrogels usually possess limited me-        impart a fluidic nature upon application of        as degradation and dynamic presentation of
+chanical strength and are prone to permanent           shear forces and return back to their gel states   biomolecules. We believe that the fabrication
+breakage. The lack of desired dynamic cues and         once the forces are released. Self-healing hy-     of hydrogels should be coupled with end ap-
+structural complexity within the hydrogels has         drogels based on nanomaterial hybridization,       plications in a feedback loop in order to achieve
+further limited their functions. Broadened appli-      electrostatic interactions, and slide-ring con-    optimal designs through iterations. In the end,
+cations of hydrogels, however, require advanced        figurations exhibit excellent abilities in spon-   it is the combination of multiscale constituents
+engineering of parameters such as mechanics            taneously healing themselves after damages.        and complementary strategies that will enable
+and spatiotemporal presentation of active or bio-      Additionally, harnessing techniques that can       new applications of this important class of
+active moieties, as well as manipulation of multi-
+scale shape, structure, and architecture.
+                                                       dynamically and precisely configure hydrogels
+                                                       have resulted in flexibility to regulate their
+                                                                                                          materials.
+                                                                                                                           ▪
+                                                       architecture, activity, and functionality. Dy-
+ADVANCES: Hydrogels with substantially im-             namic modulations of polymer chain physics         The list of author affiliations is available in the full article online.
+                                                                                                          *Corresponding author. Email: alik@bwh.harvard.edu
+proved physicochemical properties have been            and chemistry can lead to temporal altera-         Cite this article as Y. S. Zhang, A. Khademhosseini, Science
+enabled by rational design at the molecular            tion of hydrogel structures in a programmed        356, eaaf3627 (2017). DOI: 10.1126/science.aaf3627
+
+
+
+Engineering functional hydrogels with enhanced physicochemical properties. Advances have been made to improve the mechanical
+properties of hydrogels as well as to make them shear-thinning, self-healing, and responsive. In addition, technologies have been developed to
+manipulate the shape, structure, and architecture of hydrogels with enhanced control and spatial precision.
+
+
+
+
+Zhang and Khademhosseini, Science 356, 500 (2017)      5 May 2017                                                                                                             1 of 1
+R ES E A RC H
+
+
+                     ◥                                                                                                 (PNIPAAM), that gels above its LCST. The LCST/
+    REVIEW                                                                                                             UCST of the thermo-responsive polymers may be
+                                                                                                                       tuned by their molecular weight, ratio of the co-
+                                                                                                                       polymers, and/or the balance of the hydrophobic/
+MATERIALS SCIENCE                                                                                                      hydrophilic segments (22, 23).
+                                                                                                                          Noncovalent molecular self-assembly is adop-
+
+Advances in engineering hydrogels                                                                                      ted as a common strategy, especially for protein-
+                                                                                                                       based hydrogels (24). Weak noncovalent bonding
+                                                                                                                       mechanisms—including hydrogen bonds, van der
+Yu Shrike Zhang1,2,3 and Ali Khademhosseini1,2,3,4,5*                                                                  Waals forces, and hydrophobic interactions—cause
+                                                                                                                       macromolecules to fold into scaffolds possessing
+Hydrogels are formed from hydrophilic polymer chains surrounded by a water-rich                                        well-defined structures and functionality. A nota-
+environment. They have widespread applications in various fields such as biomedicine, soft                             ble example is the hierarchical self-assembly of
+electronics, sensors, and actuators. Conventional hydrogels usually possess limited                                    collagen, the most abundant protein in the human
+mechanical strength and are prone to permanent breakage. Further, the lack of dynamic                                  body (Fig. 1B). The assembly procedure relies on
+cues and structural complexity within the hydrogels has limited their functions. Recent                                the regular arrangement of the amino acids in
+developments include engineering hydrogels that possess improved physicochemical                                       collagen molecules that are rich in proline or hy-
+properties, ranging from designs of innovative chemistries and compositions to integration                             droxyproline (25). These molecules facilitate the
+of dynamic modulation and sophisticated architectures. We review major advances in                                     formation of the triple helix termed tropocollagen.
+                                                                                                                       Subsequent stabilization upon further packing of
+
+
+
+
+                                                                                                                                                                               Downloaded from http://science.sciencemag.org/ on May 4, 2017
+designing and engineering hydrogels and strategies targeting precise manipulation of their
+properties across multiple scales.                                                                                     the tropocollagen subunits into fibrils/fibers even-
+                                                                                                                       tually forms a collagen hydrogel (24–26). Inspired
+
+
+
+
+H
+                                                                                                                       by this mechanism, biomimetic supramolecular
+       ydrogels, a class of three-dimensional (3D)            veloped not only to achieve dynamic modula-              formulations have been designed that can follow
+       networks formed by hydrophilic polymer                 tion of the hydrogels that can evolve their shapes       similar hierarchical self-assembly processes, such
+       chains embedded in a water-rich environ-               along predefined paths, but also to control the          as collagen-mimetic peptides (26) and those based
+       ment, possess broadly tunable physical and             spatial heterogeneity that will determine local-         on peptide-amphiphiles and hydrogelators (27, 28).
+       chemical properties (1–3). A variety of nat-           ized cellular behaviors, tissue integration, and de-        Spontaneous physical gelation may alternatively
+urally derived and synthetic polymers can be pro-             vice functions.                                          depend on chelation or electrostatic interactions.
+cessed into hydrogels, from those formed through                                                                       Alginate, a polysaccharide composed of a-L-guluronic
+physical entanglement to ones stabilized via co-              Hydrogel formation                                       acid (G) and b-D-mannuronic acid (M) residues
+valent cross-linking. Hydrogels may be further                Hydrogels are formed by cross-linking polymer            derived mainly from brown algae, is a prominent
+tuned toward the integration of chemically and                chains dispersed in an aqueous medium through            example of hydrogel formation based on chelation
+biologically active recognition moieties such as              a myriad of mechanisms, including physical en-           (29). The G-blocks in alginate rapidly gel in pres-
+stimuli-responsive molecules and growth factors               tanglement, ionic interactions, and chemical cross-      ence of certain species of divalent cations such as
+that enhance their functionality. The versatility             linking (Fig. 1). Majority of the physical gelation      Ca2+ or Ba2+ in an “egg-box” form, in which pairs of
+of the hydrogel system has endowed it with wide-              methods depend on the intrinsic properties of the        helical chains pack and surround ions that are
+spread applications in various fields, including              polymers. This dependence limits the ability to          locked in between (Fig. 1C) (30). The sophisticated
+biomedicine (1–3), soft electronics (4, 5), sensors           fine-tune the attributes of hydrogels, but gela-         structures of natural macromolecules often ren-
+(6–8), and actuators (9–14). As an example, when              tion is easy to achieve without the need for modi-       der them varying degrees of electrostatic charges
+a hydrogel is created with proper stiffness and               fying the polymer chains and is usually easy to          along the backbone. Although many natural poly-
+bioactive moieties, it modulates the behavior of              reverse when necessary. Conversely, chemical ap-         mers are negatively charged at neutral pH be-
+the embedded cells (15, 16). In addition, chemically          proaches can be used to allow for more control-          cause of the presence of carboxyl groups (such as
+active moieties and light-guiding properties allow            lable, precise management of the cross-linking           hyaluronic acid and alginate), some may also pre-
+hydrogels to sense substances of interest and per-            procedure, potentially in a spatially and dynam-         sent positive charges when amine groups dominate
+form on-demand actuation (7, 17).                             ically defined manner.                                   (such as gelatin and chitosan). In contrast, synthet-
+   Advances in chemical methods—such as click                    Many natural polymers such as seaweed-derived         ic polyelectrolytes offer much better control over
+chemistry, combination of gelation mechanisms,                polysaccharides and proteins from animal origin          the electrostatic properties. A common example
+and doping with nanomaterials—have produced                   form thermally driven hydrogels. During the gela-        is the poly(L-lysine) (PLL)/PAA pair (31, 32). When
+hydrogels with more controlled physicochemical                tion process, physical entanglement of the poly-         the solutions containing polyelectrolytes of oppo-
+properties. Furthermore, the static and uniform               mer chains occurs in response to a temperature           site charges are mixed, the polymer chains entangle
+microenvironments characteristic of traditional               change. This change is typically caused by an al-        to form complexes that become insoluble because
+hydrogel matrices do not necessarily replicate                teration in their solubility and the formation of        of mutual shielding (Fig. 1D) (33).
+the hierarchical complexity of the biological tissues.        packed polymer backbones that are physically rigid          Chemical cross-linking is better at stabilizing a
+Innovative fabrication strategies have been de-               (Fig. 1A) (18, 19). An increase or decrease in tem-      hydrogel matrix because it allows substantially
+                                                              perature may result in thermal gelation, in which        improved flexibility and spatiotemporal precision
+1
+ Biomaterials Innovation Research Center, Division of
+                                                              the transition temperatures are defined as lower         during the gelation process as compared with
+Biomedical Engineering, Department of Medicine, Brigham       critical solution temperature (LCST) and upper           physical methods. Chemically active moieties pen-
+and Women’s Hospital, Harvard Medical School, Cambridge,      critical solution temperature (UCST), respectively       dant to the backbones or side chains of macro-
+MA 02139, USA. 2Harvard-MIT Division of Health Sciences       (20, 21). The gelation mechanism, however, may           molecules in an aqueous solution can form covalent
+and Technology, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA. 3Wyss Institute for Biologically
+                                                              vary with specific types of polymers. Macromole-         bonds under proper circumstances to obtain hydro-
+Inspired Engineering, Harvard University, Boston, MA 02115,   cules exhibiting UCST include natural polymers such      gels (Fig. 1E). Conventional mechanisms include
+USA. 4Department of Bioindustrial Technologies, College of    as gelatin as well as synthetic polymers such as poly-   condensation reactions (for example, carbodiimide
+Animal Bioscience and Technology, Konkuk University,          acrylic acid (PAA) that gel as the temperature drops     chemistry between hydroxyl groups/amines and
+Hwayang-dong, Gwangjin-gu, Seoul 143-701, Republic of
+Korea. 5Department of Physics, King Abdulaziz University,
+                                                              to below their respective UCSTs. In contrast, some       carboxylic acids), radical polymerization, aldehyde
+Jeddah 21569, Saudi Arabia.                                   other macromolecules show LCST behavior, such            complementation, high-energy irradiation, and
+*Corresponding author. Email: alik@bwh.harvard.edu            as synthetic polymer poly(N-isopropylacrylamide)         enzyme-enabled biochemistry, among others (34).
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)              5 May 2017                                                                                      1 of 10
+R ES E A RC H | R E V IE W
+
+
+                                                                                                                    strictions exerted by dense cross-links that are
+                                                                                                                    otherwise present in pure polymer networks. For
+                                                                                                                    example, by use of inorganic clay nanoplatelets
+                                                                                                                    as anchors for grafting the polymer chains upon
+                                                                                                                    cross-linking, the resulting PNIPAAM hydrogel
+                                                                                                                    network could be stretched to up to 1400% its
+                                                                                                                    original length (48). The stable grafting points
+                                                                                                                    of these clay-PNIPAAM networks was attributed
+                                                                                                                    to the tunable surface properties of the clay nano-
+                                                                                                                    platelets (48). The filler materials may provide
+                                                                                                                    additional functionality, such as enhancement of
+                                                                                                                    electrical conductivity (39), or promotion of tissue
+                                                                                                                    regeneration (52).
+                                                                                                                       Multiple cross-linking mechanisms, often in-
+                                                                                                                    volving physical entanglement and chemical bond-
+                                                                                                                    ing of two types of polymer chains, have been
+                                                                                                                    combined to achieve hydrogels with superior
+                                                                                                                    toughness and high fracture energy (41, 53–56).
+                                                                                                                    A highly stretchable and tough hydrogel was syn-
+                                                                                                                    thesized by mixing alginate, ionically cross-linked
+
+
+
+
+                                                                                                                                                                            Downloaded from http://science.sciencemag.org/ on May 4, 2017
+                                                                                                                    by Ca2+, and covalently cross-linked long-chain
+                                                                                                                    polyacrylamide (PAAm). The two components,
+                                                                                                                    alginate and PAAm, were further intertwined
+                                                                                                                    through covalent bonding between their respec-
+                                                                                                                    tive carboxyl and amine groups (Fig. 2A) (41). During
+                                                                                                                    the stretching process, the PAAm network remains
+                                                                                                                    intact while the alginate network unzips progres-
+                                                                                                                    sively to efficiently dissipate energy, which can
+Fig. 1. Cross-linking of hydrogels. (A to D) Physical cross-linking. (A) Thermally induced entanglement             reform upon removal of the stress, thus exhibit-
+of polymer chains. (B) Molecular self-assembly. (C) Ionic gelation. (D) Electrostatic interaction. (E) Chemical     ing excellent hysteresis and negligible gross defor-
+cross-linking.                                                                                                      mation. As such, this class of hybrid hydrogels
+                                                                                                                    could achieve >20 times the elongation of their
+                                                                                                                    original lengths with fracture energies of up to
+Over the past decade, click chemistry—proposed              One strategy lies in the use of hydrogels derived       9000 J m−2. Alginate molecules of different chain
+to be fast, orthogonal, high-yield, and typically        from natural proteins that may present excep-              lengths may further be coembedded in the alginate-
+amenable to cells and bioactive agents—has under-        tional elasticity (45). For example, elastin is a widely   PAAm system in order to synthesize hydrogels
+gone tremendous development. This class of precise       distributed structural protein required to main-           containing improved density of chelation, thus
+chemical reactions aims to address the challenges        tain tissue integrity and confer elasticity and is pres-   achieving extraordinarily high fracture energies
+associated with traditional chemical reactions, such     ent in tissues such as blood vessels, heart, bladder,      of up to 16,000 J m−1 without compromising the
+as low yield, prolonged reaction times, and extreme      and skin. To this end, recombinant tropoelastin,           toughness (38). Introduction of crystallization
+reaction conditions (35–37). A rich variety of bio-      and its enzymatically cross-linked form termed             within an entangled polymer network represents
+compatible click reactions have been devised for         elastin-like polypeptides (ELPs), have been engi-          another approach to achieve tough and stretch-
+use in direct bioconjugation and hydrogel forma-         neered (46, 47). These engineered elastin-based            able hydrogels (49, 57). As an example, rather
+tion in the presence of cells within the matrices,       hydrogels typically possess strong elasticity by           than the alginate component, polyvinyl alcohol
+such as thiol-vinyl sulfone and thiol-maleimide          using a pentapeptide repeat, VPGXG, where X                (PVA) molecules could be incorporated, which
+Michael addition reactions, azide-alkyne and azide-      is any amino acid except proline (46). They can            upon annealing formed crystallites within the
+alkyne cycloaddition reactions, and thiolene photo-      achieve stretchability of up to ~400% their orig-          intertwined network of PVA and PAAm (49, 57).
+coupling reaction (37).                                  inal lengths (47), which is much higher than most          The dried network was then rehydrated to form
+   Although each of these gelation methods has           existing naturally derived hydrogels. Nevertheless,        the tough and stretchable hydrogel, in which the
+its advantages and limitations, the field has been       the high cost of these protein-based materials             crystallites of PVA functioned as the zippable,
+marching toward combining multiple components            limits their use for applications requiring large          energy-dissipating segments.
+and/or mechanisms to achieve improved hydrogel           hydrogel amounts.                                             In another strategy, molecular sliding was de-
+formulations (38–42). These hydrogels typically ex-         Alternatively, hydrogels formed through hybrid-         vised to synthesize extremely stretchable hydro-
+hibit excellent physicochemical properties, such         ization with nanomaterials (39, 48), via crystallite       gels with good toughness (50). Hydrogels were
+as substantially enhanced mechanics, injectability,      cross-linking (49), or by mixing multiple compo-           derived from a network of structures composed of
+self-healing, and possibility to undergo dynamic         nents (38, 41, 50), may possess substantially im-          a copolymer, of N-isopropylacrylamide (NIPAAM)
+modulation, as further discussed below.                  proved mechanical properties (51). For all these           and sodium acrylic acid (AAcNa), and a-cyclodextrin
+                                                         mechanisms, the key lies in combination of care-           conjugated with poly(ethylene glycol) (PEG)
+Tuning the strength                                      fully selected components that formulate the               (Fig. 2B). The free movement and sliding of the
+Conventional hydrogels typically possess a low           hydrogels. Nanomaterials (such as inorganic nano-          a-cyclodextrin rings along the polymer chains, en-
+to intermediate stretchability within a few times        particles, carbon nanotubes, and graphene), be-            abled by the inclusion of the ionic monomer AAcNa
+their original length, and fracture energies of          cause of their highly tunable surface properties           to modulate ionization, rendered the hydrogels
+<100 J m−2. Applications such as load-bearing bio-       and usually strong mechanics, contribute to en-            highly stretchable to up to 400 to 800% their orig-
+materials (39, 43), soft robotics (44), and wearable     hanced mechanical performances of bulk hydro-              inal lengths. The degree of stretching, however,
+devices (4–6) have spurred interest in developing        gels through interacting with polymer chains               was also dependent on the type of cross-linker
+tough and highly stretchable hydrogels as a class        forming the hydrogels (39, 42, 48). The use of nano-       used, either hydroxypropylated polyrotaxane cross-
+of soft and hydrated substrates.                         materials as cross-linkers would reduce the re-            linker (HPR-C) or N,N′-methylenebisacrylamide (BIS).
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)         5 May 2017                                                                                        2 of 10
+R ES E A RC H | R E V IE W
+
+
+   Strong bonding between hydrogels and solid            actions (68). The system is simple and may be            dom copolymerization of oppositely charged mono-
+materials as diverse as metals, glass, ceramics,         extended to many charged species of nanopar-             mers, were induced to spontaneously form
+and silicone is required for a wide range of ap-         ticles and polymer chains to produce injectable          physical hydrogels containing electrostatic bonds
+plications in areas spanning from biomedicine            formulations (61). These shear-thinning hydro-           with a wide distribution of strengths. In this sce-
+to soft electronics (5, 58). Nevertheless, rational      gels have found utility in hemostatic dressing           nario, the strong ionic bonds serve as semiper-
+design of a robust interaction between these             (60), endovascular embolization (68), tissue engi-       manent cross-links to maintain the shape of the
+two mechanically distinctive classes of materials        neering (69), and drug and gene delivery (61).           hydrogel, whereas the weak bonds dissipate energy
+has remained historically challenging. Following            Systems with electrostatic interactions between       through reversible bond breakages and forma-
+an approach used for making a tough composite            polymer chains containing oppositely charged             tions, enabling improved toughness as well as
+hydrogel from intertwined polymer networks, the          side groups have also been developed (Fig. 3B)           shear-thinning properties. The physical cross-
+long-chain polymer molecules were further cova-          (55). Polyampholytes, synthesized through ran-           linking imparted by the electrostatic interactions,
+lently attached to the surface of a solid through
+anchored chemical bonds (Fig. 2C) (40, 59). The
+resistance to scission of the anchored polymer
+chains during peeling generates the adhesion, and
+the energy is dissipated by the reversible physical
+chelation of the ionically cross-linked alginate. This
+type of bonding may reach interfacial toughness
+values of over 1000 J m−2, which is comparable
+with the toughest bonding found between a
+
+
+
+
+                                                                                                                                                                           Downloaded from http://science.sciencemag.org/ on May 4, 2017
+tendon and a bone in humans (800 J m−2). In
+addition to potential applications in biomedicine,
+optimization of hydrogel bonding with other types
+of materials, such as elastomers, may further ex-
+pedite the development of the field of soft elec-
+tronics. For example, stretchable soft electronics
+have been designed by coating an electrolyte-
+containing hydrogel layer onto a substrate of elas-
+tomeric tape without strong bonding between the
+two surfaces (4).
+
+Break and heal
+Hydrogels capable of regaining their initial me-
+chanical properties and undergoing autonomous
+healing upon damage can be useful in various
+applications such as in biomedicine, external
+coatings, and flexible electronics. Such properties
+typically rely on reestablishing molecular inter-
+actions in the water-rich microenvironment after
+the hydrogel is subjected to external forces or dam-
+age. This ability is achieved by the incorporation
+of moieties that present reversible but typically
+strong physical interactions in the hydrogel’s
+polymer network. These mechanisms can range
+from electrostatic interactions (55, 60, 61) and
+hydrogen bonding (62, 63) to hydrophobic inter-
+actions (64, 65) and caged guest-host interac-
+tions (66, 67). The resulting hydrogels may further
+be stimuli-dependent that are modulated by, for
+example, pH (62) or oxidative state (66).
+   Besides functioning as chemical cross-linkers,
+clay nanoplatelets may also be physically mixed
+with polymer chains to form shear-thinning hydro-        Fig. 2. Tuning the mechanics of hydrogels. (A) Stretchable hydrogel made from long-chain polymers
+gels. Synthetic clay nanoplatelets that have an          and reversible physically cross-linked polymers. (Right) The hydrogel could be stretched to 21 times its
+anisotropic charge distribution, positive along          initial length, where the stretch l is the final length of the unclamped region divided by the original length;
+the edges and negative on the two surfaces, may          stress-stretch curves of the alginate, PAAm, and alginate-PAAm hydrogels, each stretched to rupture,
+result in a net negative charge in an aqueous            where the nominal stress s is defined as the force applied on the deformed hydrogel, divided by the cross-
+medium (60). Therefore, when complexed with              sectional area of the undeformed hydrogel. [Adapted with permission from (41), copyright 2012 Nature
+positively charged supramolecules such as gela-          Publishing Group] (B) Stretchable hydrogel based on a sliding ring mechanism. (Right) Photo of an
+tin type A at neutral pH, a shear-thinning hydro-        elongated NIPAAM-AAcNa-HPR-C hydrogel, and stress-strain curves of different hydrogels: (i) NIPAAM-
+gel is formed because of the strong electrostatic        AAcNa-BIS [0.65 weight % (wt %)], (ii) NIPAAM-AAcNa-BIS (0.065 wt %), (iii) NIPAAM-AAcNa-HPR-C
+interactions between the clay nanoplatelets and          (2.00 wt %), (iv) NIPAAM-AAcNa-HPR-C (1.21 wt %), and (v) NIPAAM-AAcNa-HPR-C (0.65 wt %). The
+the polymer chains (Fig. 3A). The resulting hydro-       percentages denote those of the cross-linkers. [Adapted with permission from (50), copyright 2014 Nature
+gel temporarily reduces its viscosity upon applica-      Publishing Group] (C) Tough bonding of hydrogels with smooth surfaces. (Right) The peeling process of a
+tion of shear stress to endow injectability through      tough hydrogel chemically anchored on a glass substrate, and curves of the peeling force per width of
+a plug flow process, while returning to its original     hydrogel sheet versus displacement for various types of hydrogel-solid bonding. [Adapted with permission
+viscosity at low shear owing to electrostatic inter-     from (59), copyright 2016 Nature Publishing Group]
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)         5 May 2017                                                                                       3 of 10
+R ES E A RC H | R E V IE W
+
+
+however, further enable these types of hydrogels       of the hydrogel network (Fig. 3C) (62). It further    ated and can form hydrogen bonds, whereas in
+to self-heal even upon complete damage between         allows a pH-dependent healing capacity of the         their deprotonated state at pH values above pKa,
+two freshly cut or aged surfaces (55).                 damaged hydrogels. In the case of carboxyl pendant    the charged groups exhibit strong electrostatic
+   Self-healing through hydrogen bonding can           groups, at pH lower than the pKa values of the        repulsion. A host-guest system forms another basis
+be attained by incorporating side groups such          molecules (where Ka is the acid dissociation          of generating self-healing hydrogels. The classical
+as amine or carboxyl into the polymer backbone         constant), the functional groups become proton-       molecule cyclodextrin, when conjugated to the poly-
+                                                                                                             mer backbone, functions as the host to engulf hy-
+                                                                                                             drophobic moieties dangling as side chains of
+                                                                                                             another polymer backbone to achieve self-healing.
+                                                                                                             If an environment-responsive moiety—such as
+                                                                                                             PAAm-ferrocene (PAAm-Fc), which undergoes a re-
+                                                                                                             versible hydrophobic-charge transition at reduced/
+                                                                                                             oxidized states—is included in a hydrogel, self-
+                                                                                                             healing could further be selectively promoted upon
+                                                                                                             introduction of favorable stimuli (Fig. 3D) (66).
+                                                                                                             Whereas current strategies in synthesizing self-
+                                                                                                             healing hydrogels heavily rely on physical and
+                                                                                                             chemical methods, we envision the emergence of
+                                                                                                             bioinspired approaches in which bioactive species
+                                                                                                             may as well facilitate the healing process of the
+
+
+
+
+                                                                                                                                                                     Downloaded from http://science.sciencemag.org/ on May 4, 2017
+                                                                                                             hydrogels upon damage. In nature, self-healing
+                                                                                                             of biological tissues occurs frequently through an
+                                                                                                             orchestrated cascade of cellular events, in which
+                                                                                                             cells residing in the local microenvironment actively
+                                                                                                             respond to the wound by selectively clearing the
+                                                                                                             debris, secreting bioactive cues, and depositing new
+                                                                                                             extracellular matrix (ECM) molecules to achieve
+                                                                                                             healing. Therefore, rational combination of the
+                                                                                                             physicochemical methods and biologically active
+                                                                                                             species (such as enzymes, microorganisms, or even
+                                                                                                             mammalian cells) may represent a new self-healing
+                                                                                                             strategy.
+
+                                                                                                             Dynamic modulation
+                                                                                                             No single existing system, whether it is biological
+                                                                                                             or synthetic, is purely static. Rather, dynamic evo-
+                                                                                                             lutions are universally present, in which the capa-
+                                                                                                             bility to modulate hydrogel behavior in a temporally
+                                                                                                             dependent manner becomes particularly attractive.
+                                                                                                             When engineering biologically relevant systems,
+                                                                                                             it is strongly desirable that the hydrogel micro-
+                                                                                                             environment evolves with time through intrin-
+                                                                                                             sically embedded moieties that respond to external
+                                                                                                             stimuli, either in an explicitly user-defined fashion
+                                                                                                             or imposed by coexisting cells. Various approaches
+                                                                                                             have been devised in the past decade toward in-
+                                                                                                             corporation of dynamic physiological signals within
+                                                                                                             hydrogel platforms to precisely modulate cell-
+                                                                                                             matrix interactions (1, 70). Dynamic modulation
+                                                                                                             of hydrogels further opens up opportunities for
+                                                                                                             construction of actuators and robotics (9–12).
+                                                                                                                Photopatterning is a long-established approach
+                                                                                                             for introducing heterogeneity in a hydrogel vol-
+Fig. 3. Shear-thinning and self-healing hydrogels. (A) Shear-thinning hydrogel through nanocomposit-         ume by means of controlled spatial immobiliza-
+ing. (Bottom) Recovery of the nanocomposites was observed by subjecting the hydrogel to alternating          tion of bioactive molecules (71–73). The addition
+high and low strain conditions (100% strain and 1% strain) while monitoring the moduli of the composite.     of specific biochemical cues into the matrix through
+[Adapted with permission from (60), copyright 2014 American Chemical Society] (B to D) Self-healing          photopatterning allows localized presentation of
+hydrogels based on ionic interactions, hydrogen bonds, and host-guest coupling. (B) Ionic interactions.      signals for cells to respond. These signals may
+(Bottom left) Recovery of the sample for different waiting times. (Bottom right) Self-healing between        include growth factors, proteins, hormones, cell-
+either two freshly cut surfaces (red and blue) or a fresh and an aged surface (white) of samples; [Adapted   adhesion peptides, and cell-repelling moiety (73).
+with permission from (55), copyright 2013 Nature Publishing Group] (C) Hydrogen bonds. (Bottom) The          Notably, the reverse process—on-demand release
+healed hydrogels at low pH separate after exposure to a high-pH solution (with pH > 9), and the separated    of certain moieties from a hydrogel matrix—is also
+hydrogels could reheal upon exposure to acidic solution (pH < 3). [Adapted with permission from (62),        sometimes desirable to trigger temporal changes
+copyright 2012 the National Academy of Sciences] (D) Host-guest coupling. (Bottom) The cut hydrogel          within the hydrogel. In realizing this capability,
+spread with NaClO aqueous solution did not heal after 24 hours, but readhesion was observed 24 hours         photodegradation (as opposed to photocross linking),
+after spreading reuced glutathione aqueous solution onto the oxidized cut surface. [Adapted with             has been developed on the basis of the inclusion
+permission from (66), copyright 2011 Nature Publishing Group]                                                of photolabile moieties that undergo photolysis
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)       5 May 2017                                                                                  4 of 10
+R ES E A RC H | R E V IE W
+
+
+upon two-photon illumination (Fig. 4A) (74). These       phologies along a certain path, to produce the final      bioactive molecules in conjunction with multiple
+moieties can be designed to be biocompatible,            shape and architecture working in a coordinated           cell populations functioning in synergy. For ex-
+enabling photodegradation of the hydrogels in the        manner that renders the entire organism func-             ample, almost all organs in the human body con-
+presence of bioactive molecules or cells, as well        tional. Through meticulous selection of polymers          tain repeating building units that assemble into
+as time-dependent degradation. Photopatterning           that make up the hydrogels, they can also be pro-         distinctive compartments and interfaces [for ex-
+and photodegradation may be combined to achieve          cessed to ensue bioinspired shape-morphing capa-          ample, the myocardium, endocardium, and peri-
+full control over the dynamics of the spatial patterns   bility upon desired stimulation (12) such as humidity     cardium in the heart (98, 99) and the lobules
+in a hydrogel system (36, 75). For example, a photo-     (10, 84), temperature (85), pH (86, 87), ionic strength   constituting the liver (99, 100)]. Most organs are
+reversible patterning strategy can be used to first      (87, 88), magnetism (89, 90), or light (11), among        embedded with perfusable vasculature of sophis-
+define spatial distribution of biomolecules through      other stimulants. A heterogeneous or multilayer           ticated tortuosity that supplies oxygen and nu-
+photomediated ligation, followed by subsequent           configuration containing materials with varying           trients and transports bioactive molecules (such
+removal upon further exposure to a different light       degree of responsiveness is typically required to         as growth factors and hormones). Such complex-
+(Fig. 4B) (75). More recently, attention has been        enable a dynamic shape change. For example, a             ity further extends to the architecture of the blood
+focused on dynamic modulation of biophysical cues        dual-layer hydrogel formed by two polymers with           vessels, themselves defined by layered structures
+inside the hydrogel such as matrix mechanics,            distinctive swelling capacities (for example, PEG         of tunica intima, tunica media, and tunica externa
+which can be used to tune the behavior of encap-         and alginate) presents directional bending upon           (99). Consequently, engineering a biomimetic
+sulated cells (76, 77).                                  absorption of water (84). Another example is the          organ requires the capacity to reconstitute its
+   Cells may be another source of external stimuli       combination of thermo-sensitive (such as PNI-             native characteristics and physiology through
+to trigger a dynamic alteration of the hydrogel          PAAM) and thermo-inert hydrogel materials that            rational design that ensures compositional, ar-
+matrix in which they reside (78–80). In the human        modulate bidirectional bending of fabricated struc-       chitectural, mechanical, and functional accura-
+
+
+
+
+                                                                                                                                                                            Downloaded from http://science.sciencemag.org/ on May 4, 2017
+body, a critical characteristic of the ECM lies in its   ture, at temperatures above or below which the            cies. Soft actuators and electronic devices made
+susceptibility to proteolysis triggered by the re-       thermo-sensitive hydrogel component is shaped             from hydrogels may similarly demand spatiotem-
+siding cells to facilitate their mobility and sub-       (Fig. 4D) (85). Also, the inclusion of pH-sensitive       poral control to render heterogeneity required for
+sequent remodeling of the microenvironment.              moieties into a hydrogel leads to pH-mediated             functionality.
+To achieve this functionality within a hydrogel,         swelling or deswelling (86). Although these models           Microengineering provides a versatile approach
+a specially designed linker moiety typically sen-        rely on the intrinsic properties of the polymers          to engineer well-defined hydrogels from miniatur-
+sitive to an enzyme can be copolymerized into the        that constitute hydrogels, functional materials           ized building blocks through programmed spon-
+hydrogel so as to allow for localized protease-          such as magnetic nanoparticles (90) and carbon            taneous assembly. Multiple types of hydrogel units,
+mediated degradation of the polymeric network (79).      nanomaterials (11) may be added to the hydro-             individually fabricated to contain desired cell types
+In combination with a growth factor-sequestering         gel matrices in order to achieve shape actuation          and physicochemical cues, can be used to mimic the
+component, these cell-instructive hydrogel matrices      upon external stimuli of magnetic field and light-        microtissue units in the human organs. Earlier ver-
+are able to reversibly immobilize growth factors         induced local heating, respectively.                      sions of packing strategies rely on shape comple-
+on demand (81). The concept of protease-mediated            Cell-mediated traction force can also contribute       mentarity in which these different blocks can be
+degradation has been recently taken a step for-          to shape-morphing of hydrogels (91). Carefully            processed by using, for example, lithographic or
+ward by implementing a negative feedback loop            designed microstructures seeded with cells are            photopatterning techniques. These engineered
+through a combinatory effect of an enzyme-labile         able to self-fold into predefined architectures           building blocks of microgels with complemen-
+moiety and an enzyme inhibitor coembedded in             through origami (92). Alternatively, cells that           tary geometrical configurations subsequently un-
+the hydrogel matrix (80). In this scenario, an enzyme-   spontaneously contract enable mechanical move-            dergo directed assembly into the bulk form under
+sensitive peptide [for example, to matrix metal-         ment of the substrate on which they reside, leading       a combinatory influence of external energy, surface
+loproteinase (MMP)] is used as the linker of the         to generation of soft bioactuators (93, 94). Whereas      tension, and microgel dimensions at liquid-liquid
+hydrogel network, whereas the enzyme-inhibitor           earlier bioactuators were mainly based on elasto-         interfaces (Fig. 5A) (101). Assembled microgels
+[for example, tissue inhibitor of MMPs (TIMP)] is        meric materials, hydrogel materials have recently         may be further cross-linked to stabilize the bulk
+simultaneously liberated by the same cleaving event.     attracted increasing attention because of their           architecture. Using this strategy, arrays of ring-
+Concurrent inclusion of the enzyme-inhibitor pair        better biocompatibility. To this end, a combina-          shaped microgels were assembled into a 3D tubu-
+induces balanced local activation and inhibition         tion of myocytes (skeletal muscle cells or cardiomyo-     lar construct with interconnected lumens in a
+of the enzyme activity, therefore modulating the         cytes) and hydrogels that enable communications           biphasic system via stimulation applied by fluid
+hydrogel degradation (Fig. 4C). Compared with            between these cells is usually adopted. For example,      shear (102). Microgels could also be assembled
+conventional unconfined stimuli-responsiveness,          carbon nanotube–composited gelatin methacryloyl           into large-scale structures on a surface patterned
+the introduction of the feedback system clearly          hydrogels have been processed into flexible sub-          with hydrophilic and hydrophobic regions at high
+demonstrates its advantage in providing more             strates as large as centimeter scales, and cardio-        fidelity (103). A class of hydrophobic hydrogels has
+precise manipulation of the matrix properties.           myocytes spontaneously and synchronously beating          been proposed by stabilizing a layer of hydropho-
+This mechanism, based on cell-responsive MMPs,           on the surfaces allow these bioactuators to ex-           bic microparticles on the surface of conventional
+has also been adapted for other types of hydro-          hibit rhythmic contraction or extension and swim-         hydrogels to allow them to float on aqueous media
+gels [such as PEG-heparin (82)]. Alternatively,          ming behaviors (95, 96). Engineered skeletal muscles,     (104). These hydrophobic hydrogels with comple-
+instead of introducing stimuli-responsive moi-           when bound to bioprinted hydrogel frameworks,             mentary shapes could self-assemble because of hy-
+eties, selective modification of the macromole-          could also actuate and move the devices in defined        drophobic interactions directly on the surface of
+cules before formation of hydrogels may allow for        patterns (13, 14). These bioactuators relying on cell     water when brought into proximity with each other.
+manipulation of hydrogel properties. For exam-           traction forces may be remotely controlled by a           Although this type of self-assembly is convenient
+ple, when heparin was selectively desulfated, the        variety of external stimuli such as electrical signals    and scalable, it does not confer strong control over
+resulting hydrogels demonstrated altered release         (95–97) and light (14, 94). To be suited for building     the assembly process because it is limited by the
+profiles of affinity-immobilized growth factors com-     robust bioactuators, hydrogels must be both bio-          sole reliance on the miniaturization of interfacial
+pared with the release in the case of pristine hep-      compatible and mechanically stable.                       surface free energy (101).
+arin (83). This strategy can be extended to chemical                                                                  Alternatively, the self-assembly properties of
+modifications so as to further enable dynamic con-       Shaping the hydrogels                                     nucleic acids provide a powerful approach for the
+trol of biomolecule sequestration and release.           Biological tissues are exceedingly complex and            fabrication of sophisticated patterns, structures, and
+   Morphogenesis is an important feature of living       may possess a hierarchically assembled architec-          devices. Sequence complementarity in DNA/RNA
+organisms. As an organism develops, it alters mor-       ture featuring a variety of nano- or microscale           strands can be encoded to induce self-organization
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)         5 May 2017                                                                                       5 of 10
+R ES E A RC H | R E V IE W
+
+
+
+
+                                                                                                                                                                   Downloaded from http://science.sciencemag.org/ on May 4, 2017
+
+Fig. 4. Dynamic modulation of hydrogel microenvironment. (A) Photo-                (rTIMP-3) activity was measured by its ability to inhibit a recombinant MMP-2
+degradation through photolabile moieties. (Bottom left) Hydrogels demon-           (rMMP-2) solution, in which (left) bound rTIMP-3 did not substantially reduce
+strated surface erosion upon irradiation. (Bottom right) Hydrogel was eroded       rMMP-2. (Bottom) Hydrogels with (solid symbols) and without (open symbols)
+spatially through masked flood irradiation, where feature dimensions were          encapsulated rTIMP-3 were incubated with (squares) or without (triangles)
+quantified with profilometry after different periods of irradiation. Scale bars,   rMMP-2, in which encapsulated rTIMP-3 attenuated rMMP-2-mediated hydro-
+100 mm. [Adapted with permission from (74), copyright 2009 American                gel degradation. [Adapted with permission from (80), copyright 2014 Nature
+Association for the Advancement of Science] (B) Dynamic photopatterning            Publishing Group] (D) Thermo-responsive shape morphing hydrogel. (Bottom)
+and photorelease. (Bottom) Patterned primary antibodies are visualized with        Serial images of a closed gripper with poly(propylene fumarate) (PPF) seg-
+a fluorescent secondary antibody, which were subsequently photoreleased to         ments on the outside opening as the temperature was decreased to below
+form a secondary pattern. Scale bar, 3 mm. [Adapted with permission from           36°C and then folding back on itself to become a closed gripper, but with the
+(75), copyright 2015 Nature Publishing Group] (C) Cell-responsive cleavage         PPF segments on the inside. Scale bar, 2 mm. [Adapted with permission from
+and anticleavage negative feedback system. (Bottom) recombinant TIMP-3             (85), copyright 2015 American Chemical Society]
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)       5 May 2017                                                                                 6 of 10
+R ES E A RC H | R E V IE W
+
+
+into a predefined structure, when the comple-           plethora of molecular assemblies from synthetic        other complex shapes (106, 110). This concept has
+mentary segments pair up under proper physical          nucleic acids have been generated such as tubes        been adapted to assemble microgel units, sim-
+conditions (105). On the basis of this principle, a     (106–108), ribbons (108), lattices (107, 109), and     ilar to the abovementioned approach but in a
+                                                                                                               much more precisely controlled manner. In this
+                                                                                                               sense, the “giant DNA glue” is decorated onto the
+                                                                                                               prescribed surfaces of a nonspherical hydrogel
+                                                                                                               unit to produce asymmetric glue patterns on het-
+                                                                                                               erogeneous surfaces. These microscale building
+                                                                                                               units, through combination of the molecular pro-
+                                                                                                               grammability of the DNA glue and the shape
+                                                                                                               controllability of the microgels, can achieve multi-
+                                                                                                               plexed assembly of complex structures of hydrogels
+                                                                                                               across multiple scales (Fig. 5B) (111). The assembly
+                                                                                                               of diverse hydrogel structures—including dimers,
+                                                                                                               linear chains, and large-scale networks—could
+                                                                                                               potentially be used to build hierarchical tissue
+                                                                                                               architectures and biomedical devices. Nucleic
+                                                                                                               acid–directed self-assembly may further be adapted
+                                                                                                               for programmed synthesis of 3D biological tis-
+                                                                                                               sues (112). Instead of hydrogels, dissociated single
+
+
+
+
+                                                                                                                                                                        Downloaded from http://science.sciencemag.org/ on May 4, 2017
+                                                                                                               cells may be chemically functionalized with oli-
+                                                                                                               gonucleotides, which are complementary to DNA
+                                                                                                               sequences coated on desired surfaces to allow for
+                                                                                                               cellular assembly into the third dimension via a
+                                                                                                               layer-by-layer approach. The oligonucleotides
+                                                                                                               were designed to be degradable, thus achieving
+                                                                                                               on-demand reversible binding once the micro-
+                                                                                                               tissues formed (112).
+                                                                                                                  Three-dimensional printing represents another
+                                                                                                               facile technique for constructing volumetric objects
+                                                                                                               (113, 114). Three-dimensional printing empowers
+                                                                                                               extremely high precision through the robotic manip-
+                                                                                                               ulation of the prepolymer (the ink), thus allowing
+                                                                                                               for reproducible manufacturing of objects with
+                                                                                                               minimal aberration in their shape, architecture,
+                                                                                                               and functionality. The 3D printing technology was
+                                                                                                               initially introduced in the form of stereolithog-
+                                                                                                               raphy, in which defined objects are manufactured
+                                                                                                               through a pull-out procedure from a liquid bath
+                                                                                                               of prepolymer via layer-by-layer photopatterned
+                                                                                                               cross-linking (115). Precise control of locally avail-
+                                                                                                               able oxygen concentrations during the stepwise
+                                                                                                               radical polymerization further enables continuous
+                                                                                                               manufacture of large-sized 3D shapes at substan-
+                                                                                                               tially improved speed (116). Using such a manu-
+                                                                                                               facturing principle, hydrogel objects with complex
+                                                                                                               3D architecture and multiplexed materials may be
+                                                                                                               generated with high spatial resolution (100, 117).
+                                                                                                                  Complementary to stereolithography, nozzle-
+                                                                                                               based 3D printing strategies typically provide
+Fig. 5. Shaping macroscale hydrogels. (A) Self-assembly through shape complementarity. (Bottom)                higher degrees of flexibility in the production of
+(Top row) Hydrogels assembled by capillary force. Scale bar, 200 mm. (Bottom row) Hydrophobic hy-              hydrogel objects with defined architecture. The
+drogels assembled through hydrophobic interactions on the surface of water. Scale bars, 5 cm. [Adapted         ink, deposited through positioned ejection from
+with permission from (101), copyright 2008 the National Academy of Sciences, and (104), copyright 2016         an orthogonally movable printhead, builds 3D
+American Chemical Society] (B) Self-assembly using sequence-complementing DNA glues. (Bottom)                  structures in a layer-by-layer manner. Whereas
+(Top row) DNA-assisted hydrogel self-assembly across multiple length scales. Scale bars, 1 mm. (Bottom         stereolithography solely relies on photopolymer-
+row) Directed formation regular dimers and T-junction based on their surface DNA glue patterns. Scale          ization, a rich variety of cross-linking mechanisms
+bars, 1 mm. [Adapted with permission from (111), copyright 2013 Nature Publishing Group] (C) Embedded          may be used for nozzle-based printing through
+nozzle-based bioprinting. (Bottom left) A continuous hollow knot written with fluorescent microspheres in      meticulous selection of the inks combined with
+a granular hydrogel. Scale bar, 3 mm. (Bottom right) A freely floating hydrogel jellyfish model retrieved      rational design of the printhead. For example,
+after printing and dissolution of the granular hydrogel. (Inset) The printed structure before the removal of   physical cross-linking of alginate by Ca2+ can be
+the supporting hydrogel matrix. Scale bars, 5 and (inset) 10 mm. [Adapted with permission from (125),          achieved with a core-sheath nozzle design to co-
+copyright 2015 American Association for the Advancement of Science] (D) 4D biomimetic printing                 deliver the two components during the extrusion
+through a printed dual-layer structure with unbalanced swelling. (Bottom) Time-lapse photographs show-         procedure, whereas photocrosslinking may still
+ing bioprinted simple flower-like structures undergoing shape-morphing during the swelling process, for        be applied to the methacryloyl-modified hydro-
+the double layers of different orientations. Scale bars, 5 mm. [Adapted with permission from (140),            gels after printing (118, 119). Alternatively, shear-
+copyright 2016 Nature Publishing Group]                                                                        thinning inks may be directly printed, followed
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)        5 May 2017                                                                                     7 of 10
+R ES E A RC H | R E V IE W
+
+
+by subsequent chemical cross-linking (120). Also,        ments. In tackling the mechanical instability caused      REFERENCES AND NOTES
+they may function as sacrificial templates in certain    by swelling of the hydrogel network, an “anti-            1.    J. A. Burdick, W. L. Murphy, Moving from static to dynamic
+3D printing applications so as to obtain hollow          swelling” (or “nonswellable”) hydrogel consisting               complexity in hydrogel design. Nat. Commun. 3, 1269 (2012).
+                                                                                                                         doi: 10.1038/ncomms2271; pmid: 23232399
+hydrogel structures after selective removal (121–123).   of a network integrating hydrophilic and thermo-          2.    D. Seliktar, Designing cell-compatible hydrogels for
+Tough and highly stretchable hydrogels can also          responsive polymer units was proposed (135). It                 biomedical applications. Science 336, 1124–1128 (2012).
+be printed into complex architecture (124). The          resisted swelling at elevated temperature when                  doi: 10.1126/science.1214804; pmid: 22654050
+capacity of nozzle-based 3D printing has been            the thermo-responsive polymer chains condensed,           3.    A. S. Hoffman, Hydrogels for biomedical applications.
+                                                                                                                         Adv. Drug Deliv. Rev. 64, 18–23 (2012). doi: 10.1016/
+substantially boosted with recent development            thus preserving the mechanics of the pristine                   j.addr.2012.09.010; pmid: 11755703
+of the technique based on embedded printing              hydrogel. Although this strategy seems universal,         4.    C. Keplinger et al., Stretchable, transparent, ionic conductors.
+(125–127). Conventionally, extruded hydrogel ma-         continuation in the innovation of new chemistries               Science 341, 984–987 (2013). doi: 10.1126/science.1240228;
+terials would not stand their own weights when           and compositions to further optimize the pro-                   pmid: 23990555
+                                                                                                                   5.    S. Lin et al., Stretchable hydrogel electronics and devices.
+complex structures containing large cavities, thin-      cesses becomes critical.                                        Adv. Mater. 28, 4497–4505 (2016). doi: 10.1002/
+walled tubes, and suspended elements were cre-              The potential to integrate hydrogel formula-                 adma.201504152; pmid: 26639322
+ated. The ability to resist gravitational force has      tions with advanced biofabrication techniques             6.    C. Larson et al., Highly stretchable electroluminescent skin
+thus been proposed by the use of a supporting            is exciting as well, despite that strict optimization           for optical signaling and tactile sensing. Science 351,
+                                                                                                                         1071–1074 (2016). doi: 10.1126/science.aac5082;
+hydrogel bath, which is both shear-thinning,             processes should be carried out to meet proper                  pmid: 26941316
+allowing for convenient deposition of the ink, and       fabrication requirements. For example, when highly        7.    K. W. Y. Chan et al., MRI-detectable pH nanosensors
+self-healing, ensuring shape-maintenance of the          stretchable hydrogels are combined with bio-                    incorporated into hydrogels for in vivo sensing of
+printed fine structures within the volume (Fig. 5C).     printing, elastic substrates of any arbitrary shape,            transplanted-cell viability. Nat. Mater. 12, 268–275 (2013).
+                                                                                                                         doi: 10.1038/nmat3525; pmid: 23353626
+   Often, the ability to combine multiple types of       pattern, and architecture may be obtained (124).
+
+
+
+
+                                                                                                                                                                                            Downloaded from http://science.sciencemag.org/ on May 4, 2017
+                                                                                                                   8.    Y. J. Heo, H. Shibata, T. Okitsu, T. Kawanishi, S. Takeuchi,
+hydrogels is desired over a single material to fabri-    As an alternative strategy to direct hydrogel printing,         Long-term in vivo glucose monitoring using fluorescent
+cate compositionally complex patterns. Printers          the mechanical properties of hydrogels can be                   hydrogel fibers. Proc. Natl. Acad. Sci. U.S.A. 108,
+carrying several printheads have thus been devel-        reinforced by integrating them with printed micro-              13399–13403 (2011). doi: 10.1073/pnas.1104954108;
+                                                                                                                         pmid: 21808049
+oped to deposit selected hydrogel inks, or inks          fibrous scaffolds (136). When encapsulation of            9.    J. Kim, J. A. Hanna, M. Byun, C. D. Santangelo, R. C. Hayward,
+with polymer scaffolding in a prescribed manner          cells is desired during the fabrication processes,              Designing responsive buckled surfaces by halftone gel
+(120, 128, 129). The emergence of microfluidic           the need for hydrogels with suitable mechanical                 lithography. Science 335, 1201–1205 (2012). doi: 10.1126/
+printheads capable of codelivering dual material         properties and biocompatibility becomes critical                science.1215309; pmid: 22403385
+                                                                                                                   10.   K.-U. Jeong et al., Three-dimensional actuators transformed
+types further enhanced the speed of multimate-           (114). In addition, printing should be carried out              from the programmed two-dimensional structures via
+rial printing via improved switching between the         under physiologically relevant conditions in order              bending, twisting and folding mechanisms. J. Mater. Chem.
+different materials (118, 119, 130, 131). Instead, by    to ensure cell viability and phenotype mainte-                  21, 6824–6830 (2011). doi: 10.1039/c0jm03631e
+using a microscale fluid mixing device inside the        nance (137).                                              11.   E. Wang, M. S. Desai, S.-W. Lee, Light-controlled graphene-
+                                                                                                                         elastin composite hydrogel actuators. Nano Lett. 13,
+printhead, the two materials may be homo-                   Furthermore, printed hydrogel structures may                 2826–2830 (2013). doi: 10.1021/nl401088b; pmid: 23647361
+genized to achieve direct printing of gradient           be dynamically modulated. Through material de-            12.   L. Ionov, Hydrogel-based actuators: Possibilities and
+structures through precise control over the ratio        signs, it is feasible to add an extra dimension—                limitations. Mater. Today 17, 494–503 (2014). doi: 10.1016/
+between the inks infused into the printhead (132).       time—into the 3D architecture. In 4D printing                   j.mattod.2014.07.002
+                                                                                                                   13.   C. Cvetkovic et al., Three-dimensionally printed biological
+                                                         (138–143), compositionally heterogeneous inks are               machines powered by skeletal muscle. Proc. Natl. Acad. Sci.
+Outlook                                                  deposited to form the initial layout, which is capa-            U.S.A. 111, 10125–10130 (2014). doi: 10.1073/
+Hydrogels represent an important class of mate-          ble of shape transformation in a preprogrammed                  pnas.1401577111; pmid: 24982152
+rials possessing a watery environment and broadly        manner over time under stimuli. This technique            14.   R. Raman et al., Optogenetic skeletal muscle-powered
+                                                                                                                         adaptive biological machines. Proc. Natl. Acad. Sci. U.S.A.
+tunable physicochemical properties. Efforts devoted      allows for performance-driven functionality to be               113, 3497–3502 (2016). doi: 10.1073/pnas.1516139113;
+to engineering hydrogels with enhanced properties        designed into the printed materials. For example,               pmid: 26976577
+in the past decade have expanded their opportu-          a hydrophilic polymer printed in between rigid,           15.   A. J. Engler, S. Sen, H. L. Sweeney, D. E. Discher, Matrix
+nities in numerous applications, including bio-          nonswelling segments swells after encountering                  elasticity directs stem cell lineage specification. Cell 126,
+                                                                                                                         677–689 (2006). doi: 10.1016/j.cell.2006.06.044;
+medicine, soft electronics, sensors, and actuators.      water and expands into hydrogel structures, forcing             pmid: 16923388
+For instance, the mechanics of hydrogels have            the rigid materials to bend until they stop when          16.   N. Huebsch et al., Harnessing traction-mediated manipulation
+been engineered to become stiff and tough while          hitting neighboring elements (138, 139). The                    of the cell/matrix interface to control stem-cell fate.
+maintaining a high water content. Self-healing           folding pattern of printed structures can be ac-                Nat. Mater. 9, 518–526 (2010). doi: 10.1038/nmat2732;
+                                                                                                                         pmid: 20418863
+mechanisms and dynamic modulation have been              curately predicted through mathematical mod-              17.   M. Choi et al., Light-guiding hydrogels for cell-based
+incorporated within hydrogel systems to achieve          eling, which serves as a guideline for the design of            sensing and optogenetic synthesis in vivo. Nat. Photonics
+control over their behaviors over time. Advanced         the printing path to achieve prescribed temporal                7, 987–994 (2013). doi: 10.1038/nphoton.2013.278;
+biofabrication techniques have further improved          transformation (140).                                           pmid: 25346777
+                                                                                                                   18.   M. Djabourov, J. Leblond, P. Papon, Gelation of aqueous
+our capability to construct sophisticated hydrogel          We envision that with increasing adoption of                 gelatin solutions. I. Structural investigation. J. Phys. 49,
+architectures that feature hierarchically assembled      interdisciplinary approaches, it is possible to ratio-          319–332 (1988). doi: 10.1051/jphys:01988004902031900
+structures across multiple length scales.                nally combine multiple strategies, leading to crea-       19.   M. Djabourov, J. Leblond, P. Papon, Gelation of aqueous
+   However, several key challenges persist. Clinical     tion of hydrogels that possess enhanced properties.             gelatin solutions. II. Rheology of the sol-gel transition.
+                                                                                                                         J. Phys. 49, 333–343 (1988). doi: 10.1051/
+translation of hydrogels requires rigorous testing       The design of materials in which multiple constit-              jphys:01988004902033300
+(133), and their approval by the U.S. Food and           uents or phases are assembled across multiple             20.   L. Gasperini, J. F. Mano, R. L. Reis, Natural polymers for the
+Drug Administration for clinical applications has        length scales may harness synergistic effects and               microencapsulation of cells. J. R. Soc. Interface 11, 20140817
+been limited to a few types of hydrogel materials        facilitate novel functionalities. The combinations              (2014). doi: 10.1098/rsif.2014.0817; pmid: 25232055
+(134). Maintaining or improving the mechanics of         of properties can emerge as a result of the par-          21.   M. A. Ward, T. K. Georgiou, Thermoresponsive polymers for
+                                                                                                                         biomedical applications. Polymers (Basel) 3, 1215–1242
+hydrogels in a wide range of media has remained          ticular arrangement or interactions between the                 (2011). doi: 10.3390/polym3031215
+another challenge. Swelling is a common phenome-         multiscale constituents, providing opportunities          22.   J.-F. Lutz, O. Akdemir, A. Hoth, Point by point comparison
+non of hydrogels owing to water uptake caused            for further innovations in hydrogels. Ultimately,               of two thermosensitive polymers exhibiting a similar LCST:
+by unequal osmotic pressure when immersed in             the advancements in engineering hydrogels should                Is the age of poly(NIPAM) over? J. Am. Chem. Soc. 128,
+                                                                                                                         13046–13047 (2006). doi: 10.1021/ja065324n;
+an aqueous medium of lower osmolarity. Swelling          be coupled with their end applications in a feed-               pmid: 17017772
+often causes the weakening of the hydrogel net-          back loop to achieve optimal designs through iter-        23.   A. Laschewsky, E. D. Rekaï, E. Wischerhoff, Tailoring of
+works upon long exposures in aqueous environ-            ative optimization cycles.                                      stimuli‐responsive water soluble acrylamide and
+
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)         5 May 2017                                                                                                     8 of 10
+R ES E A RC H | R E V IE W
+
+
+    methacrylamide polymers. Macromol. Chem. Phys. 202,                46. Y.-N. Zhang et al., A highly elastic and rapidly crosslinkable     69.   J. R. Xavier et al., Bioactive nanoengineered hydrogels for
+    276–286 (2001). doi: 10.1002/1521-3935(20010101)                       elastin-like polypeptide-based hydrogel for biomedical                   bone tissue engineering: A growth-factor-free approach.
+    202:2<276::AID-MACP276>3.0.CO;2-1                                      applications. Adv. Funct. Mater. 25, 4814–4826 (2015).                   ACS Nano 9, 3109–3118 (2015). doi: 10.1021/nn507488s;
+24. S. Zhang, Fabrication of novel biomaterials through molecular          doi: 10.1002/adfm.201501489; pmid: 26523134                              pmid: 25674809
+    self-assembly. Nat. Biotechnol. 21, 1171–1178 (2003).              47. N. Annabi et al., Engineered cell-laden human protein-based        70.   M. W. Tibbitt, K. S. Anseth, Dynamic microenvironments:
+    doi: 10.1038/nbt874; pmid: 14520402                                    elastomer. Biomaterials 34, 5496–5505 (2013). doi: 10.1016/              The fourth dimension. Sci. Transl. Med. 4, 160ps24 (2012).
+25. A. Rich, F. H. Crick, The structure of collagen. Nature 176,           j.biomaterials.2013.03.076; pmid: 23639533                               doi: 10.1126/scitranslmed.3004804; pmid: 23152326
+    915–916 (1955). doi: 10.1038/176915a0; pmid: 13272717              48. K. Haraguchi, T. Takehisa, Nanocomposite hydrogels: A              71.   D. Loessner et al., Functionalization, preparation and use of
+26. L. E. R. O’Leary, J. A. Fallas, E. L. Bakota, M. K. Kang,              unique organic–inorganic network structure with                          cell-laden gelatin methacryloyl-based hydrogels as modular
+    J. D. Hartgerink, Multi-hierarchical self-assembly of a                extraordinary mechanical, optical, and swelling/de-swelling              tissue culture platforms. Nat. Protoc. 11, 727–746 (2016).
+    collagen mimetic peptide from triple helix to nanofibre and            properties. Adv. Mater. 14, 1120–1124 (2002). doi: 10.1002/              doi: 10.1038/nprot.2016.037; pmid: 26985572
+    hydrogel. Nat. Chem. 3, 821–828 (2011). doi: 10.1038/                  1521-4095(20020816)14:16<1120::AID-ADMA1120>3.0.CO;2-9             72.   W. Schuurman et al., Gelatin-methacrylamide hydrogels as
+    nchem.1123; pmid: 21941256                                         49. J. Li, Z. Suo, J. J. Vlassak, Stiff, strong, and tough hydrogels         potential biomaterials for fabrication of tissue-engineered
+27. J. D. Hartgerink, E. Beniash, S. I. Stupp, Self-assembly and           with good chemical stability. J. Mater. Chem. B Mater. Biol.             cartilage constructs. Macromol. Biosci. 13, 551–561 (2013).
+    mineralization of peptide-amphiphile nanofibers. Science               Med. 2, 6708–6713 (2014). doi: 10.1039/C4TB01194E                        doi: 10.1002/mabi.201200471; pmid: 23420700
+    294, 1684–1688 (2001). doi: 10.1126/science.1063187;               50. A. Bin Imran et al., Extremely stretchable thermosensitive         73.   R. G. Wylie et al., Spatially controlled simultaneous patterning
+    pmid: 11721046                                                         hydrogels by introducing slide-ring polyrotaxane cross-linkers           of multiple growth factors in three-dimensional hydrogels.
+28. Z. Yang, B. Xu, Supramolecular hydrogels based on                      and ionic groups into the polymer network. Nat. Commun. 5,               Nat. Mater. 10, 799–806 (2011). doi: 10.1038/nmat3101;
+    biofunctional nanofibers of self-assembled small molecules.            5124 (2014). doi: 10.1038/ncomms6124; pmid: 25296246                     pmid: 21874004
+    J. Mater. Chem. 17, 2385–2393 (2007). doi: 10.1039/                51. X. Zhao, Multi-scale multi-mechanism design of tough               74.   A. M. Kloxin, A. M. Kasko, C. N. Salinas, K. S. Anseth,
+    b702493b                                                               hydrogels: Building dissipation into stretchy networks.                  Photodegradable hydrogels for dynamic tuning of physical
+29. J. A. Rowley, G. Madlambayan, D. J. Mooney, Alginate                   Soft Matter 10, 672–687 (2014). doi: 10.1039/C3SM52272E;                 and chemical properties. Science 324, 59–63 (2009).
+    hydrogels as synthetic extracellular matrix materials.                 pmid: 24834901                                                           doi: 10.1126/science.1169494; pmid: 19342581
+    Biomaterials 20, 45–53 (1999). doi: 10.1016/S0142-9612(98)         52. A. K. Gaharwar et al., Bioactive silicate nanoplatelets for        75.   C. A. DeForest, D. A. Tirrell, A photoreversible protein-
+
+
+
+
+                                                                                                                                                                                                                       Downloaded from http://science.sciencemag.org/ on May 4, 2017
+    00107-0; pmid: 9916770                                                 osteogenic differentiation of human mesenchymal stem                     patterning approach for guiding stem cell fate in three-
+30. I. Braccini, S. Pérez, Molecular basis of C2+-induced gelation         cells. Adv. Mater. 25, 3329–3336 (2013). doi: 10.1002/                   dimensional gels. Nat. Mater. 14, 523–531 (2015).
+    in alginates and pectins: The egg-box model revisited.                 adma.201300584; pmid: 23670944                                           doi: 10.1038/nmat4219; pmid: 25707020
+    Biomacromolecules 2, 1089–1096 (2001). doi: 10.1021/               53. J. P. Gong, Y. Katsuyama, T. Kurokawa, Y. Osada, Double‐           76.   S. Khetan et al., Degradation-mediated cellular traction
+    bm010008g; pmid: 11777378                                              network hydrogels with extremely high mechanical strength.               directs stem cell fate in covalently crosslinked three-
+31. S. W. Morton et al., Scalable manufacture of built-to-order            Adv. Mater. 15, 1155–1158 (2003). doi: 10.1002/                          dimensional hydrogels. Nat. Mater. 12, 458–465 (2013).
+    nanomedicine: Spray-assisted layer-by-layer functionalization          adma.200304907                                                           doi: 10.1038/nmat3586; pmid: 23524375
+    of PRINT nanoparticles. Adv. Mater. 25, 4707–4713 (2013).          54. K. J. Henderson, T. C. Zhou, K. J. Otim, K. R. Shull, Ionically    77.   C. Yang, M. W. Tibbitt, L. Basta, K. S. Anseth, Mechanical
+    doi: 10.1002/adma.201302025; pmid: 23813892                            cross-linked triblock copolymer hydrogels with high strength.            memory and dosing influence stem cell fate. Nat. Mater. 13,
+32. J. Leijten et al., Advancing Tissue Engineering: A Tale of             Macromolecules 43, 6193–6201 (2010). doi: 10.1021/ma100963m              645–652 (2014). doi: 10.1038/nmat3889; pmid: 24633344
+    Nano-, Micro-, and Macroscale Integration. Small 12,               55. T. L. Sun et al., Physical hydrogels composed of                   78.   S. E. Sakiyama-Elbert, A. Panitch, J. A. Hubbell, Development
+    2130–2145 (2016). doi: 10.1002/smll.201501798;                         polyampholytes demonstrate high toughness and                            of growth factor fusion proteins for cell-triggered drug
+    pmid: 27101419                                                         viscoelasticity. Nat. Mater. 12, 932–937 (2013). doi: 10.1038/           delivery. FASEB J. 15, 1300–1302 (2001). pmid: 11344120
+33. E. A. Bekturov, L. A. Bimendina, in Speciality Polymers                nmat3713; pmid: 23892784                                           79.   M. P. Lutolf et al., Synthetic matrix metalloproteinase-
+    (Springer, 1981), pp. 99–147.                                      56. M. A. Gonzalez et al., Strong, tough, stretchable, and self‐             sensitive hydrogels for the conduction of tissue regeneration:
+34. W. E. Hennink, C. F. van Nostrum, Novel crosslinking                   adhesive hydrogels from intrinsically unstructured proteins.             Engineering cell-invasion characteristics. Proc. Natl. Acad.
+    methods to design hydrogels. Adv. Drug Deliv. Rev. 54, 13–36           Adv. Mater. 29, 1604743 (2017). doi: 10.1002/                            Sci. U.S.A. 100, 5413–5418 (2003). doi: 10.1073/
+    (2002). doi: 10.1016/S0169-409X(01)00240-X;                            adma.201604743; pmid: 28060425                                           pnas.0737381100; pmid: 12686696
+    pmid: 11755704                                                     57. J. Y. Oh et al., Intrinsically stretchable and healable            80.   B. P. Purcell et al., Injectable and bioresponsive hydrogels
+35. C. A. DeForest, B. D. Polizzotti, K. S. Anseth, Sequential click       semiconducting polymer for organic transistors. Nature 539,              for on-demand matrix metalloproteinase inhibition.
+    reactions for synthesizing and patterning three-dimensional            411–415 (2016). doi: 10.1038/nature20102; pmid: 27853213                 Nat. Mater. 13, 653–661 (2014). doi: 10.1038/nmat3922;
+    cell microenvironments. Nat. Mater. 8, 659–664 (2009).             58. N. A. Peppas, J. Z. Hilt, A. Khademhosseini, R. Langer,                  pmid: 24681647
+    doi: 10.1038/nmat2473; pmid: 19543279                                  Hydrogels in biology and medicine: From molecular principles       81.   A. Watarai et al., TGFb functionalized starPEG-heparin
+36. C. A. DeForest, K. S. Anseth, Cytocompatible click-based               to bionanotechnology. Adv. Mater. 18, 1345–1360 (2006).                  hydrogels modulate human dermal fibroblast growth and
+    hydrogels with dynamically tunable properties through                  doi: 10.1002/adma.200501612                                              differentiation. Acta Biomater. 25, 65–75 (2015).
+    orthogonal photoconjugation and photocleavage reactions.           59. H. Yuk, T. Zhang, S. Lin, G. A. Parada, X. Zhao, Tough                   doi: 10.1016/j.actbio.2015.07.036; pmid: 26219861
+    Nat. Chem. 3, 925–931 (2011). doi: 10.1038/nchem.1174;                 bonding of hydrogels to diverse non-porous surfaces.               82.   A. V. Taubenberger et al., 3D extracellular matrix interactions
+    pmid: 22109271                                                         Nat. Mater. 15, 190–196 (2016). doi: 10.1038/nmat4463;                   modulate tumour cell growth, invasion and angiogenesis
+37. M. A. Azagarsamy, K. S. Anseth, Bioorthogonal click                    pmid: 26552058                                                           in engineered tumour microenvironments. Acta Biomater.
+    chemistry: An indispensable tool to create multifaceted cell       60. A. K. Gaharwar et al., Shear-thinning nanocomposite                      36, 73–85 (2016). doi: 10.1016/j.actbio.2016.03.017;
+    culture scaffolds. ACS Macro Lett. 2, 5–9 (2013).                      hydrogels for the treatment of hemorrhage. ACS Nano 8,                   pmid: 26971667
+    doi: 10.1021/mz300585q; pmid: 23336091                                 9833–9842 (2014). doi: 10.1021/nn503719n; pmid: 25221894           83.   A. Zieris et al., Biohybrid networks of selectively desulfated
+38. J. Li, W. R. K. Illeperuma, Z. Suo, J. J. Vlassak, Hybrid          61. A. Paul et al., Injectable graphene oxide/hydrogel-based                 glycosaminoglycans for tunable growth factor delivery.
+    hydrogels with extremely high stiffness and toughness. ACS             angiogenic gene delivery system for vasculogenesis and                   Biomacromolecules 15, 4439–4446 (2014). doi: 10.1021/
+    Macro Lett. 3, 520–523 (2014). doi: 10.1021/mz5002355                  cardiac repair. ACS Nano 8, 8050–8062 (2014). doi: 10.1021/              bm5012294; pmid: 25329425
+39. N. Annabi et al., Highly elastic and conductive human-based            nn5020787; pmid: 24988275                                          84.   L. Zhang, H. Liang, J. Jacob, P. Naumov, Photogated
+    protein hybrid hydrogels. Adv. Mater. 28, 40–49 (2016).            62. A. Phadke et al., Rapid self-healing hydrogels. Proc. Natl.              humidity-driven motility. Nat. Commun. 6, 7429 (2015).
+    doi: 10.1002/adma.201503255; pmid: 26551969                            Acad. Sci. U.S.A. 109, 4383–4388 (2012). doi: 10.1073/                   doi: 10.1038/ncomms8429; pmid: 26067649
+40. H. Yuk, T. Zhang, G. A. Parada, X. Liu, X. Zhao, Skin-inspired         pnas.1201122109; pmid: 22392977                                    85.   J. C. Breger et al., Self-folding thermo-magnetically responsive
+    hydrogel-elastomer hybrids with robust interfaces and              63. J. Cui, A. del Campo, Multivalent H-bonds for self-healing               soft microgrippers. ACS Appl. Mater. Interfaces 7, 3398–3405
+    functional microstructures. Nat. Commun. 7, 12028 (2016).              hydrogels. Chem. Commun. (Camb.) 48, 9302–9304 (2012).                   (2015). doi: 10.1021/am508621s; pmid: 25594664
+    doi: 10.1038/ncomms12028; pmid: 27345380                               doi: 10.1039/c2cc34701f; pmid: 22885346                            86.   Q. Yu, J. M. Bauer, J. S. Moore, D. J. Beebe, Responsive
+41. J.-Y. Sun et al., Highly stretchable and tough hydrogels.          64. I. M. Geisler, J. P. Schneider, Evolution-based design of an             biomimetic hydrogel valve for microfluidics. Appl. Phys. Lett.
+    Nature 489, 133–136 (2012). doi: 10.1038/nature11409;                  injectable hydrogel. Adv. Funct. Mater. 22, 529–537 (2012).              78, 2589–2591 (2001). doi: 10.1063/1.1367010
+    pmid: 22955625                                                         doi: 10.1002/adfm.201102330                                        87.   C. Ma et al., Supramolecular Lego assembly towards
+42. A. K. Gaharwar, N. A. Peppas, A. Khademhosseini,                   65. E. A. Appel et al., Self-assembled hydrogels utilizing polymer-          three-dimensional multi-responsive hydrogels. Adv. Mater.
+    Nanocomposite hydrogels for biomedical applications.                   nanoparticle interactions. Nat. Commun. 6, 6295 (2015).                  26, 5665–5669 (2014). doi: 10.1002/adma.201402026;
+    Biotechnol. Bioeng. 111, 441–453 (2014). doi: 10.1002/                 doi: 10.1038/ncomms7295; pmid: 25695516                                  pmid: 24975743
+    bit.25160; pmid: 24264728                                          66. M. Nakahata, Y. Takashima, H. Yamaguchi, A. Harada, Redox-         88.   Z. L. Wu et al., Three-dimensional shape transformations of
+43. H. Bodugoz-Senturk, C. E. Macias, J. H. Kung, O. K. Muratoglu,         responsive self-healing materials formed from host-guest                 hydrogel sheets induced by small-scale modulation of internal
+    Poly(vinyl alcohol)-acrylamide hydrogels as load-bearing               polymers. Nat. Commun. 2, 511 (2011). doi: 10.1038/                      stresses. Nat. Commun. 4, 1586 (2013).
+    cartilage substitute. Biomaterials 30, 589–596 (2009).                 ncomms1521; pmid: 22027591                                               doi: 10.1038/ncomms2549; pmid: 23481394
+    doi: 10.1016/j.biomaterials.2008.10.010; pmid: 18996584            67. M. Zhang et al., Self-healing supramolecular gels formed by        89.   D. Kokkinis, M. Schaffner, A. R. Studart, Multimaterial
+44. A. W. Feinberg, Biological soft robotics. Annu. Rev. Biomed.           crown ether based host-guest interactions. Angew. Chem. Int.             magnetically assisted 3D printing of composite materials.
+    Eng. 17, 243–265 (2015). doi: 10.1146/annurev-bioeng-                  Ed. 124, 7117–7121 (2012). doi: 10.1002/ange.201203063;                  Nat. Commun. 6, 8643 (2015). doi: 10.1038/ncomms9643;
+    071114-040632; pmid: 26643022                                          pmid: 22653895                                                           pmid: 26494528
+45. N. Annabi et al., Elastomeric recombinant protein-based            68. R. K. Avery et al., An injectable shear-thinning biomaterial for   90.   X. Zhao et al., Active scaffolds for on-demand drug and cell
+    biomaterials. Biochem. Eng. J. 77, 110–118 (2013).                     endovascular embolization. Sci. Transl. Med. 8, 365ra156                 delivery. Proc. Natl. Acad. Sci. U.S.A. 108, 67–72 (2011).
+    doi: 10.1016/j.bej.2013.05.006; pmid: 23935392                         (2016). doi: 10.1126/scitranslmed.aah5533; pmid: 27856795                doi: 10.1073/pnas.1007862108; pmid: 21149682
+
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)                        5 May 2017                                                                                                                 9 of 10
+R ES E A RC H | R E V IE W
+
+
+91.  S. Kim, C. Laschi, B. Trimmer, Soft robotics: A bioinspired               1177–1183 (2012). doi: 10.1126/science.1227268;                     129. S. Khalil, J. Nam, W. Sun, Multi‐nozzle deposition for
+     evolution in robotics. Trends Biotechnol. 31, 287–294 (2013).             pmid: 23197527                                                           construction of 3D biopolymer tissue scaffoldsnull. Rapid
+     doi: 10.1016/j.tibtech.2013.03.002; pmid: 23582470                   111. H. Qi et al., DNA-directed self-assembly of shape-controlled             Prototyping J. 11, 9–17 (2005). doi: 10.1108/
+92. K. Kuribayashi-Shigetomi, H. Onoe, S. Takeuchi, Cell origami:              hydrogels. Nat. Commun. 4, 2275 (2013). doi: 10.1038/                    13552540510573347
+     Self-folding of three-dimensional cell-laden microstructures              ncomms3275; pmid: 24013352                                          130. J. O. Hardin, T. J. Ober, A. D. Valentine, J. A. Lewis,
+     driven by cell traction force. PLOS ONE 7, e51085 (2012).            112. M. E. Todhunter et al., Programmed synthesis of three-                   Microfluidic printheads for multimaterial 3D printing of
+     doi: 10.1371/journal.pone.0051085; pmid: 23251426                         dimensional tissues. Nat. Methods 12, 975–981 (2015).                    viscoelastic Inks. Adv. Mater. 27, 3279–3284 (2015).
+93. J. C. Nawroth et al., A tissue-engineered jellyfish with                   doi: 10.1038/nmeth.3553; pmid: 26322836                                  doi: 10.1002/adma.201500222; pmid: 25885762
+     biomimetic propulsion. Nat. Biotechnol. 30, 792–797 (2012).          113. S. V. Murphy, A. Atala, 3D bioprinting of tissues and organs.       131. W. Liu et al., Rapid continuous multimaterial extrusion
+     doi: 10.1038/nbt.2269; pmid: 22820316                                     Nat. Biotechnol. 32, 773–785 (2014). doi: 10.1038/nbt.2958;              bioprinting. Adv. Mater. 29, 1604630 (2017). doi: 10.1002/
+94. S.-J. Park et al., Phototactic guidance of a tissue-engineered             pmid: 25093879                                                           adma.201604630; pmid: 27859710
+     soft-robotic ray. Science 353, 158–162 (2016). doi: 10.1126/         114. J. Malda et al., 25th anniversary article: Engineering              132. T. J. Ober, D. Foresti, J. A. Lewis, Active mixing of complex
+     science.aaf4292; pmid: 27387948                                           hydrogels for biofabrication. Adv. Mater. 25, 5011–5028                  fluids at the microscale. Proc. Natl. Acad. Sci. U.S.A. 112,
+95. S. R. Shin et al., Carbon-nanotube-embedded hydrogel sheets                (2013). doi: 10.1002/adma.201302042; pmid: 24038336                      12293–12298 (2015). doi: 10.1073/pnas.1509224112;
+     for engineering cardiac constructs and bioactuators. ACS             115. C. W. Hull (Google Patents, 1986).                                       pmid: 26396254
+     Nano 7, 2369–2380 (2013). doi: 10.1021/nn305559j;                    116. J. R. Tumbleston et al., Additive manufacturing. Continuous         133. N. A. Peppas, A. Khademhosseini, Make better, safer
+     pmid: 23363247                                                            liquid interface production of 3D objects. Science 347,                  biomaterials. Nature 540, 335–337 (2016). doi: 10.1038/
+96. S. R. Shin et al., Aligned carbon nanotube-based flexible gel              1349–1352 (2015). doi: 10.1126/science.aaa2397;                          540335a; pmid: 27974790
+                                                                                                                                                   134. E. Caló, V. V. Khutoryanskiy, Biomedical applications of
+     substrates for engineering bio-hybrid tissue actuators.                   pmid: 25780246
+                                                                                                                                                        hydrogels: A review of patents and commercial products.
+     Adv. Funct. Mater. 25, 4486–4495 (2015). doi: 10.1002/               117. J. Liu, H. H. Hwang, P. Wang, G. Whang, S. Chen, Direct
+                                                                                                                                                        Eur. Polym. J. 65, 252–267 (2015). doi: 10.1016/
+     adfm.201501379; pmid: 27134620                                            3D-printing of cell-laden constructs in microfluidic
+                                                                                                                                                        j.eurpolymj.2014.11.024
+97. S. R. Shin et al., Reduced graphene oxide‐gelMA hybrid                     architectures. Lab Chip 16, 1430–1438 (2016). doi: 10.1039/
+                                                                                                                                                   135. H. Kamata, Y. Akagi, Y. Kayasuga-Kariya, U. I. Chung, T. Sakai,
+     hydrogels as scaffolds for cardiac tissue engineering. Small              C6LC00144K; pmid: 26980159
+                                                                                                                                                        “Nonswellable” hydrogel without mechanical hysteresis.
+     12, 3677–3689 (2016). doi: 10.1002/smll.201600178;                   118. C. Colosi et al., Microfluidic bioprinting of heterogeneous
+                                                                                                                                                        Science 343, 873–875 (2014). doi: 10.1126/science.1247811;
+
+
+
+
+                                                                                                                                                                                                                           Downloaded from http://science.sciencemag.org/ on May 4, 2017
+     pmid: 27254107                                                            3D tissue constructs using low-viscosity bioink. Adv. Mater.
+                                                                                                                                                        pmid: 24558157
+98. Y. S. Zhang et al., From cardiac tissue engineering to                     28, 677–684 (2016). doi: 10.1002/adma.201503310;
+                                                                                                                                                   136. J. Visser et al., Reinforcement of hydrogels using three-
+     heart-on-a-chip: Beating challenges. Biomed. Mater. 10,                   pmid: 26606883
+                                                                                                                                                        dimensionally printed microfibres. Nat. Commun. 6,
+     034006 (2015). doi: 10.1088/1748-6041/10/3/034006;                   119. Y. S. Zhang et al., Bioprinting 3D microfibrous scaffolds for
+                                                                                                                                                        6933 (2015). doi: 10.1038/ncomms7933;
+     pmid: 26065674                                                            engineering endothelialized myocardium and heart-on-a-chip.
+                                                                                                                                                        pmid: 25917746
+99. K. S. Saladin, L. Miller, Anatomy and Physiology (McGraw-Hill,             Biomaterials 110, 45–59 (2016). doi: 10.1016/
+                                                                                                                                                   137. A. Blaeser et al., Controlling shear stress in 3D bioprinting is
+     1998).                                                                    j.biomaterials.2016.09.003; pmid: 27710832                               a key factor to balance printing resolution and stem cell
+100. X. Ma et al., Deterministically patterned biomimetic human           120. T. Billiet, E. Gevaert, T. De Schryver, M. Cornelissen,
+                                                                                                                                                        integrity. Adv. Healthc. Mater. 5, 326–333 (2016).
+     iPSC-derived hepatic model via rapid 3D bioprinting. Proc.                P. Dubruel, The 3D printing of gelatin methacrylamide
+                                                                                                                                                        doi: 10.1002/adhm.201500677; pmid: 26626828
+     Natl. Acad. Sci. U.S.A. 113, 2206–2211 (2016). doi: 10.1073/              cell-laden tissue-engineered constructs with high cell viability.   138. D. Raviv et al., Active printed materials for complex
+     pnas.1524510113; pmid: 26858399                                           Biomaterials 35, 49–62 (2014). doi: 10.1016/                             self-evolving deformations. Sci. Rep. 4, 7422 (2014).
+101. Y. Du, E. Lo, S. Ali, A. Khademhosseini, Directed assembly of             j.biomaterials.2013.09.078; pmid: 24112804                               doi: 10.1038/srep07422; pmid: 25522053
+     cell-laden microgels for fabrication of 3D tissue constructs.        121. L. E. Bertassoni et al., Hydrogel bioprinted microchannel           139. S. Tibbits, 4D printing: Multi‐material shape change.
+     Proc. Natl. Acad. Sci. U.S.A. 105, 9522–9527 (2008).                      networks for vascularization of tissue engineering constructs.           Architect. Des. 84, 116–121 (2014).
+     doi: 10.1073/pnas.0801866105; pmid: 18599452                              Lab Chip 14, 2202–2211 (2014). doi: 10.1039/C4LC00030G;             140. A. S. Gladman, E. A. Matsumoto, R. G. Nuzzo, L. Mahadevan,
+102. Y. Du et al., Sequential assembly of cell-laden hydrogel                  pmid: 24860845                                                           J. A. Lewis, Biomimetic 4D printing. Nat. Mater. 15, 413–418
+     constructs to engineer vascular-like microchannels.                  122. D. B. Kolesky et al., 3D bioprinting of vascularized,                    (2016). doi: 10.1038/nmat4544; pmid: 26808461
+     Biotechnol. Bioeng. 108, 1693–1703 (2011). doi: 10.1002/                  heterogeneous cell-laden tissue constructs. Adv. Mater. 26,         141. Q. Ge et al., Multimaterial 4D printing with tailorable shape
+     bit.23102; pmid: 21337336                                                 3124–3130 (2014). doi: 10.1002/adma.201305506;                           memory polymers. Sci. Rep. 6, 31110 (2016). doi: 10.1038/
+103. Y. Du et al., Surface-directed assembly of cell-laden microgels.          pmid: 24550124                                                           srep31110; pmid: 27499417
+     Biotechnol. Bioeng. 105, 655–662 (2010). doi: 10.1002/               123. D. B. Kolesky, K. A. Homan, M. A. Skylar-Scott, J. A. Lewis,        142. S. Miao et al., 4D printing smart biomedical scaffolds with
+     bit.22552; pmid: 19777588                                                 Three-dimensional bioprinting of thick vascularized tissues.             novel soybean oil epoxidized acrylate. Sci. Rep. 6, 27226
+104. N. M. Oliveira et al., Hydrophobic hydrogels: Towards                     Proc. Natl. Acad. Sci. U.S.A. 113, 3179–3184 (2016).                     (2016). doi: 10.1038/srep27226; pmid: 27251982
+     construction of floating (bio)microdevices. Chem. Mater. 28,              doi: 10.1073/pnas.1521342113; pmid: 26951646                        143. Y.-C. Li, Y. S. Zhang, A. Akpek, S. R. Shin, A. Khademhosseini,
+     3641–3648 (2016). doi: 10.1021/acs.chemmater.5b04445                 124. S. Hong et al., 3D printing of highly stretchable and tough              4D bioprinting: The next-generation technology for
+105. N. C. Seeman, Nucleic acid junctions and lattices. J. Theor. Biol.        hydrogels into complex, cellularized structures. Adv. Mater.             biofabrication enabled by stimuli-responsive materials.
+     99, 237–247 (1982). doi: 10.1016/0022-5193(82)90002-9;                    27, 4035–4040 (2015). doi: 10.1002/adma.201501099;                       Biofabrication 9, 012001 (2016). doi: 10.1088/1758-5090/9/
+     pmid: 6188926                                                             pmid: 26033288                                                           1/012001; pmid: 27910820
+106. B. Wei, M. Dai, P. Yin, Complex shapes self-assembled from           125. T. Bhattacharjee et al., Writing in the granular gel medium.
+     single-stranded DNA tiles. Nature 485, 623–626 (2012).                    Sci. Adv. 1, e1500655 (2015). doi: 10.1126/sciadv.1500655;
+     doi: 10.1038/nature11075; pmid: 22660323                                  pmid: 26601274                                                      AC KNOWLED GME NTS
+107. C. J. Delebecque, A. B. Lindner, P. A. Silver, F. A. Aldaye,         126. C. B. Highley, C. B. Rodell, J. A. Burdick, Direct 3D printing      The authors acknowledge funding from the National Institutes of
+     Organization of intracellular reactions with rationally                   of shear-thinning hydrogels into self-healing hydrogels.            Health (grants AR057837, DE021468, D005865, AR068258,
+     designed RNA assemblies. Science 333, 470–474 (2011).                     Adv. Mater. 27, 5075–5079 (2015). doi: 10.1002/                     AR066193, EB022403, and EB021148) and the Office of Naval
+     doi: 10.1126/science.1206938; pmid: 21700839                              adma.201501234; pmid: 26177925                                      Research Presidential Early Career Award for Scientists and
+108. P. Yin et al., Programming DNA tube circumferences. Science          127. T. J. Hinton et al., Three-dimensional printing of complex          Engineers (PECASE). Y.S.Z. acknowledges the National Cancer
+     321, 824–826 (2008). doi: 10.1126/science.1157312;                        biological structures by freeform reversible embedding of           Institute of the National Institutes of Health Pathway to
+     pmid: 18687961                                                            suspended hydrogels. Sci. Adv. 1, e1500758 (2015).                  Independence Award (K99CA201603). We greatly appreciate
+109. A. Chworos et al., Building programmable jigsaw puzzles with              doi: 10.1126/sciadv.1500758; pmid: 26601312                         S. Masoud Moosavi-Basri for assistance with figure illustrations.
+     RNA. Science 306, 2068–2072 (2004). doi: 10.1126/                    128. H.-W. Kang et al., A 3D bioprinting system to produce               We also thank S. Hassan, J. Seo, and W. Wang for their valuable
+     science.1104686; pmid: 15604402                                           human-scale tissue constructs with structural integrity.            discussions.
+110. Y. Ke, L. L. Ong, W. M. Shih, P. Yin, Three-dimensional                   Nat. Biotechnol. 34, 312–319 (2016). doi: 10.1038/nbt.3413;
+     structures self-assembled from DNA bricks. Science 338,                   pmid: 26878319                                                      10.1126/science.aaf3627
+
+
+
+
+Zhang and Khademhosseini, Science 356, eaaf3627 (2017)                            5 May 2017                                                                                                                10 of 10
+                                    Advances in engineering hydrogels
+                                    Yu Shrike Zhang and Ali Khademhosseini (May 4, 2017)
+                                    Science 356 (6337), . [doi: 10.1126/science.aaf3627]
+
+
+
+
+Editor's Summary
+
+Wet, soft, squishy, and tunable
+      Hydrogels are highly cross-linked polymer networks that are heavily swollen with water.
+Hydrogels have been used as dynamic, tunable, degradable materials for growing cells and tissues.
+Zhang and Khademhosseini review the advances in making hydrogels with improved mechanical
+strength and greater flexibility for use in a wide range of applications.
+      Science, this issue p. eaaf3627
+
+
+
+
+                                                                                                        Downloaded from http://science.sciencemag.org/ on May 4, 2017
+                       This copy is for your personal, non-commercial use only.
+
+
+
+
+       Article Tools       Visit the online version of this article to access the personalization and
+                           article tools:
+                           http://science.sciencemag.org/content/356/6337/eaaf3627
+
+         Permissions       Obtain information about reproducing this article:
+                           http://www.sciencemag.org/about/permissions.dtl
+
+
+
+
+ Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week
+ in December, by the American Association for the Advancement of Science, 1200 New York
+ Avenue NW, Washington, DC 20005. Copyright 2016 by the American Association for the
+ Advancement of Science; all rights reserved. The title Science is a registered trademark of AAAS.
+

@@ -1,13 +1,18 @@
 ---
 description: 会话上下文缓存——记录最近的知识库活动
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 # hot.md
 
 ## 最近活动
 
-- [2026-05-10] **Codex 精读续跑：5 篇顶刊深读（Nature ×1、Nat. Mater. ×2、Chem Soc Rev ×1、Prog Mater Sci ×1），77 篇待续**：跨模型（GPT-5.4）精读，含超粘附水凝胶ML设计、DN自强化、纳米限域刚硬自修复、抗冻综述、水灵魂综述。KB 水凝胶页：419 篇，Codex 精读：148 篇。
+- [2026-05-12] **Codex 三路并行全文获取 + v2 精读升级：45 篇全覆盖收官**：3 路并行 Codex (GPT-5.4) 处理综述余量文献全文获取及 v2 精读升级。第一批 11 篇 paywall 论文 7→partial、4→failed。第二批 13 篇 ★★★★★ 高价值论文 11→FULLTEXT、1→partial、2→failed。第三批 21 篇纤维素离子凝胶/抗冻/传感器/TENG 论文：方向 A(5 partial+3 failed)、方向 B(9 partial+1 failed)、方向 C(3 partial)。累计：14 篇 FULLTEXT、30 篇 partial v2 升级、6 篇 failed。发现 2 篇 DOI 错配（CO2 催化、口腔凝胶），1 篇文件名重复已去重。精读质量：36→45 FULLTEXT（+9），无法验证 11→4（-7），低置信度 KNOWLEDGE-BASED 大幅削减。
+
+- [2026-05-11] **Codex 五线程终局：145 篇全部精读完成，水凝胶知识库全覆盖**：5 路并行 Codex (GPT-5.4) 精读剩余 145 篇文献，覆盖 Adv. Funct. Mater.、Carbohydr. Polym.、CEJ、IJBIOMAC、ACS 系列、Nat. Commun. 等。关键发现：识别 30 余篇"★★★★★直接命中"论文（两性离子 CNF 不可冻结水凝胶 −40°C/2.9 S/m、全天然多尺度纤维素网络 14.13 MPa/76.3 mS/cm/ −60°C、熔盐水合物 78.96 mS/cm/ −80~40°C、BC/PVA 有机水凝胶 −70°C/2974 kPa 等）。标记 3 篇错页（非水凝胶）+ 1 篇非水凝胶。Codex 精读：253→368 篇（含 arXiv 及非水凝胶共 49 篇跳过）。
+- [2026-05-11] **Codex 幻觉审计 + 批量修复：91 篇 PASS 文件清理完成**：4 路并行 Codex 零上下文审查 91 篇 PASS 文件的精读笔记，发现大量无摘要文件的精读内容无法确认。批量修正：48 篇无摘要文件替换为"无法验证"警告标记，42 篇有摘要文件由 Codex 重写为摘要可追溯的精读笔记。最终状态：43 篇有摘要可验证精读 + 48 篇有警告标记的标题级精读 + 289 篇 KNOWLEDGE-BASED 标题级精读。Codex 精读：368 篇全覆盖。
+- [2026-05-11] **Codex 全文获取 + 36 篇 FULLTEXT 精读升级**：让 Codex 自行搜索 GitHub 找 PDF 获取工具（scidownl），发现 Sci-Hub 页面结构已变无法直接使用。改用定制 Python 脚本从 Sci-Hub 批量下载 paywall 论文 PDF，Codex 读取 OA 全文升级 28 篇，直接读 PDF 升级 7 篇（Biomacromolecules、Angew. Chem.、Adv. Mater.、Science）。补充渠道：Unpaywall（因 422 不可用）、Semantic Scholar（无 OA 全文）、直接抓取 publisher HTML 页面（RSC 和 Soft Robotics 可获取摘要级内容）。修正 Gong 2003 Science DOI 为正确 Adv. Mater. DOI（10.1002/adma.200304907）。最终状态：36 篇 FULLTEXT（基于全文的可验证精读）、11 篇仍保留"无法验证"（2 Wiley + 1 RSC CSR + 2 ACS + 6 RSC JMC — 完全 paywall）。
+- [2026-05-10] **Codex 批量精读：+41 篇 / +21 篇 / +48 篇 四线程并行完成（Adv. Funct. Mater. ×17、Adv. Mater. ×3、Adv. Sci. ×2、Carbohydr. Polym. ×6、CEJ ×12、IJBIOMAC ×3、Nano Energy ×2、JCIS ×1、JMCA ×1、Mater. Horiz. ×1、Mater. Today Nano ×1、Soft Matter ×1、Green Chem. ×1 等）**：四线程并行 Codex 精读，覆盖纤维素基共晶凝胶、宽温域水凝胶、纤维素电解质、抗冻有机水凝胶、抗冻机理综述等方向。亮点：ZnCl₂ 离子工程纤维素离子凝胶 −103°C 抗冻/67.43 mS/cm（JMCA 2023）、DES 溶解纤维素共晶凝胶 4086% 应变/GF 5.4（IJBIOMAC 2024）、大豆蛋白-纤维素离子凝胶 >30 MPa/−20°C 保持 >10 MPa（AFM 2024）、纤维素/PAA/膨润土 88.9 mS/cm/−60°C 保持 30.3 mS/cm（Carbohydr. Polym. 2024）。Codex 精读：205→253 篇。
 - [2026-05-09] **批量精读补完：25 篇文献入库（纤维素溶解/软体机器人/BC创面敷料/补充）**：补齐 Codex 检索的 25 篇文献。关键亮点：ZnCl2 DES共晶凝胶(14MPa, -50°C, CEJ 2025)、CNC有机水凝胶(-60~60°C, JMCB 2025)、纳米纤维素电离子执行器(Soft Robotics 2025)、ML抗冻(Nano Lett. 2026, ACS APM 2026)、8篇BC创面敷料。KB水凝胶页：319→344篇。Codex精读：87→112 篇。：Codex (GPT-5.4) 精读综述 Section 4 剩余子方向。PVA/纤维素DN TENG(-40~50°C, 30天不干, Nano Energy 2024)、NaCMC/HEC超吸水凝胶(水分效率+25-45%, IJBMC 2025)。KB水凝胶页：317→319篇。Codex精读：84→87 篇。：Codex (GPT-5.4) 精读综述 Section 3 方向。覆盖面条预拉伸超强水凝胶(>50 MPa, -80°C, Carbohydr. Polym. 2024)、BmimCl/AM PDES离子凝胶(-20°C, 2.44 S/m, ACS APM 2023)、全纤维素44200%伸长水凝胶(Mater. Today 2024)、PLCNF/Fe³⁺/Zn²⁺宽温域传感(CEJ 2025)、CNC+DMSO/H₂O抗冻-70°C(Carbohydr. Polym. 2022)。KB水凝胶页：307→314 篇。Codex精读：76→81 篇。
 
 - [2026-05-09] **Codex 检索补充：22 篇纤维素基凝胶入库**：Codex (GPT-5.4) 零上下文检索 3 个综述缺口。纤维素溶解/fabrication(8篇，含 Research 2024、Mater. Today Chem综述、Carbohydr. Polym.×2), 软体机器人/执行器(6篇，含 Soft Robotics 2025、Nano Lett. 2024、Biomacromolecules), 细菌纤维素创面敷料(8篇，含 Adv. Mater. 2025、Carbohydr. Polym.×2、IJBMC×3)。KB水凝胶页：285→307 篇。：针对半成品综述 *Wide-Temperature Tolerant Cellulose-Based Gels* 的 6 个薄弱方向补充。CNC/CNF抗冻凝胶(3)、DES纤维素共晶凝胶(2)、纤维素TENG(2)、冷冻保存(2)、ML辅助设计(2)、水状态表征(3)。KB水凝胶页：271→285 篇。
@@ -33,18 +38,18 @@ updated: 2026-05-07
 
 | 领域 | 文献（.md笔记） | 方向 |
 |------|------|------|
-| 水凝胶 | 419 篇（148篇精读） | 抗冻、抗脱水、Eutectogels、自修复粘附、防冰/冷冻保存、电子皮肤、纤维素、传感器/能源、执行器/软体机器人、创面敷料 |
+| 水凝胶 | 419 篇（368篇Codex精读） | 抗冻、抗脱水、Eutectogels、自修复粘附、防冰/冷冻保存、电子皮肤、纤维素、传感器/能源、执行器/软体机器人、创面敷料 |
 | 有机磷化学 | 57 篇 | 手性膦催化剂、C-P键、不对称催化 |
 | 化学信息学 | 51 篇 | ML分子建模、AI药物发现 |
 | 化工设计竞赛 | 33 篇 | 苯乙烯清洁生产、乙苯脱氢 |
 
 ### 精读质量
 
-全部 76 篇精读笔记采用 v2 格式：
-- **原文依据**「摘要原句引用」— 每个结论可追溯
-- **[推断]** — 推测与事实严格分离
-- **原文核查表** — 断言 ↔ 原文支持 ↔ 可信度评级
-- 批次含 29 篇无摘要占位（待手动补充）
+全部 368 篇 Codex 精读笔记采用 compact 格式：
+- **核心贡献** — 1 句概括，带关键数据
+- **综述相关性** — ★ 评级（纤维素基宽温域相关度）
+- **置信度** — X/5（有摘要 4-5，无摘要 1-3）
+- 含约 130 篇无摘要占位（_audit_codex: KNOWLEDGE-BASED），仅标题级别精读
 
 ### 精读脚本
 

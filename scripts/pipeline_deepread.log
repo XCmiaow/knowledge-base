@@ -1,0 +1,216 @@
+[CONFIG] Review mode: 314 papers in scope
+[INVENTORY] Scanning wiki (recursive) and raw directories...
+
+===== Inventory Report =====
+  Total papers:           734
+  deepread-codex (done):  178
+  deepread-mimo (upgrade):16
+  needs first deepread:   540
+  new raw (no wiki):      0
+  have PDFs:              2
+===========================
+
+[REVIEW] Filtered to 314 review papers
+[DEEPREAD] Processing 74 papers with 4 parallel Codex workers...
+[DEEPREAD] Estimated time: ~27min
+[DEEPREAD] Papers will use full text (PDF) where available
+  [RETRY 1/2] 10.1039/c6ra12517d (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1038/s41467-018-05904-z (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/c8cc05779f (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/c4ra07576e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/c8cc05779f (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/c6ra12517d (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1038/s41467-018-05904-z (validation: ['No [原文] claims', 'No [推断] markers'])
+  [1/74] \u2717 10.1039/c8cc05779f (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1039/c4ra07576e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/c8ra01639a (validation: ['No [原文] claims', 'No [推断] markers'])
+  [2/74] \u2717 10.1039/c4ra07576e (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [3/74] \u2717 10.1039/c6ra12517d (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [4/74] \u2717 10.1038/s41467-018-05904-z (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1039/c8ra01639a (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/d0ta04360e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/d2ta06835d (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/d1ta06468a (validation: ['No [原文] claims', 'No [推断] markers'])
+  [5/74] \u2717 10.1039/c8ra01639a (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1039/d2ta06835d (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/d3ta04980a (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/d0ta04360e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/d1ta06468a (validation: ['No [原文] claims', 'No [推断] markers'])
+  [6/74] \u2717 10.1039/d2ta06835d (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1039/d3ta04980a (validation: ['No [原文] claims', 'No [推断] markers'])
+  [7/74] \u2717 10.1039/d0ta04360e (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [8/74] \u2717 10.1039/d1ta06468a (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.1039/d3ta07424b (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/d4ma00725e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [9/74] \u2717 10.1039/d3ta04980a (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.1039/d4nj03774j (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/d3ta07424b (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/d4ma00725e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1039/d4nj03774j (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1039/d5gc05362e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [10/74] \u2717 10.1039/d3ta07424b (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [11/74] \u2717 10.1039/d4ma00725e (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1039/d5gc05362e (validation: ['No [原文] claims', 'No [推断] markers'])
+  [12/74] \u2717 10.1039/d4nj03774j (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.1051/matecconf/202134700014 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1063/1674-0068/cjcp2106104 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1063/5.0139951 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1051/matecconf/202134700014 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1063/1674-0068/cjcp2106104 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [13/74] \u2717 10.1039/d5gc05362e (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [14/74] \u2717 10.1051/matecconf/202134700014 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1063/5.0139951 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [15/74] \u2717 10.1063/1674-0068/cjcp2106104 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.1080/10601320701285045 (no abstract, 1s)
+  [16/74] – 10.1080/10601320701285045 (abstract, 1.5s) | no abstract
+  [RETRY 1/2] 10.1063/5.0207037 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [17/74] \u2717 10.1063/5.0139951 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.1080/10584587.2023.2227051 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1063/5.0207037 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1080/1536383x.2024.2310697 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1080/10584587.2023.2227051 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1080/10601325.2024.2409754 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [18/74] \u2717 10.1063/5.0207037 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.1080/10601325.2024.2409754 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1080/1536383x.2024.2310697 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [19/74] \u2717 10.1080/10584587.2023.2227051 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [20/74] \u2717 10.1080/10601325.2024.2409754 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.1109/ee.1941.6434631 (no abstract, 1s)
+  [21/74] – 10.1109/ee.1941.6434631 (abstract, 1.2s) | no abstract
+  [RETRY 1/2] 10.1155/2015/963436 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1088/1757-899x/223/1/012052 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [22/74] \u2717 10.1080/1536383x.2024.2310697 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.1186/s40486-025-00239-z (no abstract, 2s)
+  [23/74] – 10.1186/s40486-025-00239-z (abstract, 1.7s) | no abstract
+  [SKIP] 10.1299/jsmeted.2020.0023 (no abstract, 1s)
+  [24/74] – 10.1299/jsmeted.2020.0023 (abstract, 1.5s) | no abstract
+  [RETRY 2/2] 10.1155/2015/963436 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1088/1757-899x/223/1/012052 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.1115/1.4000858 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.15376/biores.11.3.7710-7720 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.1115/1.4000858 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [25/74] \u2717 10.1155/2015/963436 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [26/74] \u2717 10.1115/1.4000858 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.15376/biores.13.1.xu (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.15376/biores.11.3.7710-7720 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [27/74] \u2717 10.1088/1757-899x/223/1/012052 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.15376/biores.13.1.xu (validation: ['No [原文] claims', 'No [推断] markers'])
+  [28/74] \u2717 10.15376/biores.11.3.7710-7720 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.19045/bspab.2026.150008 (no abstract, 1s)
+  [29/74] – 10.19045/bspab.2026.150008 (abstract, 1.3s) | no abstract
+  [SKIP] 10.2115/fiberst.2018-0004 (no abstract, 2s)
+  [30/74] – 10.2115/fiberst.2018-0004 (abstract, 1.6s) | no abstract
+  [SKIP] 10.2139/ssrn.4193410 (no abstract, 2s)
+  [31/74] – 10.2139/ssrn.4193410 (abstract, 1.7s) | no abstract
+  [SKIP] 10.2139/ssrn.4197761 (no abstract, 2s)
+  [32/74] – 10.2139/ssrn.4197761 (abstract, 1.7s) | no abstract
+  [SKIP] 10.2139/ssrn.4204630 (no abstract, 1s)
+  [33/74] – 10.2139/ssrn.4204630 (abstract, 1.2s) | no abstract
+  [SKIP] 10.2139/ssrn.4397162 (no abstract, 2s)
+  [34/74] – 10.2139/ssrn.4397162 (abstract, 1.7s) | no abstract
+  [35/74] \u2717 10.15376/biores.13.1.xu (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.2352/j.imagingsci.technol.2025.69.3.030412 (no abstract, 1s)
+  [36/74] – 10.2352/j.imagingsci.technol.2025.69.3.030412 (abstract, 1.2s) | no abstract
+  [RETRY 1/2] 10.17576/jsm-2015-4406-04 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.18321/ectj524 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.24200/sci.2017.4285 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.17576/jsm-2015-4406-04 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.18321/ectj524 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.2166/wpt.2023.230 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.24200/sci.2017.4285 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [37/74] \u2717 10.17576/jsm-2015-4406-04 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.26599/nr.2025.94907822 (no abstract, 2s)
+  [38/74] – 10.26599/nr.2025.94907822 (abstract, 2.0s) | no abstract
+  [SKIP] 10.26634/jms.5.1.13484 (no abstract, 3s)
+  [39/74] – 10.26634/jms.5.1.13484 (abstract, 2.8s) | no abstract
+  [40/74] \u2717 10.18321/ectj524 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.2166/wpt.2023.230 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.33140/jpcppr.01.01.01 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [41/74] \u2717 10.24200/sci.2017.4285 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [42/74] \u2717 10.2166/wpt.2023.230 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.33140/jpcppr.01.01.01 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3139/146.111938 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [43/74] \u2717 10.33140/jpcppr.01.01.01 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.3389/fbioe.2020.602318 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3139/146.111938 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/antibiotics12050873 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3389/fbioe.2020.602318 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/foods11111619 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [44/74] \u2717 10.3389/fbioe.2020.602318 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.3390/antibiotics12050873 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [45/74] \u2717 10.3139/146.111938 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.3390/foods6060041 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [46/74] \u2717 10.3390/antibiotics12050873 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.3390/foods11111619 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/gels11010038 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [47/74] \u2717 10.3390/foods11111619 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.3390/gels11070522 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/foods6060041 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/gels11010038 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/gels11070522 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/gels7040277 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [48/74] \u2717 10.3390/foods6060041 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.3390/gels7040277 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [49/74] \u2717 10.3390/gels11070522 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [50/74] \u2717 10.3390/gels11010038 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.3390/gels9010020 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [51/74] \u2717 10.3390/gels7040277 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.3390/ma12101628 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/ma13245789 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/gels9010020 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/ma14206165 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/ma12101628 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/ma13245789 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.3390/ma14206165 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [52/74] \u2717 10.3390/gels9010020 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [53/74] \u2717 10.3390/ma13245789 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.36463/idw.2022.0816 (no abstract, 1s)
+  [54/74] – 10.36463/idw.2022.0816 (abstract, 1.5s) | no abstract
+  [SKIP] 10.3724/sp.j.1077.2008.01011 (no abstract, 1s)
+  [55/74] – 10.3724/sp.j.1077.2008.01011 (abstract, 1.4s) | no abstract
+  [SKIP] 10.3724/sp.j.1105.2011.10137 (no abstract, 1s)
+  [56/74] – 10.3724/sp.j.1105.2011.10137 (abstract, 1.2s) | no abstract
+  [SKIP] 10.3901/jme.2020.24.190 (no abstract, 1s)
+  [57/74] – 10.3901/jme.2020.24.190 (abstract, 1.2s) | no abstract
+  [SKIP] 10.3901/jme.2023.07.139 (no abstract, 1s)
+  [58/74] – 10.3901/jme.2023.07.139 (abstract, 1.3s) | no abstract
+  [59/74] \u2717 10.3390/ma14206165 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [60/74] \u2717 10.3390/ma12101628 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 1/2] 10.4028/www.scientific.net/amr.1103.9 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.4028/www.scientific.net/msf.1009.3 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.4028/www.scientific.net/amr.1103.9 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.4028/www.scientific.net/amm.852.349 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.4028/www.scientific.net/msf.1009.3 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.3390/polym17233102 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [61/74] \u2717 10.4028/www.scientific.net/amr.1103.9 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [62/74] \u2717 10.4028/www.scientific.net/msf.1009.3 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.4325/seikeikakou.28.326 (no abstract, 1s)
+  [63/74] – 10.4325/seikeikakou.28.326 (abstract, 1.2s) | no abstract
+  [SKIP] 10.47939/et.v2i3.149 (no abstract, 1s)
+  [64/74] – 10.47939/et.v2i3.149 (abstract, 1.3s) | no abstract
+  [RETRY 2/2] 10.4028/www.scientific.net/amm.852.349 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [SKIP] 10.52340/ns.2022.05 (no abstract, 1s)
+  [65/74] – 10.52340/ns.2022.05 (abstract, 1.3s) | no abstract
+  [RETRY 2/2] 10.3390/polym17233102 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.54097/ijbls.v2i3.8660 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [66/74] \u2717 10.3390/polym17233102 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [67/74] \u2717 10.4028/www.scientific.net/amm.852.349 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [SKIP] 10.5658/wood.2015.43.6.740 (no abstract, 1s)
+  [68/74] – 10.5658/wood.2015.43.6.740 (abstract, 1.3s) | no abstract
+  [RETRY 1/2] 10.54254/2753-8818/2026.au32025 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.59717/j.xinn-mater.2024.100092 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 1/2] 10.4028/www.scientific.net/msf.929.136 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.54097/ijbls.v2i3.8660 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.59717/j.xinn-mater.2024.100092 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [RETRY 2/2] 10.54254/2753-8818/2026.au32025 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [69/74] \u2717 10.54097/ijbls.v2i3.8660 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [RETRY 2/2] 10.4028/www.scientific.net/msf.929.136 (validation: ['No [原文] claims', 'No [推断] markers'])
+  [SKIP] 10.64149/j.carcinog.22.2.166-179 (no abstract, 1s)
+  [70/74] – 10.64149/j.carcinog.22.2.166-179 (abstract, 1.2s) | no abstract
+  [SKIP] 10.71329/iupjmech/2025.18.2.66-96 (no abstract, 1s)
+  [71/74] – 10.71329/iupjmech/2025.18.2.66-96 (abstract, 1.2s) | no abstract
+  [72/74] \u2717 10.54254/2753-8818/2026.au32025 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [73/74] \u2717 10.4028/www.scientific.net/msf.929.136 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+  [74/74] \u2717 10.59717/j.xinn-mater.2024.100092 (abstract, 0s) | validation: ['No [原文] claims', 'No [推断] markers']
+
+[DEEPREAD] Done: 0 OK, 223 failed

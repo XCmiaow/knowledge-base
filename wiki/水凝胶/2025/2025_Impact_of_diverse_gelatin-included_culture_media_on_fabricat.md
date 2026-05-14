@@ -1,45 +1,62 @@
 ---
 type: literature
-title: "Impact of diverse gelatin-included culture media on fabricated bacterial cellulose/gelatin hydrogel properties: A holistic exploration"
-authors: "Behrouznejad, Sadat, Masaeli"
-year: 2025
-journal: "International Journal of Biological Macromolecules"
-doi: "10.1016/j.ijbiomac.2025.145842"
-date_added: 2026-04-15
-tags: [纤维素水凝胶, 宽温度]
-pdf: ""
-source: "crossref"
+doi: 10.1016/j.ijbiomac.2025.145842
+topic: hydrogel
+date: 2026-05-12
+rating: ★★☆☆☆
+_audit: pending
+_audit_codex: FULLTEXT
+_fulltext_attempt: partial
+tags: [水凝胶, 细菌纤维素, 明胶, 生物材料, deepread-codex, v2]
 ---
 
 # Impact of diverse gelatin-included culture media on fabricated bacterial cellulose/gelatin hydrogel properties: A holistic exploration
 
-## 文献信息
-- **作者**: Behrouznejad, Sadat, Masaeli
-- **年份**: 2025
-- **期刊**: International Journal of Biological Macromolecules
-- **DOI**: [10.1016/j.ijbiomac.2025.145842](https://doi.org/10.1016/j.ijbiomac.2025.145842)
-- **来源**: crossref
+**中文标题**: 含明胶培养基对细菌纤维素/明胶水凝胶性质影响的整体研究
 
-## 中文摘要
-本文围绕“在培养阶段引入不同明胶培养基”对细菌纤维素/明胶（BC/gelatin）复合水凝胶性能的影响展开系统研究。根据题意，作者并非仅在后处理阶段复合明胶，而是从细菌纤维素生成环境入手，考察明胶参与培养对所得水凝胶结构、形貌、力学、吸水/保水及可能的生物相容性等多维性能的整体作用。研究重点应在于揭示培养介质组成—网络构筑—宏观性能之间的关联，为通过原位调控获得性能可设计的生物基水凝胶提供依据。该工作对开发组织工程、伤口敷料及柔性生物材料用BC基复合水凝胶具有参考意义。
+## 基础信息
 
-## 关键发现
-- 不同含明胶培养基会显著改变细菌纤维素/明胶水凝胶的网络构型与纤维组装，从而影响孔结构、均一性及复合程度。
-- 培养阶段引入明胶可同步调控水凝胶的力学行为与含水相关性能，说明培养介质设计是决定BC基水凝胶性能的重要前端手段。
-- 该研究强调以“整体性”视角评估材料性能，表明培养条件优化有望提升BC/gelatin水凝胶在生物医用场景中的适配性。
+| 属性 | 值 |
+|------|-----|
+| **DOI** | [10.1016/j.ijbiomac.2025.145842](https://doi.org/10.1016/j.ijbiomac.2025.145842) |
+| **期刊** | International Journal of Biological Macromolecules |
+| **作者** | Behrouznejad, Sadat, Masaeli |
+| **年份** | 2025 |
 
-## 创新点
-创新点在于将明胶的引入前移到细菌纤维素形成的培养阶段，而非仅依赖后期共混或浸渍复合，并以多性能整体评估方式建立培养介质组成与最终水凝胶性能之间的关联。
+## 摘要
 
-## 局限性
-局限性可能在于研究体系主要集中于BC/明胶二元体系及特定培养条件，通用性仍需更多材料与工艺验证；若缺少长期稳定性、宽温适应性及深入体内评价，则应用外推仍有限。
+> 基于 publisher HTML/preview 可见摘要与正文片段整理：文章系统比较不同 gelatin-included culture media 对 bacterial cellulose/gelatin hydrogel 形成及性能的影响，重点在制备条件和材料性质，而非抗冻导电功能。
 
-## 相关度评价
-中。该文聚焦细菌纤维素基复合水凝胶的构筑与性能调控，与纤维素基水凝胶综述直接相关；但主题核心更偏培养介质调控和生物医用性能，并非以“宽温度响应/宽温稳定”机理或设计为主。
+## Codex 精读（v2）
 
-## 原始笔记
-> 待补充
+### 结论
 
----
+- 这篇与当前综述主线关系较弱，主要是细菌纤维素/明胶复合制备条件研究 喵~
+- 它可用于补充“BC/gelatin 复合平台”的形成机理，但不适合作为宽温导电证据 喵~
+- 若篇幅有限，这篇应降权 喵~
 
-*精读时间: 2026-04-15 15:05*
+### 核心贡献
+
+- 把培养基组成前置为关键变量，考察其对 BC/gelatin hydrogel 的整体影响 喵~
+- 提供细菌纤维素复合明胶时的结构与性质调控思路 喵~
+- 适合为后续功能化 BC/gelatin 体系提供制备背景 喵~
+
+### 关键结果
+
+- 主结果集中在水凝胶形成、结构差异和综合性能变化 喵~
+- 不同明胶相关培养环境显著影响 BC 生成与复合效果 喵~
+- 文章更偏工艺窗口探索，而不是器件应用 喵~
+
+### 方法与机制
+
+- 通过调节 gelatin-included culture media 制备 BC，再与 gelatin 形成复合水凝胶 喵~
+- 制备条件改变细菌纤维素网络形貌和后续复合界面，从而影响宏观性能 喵~
+
+### 局限与使用方式
+
+- 与抗冻、导电和柔性电子基本无直接交集，正文中应谨慎处理 喵~
+- 更适合放在原料和平台构建补充段，而非核心结果讨论 喵~
+
+### Codex 置信度 | 3/5 |
+
+依据可见摘要、highlights、引言或结论片段整理；已能支撑主题综述定位，但完整实验细节与全套图表仍需原 PDF 复核喵~

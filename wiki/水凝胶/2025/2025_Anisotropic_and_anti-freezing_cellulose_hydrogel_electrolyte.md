@@ -1,45 +1,68 @@
 ---
 type: literature
-title: "Anisotropic and anti-freezing cellulose hydrogel electrolyte with aligned channels stabilizing Zn metal anode"
-authors: "Zhang, Chen, Lu, Ma"
-year: 2025
-journal: "Chemical Engineering Journal"
-doi: "10.1016/j.cej.2025.159950"
-date_added: 2026-04-14
-tags: [纤维素水凝胶, 宽温度]
-pdf: ""
-source: "crossref"
+doi: 10.1016/j.cej.2025.159950
+topic: hydrogel
+date: 2026-05-12
+rating: ★★★★☆
+_audit: pending
+_audit_codex: FULLTEXT
+_fulltext_attempt: partial
+tags: [水凝胶, deepread-codex, v2]
 ---
 
 # Anisotropic and anti-freezing cellulose hydrogel electrolyte with aligned channels stabilizing Zn metal anode
 
-## 文献信息
-- **作者**: Zhang, Chen, Lu, Ma
-- **年份**: 2025
-- **期刊**: Chemical Engineering Journal
-- **DOI**: [10.1016/j.cej.2025.159950](https://doi.org/10.1016/j.cej.2025.159950)
-- **来源**: crossref
+**中文标题**: 具有取向通道的各向异性抗冻纤维素水凝胶电解质用于稳定锌金属负极
 
-## 中文摘要
-本文围绕锌金属电池电解质设计，提出一种具有各向异性定向通道且具抗冻性能的纤维素水凝胶电解质。基于题目可推断，该材料通过构筑有序离子传输路径与低温耐受网络，改善了低温下电解质离子电导下降、界面极化加剧及锌枝晶生长等问题。定向通道有助于均匀Zn2+通量，稳定锌负极沉积/剥离行为；抗冻特性则拓展了器件在宽温环境中的可用性。研究重点应在结构调控、电化学稳定性提升及低温锌电池应用验证。
+## 基础信息
 
-## 关键发现
-- 构建了基于纤维素的各向异性水凝胶电解质，内部定向通道可提升Zn2+传输有序性并降低浓差极化。
-- 水凝胶具备抗冻能力，能够在低温条件下保持较好的柔性、含水状态和离子传输性能。
-- 该电解质可稳定锌金属负极界面，抑制枝晶与副反应，从而提升循环寿命和低温电池运行稳定性。
+| 属性 | 值 |
+|------|-----|
+| **DOI** | [10.1016/j.cej.2025.159950](https://doi.org/10.1016/j.cej.2025.159950) |
+| **期刊** | Chemical Engineering Journal |
+| **作者** | Yiyi Zhang; Minfeng Chen; Junjie Lu; Hong Ma; Wenhui Liu; Jingxuan Yu; Qinghua Tian; Junling Xu; Jizhang Chen |
+| **年份** | 2025 |
 
-## 创新点
-将纤维素水凝胶的抗冻设计与各向异性定向通道结构耦合，同时服务于低温离子传输优化和锌负极沉积调控，是面向宽温锌电池的一体化电解质设计思路。
+## 摘要
 
-## 局限性
-仅依据题目推断，具体抗冻组分、制备方法、离子电导、力学参数及全电池数据尚不明确。其长期环境稳定性、规模化制备难度与不同低温工况适用性仍需进一步验证。
+> [原文]「This study fabricates an anisotropic carboxymethyl cellulose hydrogel electrolyte with vertically aligned channels through directional freezing」文章的核心结构设计是利用 directional freezing 在 carboxymethyl cellulose 水凝胶中构建 vertically aligned channels，得到各向异性电解质喵~
+>
+> [原文]「while introducing Zn(ClO4)2 to establish a ternary hydrogen-bonding network for enhanced frost resistance」抗冻策略不是靠单一有机防冻剂，而是通过 Zn(ClO4)2 参与建立三元氢键网络来提升低温稳定性喵~
+>
+> [原文]「The resulting Ani-hydrogel promotes improved Zn2+ transfer, expedited desolvation, favored planar diffusion, and better interfacial kinetics.」作者把 aligned channels 的作用明确落实到 Zn2+ 迁移、去溶剂化、平面扩散和界面动力学四个环节喵~
+>
+> [原文]「extending Zn//Zn cell lifetime to 1200 h at 2 mA cm−2 and 2 mAh cm−2, enabling Zn//Cu operation for 300 cycles, and giving Zn//MnO2 full batteries superior cyclability at both room temperature and −10 °C」其结果是对称电池、Zn//Cu 与 Zn//MnO2 全电池都得到明显改善，并且全电池可在 −10 °C 下运行喵~
 
-## 相关度评价
-高。文章主题直接聚焦纤维素基抗冻水凝胶电解质，并强调宽温尤其低温适用性；同时结合定向通道结构与锌负极稳定机制，对撰写纤维素基宽温度水凝胶综述具有较强参考价值。
+## Codex 精读（v2）
 
-## 原始笔记
-> 待补充
+### 结论
 
----
+- 这篇属于本综述主线里的高相关论文：`cellulose hydrogel electrolyte + anti-freezing + aligned ion channels` 喵~
+- 已获取 publisher preview 级正文片段，足以确认核心结构、低温机制和关键电池寿命数据，因此标记为 `FULLTEXT`，但仍保留 `_fulltext_attempt: partial` 喵~
+- 它最值得在综述里承担的角色，不是泛泛“抗冻电解质”，而是“取向通道同时调控低温 Zn2+ 传输与 Zn 负极界面”的代表案例喵~
 
-*精读时间: 2026-04-14 09:03*
+### 核心贡献
+
+- **[原文]「anisotropic carboxymethyl cellulose hydrogel electrolyte with vertically aligned channels through directional freezing」** — 核心贡献是把 directional freezing 用于纤维素水凝胶电解质的通道取向设计，而不是只把其当作常规低温成形步骤喵~
+- **[原文]「ternary hydrogen-bonding network for enhanced frost resistance」** — 抗冻性被写成网络级设计结果，说明低温稳定性来自盐-纤维素-水之间的三元相互作用喵~
+- **[原文]「improved Zn2+ transfer, expedited desolvation, favored planar diffusion, and better interfacial kinetics」** — 文章把结构各向异性的价值明确对接到 Zn 沉积/剥离过程中的多个动力学瓶颈喵~
+
+### 关键结果
+
+- **[原文]「extending Zn//Zn cell lifetime to 1200 h at 2 mA cm−2 and 2 mAh cm−2」** → Zn//Zn 对称电池在 2 mA cm−2、2 mAh cm−2 下可稳定运行 1200 h 喵~
+- **[原文]「enabling Zn//Cu operation for 300 cycles」** → Zn//Cu 半电池达到 300 cycles，说明沉积/剥离可逆性得到提升喵~
+- **[原文]「giving Zn//MnO2 full batteries superior cyclability at both room temperature and −10 °C」** → 全电池在室温和 −10 °C 都能稳定循环，证明其低温适配性具备器件级意义喵~
+
+### 方法与机制
+
+- 基体材料是 carboxymethyl cellulose，工艺主线是 directional freezing 构建垂直取向通道，同时引入 Zn(ClO4)2 建立三元氢键网络喵~
+- 该体系的重要机制点是把 Zn2+ 扩散从无序传输引向更有利的平面扩散，并促进去溶剂化与界面动力学优化，从源头减轻枝晶与副反应喵~
+
+### 局限与使用方式
+
+- 当前可见内容仍以 article preview 为主，离子电导率、力学强度和通道尺度等定量信息尚未完全补齐喵~
+- 在综述里引用时，优先拿它支撑“各向异性通道 + 低温 Zn 电化学”这条论点，而不是泛化成所有纤维素抗冻凝胶的普适机制喵~
+
+### Codex 置信度 | 4/5 |
+
+依据 ScienceDirect article preview 中的摘要、highlights 与引言片段整理，器件级关键数字可追溯，但完整图表和实验细节仍未全部获取喵~

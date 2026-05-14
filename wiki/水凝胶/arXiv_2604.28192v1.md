@@ -1,11 +1,53 @@
-ID:: 2604.28192v1
-Type:: arXiv
-Title:: LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models
-Authors:: Hao Chen, Jiaming Liu, Zhonghao Yan et al.
-Year:: 2026
-URL:: https://arxiv.org/abs/2604.28192v1
-Source:: arXiv:self-healing hydrogel cryoprot
-Saved:: 2026-05-02
+---
+type: literature
+doi: arXiv_2604.28192v1
+topic: hydrogel
+date: 2026-05-12
+rating: ★★★☆☆
+_audit: pending
+_audit_codex: FULLTEXT
+_fulltext_attempt: fulltext
+tags: [hydrogel, deepread-mimo, v3]
 ---
 
-Vision-Language-Action (VLA) models have increasingly incorporated reasoning mechanisms for complex robotic manipulation. However, existing approaches share a critical limitation: whether employing explicit linguistic reasoning that suffers from latency and discretization, or utilizing more expressive continuous latent reasoning, they are predominantly confined to static imitation learning that limits adaptability and generalization. While online reinforcement learning (RL) has been introduced t
+# arXiv_2604.28192v1
+
+**来源**: arXiv | https://arxiv.org/abs/2604.28192
+
+## 摘要
+本文提出了LaST-R1，一个用于强化机器人操作的新颖强化学习后训练框架，旨在有效利用“先潜思考后行动”的策略。其核心是提出了一种名为潜思到动作策略优化的算法，通过在强化学习优化循环中显式嵌入潜思考链来共同优化潜思考过程和动作生成，从而促进深层次的物理世界建模，驱动在交互环境中的鲁棒执行。此外，引入了一种自适应潜思考链机制，允许策略根据不同的环境状态动态调整其推理视野。实验表明，该方法在LIBERO基准测试中仅需单样本监督预热即可达到99.9%的平均成功率，并在真实世界任务中比现有监督微调方法平均提升高达22.5%的性能「Abstract」。
+
+## Codex 精读（基于全文）
+
+### 核心贡献
+- 提出了LaST-R1，一个新颖的强化学习后训练框架，用于强化机器人操作中的自适应物理潜推理「Abstract」。
+- 提出了潜思到动作策略优化算法，该算法在强化学习循环中联合优化潜推理过程和动作生成「Abstract」。
+- 引入了一种自适应潜推理链机制，使策略能够根据环境状态动态调节推理视野「Abstract」。
+- 在仿真和真实世界环境中展示了强大的泛化能力「Abstract」。
+
+### 关键数据
+- 在LIBERO基准测试中，仅通过单样本监督预热即可达到99.9%的平均成功率「Abstract」。
+- 在真实世界部署中，包括单臂和双臂设置的四项复杂任务上，相比最先进的监督微调方法，平均性能提升高达22.5%「Abstract」。
+
+### 方法概述
+- 提出了一种名为LaST-R1的强化学习后训练框架「Abstract」。
+- 核心算法为潜思到动作策略优化，其联合优化潜推理过程和动作生成「Abstract」。
+- 方法的关键在于将潜在的思维链推理显式嵌入强化学习优化循环中「Abstract」。
+
+### 机制分析
+- 通过将潜在的思维链推理嵌入强化学习优化，激发了深层次的物理世界建模「Abstract」。
+- 这种深层次的世界建模反过来驱动了策略在交互环境中的鲁棒执行「Abstract」。
+
+### 与综述（纤维素基宽温域凝胶）的相关性
+- ★☆☆☆☆ | 理由：本文主题为机器人操作和强化学习，与纤维素化学或水凝胶材料科学无直接关联。其研究内容属于人工智能与机器人学范畴，不涉及材料制备、性能或机理。
+
+### 不足与展望
+- 作者自述局限性：基于提供的全文片段，未明确提及具体局限性。
+- 可改进方向：基于论文主题可推断，未来可能的方向包括探索更复杂的环境交互、提升训练效率、或将其潜推理框架应用于其他具身智能任务。
+
+### Codex 置信度 | 3/5 |
+基于摘要和提交历史等全文片段，数据可追溯至摘要部分，但缺乏完整论文正文对方法细节、实验设置和深入讨论的支撑。
+
+---
+
+*本笔记由 mimo-v2.5-pro 基于全文自动生成。*

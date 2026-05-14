@@ -1,0 +1,396 @@
+Angewandte
+ A Journal of the Gesellschaft Deutscher Chemiker
+
+
+
+
+International Edition                                       Chemie               www.angewandte.org
+
+
+
+                           Accepted Article
+
+
+        Title: Rational Fabrication of Anti-Freezing, Non-Drying Tough
+               Organohydrogels by One-Pot Solvent Displacement
+
+        Authors: Fan Chen, Dan Zhou, Jiahui Wang, Tianzhen Li, Xiaohu
+                 Zhou, Tiansheng Gan, Stephan Handschuh-Wang, and
+                 Xuechang Zhou
+
+        This manuscript has been accepted after peer review and appears as an
+        Accepted Article online prior to editing, proofing, and formal publication
+        of the final Version of Record (VoR). This work is currently citable by
+        using the Digital Object Identifier (DOI) given below. The VoR will be
+        published online in Early View as soon as possible and may be different
+        to this Accepted Article as a result of editing. Readers should obtain
+        the VoR from the journal website shown below when it is published
+        to ensure accuracy of information. The authors are responsible for the
+        content of this Accepted Article.
+
+        To be cited as: Angew. Chem. Int. Ed. 10.1002/anie.201803366
+                        Angew. Chem. 10.1002/ange.201803366
+
+
+        Link to VoR: http://dx.doi.org/10.1002/anie.201803366
+                     http://dx.doi.org/10.1002/ange.201803366
+Angewandte Chemie International Edition                                                                                        10.1002/anie.201803366
+
+
+
+
+COMMUNICATION
+
+Rational Fabrication of Anti-Freezing, Non-Drying Tough
+Organohydrogels by One-Pot Solvent Displacement
+Fan Chen, Dan Zhou, Jiahui Wang, Tianzhen Li, Xiaohu Zhou, Tiansheng Gan, Stephan Handschuh-
+Wang, and Xuechang Zhou*
+Abstract: Tough hydrogels, polymeric network structures with                       polymerization step, specific synthetic conditions are required to be
+excellent mechanical properties (e.g. high stretchability and                      optimized carefully in order to meet the polymerization behavior of
+toughness), are emerging soft materials, owing to their great                      different monomers. Taking into account a large number of different
+potentials in applications spanning from soft robotics to tissue                   hydrogels, therefore, there is still a need to develop a more versatile
+engineering. Despite their remarkably mechanical features, tough                   and convenient strategy to fabricate anti-freezing and non-drying
+
+
+
+
+                                                                                                                                                              Accepted Manuscript
+hydrogels exhibit two flaws, i.e., freezing around the icing                       hydrogels.
+temperatures of water and drying at arid conditions. Inspired by the                       Inspired by the cryopreservation of biological samples (e.g.,
+applications of cryoprotectants (CPAs) in the inhibition of the icing of           protein crystals, bacteria, and cells) at extremely cold conditions,[16]
+water in various biological samples (e.g. protein crystals, cells,                 herein, we, for the first time, report a simple, reliable and versatile
+bacteria), this communication reports a versatile and straightforward              strategy, so-called “solvent displacement”, to fabricate anti-freezing,
+method to fabricate extreme anti-freezing, long-term stable, non-                  non-drying tough organohydrogels. In this strategy, water molecules
+drying CPA-based organohydrogels by partially displacing water                     in the hydrogels are displaced by immersing the hydrogels in a
+molecules within the pre-fabricated hydrogels. To validate this                    cryoprotectant (CPA) solution (e.g., glycerol, glycol, sorbitol, or
+method, CPA-based Ca-alginate/polyacrylamide (PAAm) tough                          mixtures of these CPAs). Notably, CPAs have been widely used in
+hydrogels were successfully fabricated with glycerol, glycol and                   preventing various biological samples from icing damage at low
+sorbitol. The CPA-based organohydrogels remain unfrozen and                        temperatures, owing to their inhibition behaviors to hinder the ice
+mechanically flexible even up to -70 oC while being long term stable               crystallization of water molecules. There are three key advantages of
+when exposed to ambient conditions or even stored under vacuum.                    this approach. First, the solvent displacement is extremely simple
+                                                                                   and does not require any specific consideration on the
+                                                                                   polymerization step. Second, the anti-freezing performance of the
+Natural living systems display complex structures in order to survive
+                                                                                   hydrogels is tuned by either varying the extent of solvent displaced
+in complicated and harmful environmental conditions. For example,
+                                                                                   or by choice of CPAs. Third, the low vapor pressure of CPAs, non-
+anti-freezing and non-drying properties are commonly found in living
+                                                                                   drying of the hydrogels is achieved readily, leading to a long-term
+systems. Hydrogels, on the other hand, are one of the ideal
+                                                                                   storage at arid or even freeze-drying vacuum conditions. To validate
+candidates to mimic the functions of biological systems.[1-4] To date,
+                                                                                   our concept, we demonstrated the preparation of anti-freezing and
+numerous advances about hydrogels have been made, including the
+                                                                                   non-drying tough organohydrogels with Ca-alginate/polyacrylamide
+synthesis, application, and engineering of various hydrogels.[5-12]
+                                                                                   (PAAm)[17] as the model system of tough hydrogels. In this study, the
+However, versatile strategies to achieve simultaneously anti-freezing
+                                                                                   anti-freezing and non-drying properties of the as-made Ca-
+and non-drying properties are still lacking, which hinders the
+                                                                                   alginate/PAAm tough organohydrogels with glycerol, glycol and
+application of hydrogels at sub-zero temperatures in long term.
+                                                                                   sorbitol were investigated, respectively.
+Recently, several remarkable efforts were made in order to address
+                                                                                           The solvent displacement method is schematically illustrated
+the above two flaws. For example, Liu and co-workers reported the
+                                                                                   in Figure 1a. Briefly, a pre-fabricated tough hydrogel is directly
+use of water and oil as the dispersion medium to fabricate adaptive
+                                                                                   placed in a CPA-containing vessel for solvent displacement. During
+and freeze-tolerant hetero-network organohydrogels, which inhibited
+                                                                                   the displacing process, water molecules in the hydrogel are
+the ice crystallization of the hydrogel components, leading to
+                                                                                   displaced by the surrounding ubiquitous CPA molecules. By this
+enhanced mechanical properties over a wide temperature range
+                                                                                   means, the original water-based hydrogels become CPA-based
+from -78 to 80 oC.[13] Besides, Liu and co-workers applied a
+                                                                                   organohydrogels with increased freezing and drying tolerance, which
+water/ethylene glycol binary solvent as the dispersion medium to
+                                                                                   not only significantly inhibits the icing of water in the hydrogels but
+fabricate anti-freezing conductive organohydrogels in the
+                                                                                   also becomes long-term stable (weight retention) at ambient
+temperature range from -55.0 to 44.6 oC.[14] Similarly, Lu and co-
+                                                                                   conditions due to the fact that the lower evaporation of CPAs.
+workers reported the use of a glycerol-water binary solvent to
+                                                                                           As proof-of-concept, we first prepared glycerol-based Ca-
+fabricate hydrogels with long-lasting weight retention at
+                                                                                   alginate/PAAm organohydrogels with the solvent displacement
+temperatures ranging from -20 to 60 oC.[15] The use of a binary
+                                                                                   method. Briefly, the original water-based Ca-alginate/PAAm
+solvent system has enabled the successful fabrication of anti-
+                                                                                   hydrogels were immersed in a glycerol solution for different
+freezing hydrogels with long-term application capability. However,
+                                                                                   immersion time, ranging from 0 to 60 min, to generate the glycerol-
+owing to the introduction of a binary solvent during the
+                                                                                    based tough hydrogel. The effect of the water displacement is
+                                                                                    illustrated by cooling the glycerol-based hydrogels for 1 hour at a
+ [a]   F. Chen, D. Zhou, J. H. Wang, T. Z. Li, Prof. Dr. X. H. Zhou, Dr. T.         temperature of -45 oC, as shown in Figure 1b. Interestingly, volume
+       S. Gan, Dr. S. Handschuh-Wang, Prof. Dr. Xuechang Zhou                       and weight decreased upon the first 60-min solvent displacement,
+       College of Chemistry and Environmental Engineering,                          yet good transparency was maintained for all immersion times at
+       Shenzhen University,
+                                                                                    room temperature (Figure 1b-left, and Figure S1). More importantly,
+       Shenzhen, P. R. China
+       E-mail: xczhou@szu.edu.cn (X. C. Z)                                          the 60 min-solvent displaced hydrogels were not frozen even after 1
+                                                                                    hour at -45 oC (Figure 1b, right). These results indicate a successful
+       Supporting information for this article is given via a link at the end of
+       the document.
+                                                                                    solvent displacement between the water and glycerol molecules.
+
+
+
+
+                                                  This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                                    10.1002/anie.201803366
+
+
+COMMUNICATION
+
+Besides, after 3- and 6-hour solvent displacement the hydrogels did          effect of polymer networks to the CPA-water mixed solvent confined
+not freeze in the freeze-drying chamber (Figure 2a). This finding            in the gels. Therefore, the anti-freezing property of the CPA-based
+indicates that the immersion time plays an important role in the anti-       organohydrogels depends on the displaced water. As a result, the
+freezing performance of the hydrogels. We, thus, used the freezing-          freezing tolerance is dramatically enhanced. Notably, a similar
+drying method to determine the amount of glycerol in the hydrogels.          strategy has been applied in cryopreservation of biological samples
+As shown in Figure 2b, a dramatical increase of the weight retention         (e.g. cells, barriers, and protein crystals), which are well-stored at
+after freeze-drying of the hydrogels is observed for a short                 extremely cold conditions. Therefore, such a simple one-pot solvent
+immersion time (0 to 1 h). The retained weight increases by ~ 10%            displacement method is a viable tool for enhanced freezing tolerance
+as immersion time further increased from 1 to 6 hours. The inset of          of hydrogels.
+Figure 2b shows the abundance of glycerol in the hydrogels. This                     In additional to anti-freezing property, a remaining key
+graph confirms that the weight of glycerol in the hydrogels increases        challenge of hydrogels, which needs to be addressed, is the long-
+from 27% to ~64 wt% as immersion time increases from 10 min to 1             term stability. Notably, hydrogels typically consist of a large amount
+hour. The further incline of immersion time up to 6 h has only a small       of water and this water (especially the free water) is continuously
+
+
+
+
+                                                                                                                                                           Accepted Manuscript
+effect on the wt% of glycerol in the hydrogel (incline only ~ 10 wt%).       evaporating. The evaporation of water in these hydrogels will cause
+The kinetics of water displacement can be attributed to the three            a detrimental effect on the properties of the hydrogel, such as
+different states of water in a hydrogel, namely “free water” (fast           mechanical deformation (see Figure 3a), generation of cracks and
+exchange), “intermediate water” (slow exchange) and “unfrozen                diminished mechanical properties (i.e. tensile strain, modulus, and
+bound water”.[18] Due to the fact that at around 66 wt% of glycerol in       flexibility). In order to prevent their drying out, hydrogels are typically
+a glycerol water mixture the lowest freezing temperature is                  sealed in humid conditions. As such, the poor water retention of
+achieved,[19] the immersion time of 1~3 hours appears to be                  water-based hydrogels hinders their applications, in particular in arid
+favorable. The solvent displacement also alters the mechanical               conditions. The as-made CPA-based organohydrogels exhibit
+properties of the tough hydrogel. As shown in Figure S2, the elastic         remarkable liquid retention (long-term stability) owing to the low
+modulus increases from 10 to 40 kPa, and the tensile strain                  vapor pressure of CPAs. In liquid retention experiments up to 8 days
+increases from 1200 to 1700 % as the immersion time gradually                of storage, the drying behavior of the as-made hydrogels prepared at
+increases to 6 hours. The enhancement of the mechanical properties           different immersion time at ambient and even at freeze-drying
+can be attributed to the volume shrinkage, which leads to a density          conditions was examined. The variation of the weight at different
+incline of the polymer network.                                              storage times was evaluated in terms of the ratio of W t (weight of
+       To demonstrate the versatility of the solvent displacement            hydrogel at time t) and Wt=0 (weight of the as-prepared hydrogel). As
+method, we thus investigated the anti-freezing and non-drying                shown in Figure 3b, the weight retention of the glycerol-based
+performance of the three types of CPA-based organohydrogels, that            hydrogels is heavily dependent on the immersion time in the CPA,
+is, glycerol-, glycol-, and sorbitol-based Ca-alginate/PAAm                  signifying the dependence on wt% of incorporated CPA.
+organohydrogels, respectively.                                               Unsurprisingly, water retention in the water-based hydrogel is low (≤
+       Indeed, the as-made CPA-based hydrogels show excellent                20 wt% after 3 days). In contrast, the weight retention (liquid
+freezing tolerance. Figure 2c-e show that the mechanical flexibility at      retention) is improving with the addition of glycerol and at a liquid
+extreme cold conditions of CPA-based tough organohydrogels                   exchange time of 1 and 3 h only a minuscule variation of hydrogel
+produced by displacing water molecules with three types of CPAs              weight with time can be observed, namely, around 90 and 100 %
+(glycerol, glycol, and sorbitol). In contrast to the original water-based    weight retention, respectively. For the longest liquid exchange time
+hydrogels, the glycerol-, glycol-, and sorbitol-based organohydrogels        (6 h), an incline in weight was observed, which can be ascribed to
+remain unfrozen and mechanically flexible at -50, -70, and -45 oC,           the hygroscopic nature of the CPAs (water molecules are captured
+respectively. The as-made organohydrogels are readily bent, twisted,         by the CPA-based hydrogels from the moisture). For glycol and
+folded at the aforementioned low temperatures. Such a high freezing          sorbitol-based organohydrogels (Figure 3c) a similar behavior was
+tolerance of the organohydrogels is attributed to the presence of            found. While glycol-based organohydrogels were already long-term
+CPAs. Notably, water-based hydrogels are readily frozen owing to             stable after an immersion time of 1 h (as compared to glycerol),
+their large amount of “free water” stored in the hydrogels. The frozen       sorbitol-based hydrogels showed even for 6 h immersion extended
+hydrogels are rather rigid and fragile, limiting their applications in the   weight loss. Interestingly, glycol-based hydrogels with high wt% of
+cold environment. As shown in the DSC measurement (Figure S3),               glycol even increased the weight during the 8 days by 10 %. Finally,
+for water-based hydrogels, a sharp peak at -17.3 oC was observed,            weight retention during freeze-drying of the as-made
+which can be attributed to the icing of "free water" in the hydrogel.        organohydrogels based on the CPAs was investigated (Figure 3d).
+Interestingly, for the glycerol-based organohydrogels prepared at            Of course, the weight retention is dependent on the previous
+immersion time of 10 min and 20 min, we observed a dramatic                  immersion time in the CPAs, the physical properties of the CPA and
+shifting of the peak to -29.8 oC and -47.1 oC, respectively. Besides,        the kinetics of the water exchange. Notably, glycerol-based
+the peak became smaller and broader with increasing immersion                hydrogels showed the best weight retention results, which is based
+time. For the glycerol-based organohydrogel prepared at a much               on the low vapor pressure (compared to glycol) and fast exchange
+longer immersion time (e.g., larger than 1 hour), more interestingly,        kinetics due to small molecular size (compared to sorbitol). Glycerol-
+we did not observe any peak in the whole thermogram, which                   based hydrogels retained up to 88% of their weight after freeze-
+indicates there is no icing of the gels observable. The excellent anti-      drying (immersion time 6 h), while glycol and sorbitol only retained
+freezing property of the CPA-base organohydrogels can be                     45 and 75 %, respectively.
+attributed to two parts, that are, (1) the ice-inhibiting effect of the              Not only a single CPA, but also binary, or even ternary CPA
+CPA to the remaining water molecules and (2) the ice-inhibiting              mixtures can be applied to fabricate anti-freezing and non-drying
+
+
+
+
+                                             This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                                   10.1002/anie.201803366
+
+
+COMMUNICATION
+
+organohydrogels, which can further balance the performances of             Keywords: anti-freezing • non-drying • tough hydrogels • solvent
+organohydrogels by addressing the shortcoming of a single CPA. As          displacement• organohydrogels
+shown in the Figure S4 and S5, all the organohydrogels treated with
+binary and ternary CPA mixtures remain unfrozen and mechanically
+                                                                           References
+flexible at temperatures lower than -60 oC. Besides, the weight
+retention of the as-made organohydrogels has been significantly            [1]    Y. S. Zhang, A. Khademhosseini, Science 2017, 356, eaaf3627.
+improved by applying binary or ternary CPA mixtures as shown in
+                                                                           [2]    G. Y. Huang, F. Li, X. Zhao, Y. F. Ma, Y. H. Li, M. Lin, G. R. Jin, T.
+Figure S6 and S7. Therefore, the "solvent displacement" method
+                                                                                  J. Lu, G. M. Genin, F. Xu, Chem. Rev. 2017, 117, 12764-12850.
+provides us an important parameter (the solvent) not only to
+fabricate the gels but also to balance the performances for different      [3]    S.-J. Jeon, A. W. Hauser, R. C. Hayward, Accounts Chem. Res.
+applications.                                                                     2017, 50, 161-169.
+       Despite the current proof-of-conception demonstration with          [4]    A. M. Rosales, S. L. Vega, F. W. DelRio, J. A. Burdick, K. S.
+tough hydrogels, the present one-post solvent displacement method                 Anseth, Angew. Chem. Int. Ed. 2017, 56, 12132-12136.
+
+
+
+
+                                                                                                                                                           Accepted Manuscript
+has two important features allowing universal design and fabrication       [5]    A. S. Gladman, E. A. Matsumoto, R. G. Nuzzo, L. Mahadevan, J. A.
+of anti-freezing and non-drying hydrogels. The most obvious feature
+                                                                                  Lewis, Nat. Mater. 2016, 15, 413-418.
+is that the processing procedure is simple and reliable without any
+                                                                           [6]    R. S. Stowers, S. C. Allen, L. J. Suggs, Proc. Natl. Acad. Sci. U. S.
+complicated designs of polymerization conditions, i.e. mixed binary
+solvents. The less obvious but more significant feature is that solvent           A. 2015, 112, 1953-1958.
+displacement between CPAs and water occurs freely and at short             [7]    T. Z. Li, J. H. Wang, L. Y. Zhang, J. B. Yang, M. Y. Yang, D. Y.
+time scales an equilibrium is reached. Therefore, not limited to the              Zhu, X. H. Zhou, S. Handschuh-Wang, Y. Z. Liu, X. C. Zhou, J.
+present tough hydrogels, the as-developed solvent displacement                    Mater. Chem. B 2017, 5, 5726-5732.
+method opens up a new path for rational tuning of the freezing and
+                                                                           [8]    P. Lin, S. Ma, X. Wang, F. Zhou, Adv. Mater. 2015, 27, 2054-2059.
+drying tolerance of a plurality of water-based hydrogels.
+                                                                           [9]    X. Zhou, T. Li, J. Wang, F. Chen, D. Zhou, Q. Liu, B. Li, J. Cheng,
+       In conclusion, we have developed a simple and universal
+                                                                                  X. Zhou, B. Zheng, ACS Appl. Mater. Interfaces 2018,10, 9077.
+strategy, so-called “solvent displacement” for the feasible fabrication
+of tough organohydrogels with rationally-designed freezing and             [10] Q. Chen, H. Chen, L. Zhu, J. Zheng, Macromol. Chem. Phys. 2016,
+drying tolerance. We validated this strategy through the fabrication of           217, 1022-1036.
+anti-freezing and non-drying CPA-based Ca-alginate/PAAm tough              [11]   N. Huebsch, E. Lippens, K. Lee, M. Mehta, S. T. Koshy, M. C.
+organohydrogels. The as-made tough hydrogels exhibited excellent                  Darnell, R. M. Desai, C. M. Madl, M. Xu, X. H. Zhao, O. Chaudhuri,
+anti-freezing behavior. For instance, the glycol-based tough
+                                                                                  C. Verbeke, W. S. Kim, K. Alim, A. Mammoto, D. E. Ingber, G. N.
+hydrogels remain unfrozen and mechanical flexible at sub-zero
+                                                                                  Duda, D. J. Mooney, Nat. Mater. 2015, 14, 1269-1277.
+temperature and even up to -70 oC. The tough hydrogels become
+non-drying when water is partially displaced with CPAs. The as-            [12]   L. Huang, R. Jiang, J. Wu, J. Song, H. Bai, B. Li, Q. Zhao, T. Xie,
+made anti-freezing and non-drying tough organohydrogels should                    Adv. Mater. 2017, 29, 1605390
+have an impact on broadening the scope of applications of tough            [13] H. N. Gao, Z. G. Zhao, Y. D. Cai, J. J. Zhou, W. D. Hua, L. Chen, L.
+hydrogels exposed to arid and low temperature environments in                     Wang, J. Q. Zhang, D. Han, M. J. Liu, L. Jiang, Nat. Commun.
+healthcare, medical devices, and flexible electronics. Given that                 2017, 8, 15911.
+some CPAs might have toxicity, the safety concerns can be
+                                                                           [14]   Q. F. Rong, W. W. Lei, L. Chen, Y. A. Yin, J. J. Zhou, M. J. Liu,
+addressed by applying non-toxic CPAs, such as glycerol and sorbitol.
+                                                                                  Angew. Chem. Int. Ed. 2017, 56, 14159-14163.
+Despite the proof-of-concept demonstration for tough hydrogels, we
+envision that the “solvent displacement” method is a simple, reliable      [15]   L. Han, K. Z. Liu, M. H. Wang, K. F. Wang, L. M. Fang, H. T. Chen,
+and universal strategy for designing freezing and drying tolerant                 J. Zhou, X. Lu, Adv. Funct. Mater. 2018, 28, 1704195.
+hydrogels.                                                                 [16]   B. J. Fuller, CryoLetters 2004, 25, 375-388.
+                                                                           [17] J.-Y. Sun, X. Zhao, W. R. K. Illeperuma, O. Chaudhuri, K. H. Oh, D.
+                                                                                  J. Mooney, J. J. Vlassak, Z. Suo, Nature 2012, 489, 133-136.
+Acknowledgements                                                           [18]   S. Cerveny, J. Colmenero, A. Alegria, Macromolecules 2005, 38,
+                                                                                  7056-7063.
+We acknowledge the National Natural Science Foundation of
+                                                                           [19]   L. B. Lane, Ind. Eng. Chem. 1925, 17, 924-924.
+China (21674064), Shenzhen Science and Technology
+Foundation (JCYJ20160520173802186) for the financial support.
+F. C. and D. Z. equally contributed to this work.
+
+
+
+
+                                           This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                  10.1002/anie.201803366
+
+
+
+
+COMMUNICATION
+
+
+
+
+Figure 1. (a) Schematic illustration of the fabrication of tough organohydrogels from tough hydrogels via in situ
+displacing with CPAs. (b) The anti-freezing behavior of the glycerol-based hydrogels prepared by immersion of
+                                                                                                                                  Accepted Manuscript
+as-made tough hydrogels into glycerol for immersion times ranging from 0 to 60 min.
+
+
+
+
+                                          This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                  10.1002/anie.201803366
+
+
+
+
+COMMUNICATION
+
+
+
+
+                                                                                                                                  Accepted Manuscript
+Figure 2. Anti-freezing behavior of the CPA-filled tough organohydrogels. (a) Digital images of the hydrogels
+observed before and during the freeze-drying in a vacuum. The hydrogels were immersed in glycerol from 0, 3,
+and 6 hours, respectively. (b) The weight percentage of hydrogels for different immersion times after freeze-
+drying, where W 0 and W denote for the weight of hydrogels before freeze-drying and the weight of the freeze-
+dried hydrogels prepared at different immersion time, respectively. The inset shows the wt% of the glycerol within
+the as-made anti-freezing hydrogels. (c-e) Digital images of various mechanical deformation of anti-freezing
+                                                                                                         o
+hydrogels filled with various CPAs at low temperatures: (c) tough glycerol-hydrogels at -50 C; (d) tough glycol-
+                   o                                                  o
+hydrogels at -70 C; (e) tough sorbitol-hydrogels at -45 C.
+
+
+
+
+                                          This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                  10.1002/anie.201803366
+
+
+
+
+COMMUNICATION
+
+
+
+
+                                                                                                                                  Accepted Manuscript
+Figure 3. Weight retention of CPA-filled tough organohydrogels. (a) Digital images of the as-made (water based)
+                                                                                 o
+hydrogel and glycerol-hydrogels after storage for 15 days at 20 C and 50% humidity. (b-c) Weight variation of
+                                                                                         o
+the tough glycerol-, glycol-, and sorbitol-hydrogels upon storing at 20 C and 50% humidity. (d) Weight retention
+of CPA-filled hydrogels after freeze-drying in vacuum shown in wt% of the initial weight.
+
+
+
+
+                                          This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                            10.1002/anie.201803366
+
+
+
+
+COMMUNICATION
+Entry for the Table of Contents
+
+COMMUNICATION
+Anti-freezing, non-drying tough                                                                    Fan Chen, Dan Zhou, Jiahui Wang,
+organohydrogels are fabricated via a                                                               Tianzhen Li, Xiaohu Zhou, Tiansheng
+solvent displacement strategy. In this                                                             Gan, Stephan Handschuh-Wang,
+strategy, water molecules in the                                                                   Xuechang Zhou*
+hydrogels are partially displaced by
+cryoprotectants as inspired from the                                                               Page No. – Page No.
+cryopreservation of biological
+                                                                                                   Rational Fabrication of Anti-Freezing,
+samples. The present solvent
+                                                                                                   Non-Drying Tough Organohydrogels
+
+
+
+
+                                                                                                                                            Accepted Manuscript
+displacement method opens up a new
+                                                                                                   by One-Pot Solvent Displacement
+path for rational tuning the freezing
+and drying tolerance for a plurality of
+water-based hydrogels.
+
+
+
+
+                                          This article is protected by copyright. All rights reserved.
+

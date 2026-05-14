@@ -1,0 +1,401 @@
+Angewandte
+ A Journal of the Gesellschaft Deutscher Chemiker
+
+
+
+
+International Edition                                       Chemie               www.angewandte.org
+
+
+
+                           Accepted Article
+
+
+        Title: Anti-freezing, conductive self-healing organohydrogels with stable
+               strain-sensitivity at subzero temperatures
+
+        Authors: Qinfeng Rong, Wenwei Lei, Lie Chen, Yongai Yin, Jiajia Zhou,
+                 and Mingjie Liu
+
+        This manuscript has been accepted after peer review and appears as an
+        Accepted Article online prior to editing, proofing, and formal publication
+        of the final Version of Record (VoR). This work is currently citable by
+        using the Digital Object Identifier (DOI) given below. The VoR will be
+        published online in Early View as soon as possible and may be different
+        to this Accepted Article as a result of editing. Readers should obtain
+        the VoR from the journal website shown below when it is published
+        to ensure accuracy of information. The authors are responsible for the
+        content of this Accepted Article.
+
+        To be cited as: Angew. Chem. Int. Ed. 10.1002/anie.201708614
+                        Angew. Chem. 10.1002/ange.201708614
+
+
+        Link to VoR: http://dx.doi.org/10.1002/anie.201708614
+                     http://dx.doi.org/10.1002/ange.201708614
+Angewandte Chemie International Edition                                                                                    10.1002/anie.201708614
+
+
+
+
+COMMUNICATION
+
+Anti-freezing, conductive self-healing organohydrogels with
+stable strain-sensitivity at subzero temperatures
+Qinfeng Rong, Wenwei Lei, Lie Chen, Yongai Yin, Jiajia Zhou and Mingjie Liu*
+Abstract: Conductive hydrogels emerge as a fascinating class of                   conductive organohydrogels with intriguing remodeling and self-
+stretchable conductive materials that are important for various                   healing capabilities. Combining the freezing tolerance, electrical
+applications. However, water-based conductive hydrogels inevitably                conductivity, and self-healing ability, we anticipate this new type
+lose elasticity and conductivity at subzero temperatures, which                   of conductive organohydrogels will inspire researchers to design
+severely limits their practical applications at low temperatures. Here            flexible and wearable devices for service at subzero
+we report anti-freezing conductive organohydrogels by using an                    temperatures.
+H2O/ethylene glycol binary solvent as dispersion medium. Owing to                     Ethylene glycol (EG) is the simplest vicinal alcohol and has
+the freezing tolerance of the binary solvent, our organohydrogels                 been used as an effective inhibitor for water freezing in industry.
+exhibit stable flexibility and strain-sensitivity in the temperature range        The freezing point of the EG/H2O binary solution can be reduced
+from -55.0 to 44.6 °C. Meanwhile, the solvent molecules could form                below -40 °C by changing the EG concentration. [7] The anti-
+hydrogen bonds with polyvinyl alcohol (PVA) chains and induce the                 freezing property of EG is attributed to its propensity to disrupt
+crystallization of PVA, greatly improve the mechanical strength of the            the hydrogen bonds between H2O molecules in the binary
+organohydrogels. Furthermore, the non-covalent crosslinks endow                   solution. Pure ethylene glycol freezes at about -12 °C, when
+the conductive organohydrogels with intriguing remoldability and                  mixed with H2O, the EG can form a variety of molecular clusters
+self-healing capability, which are important for practical applications.          with H2O molecules, therefore the saturated vapor pressure of
+                                                                                  water is significantly reduced. As a result, the binary solvent
+                                                                                  does not readily crystallize, and the freezing point is
+Stretchable conductive materials are indispensable for future
+                                                                                  decreased.[8] It is also well known that the aqueous solution of
+applications in various fields, such as stretchable panels,[1]
+                                                                                  PVA can be transformed into hydrogel via the crystallization of
+flexible energy storage devices,[2] electrodes,[3] sensors,[4] and
+                                                                                  PVA by repeated freeze/thaw cycles.[9] The mechanical strength
+wearable devices. To achieve those goals, the key issue is to
+                                                                                  of PVA hydrogels are closely related with their degree of
+incorporate the mechanical strength and electrical conductivity
+                                                                                  crystallinity, which can be tuned by the number of freeze/thaw
+simultaneously. Conductive hydrogels promise great potential
+                                                                                  cycles.[10] Benefiting from the hydrogen-bonding interactions
+for the expected integration due to their excellent flexibility, good
+                                                                                  between EG molecules and PVA chains, the anti-freezing
+electric characteristics and tunable mechanical properties. So
+                                                                                  conductive organohydrogels could be obtained through one
+far, conductive hydrogels have been extensively studied in these
+                                                                                  simple freezing step instead of repeated freeze/thaw cycles.
+fields, e.g., conductive polymer hydrogels applied in flexible
+                                                                                      To synthesize the anti-freezing conductive organohydrogels,
+supercapacitors and sensors.[5]            However, conventional
+                                                                                  PVA            polymer        powders           and        poly(3,4-
+conductive hydrogels composed of pure water system, inevitably
+                                                                                  ethylenedioxythiophene):polystryrene sulfonate (PEDOT:PSS)
+freeze and lose conductivity at subzero temperatures, which
+                                                                                  solution were dissolved in EG/H2O at 95 °C. After entirely
+severely limits their practical applications at low temperatures.[6]
+                                                                                  dissolved, the homogeneous solution was then casted into a
+Herein, we report high strength conductive organohydrogels that
+                                                                                  mold of desired dimension and cooled to -20 °C and kept for 10
+feature freezing tolerance, which were obtained by using an anti-
+                                                                                  min. This process induced physical crosslinking points among
+freezing binary solvent system. In the anti-freezing conductive
+                                                                                  PVA chains by combination of the hydrogen bonds and
+organohydrogels,       the     binary    solvent    prevents       the
+                                                                                  crystalline domains. Figure 1a shows the components and
+organohydrogels from freezing at subzero temperature. Owing
+                                                                                  preparation      process   of    the     anti-freezing   conductive
+to their freezing tolerance, our conductive organohydrogels
+                                                                                  organohydrogels. EG molecules could form vast hydrogen
+could exhibit stable flexibility and strain-sensitivity even at the
+                                                                                  bonds with PVA chains and induce the generation of PVA
+temperature of -40 °C. Meanwhile, the solvent molecules could
+                                                                                  crystalline domains. The PVA crystalline domains serve as
+form hydrogen bonds with polyvinyl alcohol (PVA) chains and
+                                                                                  strong bonds, and play an important role in the improvement of
+induce the crystallization of PVA, which greatly improves the
+                                                                                  the mechanical properties of the organohydrogels. We noticed
+mechanical strength of the conductive organohydrogels.
+                                                                                  that the anti-freezing conductive organohydrogels were able to
+Furthermore, the non-covalent crosslinking networks bestow the
+                                                                                  withstand various forms of deformation including large stretching,
+                                                                                  knotted stretching, and compression (Figure 1b).               More
+                                                                                  importantly, EG could reduce the freezing point of H2O, which
+[*]   Q. Rong, W. Lei, L. Chen, Dr. Y. Yin, Prof. J. Zhou and Prof. M. Liu        prevented the conductive organohydrogels from freezing at
+      Key Laboratory of Bio-Inspired Smart Interfacial Science and                subzero temperatures.            The as-prepared conductive
+      Technology of Ministry of Education, School of Chemistry, Beihang
+                                                                                  organohydrogels exhibited not only high toughness and good
+      University, Beijing 100191, P. R. China.
+      E-mail: liumj@buaa.edu.cn                                                   elasticity, but also enhanced mechanical and conductive stability
+      Prof. J. Zhou and Prof. M. Liu                                              at low temperature environment.
+      International Research Institute for Multidisciplinary Science,
+      Beihang University, Beijing 100191, P. R. China
+
+
+      Supporting information for this article is given via a link at the end of
+      the document.
+
+
+
+
+                                                  This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                                         10.1002/anie.201708614
+
+
+COMMUNICATION
+
+                                                                               conductive organohydrogels showed stable mechanical strength
+                                                                               and elasticity at subzero temperatures. The organohydrogels
+                                                                               with different solvent ratios exhibited different working
+                                                                               temperature range. The best anti-freezing performance is
+                                                                               realized for organohydrogels containing the solvent of 66.6 wt%
+                                                                               EG and 33.3 wt% H2O: G’ maintains an almost constant value
+                                                                               as temperature decreased from 44.6 to -55.0 °C, revealing the
+                                                                               best anti-freezing performance. This anti-freezing conductive
+                                                                               organohydrogels still maintained reversible compression and
+                                                                               bending at temperature -40 °C (Figure 2b). The lower limit of
+                                                                               the working temperature increases for the organohydrogels with
+                                                                               other EG fraction. (Figure S4).
+
+
+
+
+Figure 1. a) Schematic illustration of the preparation and structural
+characterization of the anti-freezing conductive organohydrogels.        b)
+Photographs of the anti-freezing conductive organohydrogels portraying their
+abilities to withstand i) large stretching, ii) knotted stretching, and iii)
+compression.
+
+
+
+    PVA polymer powders with three different molecular weights,
+Mn=30000, 70000, and 130000 were used to prepare the anti-
+freezing conductive organohydrogels. We found that when
+employing 30000 and 70000 PVA, the polymer solutions were in
+the sol state, but gelation occurred quickly when the molecular
+weight rose up to 130000, as verified with the slant vial method
+(Figure S1, Supporting Information). When the concentration of                 Figure 2. The mechanical performances of anti-freezing conductive
+the PVA solution increased, the density of the crosslinking points             organohydrogels and conductive hydrogels at low temperatures. a) The
+also increased, resulting in an increase of the compressive                    storage moduli (G’) and loss moduli (G’’) of anti-freezing conductive
+                                                                               organohydrogels and conductive hydrogels on a temperature sweep at a
+moduli of the conductive organohydrogels (Figure S2,
+                                                                               constant shear strain (γ) of 0.1% and frequency (ω) of 10 rad/s. b) The anti-
+Supporting Information).        Unless otherwise stated, the                   freezing conductive organohydrogels showed their ability of reversible
+organohydrogels used in this work were prepared with PVA                       compression and bending at -40 ºC. c) The conductive hydrogels turned into
+concentration of 9 wt% and PEDOT:PSS concentration of 0.2                      an ice-like solid state that could easily be broken at -10 ºC. d) Tensile and e)
+                                                                               Compressive stress-Strain curves of the anti-freezing conductive
+wt%.                                                                           organohydrogels with various mass ratios of H2O and EG.
+    In view of the freezing point of the solvent, [11] temperature
+inevitably influences the elasticity of the organohydrogels. For
+example, hydrogels lose elasticity at subzero temperatures
+                                                                                   In general, physically cross-linked gels are mechanically
+because the solvent water has frozen into ice. The effects of
+                                                                               weak and soft due to the lack of strong interaction between the
+temperature on the pure conductive hydrogels and the anti-
+                                                                               polymer chains.[12] Different from other low mechanical strength
+freezing conductive organohydrogels are shown in Figure 2a.
+                                                                               PVA     hydrogels,     the    anti-freezing   conductive    PVA
+When the temperature is decreased into the range from 0 °C to -
+                                                                               organohydrogels with physical crosslink points exhibit high
+20 °C, the storage modulus (G’) of the conductive hydrogel
+                                                                               mechanical performance. Figure 2d shows the tensile stress-
+abruptly increased by ~3103 times. At this temperature, the
+                                                                               strain curves of the conductive organohydrogels with varied
+conductive hydrogel turned into an ice-like solid that could be
+                                                                               mass ratio of H2O and EG, and it can be seen that the
+easily broken when compressed or bent (Figure 2c). In contrast,
+                                                                               conductive    organohydrogels       possess    the   mechanical
+due to the low freezing point of H2O/EG, the anti-freezing
+                                                                               performance with 52 kPa-2.1 MPa tensile strength, 200-900%
+
+
+
+
+                                               This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                                                 10.1002/anie.201708614
+
+
+COMMUNICATION
+
+elongation at break, and 14-330 kPa Young’s modulus (Table                           resistance variation when it was stretched. Owing to tunneling
+S1, Supporting Information). The strength enhancement with                           of charges transferred between adjacent PEDOT chains in the
+the increasing of EG concentration is mainly due to the                              conductive organohydrogels, the electric resistance raised when
+increased crystalline domains density, which can be                                  the average distance between PEDOT chains increased during
+demonstrated by WAXS. The intensity of the peak at 2θ ≈ 20o                          the stretching process. When the conductive organohydrogels
+slightly increases with increasing EG concentration, indicating                      suffered from tensile strain, the variation of electronic resistance
+the increase of PVA crystallinity (Figure S3, Supporting                             of the conductive organohydrogels synchronized with the
+Information).[13] We also noted that the elongation at break                         change of the elongating length even at the temperature of -
+reaches to the maximum (960%) when the mass ratio of H 2O                            40 °C (Figure 3c). The device performance was tested under
+and EG around 1:2. One possible explanation is that high EG                          strain between 0-20% and subjected 20 cycles, and the results
+concentration leads to the high crystal density, which increases                     showed good stability.        This new anti-freezing conductive
+rigidity of network and decreases its elasticity. Similar to the                     organohydrogels could be utilized as a promising material for
+extension tests, the compressive strengths of the anti-freezing                      wearable strain sensor to detect the extending and bending of
+conductive organohydrogels were remarkably improved with the                         the human body, such as finger knuckle at subzero temperature.
+increasing EG content (Figure 2e).                                                   When finger is repeatedly bending and extending at -40 °C, the
+                                                                                     responsive behavior         of    the    anti-freezing conductive
+                                                                                     organohydrogels based strain sensor is shown in Figure 3d.
+                                                                                     The result indicates that the conductive organohydrogel based
+                                                                                     strain sensor can be utilized to monitor personal healthcare
+                                                                                     under extremely low temperatures. The resistivities of the
+                                                                                     conductive organohydrogels begin to increase as temperature
+                                                                                     decreases due to the reduction of charge carriers (Figure 3e). In
+                                                                                     conclusion, the as-prepared conductive organohydrogels
+                                                                                     maintain stable mechanical and strain-sensitive performance at
+                                                                                     subzero temperatures, showing outstanding anti-freezing feature.
+
+
+
+
+Figure 3. The conductive and strain-sensitive performance of anti-freezing
+conductive organohydrogels at -40 ºC. a) The anti-freezing conductive
+organohydrogels could be worked as wires at -40 ºC (i); conductive hydrogels
+turned to be insulator at -10 ºC (ii). b) Relative resistance variation (ΔR/R0) of
+the anti-freezing conductive organohydrogels when stretched up to 20% strain
+at -40 ºC. c) Resistance variation curves recorded after 20 cycles, strain of
+5% at -40 ºC. d) Response of wearable sensor in monitoring finger bending at
+-40 ºC. Inset: photographs of finger motions. e) Resistivity of the anti-freezing
+conductive organohydrogels between the temperature ranges of -40~25 ºC.
+
+
+                                                                                     Figure 4. The remoldability and self-healing capability of the anti-freezing
+     Conductive hydrogels not only lose elasticity (Figure 2c) but                   conductive organohydrogels. a) The anti-freezing conductive organohydrogels
+also the ability of conducting electrons (Figure 3aii) at subzero                    fragments were fused at 80 °C and remolded; the “BUAA” figurate gel was
+                                                                                     obtained by injection at a temperature of 80 °C and demolding at -20 °C. b)
+temperatures. Compared with the case of conductive hydrogels,                        Photographs showing the remoldability of the organohydrogels: i) maple leaf,
+the anti-freezing conductive organohydrogels still remain stable                     ii) sunflower, iii) rose, and iv) pentagram. c) Circuit comprises self-healing anti-
+electrical conductivity at -40 °C (Figure 3ai). To further verify the                freezing conductive organohydrogels in series with an LED indicator:
+stable flexibility and conductive performance of the anti-freezing                   undamaged, completely bifurcated, electrical healing, and stretched after
+                                                                                     healing. d) Compressive and e) Tensile stress-Strain curves of the original
+conductive organohydrogels at low temperatures, the electronic                       and healed anti-freezing conductive organohydrogels.
+resistance variation ration (ΔR/R0 = (R0 ‒ R)/R0; R0 and R
+correspond to the resistance without and with stretching,
+respectively) as a function of the strain was investigated. As                          An important and intriguing feature of the anti-freezing
+illustrated in Figure 3b, the conductive organohydrogel was                          conductive organohydrogels is their fascinating thermoplasticity,
+imbedded into two parallel copper electrodes to detect its                           which allows the organohydrogels to change its permanent
+
+
+
+
+                                                  This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                                    10.1002/anie.201708614
+
+
+COMMUNICATION
+
+shape as required. In our experiment, the synthesized anti-               organohydrogels to be thermoplastic and self-healing, endowing
+freezing conductive organohydrogels were placed in a glass                the anti-freezing conductive organohydrogels with remoldability
+container and heated to 80 °C for about 20 min. During this               and reusability. In combination with all the properties above, the
+period, the organohydrogels would be softened and became a                conductive organohydrogels may have promising applications at
+sol state, which has been demonstrated by rheological                     subzero temperatures in various fields, such as flexible
+measurement (Figure 2a). After cooling, they turned into solid            electrode, sensors, energy storage devices and wearable
+state again. To confirm this process, the fragments of the anti-          devices.
+freezing conductive organohydrogels are heated. After fully
+melting, the molten organohydrogels were injected into a mold
+with a “BUAA”. The sample was then frozen and the new shape               Acknowledgements
+was realized (Figure 4a). Desired organohydrogel shapes could
+readily be achieved by injecting molten organohydrogels into              This research was supported by the National Key R&D Program
+customized molds (Figure 4b), further certifying their outstanding        of China (2017YFA0207800), National Natural Science
+repeated remoldability and processability.                                Foundation (21574004), the 111 project (B14009), the
+    The temperature sensitive and thermoplasticity properties of
+                                                                          Fundamental Research Funds for the Central Universities, and
+the organohydrogels encouraged us to investigate the self-
+                                                                          the National “Young Thousand Talents Program.”
+healing ability of the conductive organohydrogels. As we can
+see from Figure 4c, a complete circuit composed of a LED
+                                                                          Keywords: anti-freezing • conductive organohydrogel • self-
+indicator with the conductive organohydrogel as the conductor is
+used to manifest the self-healing property. In this experiment,           healing • high strength • strain-sensitive
+the LED indicator is successfully lighted when applied a 5V
+                                                                          [1]    C. C. Kim, H. H. Lee, K. H. Oh, J. Y. Sun, Science 2016, 353, 682-687.
+driving voltage. Once the conductive organohydrogel is cut into
+                                                                          [2]    a) W. Li, F. Gao, X. Wang, N. Zhang, M. Ma, Angew. Chem. Int. Ed.
+two parts, the LED indicator is extinguished. The surfaces of
+                                                                                 2016, 128, 9342-9347; b) G. P. Hao, F. Hippauf, M. Osxhatz, F. M.
+these two parts are brought into contact and heated to 80 °C.                    Wisser, A. Leifert, W. Nickel, N. M. Noriega, Z. Zheng, S. Kaskel, ACS
+We then reduced the temperature to -20 °C, and found the                         Nano 2014, 8, 7138-7146; c) Y. Shi, L. Peng, G. Yu, Nanoscale 2015, 7,
+organohydrogel healed completely with an indistinguishable                       12796-12806.
+interface. When the circuit is restored, the LED could be lighted         [3]    a) S. Chen, J. Duan, M. Jaroniec, S. Z. Qiao, Adv. Mater. 2014, 26,
+up again by using the healed conductive organohydrogel.                          2925-2930; b) Z. Chen, J. W. F. To, C. Wang, Z. Lu, N. Liu, A. Chortos,
+Furthermore, the healed conductive organohydrogel could also                     L. Pan, F. Wei, Y. Cui, Z. Bao, Adv. Energy Mater. 2014, 4, 1400207.
+                                                                          [4]    a) Y. Si, L. Wang, X. Wang, N. Tang, J. Yu, B. Ding, Adv. Mater. 2017,
+withstand stretching. The underlying self-healing mechanism is
+                                                                                 29, 1700339; b) Q. Liu, M. Zhang, L. Huang, Y. Li, J. Chen, C. Li, G.
+the dynamic dissociation and re-association of crystalline
+                                                                                 Shi, ACS Nano 2015, 9, 12320- 12326; c) G. Cai, J. Wang, K. Qian, J.
+domains and hydrogen bonds. During heating, hydrogen bonds                       Chen, S. Li, P. S. Lee, Adv. Sci. 2017, 4, 1600190.
+dissociated and crystalline domains melted. When freezing                 [5]    a) K. Wang, X. Zhang, X. Sun, Y. Ma, Sci. China Mater. 2016, 59, 412-
+again, new crystalline domains and hydrogen bonds formed at                      420; b) M. A. Darabi, A. Khosrozadeh, R. Mbeleck, Y. Liu, Q. Chang, J.
+the interface of two parts. The fracture strain and tensile                      Jiang, J. Cai, Q. Wang, G. Luo, M. Xing, Adv. Mater. 2017, 29,
+strength of the healed organohydrogels are tested to assay the                   1700533.
+healing ability. On the basis of the compressive and tensile              [6]    a) H. Gao, Z. Zhao, Y. Cai, J. Zhou, W. Hua, L. Chen, L. Wang, J.
+                                                                                 Zhang, D. Han, M. Liu, L. Jiang, Nat. Commun. 2017, 8, 15911; b) Z.
+stress-strain curves shown in Figure 4d, e, the healing efficiency
+                                                                                 Zhao, K. Zhang, Y. Liu, J. Zhou, M. Liu, Adv. Mater. 2017, 29, 1701695.
+of anti-freezing conductive organohydrogels was above 85%. In
+                                                                           [7]   a) H. Yue, Y. Zhao, X. Ma, J. Gong, Chem. Soc. Rev. 2012, 41, 4218-
+addition, the healing efficiency remains almost the same with the                4244; b) M. Matsugami, T. Takamuku, T. Otomo, T. Yamaguchi, J.
+increasing PEDOT contents (Figure S5). This is because the                       Phys. Chem. B 2006, 110, 12372-12379; c) S. M. Peyghambarzadeha,
+self-healing ability is provided by the PVA networks in the                      S. H. Hashemabadib, S. M. Hoseinia, M. S. Jamnania, Int. Commun.
+organohydrogels, which mass fraction remains about the same                      Heat Mass 2011, 38, 1283-1290.
+for a small change of the PEDOT fraction. Due to the highly               [8]    R. M. Kumar, P. Baskar, K. Balamurugan, S. Das, V. Subramanian, J.
+healing efficiency, the conductive performance of healed                         Phys. Chem. A 2012, 116, 4239-4247.
+                                                                          [9]    a) S. R. Stauffer, N. A. Peppast, Polymer 1992, 33, 3932-3936; b) P. J.
+organohydrogels can recover to the original level (Figure S6).
+                                                                                 Willcox, D. W. Howie, JR., K. S. Rohr, D. A. Hoagland, S. P. Gido, S.
+The above demonstrating experiment illustrates that the
+                                                                                 Pudjijanto, L. W. Kleiner, S. Venkatraman, J. Polym. Sci., Part B: Polym.
+conductive organohydrogels has great potential in applications                   Phys. 1999, 37, 3438-3454; c) R. Ricciardi, G. D’Errico, F. Auriemma,
+of self-healing flexible electronic device.                                      G. Ducouret, A. M. Tedeschi, C. D. Rosa, F. Lauprêtre, F. Lafuma,
+    In     summary,      we     report   anti-freezing  conductive               Macromolecules 2005, 38, 6629-6639.
+organohydrogels composed of PVA networks, conductive                      [10]   a) R. Ricciardi, F. Auriemma, C. Gaillet, C. D. Rosa, F. Lauprêtre,
+polymers PEDOT:PSS and H2O/EG solvent.                   The EG,                 Macromolecules 2004, 37, 9510-9516; b) J. L. Holloway, A. M. Lowman,
+responsible of generating hydrogen bonds and dense crystalline                   G. R. Palmese, Soft Matter 2013, 9, 826-833.
+                                                                          [11]   a) S. Wu, C. Zhu, Z. He, H. Xue, Q. Fan, Y. Song, J. S. Francisco, X. C.
+domains, renders the high mechanical strength of the materials.
+                                                                                 Zeng, J. Wang, Nat. Commun. 2017, 8, 15154; b) K. Liu, C. Wang, J.
+Remarkably, owing to the anti-freezing property of H2O/EG
+                                                                                 Ma, G. Shi, X. Yao, H. Fang, Y. Song, J. Wang, Proc. Natl. Acad. Sci.
+binary solution, the conductive organohydrogels exhibit stable                   USA 2016, 113, 14739-14744; c) Z. He, W. J. Xie, Z. Liu, G. Liu, Z.
+flexibility and strain-sensitive performance even the                            Wang, Y. Q. Gao, J. Wang, Sci. Adv. 2016, 2, e1600345.
+temperatures fall as low as -40 °C. Furthermore, the physical             [12]   a) J. P. Gong, Y. Katsuyama, T. Kurokawa, Y. Osada, Adv. Mater. 2003,
+crosslinks of hydrogen bonding and crystalline domains led the                   15, 1155-1158; b) Q. Chen, L. Zhu, C. Zhao, Q. Wang, J. Zheng, Adv.
+
+
+
+
+                                          This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                                      10.1002/anie.201708614
+
+
+COMMUNICATION
+
+     Mater. 2013, 25, 4171-4176; c) M. Liu, L. Jiang, Sci. China Mater. 2016,   [13]   R. Ricciardi, F. Auriemma, C. D. Rosa, F. Lauprêtre, Macromolecules
+     59, 239-246.                                                                      2004, 37, 1921-1927.
+
+
+
+
+                                              This article is protected by copyright. All rights reserved.
+Angewandte Chemie International Edition                                                                              10.1002/anie.201708614
+
+
+
+
+COMMUNICATION
+Entry for the Table of Contents
+
+COMMUNICATION
+A high strength conductive                                                                         Qinfeng Rong, Wenwei Lei, Lie Chen,
+organohydrogel that features freezing                                                              Yongai Yin, Jiajia Zhou and Mingjie Liu*
+tolerance was fabricated by using an
+anti-freezing binary solvent system.                                                               Page No. – Page No.
+The anti-freezing conductive
+                                                                                                   Anti-freezing, conductive self-healing
+organohydrogels exhibit stable
+                                                                                                   organohydrogels with stable strain-
+flexibility and strain sensitive
+                                                                                                   sensitivity at subzero temperatures
+performance at the temperature of -
+40 °C. Meanwhile, the anti-freezing
+conductive organohydrogels possess
+intriguing remoldability and self-
+healing capabilities.
+
+
+
+
+                                          This article is protected by copyright. All rights reserved.
+

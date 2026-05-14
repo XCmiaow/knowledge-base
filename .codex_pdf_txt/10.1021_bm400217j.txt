@@ -1,0 +1,603 @@
+                                                                                                                                                       Article
+
+                                                                                                                                        pubs.acs.org/Biomac
+
+
+
+
+Antifreeze (Glyco)protein Mimetic Behavior of Poly(vinyl alcohol):
+Detailed Structure Ice Recrystallization Inhibition Activity Study
+Thomas Congdon, Rebecca Notman, and Matthew I. Gibson*
+Department of Chemistry, University of Warwick, Gibbet Hill Road, Coventry, United Kingdom, CV4 7AL
+  *
+  S Supporting Information
+
+
+
+  ABSTRACT: This manuscript reports a detailed study on the
+  ability of poly(vinyl alcohol) to act as a biomimetic surrogate
+  for antifreeze(glyco)proteins, with a focus on the speciﬁc
+  property of ice-recrystallization inhibition (IRI). Despite over
+  40 years of study, the underlying mechanisms that govern the
+  action of biological antifreezes are still poorly understood,
+  which is in part due to their limited availability and challenging
+  synthesis. Poly(vinyl alcohol) (PVA) has been shown to
+  display remarkable ice recrystallization inhibition activity
+  despite its major structural diﬀerences to native antifreeze
+  proteins. Here, controlled radical polymerization is used to
+  synthesize well-deﬁned PVA, which has enabled us to obtain
+  the ﬁrst quantitative structure−activity relationships, to probe
+  the role of molecular weight and comonomers on IRI activity. Crucially, it was found that IRI activity is “switched on” when the
+  polymer chain length increases from 10 and 20 repeat units. Substitution of the polymer side chains with hydrophilic or
+  hydrophobic units was found to diminish activity. Hydrophobic modiﬁcations to the backbone were slightly more tolerated than
+  side chain modiﬁcations, which implies an unbroken sequence of hydroxyl units is necessary for activity. These results highlight
+  that, although hydrophobic domains are key components of IRI activity, the random inclusion of addition hydrophobic units
+  does not guarantee an increase in activity and that the actual polymer conformation is important.
+
+
+■    INTRODUCTION
+The formation and growth of ice presents a serious problem to
+                                                                               plantation medicine.11,12 To highlight in the UK in 2011
+                                                                               there were almost 4000 organ transplants13 that all required
+many technological processes ranging from freeze-fracture                      appropriate logistics and delivery of the intact tissue, which
+damage, icing on surfaces such as aeroplane and turbine                        could be supplemented and improved by novel cryopreserva-
+wings,1,2 freezer-burn in frozen foods,3 pharmaceutical storage,4              tion techniques.14
+and its impact on agriculture. Nature has evolved several                         Despite their obvious potential, there are several major
+defense mechanisms to enable life to ﬂourish in low                            hurdles that have limited the application of AF(G)Ps in
+temperature, ice-rich environments including the replacement                   biological cryopreservation. The ﬁrst is their low availability
+of water with trehelose5 to enable desiccation or whole-body                   from native sources and the huge synthetic burden associated
+freezing, production of lipopolysaccharides,6 or alternatively by              with them: there are only three reports of the total synthesis of
+the production of antifreeze (glyco)proteins (AF(G)Ps), which                  AFGPs, to the best of our knowledge, which are not ideally
+enable ﬁsh to survive in subzero (ant)arctic waters.7,8 AF(G)Ps                suited to scale-up.15−17 The second challenge is the mixed
+have three major eﬀects on ice/water: (i) thermal hysteresis                   reports of both the success and failure of native AFGP in
+(TH), this is the noncolligative depression of the freezing                    cryopreservation. Carpenter et al. observed that addition of
+point; (ii) dynamic ice shaping (DIS), which results in                        AFPs to blood cryopreservation solutions enhanced recovery to
+nonhexagonal ice crystal morphologies; and (iii) ice recrystal-                a point, but increased concentrations of AFPs actually reduced
+lization inhibition (IRI) whereby the growth of already-formed                 the number of viable cells.18 Similar observations of the
+ice crystals (i.e., Otswald ripening) is inhibited. IRI activity is a          negative impact of AF(G)Ps have been made with
+particularly desirable eﬀect as uncontrolled ice crystal growth                cryopreserved sperm19 and in failed attempts to cryopreserve
+(recrystallization) during the thawing of cryopreserved bio-                   rat hearts.20 Conversely, improved cryopreservation of oocytes
+logical tissue has been indicated to be a major source of cold-                upon addition of AFGP and pancreatic islet cells21 have been
+induced damage9 and presents a challenge to the vitriﬁcation                   reported.22 There is also the potential for cytotoxicity/
+(cryopreservation method) of whole organs.10 Consequently,
+there is a real need to develop technologies which reduce ice                  Received: February 8, 2013
+recrystallization, particularly to improve the storage and                     Revised: March 26, 2013
+distribution of human tissue for regenerative and trans-                       Published: March 28, 2013
+
+                               © 2013 American Chemical Society         1578                  dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                     Article
+
+immunogenicity associated with these proteins.23 These                      for deactivated monomers, such as vinyl acetate, and has
+conﬂicting cryopreservation results have been speculated to                 advantages over other controlled radical processes in that no
+be due to the macroscopic eﬀects of TH and DIS; these two                   external catalysts are required, which themselves may prevent
+properties have been shown to cause the formation of spicular               their biological application or modify the IRI process.
+
+                                                                            ■
+(needle-like) ice crystals during the cryopreservation of cells,
+leading to increased cell death due to physical piercing of cell                EXPERIMENTAL SECTION
+membranes. Considering this, the design and application of                     Materials. Methyl(ethoxycarbonothioyl)sulfanyl benzene (CTA 1)
+materials that speciﬁcally display IRI is especially desirable but          was prepared according to literature methods as detailed in the
+is limited by the aforementioned synthetic challenges.                      Supporting Information.41 Phosphate-buﬀered saline (PBS) solutions
+   Most previous studies on structure−activity relationships in             were prepared using preformulated tablets (Sigma-Aldrich) in 200 mL
+AFGPs have focused only on TH as a marker of activity,                      of Milli-Q water (>18.2 Ω mean resistivity) to give [NaCl] = 0.138 M,
+revealing that essentially all modiﬁcations (apart from exchange            [KCl] = 0.0027 M, and pH 7.4. Vinyl acetate (VAc) and N-vinyl-
+of the disaccharide with a monosaccharide) are not tolerated.16             pyrrolidone were purchased from Sigma-Aldrich and were ﬁltered
+Ben et al. have developed a series of peptide-based IRI active              through a plug of basic alumina to remove inhibitors prior to their use.
+compounds, which speciﬁcally maintain IRI activity, but no                  4,4′-Azobis(4-cyanovaleric acid) was recrystallized from methanol and
+                                                                            stored at −8 °C in the dark. Acetic acid (glacial, 99.5%) was purchased
+appreciable TH or DIS activity.24,25 The activity of these                  from Fischer Scientiﬁc. Hydrazine hydrate solution (approximately
+compounds is surprising and suggests that IRI activity can be               80%) was purchased from Sigma Aldrich. All solvents were purchased
+reproduced by compounds that are far more synthetically                     from VWR or Sigma-Aldrich and used without further puriﬁcation.
+accessible than the native proteins. These short peptides have                 Physical and Analytical Methods. 1H and 13C NMR spectra
+been shown to have some beneﬁcial eﬀect in cryopreservation                 were recorded on Bruker DPX-300 and DPX-400 spectrometers using
+when compared to the common (and potentially toxic)                         deuterated solvents obtained from Sigma-Aldrich. Chemical shifts are
+dimethyl sulfoxide.26 A key challenge in designing new, more                reported relative to residual nondeuterated solvent. Mass spectral
+active IRI active compounds lies in the lack of mechanistic                 analyses were obtained using Bruker MicroTOF or Bruker MaXis
+                                                                            electrospray instruments using positive or negative electrospray mode.
+understanding of the IRI process. In particular, the disconnect
+                                                                            The molecular ion and mass fragments are quoted and assigned. Gel
+between the mechanism of TH and DIS, which have been                        permeation chromatography (GPC) was used to determine the
+studied and understood on a molecular recognition basis with                molecular weights and polydispersities of the synthesized polymers.
+speciﬁc binding to the basal planes of ice.27 Microﬂuidic studies           The THF GPC system comprised of a Varian 390-LC-Multi detector
+on AFPs have also revealed that the binding to ice is essentially           suite ﬁtted with diﬀerential refractive index (DRI), light scattering
+irreversible.28 The importance of hydrophobic domains,                      (LS) and ultraviolet (UV) detectors equipped with a guard column
+potentially to repel additional water molecules appears to be               (Varian Polymer Laboaratories PLGel 5 μm, 50 × 7.5 mm) and two
+crucial with most AF(G)Ps having amphipathic character16,29,30              mixed D columns of the same type. The mobile phase was THF with
+and small molecules with deﬁned hydrophobic domains have                    5% triethylamine (TEA) eluent at a ﬂow of 1.0 mL/min, and samples
+                                                                            were calibrated against Varian Polymer Laboratories Easi-Vials linear
+some IRI activity.31−33 However, the mechanism of IRI and its               poly(styrene) and poly(methylmethacrylate) standards (162−2.4 ×
+relationship to TH/DIS are poorly understood. In an eﬀort to                105 g·mol−1) using Cirrus v3.3. The DMF GPC system comprised of a
+both probe this mechanism of IRI and to develop more                        Varian 390-LC-Multi detector suite ﬁtted with a diﬀerential refractive
+synthetically accessible inhibitors, Gibson et al. have inves-              index (DRI) detector equipped with a guard column (Varian Polymer
+tigated polymeric-mimics of AF(G)Ps. Polymers have the                      Laboaratories PLGel 5 μm, 50 × 7.5 mm) and two mixed D columns
+advantage of scalability, huge monomer and functional group                 of the same type. The mobile phase was DMF with 5 nM NH3BF4
+chemical space, and the acceptability of synthetic polymers in              eluent at a ﬂow of 1.0 mL·min−1, and samples were calibrated against
+biomaterials applications.4,34,35 Glycopolymers36 and poly-                 Varian Polymer Laboratories Easi-Vials poly(methylmethacrylate)
+(ampholytes)37 have been shown to have some degree of IRI                   standards (162−2.4 × 105 g·mol−1) using Cirrus v3.3. Ice wafers
+                                                                            were annealed on a Linkam Biological Cryostage BCS196 with T95-
+activity, but by far the most active polymer reported to date is            Linkpad system controller equipped with a LNP95-Liquid nitrogen
+poly(vinyl alcohol), PVA.30 The reasons for the activity of PVA             cooling pump, using liquid nitrogen as the coolant (Linkam Scientiﬁc
+are still unknown with several groups hypothesizing that it is              Instruments UK, Surrey, U.K.). An Olympus CX41 microscope
+capable of directly binding to growing ice crystal through a                equipped with a UIS-2 20x/0.45/∞/0−2/FN22 lens (Olympus Ltd.,
+match with the underlying crystal lattice.38 However, the                   Southend on sea, U.K.) and a Canon EOS 500D SLR digital camera
+distribution of hydroxyl groups in PVA is diﬀerent to that of               were used to obtain all images. Image processing was conducted using
+AFGP, which raises questions as to how they can both be                     Image J, which is freely available from http://imagej.nih.gov/ij/.
+binding to the same ice lattice and hence implying a diﬀerent                  Ice Recrystallization Inhibition (Splat) Assay. Ice recrystalliza-
+                                                                            tion inhibition was measured using a modiﬁed splay assay.42 A 10 μL
+and additional mechanism. Mono/oligo saccharides also show
+                                                                            sample of polymer dissolved in PBS buﬀer (pH 7.4) was dropped 1.40
+negligible IRI activity, as do other polyols, suggesting there are          m onto a chilled glass coverslip sat on a piece of polished aluminum
+unique features about the structure of PVA which endows its                 placed on dry ice. Upon hitting the chilled glass coverslip, a wafer with
+IRI activity.31 All previous studies of the IRI activity of PVA             diameter of approximately 10 mm and thickness 10 μm was formed
+have focused on commercially available polydisperse samples                 instantaneously. The glass coverslip was transferred onto the Linkam
+that are partially acetylated (due to synthetic procedure via               cryostage and held at −8 °C under N2 for 30 min. Photographs were
+poly(vinyl acetate)).31,36,39,40 The minimum consensus se-                  obtained using an Olympus CX 41 microscope with a UIS-2 20x/0.45/
+quence required for activity is unknown, along with the precise             ∞/0−2/FN22 lens and crossed polarizers (Olympus Ltd., Southend
+role of molecular weight and the role and tolerance of structural           on sea, UK), equipped with a Canon DSLR 500D digital camera.
+                                                                            Images were taken of the initial wafer (to ensure that a polycrystalline
+modiﬁcations.                                                               sample had been obtained) and after 30 min. Image processing was
+   The aim of this manuscript is to take advantage of modern                conducted using Image J,43 which is freely available. In brief, the four
+controlled radical polymerization techniques that allow for the             largest ice crystals in the ﬁeld of view were measured and the single
+reproducible synthesis of well-deﬁned polymers. In particular,              largest length in any axis recorded. This was repeated for at least three
+RAFT polymerization has been shown to be particularly useful                wafers and the average (mean) value was calculated to ﬁnd the largest
+
+                                                                     1579                    dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                          Article
+
+Scheme 1. RAFT/MADIX Mediated Bulk Polymerization of Vinyl Acetate and Subsequent Hydrolysis to PVA
+
+
+
+
+grain dimension along any axis. The average of this value from three             composition of the polymer. The solvent was carefully decanted and
+individual wafers was calculated to give the mean largest grain size             the product thoroughly dried under vacuum at 40 °C for 24 h, forming
+(MLGS). This method has been shown to be highly reproducible,                    a yellow solid. Representative characterization data for PVA-(PVP)3:
+although it does not contain the distribution data of, for example,              1
+                                                                                   H NMR (400 MHz, D2O) δ 3.52 (−CHN−, br, 1H), 3.26 (−CHO−,
+domain recognition software, but has the advantage that it shows the             br, 1H), 3.12 (−NCH2CH2−, br, 2H), 2.49 (−NCOCH2−, br, 2H),
+worst case (largest ice crystals) and may underestimate, but not                 2.13 (−NCH2CH2CH2−, br, 2H), 1.97 (−COCH3−, br, 3H), 1.80−
+overestimate, activity.                                                          1.50 (−CH2−, br, 2H); MnNMR(D2O) = 8400 Da; MnSEC(DMF) =
+   Polymerization of Vinyl Acetate Using CTA 1. As a                             2700 Da; Mw/Mn = 1.30.
+representative example, CTA 1 (0.21 g, 0.99 mmol), vinyl acetate                    Polymerization of N-Vinyl-pyrrolidone Using CTA 1. As a
+(4.67 g, 2.64 mmol), and ACVA (4,4′-azobis(4-cyanovaleric acid);                 representative example, N-vinyl-pyrrolidone (2.09 g, 18.78 mmol),
+0.013 g) were added to a stoppered vial. The solution was thoroughly             CTA 1 (0.037 g, 0.17 mmol), and ACVA (0.005 g, 0.02 mmol) were
+degassed under a ﬂow of N2 for 20 min, and the reaction mixture was              dissolved in dioxane (4 mL) in a stoppered vial equipped with a stir
+then allowed to polymerize at 68 °C for typically 15 h. The yellow               bar. The reaction mixture was thoroughly degassed under a ﬂow of N2
+solutions were then cooled to room temperature. Poly(vinyl acetate)              for 20 min and the reaction mixture was allowed to polymerize at 70
+was then recovered as a yellow sticky solid after precipitation into             °C for, typically, 5 h. The dark yellow solutions were then cooled to
+hexane. The hexane was then decanted and the poly(vinyl acetate) was             room temperature and the random copolymer was recovered as white
+redissolved in THF, which was then concentrated in vacuo and                     ﬂakes by several precipitations into diethyl ether. The bulk of the
+thoroughly dried under vacuum at 40 °C for 24 h, forming a white                 solvent was carefully decanted and the solid collected by
+crystalline solid. Representative characterization data for PVAc56: 1H           centrifugation. The product was thoroughly dried under vacuum at
+NMR (400 MHz, CDCl3) δ 4.61 (−CHO−CH2, br, 1H), 1.74                             40 °C for 24 h, forming a yellow solid. Representative characterization
+(−CO−CH3, br, 3H), 1.53 (−CH2−, br, 2H); MnSEC(THF) = 5100                       data for PVP62: 1H NMR (400 MHz, CDCl3) δ 3.74 (−CHN−, br,
+Da, Mw/Mn = 1.23.                                                                1H), 3.19 (−NCH2CH2−, br, 2H), 2.38 (−NCOCH2−, br, 2H),
+   Hydrolysis of Poly(vinyl acetate) to Poly(vinyl alcohol). As a                2.21(-NCH2CH2CH2−, br, 2H), 1.81−1.53 (−CH2−, br, 2H); MnSEC
+representative example, poly(vinyl acetate) (1.5 g, 3300 Da, Mn/Mw =             (DMF) = 2700 Da; Mw/Mn = 1.59.
+1.22) was dissolved in a methanol (20 mL) and hydrazine hydrate                     Copolymerisation of Vinyl Acetate and Isopropenyl Acetate
+solution (15 mL, 80% in water) in a round-bottom ﬂask. The reaction              Using CTA 1. As a representative example, CTA 1 (0.032 g, 0.99
+mixture was stirred at 30 °C for 2 h. The reaction mixture was then              mmol), vinyl acetate (7.96 g, 92.45 mmol), isopropenyl acetate (0.83
+dialyzed using distilled water and poly(vinyl alcohol) was recovered as          g, 8.26 mmol), and ACVA (4,4′-azobis(4-cyanovaleric acid); 0.003 g,
+a spongy white solid by freeze-drying the dialysis solution.                     0.012 mmol) were added to a stoppered vial. The solution was
+Deacetylation was determined by 1H NMR. Representative character-                thoroughly degassed under a ﬂow of N2 for 20 min and the reaction
+ization data for PVA56: 1H NMR (400 MHz, CDCl3) δ 4.00                           mixture was then allowed to polymerize at 75 °C for 14 h. The yellow
+(−CHOH−, br, 1H), 1.68−1.60 (−CH2−, br, 2H).                                     solutions were then cooled to room temperature. The polymer was
+   Acetylation of Poly(vinyl alcohol). As a representative example,              then recovered as a yellow sticky solid after precipitation into hexane.
+poly(vinyl alcohol) (0.5 g, 29 kDa, Mn/Mw = 1.28) was dissolved in               The hexane was then decanted and the polymer was redissolved in
+water (2.4 mL), acetic acid (7.6 mL), and HCl (0.1 mL, 3 M solution              DCM, which was then concentrated in vacuo, forming a yellow solid.
+in water) in a vial equipped with a stir bar. The reaction mixture was
+                                                                                 1
+                                                                                   H NMR (400 MHz, CDCl3) δ 4.85 (−CHO−CH2, br, 1H), 2.59
+stirred at 40 °C for 4 days. The reaction mixture was then dialyzed,             (−C(CH3)−CH2−, br, 2H), 2.02 (−CO−CH3, br, 6H), 1.75
+and partially acetylated poly(vinyl alcohol) was recovered by freeze-            (−CH2−, br, 2H), 1.56 (−C(CH3)−CH2−, br, 3H); MnSEC(THF) =
+drying the dialysis solution. Conversion was determined by 1H NMR                4200 Da; Mw/Mn = 1.28.
+integration of the acetate methyl protons (δ = 2.08) and the −CH2−                  Deprotection of Poly(vinyl acetate)-co-poly(isopropenyl
+backbone protons (δ = 1.93−1.50) and IR by examining the −OH                     acetate). Poly(vinyl acetate)-co-poly(isopropenyl acetate) (1.50 g,
+stretch at 3340 cm−1 and the −CO stretch at 1738 cm−1.                          MnSEC(THF) = 4200 Da, Mw/Mn = 1.28) was dissolved in ethanol (40
+Representative characterization data: 1H NMR (400 MHz, D2O) δ                    mL) and heated to 60 °C. Hydrazine hydrate (80% solution, 30 mL)
+4.00 (−CHOH−, br, 1H), 3.82 (−CHO−CH2, br, 1H), 2.08 (−CO−                       was then added carefully with stirring. The solution was stirred at 60
+CH3, br, 3H), 1.93−1.50 (−CH2−, br, 2H); MnSEC (DMF) = 2700 Da;                  °C for 6 h. The solution was then concentrated in vacuo leaving a clear
+Mw/Mn = 1.22.                                                                    solution. The solution was dialyzed using 1000 MWCO dialyzed
+   Copolymerisation of Vinyl Acetate and N-Vinyl-pyrrolidone                     tubing and distilled water. The dialyzed solution was then freeze-dried
+using CTA 1. As a representative example, vinyl acetate (0.68 g, 7.98            and the polymer recovered as white powder. 1H NMR (400 MHz,
+mmol), N-vinyl-pyrrolidone (0.944 g, 8.83 mmol), CTA 1 (0.035 g,                 D2O) δ 3.95 (−CHOH, br, 1H), 1.75−1.40 (−CH2−, br, 4H), 1.28
+0.17 mmol), and ACVA (4.7 mg, 0.02 mmol) were dissolved in                       (−C(CH3), br, 3H).
+
+
+                                                                                 ■
+dioxane (8.41 mL) in a stoppered vial equipped with a stir bar. The
+reaction mixture was thoroughly degassed under a ﬂow of N2 for 20                     RESULTS AND DISCUSSION
+min, and the reaction mixture was allowed to polymerize at 70 °C for 7
+h. The dark yellow solutions were then cooled to room temperature                The aim of this study was to investigate the inﬂuence of the
+and the random copolymer was recovered as a sticky yellow solid by               structural features of PVA on its IRI activity. To obtain
+several precipitations into diethyl ether or hexane, depending on the            quantitative structure−activity relationships it was necessary to
+                                                                          1580                    dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                    Article
+
+Table 1. PVAc Precursors and Respective PVA Polymers
+     entry    [M]/[CTA]a     conv.b (%)    Mn,theoc (g·mol−1)   Mn,NMRd (g·mol−1)     Mn,SECe (g·mol−1)       Mw/Mne (−)           DPNf (−)           PVAg
+    PVAc10        10            83.2            860                  900                   870                     1.18               10             PVA10
+    PVAc19        20            95.3            1720                 1640                  1700                    1.18               19             PVA19
+    PVAc30        50            60.0            4300                 2580                  2700                    1.45               30             PVA30
+    PVAc56        100           54.7            8600                 4700                  5100                    1.23               56             PVA56
+    PVAc154       200           73.8            17200                12700                 13800                   1.45               154            PVA154
+    PVAc246       300           80.1            25800                20660                 21700                   1.39               246            PVA246
+    PVAc351       500           68.8            43000                29600                 30900                   1.28               351            PVA351
+a
+ Monomer to RAFT agent ratio. bDetermined by 1H NMR spectroscopy. cTheoretical Mn determined from monomer to RAFT agent ratio.
+d
+ Determined by 1H NMR. eDetermined by SEC in THF using PMMA standards. fNumber-average degree of polymerization. gCorresponding PVA
+prepared by hydrolysis of the respective PVAc.
+
+use a controlled polymerization technique which ensures                     measured. A modiﬁed splat assay, as developed by Knight et al.
+predictable molecular weight, low polydispersity and quantita-              was employed.42 Brieﬂy, a polynucleated ice wafer comprised of
+tive hydrolysis of the acetate groups to ensure homogeneity. A              ice crystals with diameters <10 μm is annealed at −8 °C for 30
+RAFT/MADIX chain transfer agent was selected for this, based                min before being photographed between crossed polarizers.
+on literature reports on its suitability for polymerizing vinyl             This method separates nucleation from growth process, the
+acetate.44 The synthetic protocol is summarized in Scheme 1,                latter being of interest here. To assess the degree of
+including the subsequent deacetylation step (vide infra). The               recrystallization (growth), the mean largest grain size
+RAFT agent was synthesized according to literature proce-                   (MLGS) is measured from three individual wafers and
+dures41 (Supporting Information) and subsequently used for                  expressed relative to the crystal size obtained from a PBS
+the bulk polymerization of vinyl acetate with [monomer]/                    control, Figure 2A. Concentrations of the polymers in PBS
+[CTA] feed ratios in the range of 10:1 to 500:1, Table 1.                   ranging from 0.005 to 1 mg·mL−1 were tested and the results
+Attempts at solution polymerization (in dioxane) gave rise to               are shown in Figure 2B.
+lower viscosities than observed in bulk, but due to the                        As previously reported by Inada et al.,39 there was a clear
+decreased monomer concentration, the rate of polymerization                 molecular weight dependence on the observed IRI activity, with
+was extremely slow, leading to low conversions.                             the highest molecular weights giving the most activity.
+   Following isolation, the polymers were characterized by size             However, previous studies have used poorly characterized and
+exclusion chromatography (SEC) revealing monomodal                          polydisperse samples of PVA with varying degrees of hydrolysis,
+distributions (Figure 1) with acceptable polydispersities in                which has thus far limited the understanding of their IRI
+                                                                            activity. The polydisperse nature of previously used polymers
+                                                                            also raised questions of whether all the polymers, or just the
+                                                                            high-molecular weight fraction, were giving rise to activity.
+                                                                            From Figure 2, it can clearly be seen that, as the degree of
+                                                                            polymerization of PVA increases from 10 to 19 units, there is a
+                                                                            signiﬁcant increase in activity. At 1 mg·mL−1 PVA10 gives a
+                                                                            MLGS of 80% (relative to PBS), whereas PVA19 gives an
+                                                                            MLGS of 20%. Further increases in molecular weight give rise
+                                                                            to a steady increase in IRI activity, with PVA351 maintaining IRI
+                                                                            activity at concentrations as low as 0.05 mg·mL−1. On a molar
+                                                                            basis, this is 3.2 μM, which is comparable to the IRI activity of
+                                                                            peptide-based AFGP analogues of Ben et al., which typically
+                                                                            retain IRI activity at μM concentrations.26,45 The molecular
+                                                                            weight dependence on activity may indicate a multivalent-type
+Figure 1. Size exclusion chromatography (SEC) traces of poly(vinyl          interaction between the polymer and the ice surface, such as
+acetate) synthesized by RAFT polymerization. RI is the refractive           that seen with glycopolymer−protein interactions.46 Budke and
+index detector signal response.                                             Koop have stated that at least 6 to 8 units of PVA are necessary
+                                                                            to bind to ice,38 but this was only speculation, and our results
+agreement with previous reports of the RAFT/MADIX                           suggest that longer sequences are essential for activity, which
+polymerization of vinyl acetate.44 Molecular weights obtained               itself may not be directly linked to ice-binding, but rather
+by 1H NMR end-group analysis agreed well with those obtained                disruption of the quasi liquid layer at the ice/water interface or
+by SEC and predicted from the feed ratio and conversion.                    a combination of the two.47 Larger polymers were not tested
+  To obtain the desired PVA, it was necessary to remove the                 due to the limits of RAFT/MADIX polymerization of
+acetate protecting groups from PVAc. Various methods for this               deactivated monomers such as vinyl acetate, but Figure 2
+have been reported in the literature, but in our hands, hydrazine           suggests that activity has begun to plateau and longer PVA
+hydrate was found to be the most eﬃcient reagent. Following 2               chains also show decreased aqueous solubility and gel
+h of reaction at 30 °C, PVA with an average degree of                       formation, complicating sample preparation.
+hydrolysis above 99%, according to 1H NMR, was obtained                        Partially Acetylated Polymers. All previous studies of the
+(Supporting Information). Infrared analysis supported this with             IRI activity of PVA have focused on using commercially
+no detectable ester peak at 1738 cm−1. With this panel of well-             available samples, which in addition to being very polydisperse,
+deﬁned PVAs at hand, the IRI activity of the polymers could be              also have varying degrees of acetate hydrolysis, typically from
+                                                                     1581                   dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                    Article
+
+
+
+
+Figure 2. Ice recrystallization inhibition activity of PVA homopolymers as measured by the splat assay. (A) Example micrographs showing ice
+crystals grown in PBS alone (upper) and with PVA351, 1 mg·mL−1); (B) IRI activity as a function of polymer concentration. MLGS = mean largest
+grain size relative to a PBS control, expressed as %. Error bars represent the standard deviation from at least three measurements.
+
+80 to 95% of the repeat units. The presence of residual acetate             Table 2. Acetylation of PVA 7
+groups could have two contradictory eﬀects: (i) acetate groups
+                                                                                        [water]/[acetic acid]       acetylation             acetylation
+break the continuous series of regularly spaced hydroxyl groups,             polymer            (−)                  (IR;c %)             (1H NMR;d %)
+which may be binding to the ice surface and thus reduce IRI
+                                                                            PVA(Ac)1           85:15a                   2.3                      1.7
+activity; (ii) recent observations of IRI active compounds have             PVA(Ac)2           76:24a                   3.7                      3.9
+indicated hydrophobicity plays a key role in RI,31,32 and as                PVA(Ac)3           68:32a                   6.4                      4.2
+acetates are more hydrophobic than hydroxyls, they may                      PVA(Ac)4           60:40a                   10.1                     7.4
+attenuate activity. Separate studies on small molecule IRIs have            PVA(Ac)5           44:56b                   15.2                     18.0
+revealed that sequentially longer alkyl chains enhance activity,            PVA(Ac)6           41:59b                   16.6                     19.9
+rather than the short acetate groups.33 However, acetates are               PVA(Ac)7           45:55b                   18.8                     22.0
+more hydrophobic than the hydroxyl groups, so they provide a                PVA(Ac)8           48:52b                   27.1                     23.7
+convenient probe, and further hydrophobic inﬂuence is tested                PVA(Ac)9           50:50b                   29.9                     26.8
+by addition of pendant methyl groups, vide infra. To probe the              PVA(Ac)            32:68b                   37.3                     44.4
+role of additional hydrophobic units, the well-deﬁned polymer                10
+PVA351 in Table 1 was acetylated in a controlled fashion by                 PVA(Ac)            24:76b                   55.1                     69.5
+esteriﬁcation with acetic acid/HCl to provide a library of PVA-              11
+co-PVAc with variable densities of acetate groups (Scheme 2,                PVA(Ac)            17:83b                   68.4                     70.3
+                                                                             12
+Table 2). Following exhaustive dialysis and freeze-drying, these            a
+PVAs were characterized and tested using an aforementioned                    0.10 mL of 3 M HCl solution added to reaction mixture. b1.00 mL of
+                                                                            3 M HCl solution added to reaction mixture. cDetermined by IR
+splat test.                                                                 spectroscopy, by comparing the integrals of the −OH stretch at 3340
+                                                                            cm−1 and the −CO stretch at 1738 cm−1. dDetermined by 1H
+Scheme 2. Acetylation of PVA                                                NMR, by comparing the integrals of the PVA α-H (δ = 4.00 ppm) and
+                                                                            PVAc−CH3 (δ = 1.74 ppm) shifts of the puriﬁed copolymer.
+
+
+
+
+   IRI activity of the partially acetylated polymers was measured
+at a ﬁxed concentration of 2 mg·mL−1, which was necessary to
+retain suﬃcient activity. Figure 3 clearly shows that inclusion of
+acetate groups above 10 mol % leads to a signiﬁcant decrease in
+the IRI activity of PVA and demonstrates the need for well-
+deﬁned polymers, unlike those used in previous studies.39 The
+reasons for the decrease in activity could be speculated to be
+due to disruption of the hydrogen bonding interactions
+between PVA/ice, preventing “pattern matching”. Indeed,                     Figure 3. Ice recrystallization inhibition activity of PVA/PVAc
+modiﬁcation of the hydroxyl groups on the carbohydrate                      statistical copolymers, measured by the splat assay at 2 mg·mL−1.
+portion of antifreeze glycoproteins has been shown to remove                MLGS = mean largest grain size relative to a PBS control, expressed as
+antifreeze activity.48 Recent independent studies by Gibson and             %. All polymers have DPN = 351; Errors bars represent the standard
+Ben have both shown that hydrophobicity is an important                     deviation from at least three measurements; % acetylation is the mol %
+characteristic of all IRI active compounds.31,32 For example,               of repeat units which are functionalized with an acetate group, as
+Ben et al. have shown that n-octyl galactoside has signiﬁcantly             determined by 1H NMR spectroscopy of the polymers.
+higher IRI activity than galactose alone.32 The controlled
+addition of acetate groups to PVA could therefore be expected
+                                                                     1582                   dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                   Article
+
+to enhance the IRI activity, which is the opposite of what is              glycol), which is included as a negative control due to it being
+seen here. PVA is well-known as a colloidal stabilizer due to its          well established as having no speciﬁc IRI activity. Both are
+surfactant-like properties49 and ability to present a hydrophobic          weaker than some synthetic glycopolymers, which also have
+face, which might be disrupted by the addition of the acetate              limited IRI activity.30,36 The above results demonstrate that
+groups by altering its solution conformation. Nonetheless, this            PVP is not an IRI active polymer, but its high solubility,
+clearly shows that the design of polymers with IRI activity is             hydrophilicity, and compatibility with the RAFT agent used to
+incredibly challenging, and the incorporation of additional                polymerize vinyl acetate make it a viable candidate for statistical
+functionality requires precision chemistry and is not simply a             inclusion into PVA, to determine how the IRI is aﬀected by
+case of adding hydrophobic moieties.                                       increasing the hydrophilicity of the resultant polymer. Vinyl
+   Hydrophilic Comonomers. Considering the results                         acetate and N-vinyl-pyrrolidone were copolymerized in dioxane
+presented above regarding the loss of activity upon addition               via RAFT with vinyl acetate content varying between 10 and
+of hydrophobic acetate groups, it was also prudent to evaluate             80%, Scheme 4A. Polymerizations were quenched at approx-
+the eﬀect of hydrophilic comonomers. Due to vinyl acetate’s                imately 50% conversion to reduce the formation of gradient
+deactivated nature, there are few monomers which can be                    copolymers, as these monomers do not have identical reactivity
+eﬃciently copolymerized with it. N-Vinyl pyrrolidone is one of             ratios.52 Following isolation, the polymers were hydrolyzed
+the few monomers that can be polymerized using this RAFT                   using hydrazine (as above), exhaustively dialyzed and then
+agent and was thus selected. The ﬁrst step was to evaluate if              freeze-dried, as summarized in Table 4. The composition of the
+poly(N-vinyl pyrrolidone), PVP, itself has any IRI activity. PVP           polymers was determined by 1H NMR spectroscopy by
+was prepared by RAFT mediated polymerization in either bulk                comparing the integrals of the unique peaks associated with
+or in dioxane, and then analyzed by SEC, Scheme 3 and Table                each monomer type (Supporting Information). Due to the
+                                                                           above-mentioned diﬃculties associated with SEC analysis of
+Scheme 3. Reaction Scheme for the RAFT-Mediated                            PVP, molecular weights as determined by SEC appear to
+Polymerization of N-Vinyl-pyrrolidone                                      deviate signiﬁcantly from those predicted by the feed ratio and
+                                                                           end-group analysis. End-group analysis indicated that all the
+                                                                           copolymers had similar molecular weights, which is essential
+                                                                           when comparing their IRI activity, below.
+                                                                              The IRI activity of these hydrophilically doped PVA
+                                                                           copolymers is shown in Figure 4. As all the polymers had
+                                                                           similar degrees of polymerization (∼100), it is assumed that
+                                                                           any diﬀerences must be due to the change in composition of
+                                                                           the polymers. Interestingly, a similar trend was seen as for the
+3. The molecular weights obtained by end group analysis are in             hydrophobic copolymers. Above 20% PVP content (i.e., 80%
+close agreement with those expected from the feed ratio, which             PVA), the observed MLGS began to increase, indicating a
+in combination with low polydispersity values suggests a                   reduction in activity. Increasing the PVP content further gave
+controlled polymerization. The molecular weight values                     rise to a signiﬁcant decrease in activity (increased MLGS), even
+obtained by SEC were, however, signiﬁcantly lower than                     at the high concentrations used here (50 mg·mL−1). The
+expected. This has also been observed by O’Reilly et al., who              polymer with 40% PVA had essentially no residual activity,
+demonstrated that, when hexaﬂuoroisoproanol was used as the                giving the same results as homo-PVP. The copolymer with 29%
+solvent, the SEC values did agree with the theoretical and end-            PVP was also tested for concentration-dependent IRI activity
+group values.50,51                                                         and compared to homo-PVA of similar molecular weight. The
+   An initial screen of the activity of PVP (using commercially            copolymer was signiﬁcantly less active across all concentrations
+available higher molecular weight samples to maximize any                  (Supporting Information). Despite the loss of activity above
+activity, 10 and 40 kDa) using the splat assay was undertaken              20% PVP, very low concentrations of PVP do appear to be
+showing IRI activity was only observable at very high                      tolerated. PVA suﬀers from reduced aqueous solubility as the
+concentration (Supporting Information). Even at 50 mg·mL−1                 molecular weight increases, but it also has increased IRI activity.
+PVP lead to an MLGS of only 40%, signiﬁcantly less active than             Therefore, the controlled inclusion of comonomers may enable
+any of the PVAs tested. Comparison of all the synthesized                  the application of the more active, higher molecular weight
+PVPs at 50 mg·mL−1 is included in the Supporting Information               polymers.
+and revealed no strong relationship between IRI activity and                  Main Chain Hydrophobic Modiﬁcations. The results
+molecular weight and was similar to that of poly(ethylene                  presented in this manuscript suggest that addition of either
+
+Table 3. PVP Prepared by RAFT Polymerization
+    polymer    [M]/[CTA]a       conv.d (%)     Mn,theoe (g·mol−1)    Mn,NMRf (g·mol−1)       Mn,GPCg (g·mol−1)           Mw/Mng (−)             DPNh (−)
+    PVP30         25b              64.7             2800                    3900                    1800                      1.35                  30
+    PVP48         50b              44.9             5600                    5100                    2500                      1.58                  48
+    PVP62         50c              48.5             5600                    5900                    2700                      1.59                  62
+    PVP87         100c             26.1             11100                   6000                    2900                      1.65                  87
+    PVP140        100c             50.4             11100                   10100                   5600                      1.73                  140
+
+a
+ Monomer to RAFT agent ratio. bPolymerization conducted in a 2 M solution of monomer in 1,4-dioxane. cPolymerization conducted in bulk.
+d
+ Determined by 1H NMR spectroscopy. eTheoretical Mn determined from [M]/[CTA] and convesion. fDetermined by 1H NMR of PVP after
+precipitation and drying. gDetermined by SEC in DMF using PMMA standards. hNumber-average degree of polymerization.
+
+                                                                    1583                   dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                             Article
+
+Scheme 4. Synthesis of PVA Copolymers by RAFT/MADIX: (A) PVA-co-PVP; (B) PVA-co-PiPA
+
+
+
+
+Table 4. Statistical Copolymers of PVA/PVP
+     polymer      VAca (mmol)      VPa (mmol)      conv.b (%)    Mn,theoc (g·mol−1)    Mn,NMRd (g·mol−1)      Mn,SECe (g·mol−1)        Mw/Mne (−)         PVP mol %f
+    PVA-(PVP)1         1.7             15.3           48.9            10900                   5300                   2400                   1.48              81.0
+    PVA-(PVP)2         4.2             12.8           38.2            10500                   4000                   2500                   1.41              64.9
+    PVA-(PVP)3         8.5             8.5            38.5            9900                    3800                   2600                   1.41              64.8
+    PVA-(PVP)4         15.3            5.4            36.3            9600                    3500                   800                    1.39              39.9
+    PVA-(PVP)5         17.4            3.7            46.2            9400                    4300                   3000                   1.33              28.6
+    PVA-(PVP)6         19.6            1.8            23.0            8900                    2000                   1900                   1.21              12.3
+a
+ [total monomer]/[RAFT agent] ratio = 100:1; Polymerizations conducted in 2 M monomer solutions in dioxane. bDetermined by 1H NMR
+spectroscopy. cTheoretical Mn determined from monomer to RAFT agent ratio. dDetermined by 1H NMR of the copolymers after precipitation and
+drying. eDetermined by SEC in DMF using PMMA standards. fDetermined by 1H NMR spectroscopy.
+
+                                                                                    has a pendant α-methyl group but maintains the spacing of
+                                                                                    hydroxyls along the backbone. It should be noted that initial
+                                                                                    investigations using poly(isopropenyl alcohol) revealed it has
+                                                                                    marginal water solubility, so could not be tested as a
+                                                                                    homopolymer, and hence, only copolymers were used. Figure
+                                                                                    5 shows the IRI activity of PVA-co-PiPA (Mn = 5620; Mw/Mn =
+
+
+
+
+Figure 4. Ice recrystallization activity of statistical copolymers of PVA/
+PVP at 50 mg·mL−1. Mol % PVA is the molar ratio of repeat units of
+the total polymer. MLGS = mean largest grain size relative to a PBS
+control, expressed as %. Errors bars represent the standard deviation
+from at least three measurements.
+
+hydrophobic or hydrophilic comonomers into the main chain
+of PVA leads to a signiﬁcant decrease in its IRI activity. As                       Figure 5. Concentration-dependent ice recrystallization inhibition
+discussed, this could be interpreted as an unbroken sequence of                     activity of PVA-co-PiPA. MLGS = mean largest grain size relative to a
+hydroxyl groups is essential for direct interaction with the                        PBS control, expressed as %. Errors bars represent the standard
+                                                                                    deviation from at least three measurements.
+growing ice crystal face and hence inhibition. The above
+hypothesis is supported by the observations that as the length
+of the PVA chain increases from 10 to 19 units the IRI activity
+increases dramatically, compared to subsequent increases in                         1.28; DPN = 50; 10 mol % PiPA) compared to homo-PVA with
+chain length implying a critical chain length to match the ice                      similar degree of polymerization. While PVA-co-PiPA maintains
+crystal lattice. In order to increase the hydrophobicity of the                     its IRI activity to greater extent than either the acetylated or
+polymer, but maintain its unbroken sequence of hydroxyl                             PVP copolymers, it still shows signiﬁcantly less activity than
+groups, a ﬁnal copolymer was synthesized with isopropenyl                           homo-PVA, particularly as the concentration is lowered below 1
+acetate (iPA) as the comonomer, Scheme 4B. This monomer                             mg·mL−1.
+                                                                             1584                    dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                       Article
+
+Scheme 5. Summary of Polyhydroxylated Structural Simpliﬁcations Employed To Mimic AFGPsa
+
+
+
+
+a
+    *Indicates examples taken from literature.31,32.
+
+   Further Discussion. The PVA-co-PiPA data shows that                         weaker than that found in native AF(G)P. The importance of
+main chain substitutions are tolerated more than modifying the                 backbone−side chain linker length has also been found to be
+hydroxyls but that it still results in decreased activity relative to          crucial to IRI but is outside of the scope of this study.45 These
+homo-PVA and conﬁrms that simply appending increasingly                        apparently contradictory sets of observations imply that
+hydrophobic groups onto the polymer chain does not result in                   multiple structural features (OH spacing, hydrophobicity,
+an increase in IRI activity. On the surface, this appears to                   conformation) contribute to IRI activity, which itself may
+disagree with the expected contributions of hydrophobicity on                  have more than one mechanistic feature. Ben at al. have
+IRI activity; previous studies have shown native AF(G)Ps and                   suggested that IRI’s function by disrupting the quasi-liquid layer
+synthetic inhibitors must display hydrophobic faces, but here                  (QLL)47 at the ice/water interface without any direct
+the addition of acetate groups or pendant method groups                        interaction with the ice crystal which may explain anomalous
+decreases activity. The ﬂexibility of a polymer chain compared                 activity of nonpeptide IRI active compounds. No conclusive
+to a rigid protein held together by secondary structures or                    evidence yet exists to prove if both (speciﬁc face-matching or
+discrete small molecules may explain this. We speculate that the               disrupting of QLL) these mechanisms occur simultaneously for
+conformation (either solution or ice-bound) of the polymer                     a given inhibitor or are mutually exclusive. This serves to
+chains is disrupted by the comonomers, and hence, activity is                  highlight the extreme challenge of designing new ice-growth
+modulated. The hydrophobic residues are likely to associate                    inhibitors and understanding the fundamental mode of action
+into the core of the polymer coil to reduce their unfavorable                  of AF(G)Ps and their mimics.
+interactions with the solvent (water). It is important to note
+that no aggregation of the polymers was observed, however, so
+micellization was not occurring. A detailed conformation study
+                                                                               ■   CONCLUSIONS
+                                                                               This manuscript describes a detailed study into the structural
+lies outside of the scope of the present work, but will be                     basis of the inhibition of ice crystal growth by poly(vinyl
+investigated in the future. The second point of discussion is that             alcohol) as a mimic of antifreeze(glycol)proteins. RAFT/
+AFGPs have a polyhydroxylated disaccharide unit with diﬀerent                  MADIX polymerization allowed access to a diverse range of
+spacing between hydroxyls compared to PVA shown in Scheme                      well-deﬁned polymers with variable molecular weights and
+5. Octyl-galactose has been shown to be a potent IRI agent                     hydrophilic/hydrophobic comonomers. It was observed that
+despite it having a diﬀerent carbohydrate to AFGP and diﬀerent                 the critical chain length at which PVA exhibits IRI activity was
+hydroxyl spacing to PVA, but octyl glucoside has negligible                    between 10 and 20 repeat units, implying a minimum repeat
+activity. Oligosaccharides, such as dextran, have relatively little            sequence is essential for strong interactions with the ice surface.
+or no IRI, ruling out a polyhydroxylated structure being the                   Increasing the chain length further gave rise to increased
+universally active template.31 Obtaining a mechanistic under-                  activity, which was maintained at concentrations as low as 0.05
+standing is further complicated by examples of de novo                         mg·mL−1 for PVA350. Addition of either vinyl acetate or vinyl
+designed peptides with potent IRI, which were designed by                      pyrrolidone comonomers both lead to a reduction in activity
+matching hydroxyl spacing to an ordered ice-lattice, suggesting                above approximately 20 mol % incorporation, showing that
+precision matching to an ice surface at a molecular level can be               only very small quantities of additional functional groups can be
+important.53 Speciﬁc ice-face matching has been shown to                       tolerated in the main-chain structure if activity is to be
+provide the underlying mechanism for the separate (and                         maintained. This intolerance to functional groups raises
+undesirable) properties of TH and DIS: our attempts to                         questions about the mechanism of IRI, particularly the role of
+measure these did not reveal any noticeable TH gap or ice                      hydrophobicity. Hydrophobic domains appear to be essential
+shaping, but that does not rule out any ice-face matching.                     for IRI activity in both proteins and their mimics, but in the
+Previous work by Inada et al. showed PVA had a TH of 0.03 °C                   case of PVA, the random placement of hydrophobic groups
+at 50 mg·mL−1, which is about 100 times less than that seen for                actually reduced activity. This observation suggests that the
+native AFGP.54 Therefore, at the moment we cannot rule out                     solution (or surface-absorbed) conformation of the inhibitor
+any crystal face-binding, but we can state it is signiﬁcantly                  and orientation of hydrophobic (water repelling units) is crucial
+                                                                        1585                   dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+Biomacromolecules                                                                                                                                               Article
+
+to its activity. By comparison to the structure of other biological                    (18) Carpenter, J. F.; Hansen, T. N. Proc. Natl. Acad. Sci. U.S.A. 1992,
+and synthetic inhibitors, we speculated that multiple mecha-                         89, 8953−8957.
+nisms may contribute to ice growth inhibition rather than just                         (19) Koshimoto, C.; Mazur, P. Cryobiology 2002, 45, 49−59.
+molecular recognition and binding to the ice surface. The                              (20) Wang, T.; Zhu, Q.; Yang, X.; Layne, J. R.; DeVries, A. L.
+                                                                                     Cryobiology 1994, 31, 185−192.
+ﬁndings in this article will aid the design of novel                                   (21) Matsumoto, S.; Matsusita, M.; Morita, T.; Kamachi, H.;
+cryoprotectants inspired by extremophilic organisms capable                          Tsukiyama, S.; Furukawa, Y.; Koshida, S.; Tachibana, Y.; Nishimura,
+of existing at low temperature. These and related materials may                      S.-I.; Todo, S. Cryobiology 2006, 52, 90−98.
+ﬁnd use in biological cryoprotection, as well as in foods or                           (22) O’Neil, L.; Paynter, S. J.; Fuller, B. J.; Shaw, R. W.; DeVries, A.
+biotechnological applications.
+
+■
+                                                                                     L. Cryobiology 1998, 37, 59−66.
+                                                                                       (23) Liu, S.; Wang, W.; von Moos, E.; Jackman, J.; Mealing, G.;
+     ASSOCIATED CONTENT                                                              Monette, R.; Ben, R. N. Biomacromolecules 2007, 8, 1456−1462.
+*
+S Supporting Information                                                               (24) Eniade, A.; Purushotham, M.; Ben, R. N.; Wang, J. B.;
+                                                                                     Horwarth, K. Cell Biochem. Biophys. 2003, 38, 115−124.
+Full details of the synthesis and characterization of RAFT
+                                                                                       (25) Tam, R. Y.; Rowley, C. N.; Petrov, I.; Zhang, T.; Afagh, N. A.;
+agents and additional polymers along with additional control                         Woo, T. K.; Ben, R. N. J. Am. Chem. Soc. 2009, 131, 15745−15753.
+ice growth experiments. This material is available free of charge                      (26) Leclere, M.; Kwok, B. K.; Wu, L. K.; Allan, D. S.; Ben, R. N.
+via the Internet at http://pubs.acs.org.
+
+■
+                                                                                     Bioconjugate Chem. 2011, 22, 1804−1810.
+                                                                                       (27) Madura, J. D.; Baran, K.; Wierzbicki, A. J. Mol. Recognit. 2000,
+     AUTHOR INFORMATION                                                              13, 101−113.
+Corresponding Author                                                                   (28) Celik, Y.; Drori, R.; Pertaya-Braun, N.; Altan, A.; Barton, T.;
+*Fax: 0044 2476 524 112. E-mail: m.i.gibson@warwick.ac.uk.                           Bar-Dolev, M.; Groisman, A.; Davies, P. L.; Braslavsky, I. Proc. Natl.
+                                                                                     Acad. Sci. U.S.A. 2013, 110, 1309−1314.
+Notes                                                                                  (29) Garnham, C. P.; Campbell, R. L.; Davies, P. L. Proc. Natl. Acad.
+The authors declare no competing ﬁnancial interest.
+
+■
+                                                                                     Sci. U.S.A. 2011, 108, 7363−7367.
+                                                                                       (30) Gibson, M. I. Polym. Chem. 2010, 1, 1141−1152.
+    ACKNOWLEDGMENTS                                                                    (31) Deller, R. C.; Congdon, T.; Sahid, M. A.; Morgan, M.; Vatish,
+Equipment used was supported by the Innovative Uses for                              M.; Mitchell, D. A.; Notman, R.; Gibson, M. I. Biomater. Sci. 2013,
+                                                                                     DOI: 10.1039/C3BM00194F.
+Advanced Materials in the Modern World (AM2), with support
+                                                                                       (32) Capicciotti, C. J.; Leclere, M.; Perras, F. A.; Bryce, D. L.; Paulin,
+from Advantage West Midlands (AWM) and partly funded by                              H.; Harden, J.; Liu, Y.; Ben, R. N. Chem. Sci. 2012, 3, 1408−1416.
+the European Regional Development Fund (ERDF). M.I.G. is a                             (33) Balcerzak, A. K.; Febbraro, M.; Ben, R. N. RSC Adv. 2013, 3,
+Birmingham Science City Interdisciplinary Research Fellow                            3232−3236.
+funded by the Higher Education Funding Council for England                             (34) Alconcel, S. N. S.; Baas, A. S.; Maynard, H. D. Polym. Chem.
+(HEFCE). This work was supported by a Research Project                               2011, 2, 1442−1448.
+Grant from the Leverhulme Trust (RPG-144) and a Research                               (35) Burns, J. W. Nat. Mater. 2009, 8, 441−443.
+Grant from the Royal Society.                                                          (36) Gibson, M. I.; Barker, C. A.; Spain, S. G.; Albertin, L.; Cameron,
+
+■
+                                                                                     N. R. Biomacromolecules 2009, 10, 328−333.
+     REFERENCES                                                                        (37) Matsumura, K.; Hyon, S.-H. Biomaterials 2009, 30, 4842−4849.
+                                                                                       (38) Budke, C.; Koop, T. Chem. Phys. Chem. 2006, 7, 2601−2606.
+  (1) Esser-Kahn, A. P.; Trang, V.; Francis, M. B. J. Am. Chem. Soc.                   (39) Inada, T.; Lu, S.-S. Cryst. Growth Des. 2003, 3, 747−752.
+2010, 132, 13264−13269.                                                                (40) Inada, T.; Modak, P. R. Chem. Eng. Sci. 2006, 61, 3149−3158.
+  (2) Kim, P.; Wong, T.-S.; Alvarenga, J.; Kreder, M. J.; Adorno-                      (41) Skey, J.; O’Reilly, R. K. Chem. Commun. 2008, 0, 4183−4185.
+Martinez, W. E.; Aizenberg, J. ACS Nano 2012, 6, 6569−6577.                            (42) Knight, C. A.; Wen, D.; Laursen, R. A. Cryobiology 1995, 32,
+  (3) Griffith, M.; Ewart, K. V. Biotechnol. Adv. 1995, 13, 375−402.                 23−34.
+  (4) Mancini, R. J.; Lee, J.; Maynard, H. D. J. Am. Chem. Soc. 2012,                  (43) Schneider, C. A.; Rasband, W. S.; Eliceiri, K. W. Nat. Methods
+134, 8474−8479.                                                                      2012, 9, 671−675.
+  (5) Ohtake, S.; Wang, Y. J. J. Pharm. Sci. 2011, 100, 2020−2053.                     (44) Stenzel, M. H.; Cummins, L.; Roberts, G. E.; Davis, T. P.; Vana,
+  (6) Walters, K. R.; Serianni, A. S.; Sformo, T.; Barnes, B. M.; Duman,             P.; Barner-Kowollik, C. Macromol. Chem. Phys. 2003, 204, 1160−1168.
+J. G. Proc. Natl. Acad. Sci. U.S.A. 2009, 106, 20210−20215.                            (45) Liu, S.; Ben, R. N. Org. Lett. 2005, 7, 2385−2388.
+  (7) Harding, M. M.; Anderberg, P. I.; Haymet, A. D. J. Eur. J.                       (46) Richards, S.-J.; Jones, M. W.; Hunaban, M.; Haddleton, D. M.;
+Biochem. 2003, 270, 1381−1392.                                                       Gibson, M. I. Angew. Chem., Int. Ed. 2012, 51, 7812−7816.
+  (8) DeVries, A.; Wohlschlag, D. E. Science 1969, 7, 1073−1075.                       (47) Tam, R. Y.; Ferreira, S. S.; Czechura, P.; Chaytor, J. L.; Ben, R.
+  (9) Mazur, P. Am. J. Physiol. 1984, 247, C125−C142.                                N. J. Am. Chem. Soc. 2008, 130, 17494−17501.
+  (10) Fahy, G. M.; Saur, J.; Williams, R. J. Cryobiology 1990, 27, 492−               (48) Ahmed, A. I.; Osuga, D. T.; Feeney, R. E. J. Biol. Chem. 1973,
+510.                                                                                 248, 8524−8527.
+  (11) Scott, C. T.; Caulfield, T.; Borgelt, E.; Illes, J. Nat. Biotechnol.            (49) Stejskal, J.; Kratochvíl, P.; Helmstedt, M. Langmuir 1996, 12,
+2012, 30, 141−147.                                                                   3389−3392.
+  (12) Opar, A. Nat. Med. 2008, 14, 225.                                               (50) Ieong, N. S.; Redhead, M.; Bosquillon, C.; Alexander, C.;
+  (13) NHS Transplant Service, www.organdonation.nhs.uk/statistics,                  Kelland, M.; O’Reilly, R. K. Macromolecules 2011, 44, 886−893.
+2013.                                                                                  (51) Ieong, N. S.; Brebis, K.; Daniel, L. E.; O’Reilly, R. K.; Gibson, M.
+  (14) Scott, K. L.; Lecak, J.; Acker, J. P. Trans. Med. Rev. 2005, 19,              I. Chem. Commun. 2011, 47, 11627−11629.
+127−142.                                                                               (52) Bork, J. F.; Coleman, L. E. J. Polym. Sci. 1960, 43, 413−421.
+  (15) Wilkinson, B. L.; Stone, R. S.; Capicciotti, C. J.; Thaysen-                    (53) Kuiper, M. J.; Fecondo, J. V.; Wong, M. G. J. Pept. Res. 2002, 59,
+Andersen, M.; Matthews, J. M.; Packer, N. H.; Ben, R. N.; Payne, R. J.               1−8.
+Angew. Chem., Int. Ed. 2012, 51, 3606−3610.                                            (54) Inada, T.; Lu, S.-S. Chem. Phys. Lett. 2004, 394, 361−365.
+  (16) Tachibana, Y.; Fletcher, G. L.; Fujitani, N.; Tsuda, S.; Monde,
+K.; Nishimura, S.-I. Angew. Chem., Int. Ed. 2004, 43, 856−862.
+  (17) Tseng, P.-H.; Jiaang, W.-T.; Chang, M.-Y.; Chen, S.-T. Chem.
+Eur. J. 2001, 7, 585−590.
+
+                                                                              1586                     dx.doi.org/10.1021/bm400217j | Biomacromolecules 2013, 14, 1578−1586
+

@@ -1,45 +1,65 @@
 ---
 type: literature
-title: "Yunnan Baiyao-enhanced cellulose nanofiber composite hydrogel wearable patch for transdermal drug delivery and anti-freezing applications"
-authors: "Gao, Zhang, Yan, Wu"
-year: 2025
-journal: "International Journal of Biological Macromolecules"
-doi: "10.1016/j.ijbiomac.2025.144684"
-date_added: 2026-04-14
-tags: [纤维素水凝胶, 宽温度]
-pdf: ""
-source: "crossref"
+doi: 10.1016/j.ijbiomac.2025.144684
+topic: hydrogel
+date: 2026-05-12
+rating: ⭐
+_audit: pending
+_audit_codex: partial
+_fulltext_attempt: partial
+tags: [hydrogel]
 ---
 
 # Yunnan Baiyao-enhanced cellulose nanofiber composite hydrogel wearable patch for transdermal drug delivery and anti-freezing applications
 
-## 文献信息
-- **作者**: Gao, Zhang, Yan, Wu
-- **年份**: 2025
-- **期刊**: International Journal of Biological Macromolecules
-- **DOI**: [10.1016/j.ijbiomac.2025.144684](https://doi.org/10.1016/j.ijbiomac.2025.144684)
-- **来源**: crossref
+**中文标题**: 用于透皮给药与抗冻应用的云南白药增强纤维素纳米纤维复合水凝胶可穿戴贴片
 
-## 中文摘要
-本文基于题目与摘要信息，报道了一种以纤维素纳米纤维为骨架、负载云南白药活性组分的复合水凝胶可穿戴贴片，用于经皮给药并兼顾低温环境下使用需求。研究重点在于通过纤维素纳米纤维构筑稳定柔性的水凝胶网络，同时引入抗冻策略以提升贴片在低温条件下的服役性能、黏附性与药物释放稳定性。该体系面向创伤护理或局部治疗场景，兼具生物相容性、机械适应性与药物递送功能。总体而言，文章展示了天然高分子基功能水凝胶在可穿戴经皮递送和抗冻应用中的潜力，对开发宽温域纤维素基医用水凝胶具有参考价值。
+## 基本信息
 
-## 关键发现
-- 纤维素纳米纤维复合水凝胶可作为云南白药的经皮递送载体，实现可穿戴贴片化应用。
-- 材料设计兼顾抗冻性能，使贴片在低温环境下仍保持柔性、结构稳定性及使用功能。
-- 该体系整合了天然药物、生物基纳米纤维与水凝胶平台，面向创面护理和局部治疗具有应用前景。
+| 属性 | 值 |
+|------|-----|
+| **DOI** | [10.1016/j.ijbiomac.2025.144684](https://doi.org/10.1016/j.ijbiomac.2025.144684) |
+| **期刊** | International Journal of Biological Macromolecules |
+| **作者** | Xing Gao; Hongchao Zhang; Chufan Yan; Jie Wu; Yutong Wang; Minghao Jiang; Yanan Wang |
+| **年份** | 2025 |
 
-## 创新点
-文章将云南白药这一传统中药活性体系与纤维素纳米纤维复合水凝胶结合，构建兼具经皮给药与抗冻特性的可穿戴贴片，实现天然药物递送、生物基支撑网络和低温适应性能的一体化设计。
+## 摘要
 
-## 局限性
-基于题目与摘要可判断，研究可能更侧重材料构建与体外性能验证；其长期贮存稳定性、复杂皮肤环境下递药一致性、临床有效性及抗冻机制的普适性仍需进一步系统评估。
+这篇工作把云南白药与冰片一起装入 CNF 复合水凝胶网络，目标是做兼具透皮释药、柔顺贴附与低温适应性的可穿戴运动康复贴片喵~ 公开预览可确认，优化的 PPCB-YB4 水凝胶断裂伸长约 1876 %、72 h 释放约 88 %、抗冻温度约 -27.7 °C、抗溶胀比约 4.5 %，同时还具备良好生物相容性、抑菌性、气体通透性和透皮性能喵~ 依据见「Abstract」「Introduction」「Conclusions」喵~
 
-## 相关度评价
-高。本文核心材料为纤维素纳米纤维复合水凝胶，且突出抗冻应用，直接对应纤维素基宽温度水凝胶综述中的关键主题；同时其经皮给药与可穿戴贴片场景也有助于拓展综述的应用维度。
+## Codex 精读（v2）
 
-## 原始笔记
-> 待补充
+### 核心贡献
 
----
+- 文章的真正亮点是把 **传统中药活性组分 + CNF 增强水凝胶 + 可穿戴贴敷场景** 串成一个完整应用链喵~ 依据见「Abstract」「Introduction」喵~
+- 它不是简单把药物混进凝胶，而是围绕 **贴肤舒适性、持续释药、抗冻和抗溶胀** 做了综合优化，更接近真实运动康复贴片需求喵~ 依据见「Abstract」「Introduction」喵~
+- CNF 在体系中承担了明显的机械增强角色，使这种中药负载贴片不至于停留在概念验证层面喵~ 依据见「Introduction」喵~
 
-*精读时间: 2026-04-14 02:32*
+### 关键数据
+
+- 优化样品 **PPCB-YB4** 的断裂伸长约 **1876 %** 喵~ 依据见「Abstract」喵~
+- 72 h 累计释药约 **88 %**，且符合 **non-Fickian diffusion** 喵~ 依据见「Abstract」喵~
+- 抗冻温度约 **-27.7 °C** 喵~ 依据见「Abstract」喵~
+- 抗溶胀表现对应的溶胀比约 **4.5 %** 喵~ 依据见「Abstract」喵~
+- 体系同时具备良好 **biocompatibility、antibacterial activity、gas permeability 与 transdermal properties** 喵~ 依据见「Abstract」喵~
+
+### 方法概述
+
+- 以 **PVA/AAm/CNF** 复合网络为基础，引入 **Yunnan Baiyao 与 borneol** 构建传统中药复合水凝胶贴片喵~ 依据见「Abstract」「Materials」「Introduction」喵~
+- 作者围绕机械性能、粘附透气、抗冻、抗溶胀、保水、细胞毒性、抑菌和释药行为做了系统评价喵~ 依据见「Introduction」喵~
+- 还专门讨论了水凝胶形成机制、释药模式以及结构与释放行为之间的关系，说明这篇不是只做终点性能展示喵~ 依据见「Introduction」喵~
+
+### 与综述主题的关系
+
+- 这篇与综述主线的相关度 **中等偏高**，因为它确实是 **纤维素基 + 抗冻 + 可穿戴应用** 喵~
+- 不过其第一主线仍然是 **透皮给药和运动康复贴片**，而不是导电传感或电解质喵~
+- 若综述要覆盖生物医用方向，这篇适合放在“**抗冻纤维素可穿戴贴片与药物递送**”一节喵~
+
+### 局限与注意
+
+- 当前依然是 article preview，不是完整 PDF 级全文，因此保守标为 partial 喵~
+- 已足以确认体系定位和关键性能，但具体配方比例、释药动力学细节和长期贴附稳定性仍待全文补足喵~
+
+### Codex 置信度 | 4/5 |
+
+材料路线、药物组合与关键性能都比较清楚，适合升级到 v2，但还不宜做更细粒度参数比较喵~

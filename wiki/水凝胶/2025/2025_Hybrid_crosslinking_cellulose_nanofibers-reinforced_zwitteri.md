@@ -1,45 +1,62 @@
 ---
 type: literature
-title: "Hybrid crosslinking cellulose nanofibers-reinforced zwitterionic poly (ionic liquid) organohydrogel with high-stretchable, anti-freezing, anti-drying "
-authors: "Fu, Xing, Xie, Li"
-year: 2025
-journal: "Carbohydrate Polymers"
-doi: "10.1016/j.carbpol.2025.123253"
-date_added: 2026-04-14
-tags: [纤维素水凝胶, 宽温度]
-pdf: ""
-source: "crossref"
+doi: 10.1016/j.carbpol.2025.123253
+topic: hydrogel
+date: 2026-05-12
+rating: ★★★★★
+_audit: pending
+_audit_codex: FULLTEXT
+_fulltext_attempt: partial
+tags: [水凝胶, CNF, organohydrogel, 抗冻, 抗干燥, 导电, deepread-codex, v2]
 ---
 
-# Hybrid crosslinking cellulose nanofibers-reinforced zwitterionic poly (ionic liquid) organohydrogel with high-stretchable, anti-freezing, anti-drying 
+# Hybrid crosslinking cellulose nanofibers-reinforced zwitterionic poly (ionic liquid) organohydrogel with high-stretchable, anti-freezing, anti-drying
 
-## 文献信息
-- **作者**: Fu, Xing, Xie, Li
-- **年份**: 2025
-- **期刊**: Carbohydrate Polymers
-- **DOI**: [10.1016/j.carbpol.2025.123253](https://doi.org/10.1016/j.carbpol.2025.123253)
-- **来源**: crossref
+**中文标题**: 混合交联纤维素纳米纤维增强两性离子聚离子液体有机水凝胶：高伸长、抗冻、抗干燥与导电
 
-## 中文摘要
-该研究围绕纤维素纳米纤维增强两性离子聚离子液体有机水凝胶展开，构建了兼具“杂化交联”与“有机溶剂/水协同”特征的网络体系。根据题名可判断，材料通过纤维素纳米纤维的增强作用及多重交联网络设计，实现了高拉伸性，并显著提升了低温抗冻与长期抗失水性能。该工作面向柔性器件、寒冷环境传感及耐久软材料需求，体现了纤维素基功能凝胶在力学稳定性与环境适应性之间的协同优化思路。
+## 基础信息
 
-## 关键发现
-- 采用纤维素纳米纤维增强两性离子聚离子液体网络，有望同时提升凝胶的力学强度、韧性与可拉伸性。
-- 通过杂化交联策略构筑多层次网络结构，使材料在大形变条件下仍可保持结构完整性与功能稳定性。
-- 有机水凝胶体系兼具抗冻和抗干燥特征，说明其在宽温度与低湿环境中具有更好的服役潜力。
+| 属性 | 值 |
+|------|-----|
+| **DOI** | [10.1016/j.carbpol.2025.123253](https://doi.org/10.1016/j.carbpol.2025.123253) |
+| **期刊** | Carbohydrate Polymers |
+| **作者** | Fu, Xing, Xie, Li |
+| **年份** | 2025 |
 
-## 创新点
-创新点在于将纤维素纳米纤维增强、两性离子聚离子液体功能网络与杂化交联策略相结合，同时解决传统水凝胶易脆、易冻、易失水的问题，体现出力学性能与环境耐受性的协同设计。
+## 摘要
 
-## 局限性
-基于题名信息可推测，论文可能更强调材料构筑与性能展示，而对抗冻/抗干燥机理、长期循环稳定性、生物相容性及实际器件验证的深度仍需结合全文进一步确认；此外聚离子液体体系的成本与规模化应用也可能受限。
+> 基于 publisher HTML/preview 可见摘要与正文片段整理：该工作构建 CNF 增强的 zwitterionic poly(ionic liquid) organohydrogel，通过 hybrid crosslinking 同时获得高伸长、抗冻、抗干燥和离子导电特性，明显面向宽温柔性电子应用。
 
-## 相关度评价
-高：该文直接聚焦纤维素纳米纤维增强有机水凝胶，并突出抗冻、抗干燥和高拉伸等宽温度服役关键指标，与纤维素基宽温度水凝胶综述主题高度契合。
+## Codex 精读（v2）
 
-## 原始笔记
-> 待补充
+### 结论
 
----
+- 这篇是本综述主线中的强证据，因为它同时覆盖纤维素、抗冻、抗干燥和导电四个关键点 喵~
+- 与普通 hydrogel 相比，organohydrogel 路线更适合承担“宽温工作窗口”论证 喵~
+- CNF 在这里不是装饰性填料，而是 hybrid crosslinking 成功建立的结构核心 喵~
 
-*精读时间: 2026-04-14 15:07*
+### 核心贡献
+
+- 提出 CNF-reinforced zwitterionic poly(ionic liquid) organohydrogel，直接对准寒冷和干燥双极端环境 喵~
+- 利用 hybrid crosslinking 同时解决高伸长与环境稳定性的矛盾 喵~
+- 为纤维素基导电凝胶从“水环境”走向“更宽环境适应性”提供了成熟案例 喵~
+
+### 关键结果
+
+- 文章明确强调材料兼具 anti-freezing 与 anti-drying，说明其并非单场景优化 喵~
+- 高伸长与导电性并存，使其适用于柔性应变感测类器件 喵~
+- 两性离子/离子液体组分帮助维持离子迁移和水分稳定，是宽温性能关键 喵~
+
+### 方法与机制
+
+- 以 CNF 为增强骨架，结合两性离子 poly(ionic liquid) 与有机溶剂环境构建 organohydrogel 喵~
+- 混合交联让刚性增强、动态相互作用和离子迁移通路同时存在，从而兼顾力学与功能 喵~
+
+### 局限与使用方式
+
+- 当前检索结果未完整给出极限温度、电导率和长期循环数据，正式引用前建议复核 PDF 图表 喵~
+- 综述中应把它归入 organohydrogel 子类，不要与纯水体系直接横比极限参数 喵~
+
+### Codex 置信度 | 4/5 |
+
+依据可见摘要、highlights、引言或结论片段整理；已能支撑主题综述定位，但完整实验细节与全套图表仍需原 PDF 复核喵~

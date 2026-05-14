@@ -1,0 +1,379 @@
+                                                             Polymer 42 (2001) 8461±8467
+                                                                                                                     www.elsevier.nl/locate/polymer
+
+
+
+                         States of water in different hydrophilic polymers Ð
+                                        DSC and FTIR studies
+                          Z.H. Ping a,*, Q.T. Nguyen b, S.M. Chen a, J.Q. Zhou a, Y.D. Ding a
+                     a
+                      Department of Macromolecular Science, LMEP, Fudan University, Shanghai 200433, People's Republic of China
+        b
+            Laboratoire `PolymeÁres, BiopolymeÁres, Membranes', UMR 6522, CNRS, UniversiteÂ de Rouen, 76821 Mont-Saint-Aignan Cedex, France
+                             Received 31 October 2000; received in revised form 27 February 2001; accepted 14 March 2001
+
+
+
+Abstract
+   The structure of water molecules sorbed in different hydrophilic polymers was studied by DSC and FTIR. The obtained data shows that,
+®rst, the sorbed water molecules are directly bound to the hydrophilic site to form non-freezable water. Then, beyond a certain water content
+threshold, the sorbed water molecules become freezable, but with a melting point lower than 08C, due to their location in the second hydration
+layer. Bulk-like water which can be frozen at 08C appears at higher water contents, and the two types of freezable water ®nally merge together
+at very high water contents. The average number of non-freezable water molecules per site depends on the chemical nature of the polar
+site: ca. 1 for a hydroxyl, and 4.2 for an amide group. For a polymer with carboxylate sites, it increases with the size of the alkaline
+counter-ion of the site, due to the increasing ability of the carboxylate counter-ion pair to undergo dissociation. q 2001 Elsevier Science Ltd.
+All rights reserved.
+Keywords: Water; Hydrophilic polymer; Hydrogen bond
+
+
+
+1. Introduction                                                                 absorbed in this type of polymer does not crystallize at 08C.
+                                                                                Higuchi et al. [9,10] showed that the heat (endotherm) for
+   Due to the modi®cation of the structure of polymer mate-                     the melting of water crystals in PVA is 9% higher than that
+rials after water sorption, the mechanical and the physical                     for water crystallization, when the content of water
+properties of hydrophilic polymers can vary signi®cantly                        absorbed in PVA exceeds 60 wt%. Based on various ther-
+with the water activity in the surrounding medium. Upon                         modynamic properties of water absorbed in hydrophilic
+water absorption, small or less perfect polymer crystallites                    polymer, they proposed that water is present in three states
+can be destroyed [1]. The materials glass transition tempera-                   in hydrophilic polymer matrices: (i) non-freezable bound
+ture (Tg) decreases sharply with the water content in the                       water, (ii) freezable bound water, (iii) free water. The
+polymer materials [2].                                                          non-freezable bound water absorbed in polymer does not
+   Hydrophilic polymers are currently used to prepare                           crystallize even when the swollen sample is cooled down
+membranes for the dehydration of alcohol and organic                            to 21008C. The freezable bound water crystallizes at a
+solvents by pervaporation. The absorbed water, which acts                       temperature lower than 08C, while the free water crystallizes
+as a plasticizer in hydrophilic polymers, increases the mobi-                   at 08C.
+lity of the chains and decreases the glass transition tempera-                     The `anomalous' behavior of water in polymer materials
+ture of the considered polymer. Thus, water absorption                          can be attributed to the effect of capillary condensation, the
+favors the permeability but modi®es the selectivity to                          con®nement of water clusters by polymer chains, [11,12] or
+water in various solvents in the mixture permeation through                     the strong interactions of the water molecules with the polar
+these membrane materials [3,4].                                                 groups of the hydrophilic polymer, [13,14] either directly or
+   Water absorbed in a hydrophilic polymer presents ther-                       via other water molecules. The latter are the cause for the
+modynamic properties somewhat different from those of                           origin of the term `bound' in the name of the two ®rst states
+water in the bulk liquid phase [5±8]. For example, water                        of the absorbed water. Hirata et al. [15] called this type of
+                                                                                water `hydration water' but logically both the non-freezable
+ * Corresponding author. Tel.: 186-21-656-40235; fax: 186-21-656-
+                                                                                bound water and the freezable bound water are hydration
+40293.                                                                          water; the term `hydration water' is thus not suitable when
+   E-mail address: zhping@fudan.edu.cn (Z.H. Ping).                             both of them are present in the polymer.
+0032-3861/01/$ - see front matter q 2001 Elsevier Science Ltd. All rights reserved.
+PII: S 0032-386 1(01)00358-5
+8462                                         Z.H. Ping et al. / Polymer 42 (2001) 8461±8467
+
+   Generally speaking, the investigations on the states of             solvent. The ®lms obtained in this way had a thickness of
+water in a polymer must give valuable information on the               ca. 1 mm. The dried samples were stored in a desiccator
+sorption, diffusion and permeation properties of molecular             over 4 AÊ molecular sieve until their use.
+species in hydrophilic polymers. Most of the works regard-                To obtain the acid form of the PE-g-AA membrane, the
+ing water crystallization and ice melting have been carried            sample was treated with a HCl solution, then thoroughly
+out using differential scanning calorimetry (DSC) [11,12]              washed with distilled water. The alkaline acrylate mem-
+and to a lesser extent, NMR [16,17]. Recent 17O NMR data               branes were prepared by titration of the membrane in the
+showed that there is only an average 17O spin±lattice relaxa-          acid form with an appropriate alkaline aqueous solution,
+tion time for different types of water. This relaxation time           followed by the steps of washing and vacuum drying.
+decreases (i.e. the water mobility increases) with increasing
+`hydration water' content, and the dissolved oxygen perme-             2.3. DSC measurements
+ability through the swollen polymer is the lowest when the
+fraction of `hydration-water' is the highest [15]. The DSC                Each dried sample (about 10 mg) was weighed in an
+results suggested that there are close relationships between           aluminum pan designed for volatile samples. A determined
+the water crystallization and the ice melting properties.              amount of water was added to each sample by a micro-
+However, each work dealt with a single chemical nature                 syringe and then the pan was tightly sealed. Each sample
+of the polymer (or copolymer), and it is not known how                 pan was conditioned at 303 K for 24 h to obtain the sorption
+the quantity of water in each state varies with both the               equilibrium state. The water content in each sample was
+water content in the polymer material and the nature of                calculated as follows:
+the hydrophilic polymers.
+   In this paper, our attention is focused on the water                Cw  Ww = Ww 1 Wp                                            1
+absorbed in a polymer taken from two polymer groups.
+One group consists of poly(vinyl alcohol) of different                 here Ww is the mass of added water, and Wp that of the dry
+hydrolysis degrees, the other consists of poly(ethylene)-g-            polymer.
+acrylic acid membranes (PE-g-AA) with different counter-                  The measurement was repeated several times with the
+ions for the acid group. We expect that the polymers from              same protocol to check the reproducibility. After the DSC
+these two groups have suf®ciently different chemical struc-            measurement, the pan was weighed in order to ensure that
+tures, while those from the same group have a gradual                  there is no loss of weight (due to water vapor escaping from
+change in the chemical properties, to allow us to obtain               the pan).
+signi®cant variations in the states of water and in their quan-           A Mettler DSC 30 differential scanning calorimeter
+tity. Infrared spectroscopy was performed to give comple-              equipped with a cooling device was used to measure the
+mentary information on the water±polymer site interaction.             phase transition of water sorbed in the polymer samples.
+                                                                       DSC cures were obtained by fast sample cooling from
+                                                                       room temperature to 173 K, followed by a reheating to
+2. Experimental                                                        room temperature at the scanning rate of 10 K min 21. The
+                                                                       mid-point of the heat capacity transition range was taken as
+2.1. Materials                                                         the Tg.
+                                                                          The crystallization and melting temperatures of water
+   Poly(vinyl alcohol) (PVA) samples of different hydroly-             sorbed in the sample were determined from the temperature
+sis degrees were supplied by Janssen Chimica. The poly-                at the maximum point of the corresponding enthalpy peaks.
+mers were atactic and their Mw (weight average molecular               The mass of a type of freezable water was obtained as:
+weight), as quoted by the manufacturer, is ca. 95 000, e.g.
+2050 monomer units per chain on an average. Poly(vinyl                 Wc  Q=DH g                                                  2
+pyrrolidone) of Mw 360 000 was supplied by Fluka.
+   Poly(ethylene)-g-acrylic acid membranes were kindly                 where DH is the melting enthalpy of this type of water,
+provided by Morgane Ltd. Its total ion-exchange capacity               assumed to be the same as that of bulk water DH 
+is ca. 3 equiv. kg 21 and the dry thickness of the membrane            333:5 J g21  [18], and Q is the heat absorbed during the
+in Na 1 acrylate form was 35 mm.                                       melting process. Q was calculated according to the area of
+                                                                       the endothermic peak. This procedure for freezable water
+2.2. Sample preparation                                                calculation does not take into account the difference in the
+                                                                       melting enthalpies of ice of different crystal structures (I, Ic,
+   Homogeneous solutions of 10 wt% PVA were prepared                   II and III). However, even in the case where the difference in
+by dissolving PVA powder in boiling water under moderate               the melting enthalpies of ices is the largest (312 J g 21 for ice
+stirring for 2 h. The solutions were ®ltered to remove inso-           III instead of 314 J g 21 for ice I), the maximum error in the
+luble impurities then cast on polystyrene plate at room                calculated amounts of freezable water is only 6.6%.
+temperature. The quasi-dry PVA ®lms were transferred to                   The mass of non-freezable bound water was obtained
+a vacuum oven at 608C for 30 h to remove the residual                  from the difference between the mass of absorbed water
+                                                Z.H. Ping et al. / Polymer 42 (2001) 8461±8467                                                 8463
+
+and that of the total mass of freezable water:                            molecule per acetate site on the average. The existence of
+                                                                          non-freezable water in the polymer suggests that the inter-
+Wnc  Wt 2 Wc                                                    3
+                                                                          actions between a water molecule and a small fraction of the
+                                                                          polar carboxyl groups in PVAc are strong enough to prevent
+2.4. IR measurements                                                      water to move to other places to form ice crystals when the
+                                                                          sample is cooled down to low temperatures. These interac-
+   The membrane samples equilibrated with an atmosphere                   tions would be well-oriented hydrogen bonds between water
+at different humidity degrees were used for infrared (IR)                 (H-bond donor) and the carboxyl groups (H-bond acceptor),
+measurement. FTIR spectra recorded on a Nicolet Magna-                    which were locally in a favorable con®guration.
+550 spectrophotometer. The ATR (attenuated total re¯ec-                      The presence of bulk-like water (with ice melting point of
+tance) method with a ZnSe prism was used. At least 256                    ca. 08C) can be explained by the formation of water clusters
+scans were performed for each measurement. The resolution                 in water-saturated PVAc. An alternative to this explanation
+in wavelength was 2 cm 21.                                                is that water molecules were dispersed mono-molecularly in
+                                                                          the polymer, but upon cooling, water molecules, which are
+                                                                          close enough to each other, get together to form small ice
+3. Results and discussion
+                                                                          crystals. This would be eventually possible due to low poly-
+                                                                          mer±water interactions.
+3.1. Behavior of water in hydrophobic polymers
+                                                                             The other case in which there are only two states of water,
+   The quantities of water absorbed in hydrophobic poly-                  i.e. non-freezable water and bulk-like water, is that of the
+mers like poly(dimethylsiloxane) (PDMS) or poly(vinyl                     per¯uorinated ionomer membranes [15]. Like PVAc, these
+acetate) (PVAc) were very small (less than 0.1 wt% for                    membranes have a large fraction of hydrophobic groups.
+PDMS, and less than 3 wt% for PVAc, at equilibrium in
+liquid water at 258C), due to their high hydrophobicity.                  3.2. In¯uence of polymer chemical structure on the quantity
+   DSC studies highlighted the absence of any solid±liquid                of non-freezable bound water in hydrophilic polymers
+phase transition in the water-saturated PDMS samples in the
+                                                                             Crystallization as well as melting of water in hydrophilic
+temperature range from 2130 to 108C. As there was negli-
+                                                                          polymers are much more complex. At low water content, all
+gible water±polymer af®nity, such a behavior was probably
+                                                                          the sorbed water molecules are non-freezable (no melting
+due to the very low water concentration in PDMS. Water
+                                                                          point detected). This leads ®rst to a linear increase in the
+molecules were so far away from each other in the PDMS
+                                                                          ratio of the number of sorbed water molecules to that of
+matrix that they could not get together to form ice crystals in
+                                                                          polymer unit with the water content in the hydrophilic poly-
+the cooling step.                                                         mer (Fig. 2).
+   Due to the higher water sorption by PVAc at saturation in
+                                                                             In the study of PVA samples with different quantities of
+liquid water, a peak of ice melting at ca. 08C was observed
+                                                                          absorbed water, we observed that part of the water began to
+on the polymer DSC thermogram (Fig. 1). The quantity of
+                                                                          crystallize only when the water content is above a charac-
+freezable water was ca. half of the total water quantity
+                                                                          teristic threshold (Fig. 2). This part of water has been named
+absorbed in the polymer. The rest of absorbed water,
+                                                                          freezable-bound water [9], because of its low melting point
+which was non-freezable, corresponds to ca. one water
+                                                                          compared with that of bulk water. When the quantity of
+
+
+
+
+Fig. 1. DSC curve of the water absorbed in PVAc. Water content: 3%;       Fig. 2. Variation of the quantity of non-freezable bound water and that of
+heating rate:10 K min 21.                                                 the freezable-bound water as a function of water content in PVA.
+8464                                                Z.H. Ping et al. / Polymer 42 (2001) 8461±8467
+
+Table 1                                                                       high to keep the water molecules in the secondary layers in
+Molar ratios of non-freezable bound water in different polymers               the non-freezable state.
+Polymers               Unit structure                             nwnc/np        The ion pair composed of a carboxylate anion on the
+                                                                              polymer chains and a mobile counter cation is more or
+PVA100                                                            0.8         less dissociated in the presence of water. Both the ion pair
+PVA 95                                                            1.1
+                                                                              and the dissociated ions have their own ability to attract
+PVA 88                                                            1.2
+                                                                              water molecules, depending on their strength and their
+                                                                              dissociation degree in the membrane. However, the disso-
+                                                                              ciated ions always have larger hydration ability than the
+PVP                                                               4.2         corresponding ion pair. The lowest hydration number for
+                                                                              the Li membrane means that Li carboxylate is the most
+                                                                              dif®cult pair to be dissociated by water. This behavior is
+                                                                              consistent with the smallest radius of the bare Li 1 ion and
+                                                                              the strongest electrostatic interaction due to its short
+PE-g-AA 2K 1                                                      4.9
+                                                                              distance from ±COO 2, compared with the other cations.
+PE-g-AA 2Na 1                                                     4.2
+PE-g-AA Li 2   1
+                                                                  1.9         3.3. In¯uence of polymer chemical structure on freezable
+                                                                              bound water properties
+
+                                                                                 When the water content in a hydrophilic polymer exceeds
+                                                                              its characteristic threshold, the water quantity in excess of
+absorbed water increases, the content of freezable-bound                      the non-freezable water can crystallize at a temperature
+water also begins to increase, but the quantity of non-freez-                 lower than 08C. In the DSC heating-sequence, the melting
+able water remains constant. The results showed that the                      point of this freezable bound water increases linearly with
+quantity of non-freezable water absorbed by PVA is practi-                    the water content (Fig. 3).
+cally constant even when the water content in polymer is                         The melting point data concerning the freezable-bound
+very high (50 wt%). As far as the nature and the structure of                 water in different PVA samples are shown in Table 2. When
+polymer are concerned, the maximum quantity of non-                           the water content in PVA with different hydrolysis degrees
+freezable (i.e. the threshold for freezable-bound water                       is maintained constant, the higher the hydrolysis degree (i.e.
+formation) is a characteristic value. For PVA, this value is                  the hydroxyl content) the lower the freezable-bound water
+ca. 25 wt% water content. It should re¯ect on the ability of                  melting point. It appears that the lowering of the freezable
+the polar groups to interact with water molecules in the                      bound water melting point is due to the increase in the over-
+polymer matrix. This ability would depend on the physico-                     all hydrogen bonding ability of the polymer.
+chemical af®nity of the polymer groups to water, the free                        When the water content is maintained at ca. 42% in PE-g-
+space available in the vicinity of the sites as well as the local             AA ®lms with different alkali metal counter-ions, the melt-
+elastic resistance of the chains to a swelling deformation                    ing point of the freezable bound water decreases with the
+stress.                                                                       increase in the counter-ion atomic number. Again, this beha-
+   Table 1 shows that the calculated values of the maximum                    vior can be explained by an increase in the overall hydrogen
+number of non-freezable water molecules per polar site vary
+greatly with the nature of the polymers. For instance, it is
+close to 1 in the case of PVA, suggesting a 1:1 interaction
+between a water molecule and a hydroxyl group. The smal-
+ler value for 100% hydrolysis degree PVA than for the 88%
+one can be explained by the larger fraction of OH groups
+involved in the intra-crystallite hydrogen bonds in PVA
+crystallites, which are present in larger proportion in
+PVA100. The molar ratio of non-freezable water in the
+partially hydrolyzed PVA is higher than 1.0 (Table 1) and
+increases with the vinyl acetate content. It seems thus that
+the vinyl acetate unit has a greater ability to interact with
+water in PVA than in pure PVAc.
+   In PVP, the average number of water molecules per CyO
+in the amide group is 4.2, as every CyO group can be
+directly linked to only two water molecules via hydrogen
+bounds. The high value of this number (4.2) indicates that                    Fig. 3. Variation of melting point of freezable-bound water as a function of
+the interactions of the CyO group with water is suf®ciently                   water content in PVA88.
+                                                      Z.H. Ping et al. / Polymer 42 (2001) 8461±8467                                     8465
+
+Table 2                                                                         nature of the polymer matrix. If there are no physical or
+Variations of melting point of freezable bound water (Tm2) with the polymer     chemical crosslinks between polymer chains, a hydrophilic
+nature for the same water content in the polymer
+                                                                                polymer can absorb more and more water when the external
+Polymers                       Film              Water (wt%)     Tm2 (8C)       water activity increases, and ultimately dissolves in liquid
+                                                                                water (water activity  1). This is precisely the case for
+PVA of different hydrolysis    PVA88             40                27.6
+                                                                                uncrosslinked PVP. In the case of PVA, the crystallites
+degrees
+                               PVA95                             214.2          formed in the ®lm casting process can prevent the materials
+                               PVA100                            218.6          from complete dissolution in water: the crystallites play thus
+                                                                                the role of crosslinks in the polymer. PVA100 whose crys-
+Polyethylene grafted           PE-g-AA 2K 1      42              214.2
+acrylate (with different                                                        tallinity degree is ca. 40% swells to a large extent in liquid
+counter ions)                                                                   water (absorbed water/dry polymer weight ratio of ca.
+                               PE-g-AA 2Na 1                       29.2         150%), while the same polymer prepared in such a way
+                               PE-g-AA 2Li 1                       22.0         that the crystallinity degree is ca. 25% reaches this swelling
+                                                                                ratio at a water activity of ca. 0.9. From these results, we
+                                                                                infer that the quantity of freezable water in a hydrophilic
+bonding ability due to the increased dissociation of the ion                    polymer depends on the hydrogen bonding ability of the
+pairs in the ®lms.                                                              polymer polar groups. The higher the resistance of the
+  When the quantity of water in any polymer of both groups                      matrix to a swelling action, the lower the total quantity of
+(Table 2) increases further, two endotherms of water melt-                      water (i.e. that of freezable water) absorbed in the polymer.
+ing are observed in the DSC thermograms (Fig. 4), one at ca.
+08C (the melting point of normal ice), and the other towards                    3.4. Study of the interaction between various types of bound
+lower melting temperatures. The part of water molecules                         water and polymer polar sites by FTIR spectroscopy
+which melts at a temperature close to 08C is assigned to
+bulk-like water, and that melting at lower temperatures is                         The formation of hydrogen bond brings about a shift in
+assigned to the freezable-bound water, as the latter peak is                    the IR frequency of the acceptor group stretching vibration
+located in the line of the freezable-bound water observed at                    towards smaller values. For instance, the CyO stretching
+lower water contents. If the water content in the polymer                       band in PE-g-AA 2M 1 shifts from 1558 to 1552 cm 21
+increases further, the two peaks merge progressively to                         when the polymer is swollen by water [24].
+become a broad band at high swelling degrees. Such a                               Zundel [25] proposed in an IR study of polystyrene-
+broad endothermic peak was also observed in other hydro-                        sulfonic membrane at different hydration degrees that the
+philic polymers [19±23].                                                        shoulder at 3250 cm 21 can be ascribed to the OH stretching
+  The quantity of bulk-like water depends greatly on the                        vibration of the hydrogen bond of the water molecules of
+                                                                                `type-I attachment', and the intense band at 3430 cm 21 to
+                                                                                those of `type-II attachment', which correspond to the water
+                                                                                molecules in the ®rst and the second hydration layers of the
+                                                                                polyelectrolyte, respectively.
+                                                                                   We found that the OH stretching vibration band at ca.
+                                                                                3250 cm 21 in the PE-g-AA 2Li 1 membranes containing
+                                                                                different water amounts is more intense when the water
+                                                                                content in membrane is lower than 25% (Fig. 5). As it is
+                                                                                generally accepted, the lowest wave number of the OH
+                                                                                stretching band can be assigned to that of the water mole-
+                                                                                cules of the strongest hydrogen bond with the carboxylate of
+                                                                                the polymers, i.e. the water molecules in the ®rst hydration
+                                                                                layer. It means that the proportion of strongly bound water is
+                                                                                higher at low water content in the membrane. However, the
+                                                                                OH stretching band maximum shifts towards higher
+                                                                                frequencies (ca. 3400 cm 21) at high external relative humid-
+                                                                                ity. One can infer that the water hydrogen bonds (on the
+                                                                                average) are weakened due to the intercalation of non-
+                                                                                freezable water from the polar sites of the polymer.
+                                                                                   It should be emphasized that the cause of non-crystalliz-
+                                                                                ability of water molecules absorbed in a polymer should not
+                                                                                be the same for hydrophilic polymers as for hydrophobic
+Fig. 4. DSC curve of the water absorbed in PVA88 with different water           ones. For the latter, the part of non-freezable water is very
+content; heating rate: 10 K min 21.                                             small and corresponds to a random dispersion of the water
+8466                                                 Z.H. Ping et al. / Polymer 42 (2001) 8461±8467
+
+
+
+
+Fig. 5. Changes in the wave number of the hydroxyl stretching vibration in
+the PE-g-AA 2Li 1 membrane with the water content in the membrane; a:          Fig. 6. Changes in the spectra of the PVA hydroxyl stretching vibration with
+0%, b: 5%, c: 17%, d: 31%, e: 48%, f: 54%, g: 64%.                             the water content in the membrane; a: 4.2%, b: 6.3%, c: 10.2%, d: 19%, e:
+                                                                               40%, f: 59% (the spectra were obtained by subtracting the spectra of swel-
+                                                                               ling membranes from that of the dry ones).
+
+molecules (due to an entropy effect) throughout the entire
+polymer matrix. On the contrary, in hydrophilic polymers,                      site (compared with that of hydrogen-bondable molecules)
+water molecules are so strongly bound to speci®c polar sites                   for PVP and for PE-g-AA salts (Table 1), where non-freez-
+by hydrogen bonds that they cannot gather with other mole-                     able water must consist of molecules coming from the
+cules to form crystallizable water. The removal of water                       second hydration layer.
+molecules from the sites would require a large driving
+force (chemical potential), which cannot be provided by
+the surrounding medium during cooling.                                         4. Conclusion
+   The OH stretching band of liquid water is very large,
+without shoulders, due to the existence of continuum of                           Below a water content threshold whose value depends on
+hydrogen bonds of different strengths. Although the alcohol                    the chemical and physical structures of the polymer, the
+hydroxyl stretching band in PVA is also large and is in the                    water molecules absorbed in hydrophilic polymer cannot
+same frequency range, we were able to evidence its varia-                      form ice crystals in the polymer matrix. Beyond this thresh-
+tion in frequency with increasing water contents in the poly-                  old, the absorbed water crystallizes at a temperature lower
+mer by subtracting the spectrum of the dry membrane to that                    than the normal-water melting point, which increases with
+of the swollen membranes (Fig. 6). One can see two distinct                    increasing water content in the polymer. Although the water
+bands at ®xed frequencies but with different intensities,                      molecules of this type are not directly attached to the poly-
+depending on the water contents. The OH stretching band                        mer polar sites, their behavior is modi®ed from that of bulk
+at 3280 cm 21 is more pronounced than that at 3400 cm 21                       water.
+when the water content in membrane is lower than 20%.                             We showed that the absorbed water in hydrophilic poly-
+When the water content in PVA increases, the OH stretching                     mer develop two types of hydrogen bonds, one corresponds
+band at 3400 cm 21 becomes more and more intense (Fig. 6).                     to water molecules directly attached to the active site of the
+These two bands have approximately the same intensities at                     polymer to form the ®rst hydration layer, the second to
+ca. 20 wt% of water in the polymer (Fig. 6). Thus, there are                   water molecules in the second hydration layer. The latter
+two distinct populations of water molecules, which are                         are present in the polymer even at low water contents, i.e.
+present at every water content level in the polymer. The                       the second hydration layer can be formed on certain sites
+non-freezable-water fraction in polymer systems of low                         before all polar sites are saturated with water molecules.
+water content includes then water molecules of the second                      This difference in the type of the water molecules bound
+hydration layer. However, there should also be a dynamic                       to the polymer polar sites led to the observed changes in the
+exchange of water molecules between sites and hydration                        behavior of the absorbed water in crystallization. The non-
+layers. Apparently, these exchanges did not prevent the                        freezable water did not consist exclusively of water mole-
+molecules from being under the polar-site interaction                          cules from the ®rst hydration layer.
+®eld, which kept the water molecules non-freezable.                               The different states of water in hydrophilic polymers
+These results are also consistent with the high values of                      re¯ect the power of the interactions between the absorbed
+the average number of non-freezable water molecules per                        molecules and the polymer sites. The in¯uence of these
+                                                  Z.H. Ping et al. / Polymer 42 (2001) 8461±8467                                               8467
+
+intermolecular interactions is general, therefore should be                  [8] Mansor BA, Malcolm BH. Polym Int 1994;33:273±7.
+taken into account whenever a polymer is used in the                         [9] Higuchi A, Iijima T. Polymer 1985;26:1207±11.
+                                                                            [10] Higuchi A, Iijima T. Polymer 1985;26:1833±7.
+presence of a solvent.                                                      [11] Cuperus FP, Bargeman D, Smolders CA. J Membr Sci 1992;66:45±
+                                                                                 53.
+                                                                            [12] Arndt KF, Zander P. Colloid Polym Sci 1990;268:806±13.
+Acknowledgements                                                            [13] Filho GR, Bueno WA. J Membr Sci 1992;74:19±27.
+                                                                            [14] Scherer JR, Bailey GF, Kint SRY, Malladi DP, Bolton B. J Phys
+  The authors acknowledge the National Natural Science                           Chem 1985;89:312±9.
+Foundation of China for their ®nancial support (no.                         [15] Hirata Y, Miura Y, Nakagawa T. J Membr Sci 1999;163:357±66.
+29774003), and the Minister of Education of China for the                   [16] Higuchi A, Fushimi H, Iijima T. J Membr Sci 1985;25:171.
+                                                                            [17] Eisenberg D, Kauzmann W. The structure and properties of water.
+funding in the frame of the program of Key Laboratory of
+                                                                                 London: Oxford University Press, 1969 (p. 71±149).
+Polymer Molecular Engineering.                                              [18] Mesplede J, Queyrel JL. PreÂcis de Chimie. Rosny: BreÂal, 1992
+                                                                                 (chapter 1, p. 9±44).
+                                                                            [19] Wycisk R, Trochimczuk WM. J Membr Sci 1992;66:89±96.
+References                                                                  [20] Tasaka M, Suzuki S, Ogawa Y, Kamaya M. J Membr Sci
+                                                                                 1988;38:175±83.
+ [1] Gref R, Nguyen QT, Rault J, NeÂel J. Eur Polym J 1992;28(8):1007±      [21] Zhang ZW, Satoh M, Komiyama J. J Membr Sci 1989;42:303±14.
+     14.                                                                    [22] Fushimi T, Ando I, Iijima T. Polymer 1991;32:241±8.
+ [2] Rault J, Ping ZH, Nguyen QT. J Non-Cryst Solid 1994;172±174:733±       [23] Hatada K, Kitayama T. Polym Bull 1982;6:639.
+     6.                                                                     [24] NeÂel J, Kujawski W, Nguyen QT, Ping ZH. In: Bakish R, editor.
+ [3] Chan K, Hirotsu T, Hatakeyama T. Eur Polym J 1992;28:1021±5.                Proceedings of Third International Conference on Pervaporation
+ [4] Nakamura K, Hatakeyama T, Hatakeyama H. Polymer 1983;24:871±                Processes in the Chemical Industry. Englewood Cliffs, NJ: Prentice-
+     6.                                                                          Hall, 1988. p. 21±9.
+ [5] Rodehed C, Rondy B. J Appl Polym Sci 1986;32:3309±15.                  [25] Zundel GG. Hydration and intermolecular interactions. New York:
+ [6] Carles JE, Scallan AM. J Appl Polym Sci 1973;17:1855±65.                    Academic Press, 1969 (p. 99±111).
+ [7] Hoeve CAJ, Tata AS. J Phys Chem 1978;82:1660±3.
+

@@ -1,0 +1,1101 @@
+PROGRESS REPORT
+                                                                                                                                  www.advmat.de
+
+
+
+Recent Progress in High-Strength and Robust Regenerated
+Cellulose Materials
+Hu Tu, Mengxiang Zhu, Bo Duan,* and Lina Zhang*
+
+                                                                                                    microscopic particles from items like food
+High-strength petroleum-based materials like plastics have been widely                              packaging.[5] Thus, terpene, vegetable oil,
+used in various fields, but their nonbiodegradability has caused serious                            carbohydrates, and polysaccharides have
+pollution problems. Cellulose, as the most abundant sustainable polymer,                            been used as raw materials to manufacture
+has a great chance to act as the ideal substitute for plastics due to its low                       various sustainable future bioplastics.[6]
+                                                                                                    Hence, the utilization of the renewable
+cost, wide availability, biodegradability, etc. Herein, the recent achievements
+                                                                                                    resource, biomass, for developing polymer
+for developing cellulose “green” solvents and regenerated cellulose                                 materials that can be biodegraded com-
+materials with high strength via the “bottom-up” route are presented.                               pletely and eventually participate in the
+Cellulose can be regenerated to produce films/membranes, hydrogels/                                 virtuous cycle of nature, shows potential
+aerogels, filaments/fibers, microspheres/beads, bioplastics, etc., which show                       in gradually replacing traditional plastics.
+                                                                                                    It is well known that the development
+potential applications in textiles, biomedicine, energy storage, packaging,
+                                                                                                    and application of polymer materials with
+etc. Importantly, these cellulose-based materials can be biodegraded in                             both high ductility and strength has been
+soil and oceans, reducing environmental pollution. The cellulose solvents,                          a consistent challenge.[7] Most polymer
+dissolving mechanism, and strategies for constructing the regenerated                               materials derived from either natural
+cellulose functional materials with high strength and performances, together                        or synthetic sources suffer from poor
+with the current achievements and urgent challenges are summarized, and                             practical applications due to their weak
+                                                                                                    mechanical strength.[8] Therefore, the
+some perspectives are also proposed. The near future will be an exciting era
+                                                                                                    exploration for improving the mechanical
+for high-strength biodegradable and renewable materials. The hope is that                           properties of biodegradable polymer mate-
+many environmentally friendly materials with good properties and low cost                           rials attracts a lot of attention.
+will be produced for commercial use, which will be beneficial for sustainable                          Cellulose, the most abundant natural
+development in the world.                                                                           polysaccharide, consists of a linear chain
+                                                                                                    of β-(1 → 4)-linked d-glucose units, and is
+                                                                                                    one of the most promising substitutes of
+                                                                                                    petroleum-derived synthetic polymers.[9]
+1. Introduction                                                             Natural cellulose exists as the cellulose I allomorph, and mainly
+                                                                            comes from wood, plants, tunicate, algae, and bacteria. The
+Petroleum-based synthetic polymers with favorable strength                  hierarchical structure design from nanoscale to macroscopic
+are widely used and play an important role in human daily                   dimensions makes it a promising raw material to exploit and
+life.[1] However, their discarded waste cannot be biodegraded,              utilize (Figure 1a).[10] Cellulose nanofibers (cellulose I) within
+resulting in a serious pollution in the world. Recently, plastic            the plant cell walls are packed in parallel with each other, and
+waste has been classified as hazardous, and their global pol-               they can be used directly for constructing advanced cellulose
+lution needs to be solved urgently.[1] Nonbiodegradable plastic             functional materials with excellent performance and advanced
+waste becomes pollutants in rivers and the oceans through                   applications in the areas of energy storage, wastewater treat-
+input from the land.[2,3] Eight million tons of plastic is dumped           ment, and solar-steam-assisted desalination.[11–18] Moreover, cel-
+at sea each year; if the current trend continues, there could be            lulose nanotechnology, including TEMPO-oxidized, mechanical
+more plastic than fish in the oceans by 2050.[4] Particularly,              chemistry methods, and acid treatment, have been developed
+microplastics are recognized as a growing environmental                     to produce cellulose nanowhiskers and nanofibers (cellulose
+hazard, and the sea ice in the Arctic carries an abundance of               I) via the “top-down” approach, which can also be used for the
+                                                                            fabrication of various robust cellulose materials.[19–39] The disso-
+Dr. H. Tu, Dr. M. Zhu, Dr. B. Duan, Prof. L. Zhang                          lution and regeneration process can transform cellulose I into
+College of Chemistry and Molecular Sciences                                 cellulose II, in which high-performance materials can be con-
+Wuhan University                                                            structed though the “bottom-up” approach.[9,40–43] The difference
+Wuhan 430072, China                                                         between cellulose I and cellulose II is the hydrogen-bond pat-
+E-mail: bo_duan@whu.edu.cn; zhangln@whu.edu.cn
+                                                                            tern in their crystalline structure, where cellulose I has a parallel
+     The ORCID identification number(s) for the author(s) of this article
+     can be found under https://doi.org/10.1002/adma.202000682.
+                                                                            orientation of the macromolecular chains, whereas cellulose II
+                                                                            has an antiparallel orientation.[44–46] Density functional theory
+DOI: 10.1002/adma.202000682                                                 (DFT) optimization demonstrates that cellulose I (cellulose Iα
+
+
+Adv. Mater. 2020, 2000682                                        2000682 (1 of 22)              © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                 www.advmat.de
+
+
+and Iβ) chain sheet models show a right-handed twist, while
+the cellulose II (010) and (020) models twist in the opposite                                           Hu Tu received his M.S.
+directions with right- and left-handed chirality, respectively                                          degree in applied chemistry
+(Figure 1b).[47] The elastic moduli of the cellulose I allomorph                                        from Guangxi University in
+is about twice as high as that of cellulose II; thus, cellulose I                                       2017. Currently, he is a Ph.D.
+(nanofiber or nanowhisker)-based materials usually exhibit                                              student under the supervision
+better mechanical properties than cellulose II-based regener-                                           of Prof. Lina Zhang at Wuhan
+ated materials.[48–50] However, unlike cellulose nanotechnology                                         University and his research
+(just developed over several decades), the dissolution and regen-                                       focuses on the preparation,
+eration process of cellulose has been developed for more than                                           properties, and applications
+100 years and the related technology for industrial production                                          of cellulose-based materials.
+of cellulose is mature. Until now, most commercial cellulose
+products are still derived from regenerated cellulose (cellu-
+lose II) such as viscose, cuprammonium rayon, and Lyocell.
+Facing the environment problem, cellulose-based materials
+with high mechanical performance will be promising to sub-
+                                                                                                       Bo Duan received his B.S.
+stitute some nonbiodegradable synthetic polymers for reducing
+                                                                                                       and Ph.D. degrees from the
+environmental pollution. In recent decades, many efforts
+                                                                                                       College of Chemistry and
+have been devoted to improving the mechanical properties of
+                                                                                                       Molecular Sciences at Wuhan
+regenerated cellulose materials via various strategies, such as
+                                                                                                       University, China, in 2010
+inducing nanofiber formation, crosslinking, and stretching
+                                                                                                       and 2015, respectively. He
+orientation.[40,51]
+                                                                                                       worked as postdoctoral at
+   Herein, we focus on cellulose dissolution and regenerated
+                                                                                                       Stowers Institute for Medical
+cellulose materials with superior mechanical performance.
+                                                                                                       Research from 2016 to
+Multiple technologies are used for fabricating cellulose hydro-
+                                                                                                       2019. He is now an asso-
+gels, aerogels, fibers, films, beads, and composite materials,
+                                                                                                       ciate researcher at Wuhan
+indicating their potential applications in packaging, textiles,
+                                                                                                       University. His research
+water treatment, optical/electrical devices, biomedicine, etc.
+                                                                         interests focus on fabricating functional materials from
+These cellulose-based materials exhibit not only good per-
+                                                                         biomass resources.
+formances but also excellent biodegradability, showing great
+potential as environmentally friendly materials to substitute
+part of the nonbiodegradable materials. Herein, we would
+                                                                                                       Lina Zhang is an academi-
+appeal for their exploitation to reduce the pollution from the
+                                                                                                       cian of Chinese Academy of
+nonbiodegradable plastics, which is of great importance for
+                                                                                                       Sciences, and professor at
+promoting the sustainable development.
+                                                                                                       Wuhan University, China.
+                                                                                                       Her research interests lie in
+                                                                                                       “green” conversion of natural
+2. The Dissolution of Cellulose                                                                        polymers into environmen-
+                                                                                                       tally friendly materials. She
+Although a few solvents have been used for dissolving cellu-
+                                                                                                       has created low-temperature
+lose, there are still some disadvantages, such as volatility, tox-
+                                                                                                       technologies to dissolve cel-
+icity, high cost, difficulty in solvent recovery, and low solubility
+                                                                                                       lulose and chitin in alkali/urea
+in the application process.[52] For instance, in the viscose proce-
+                                                                                                       aqueous solvents, and to con-
+dure, the toxic CS2, the discharged wastewater, and exhaust air
+                                                                                                       struct regenerated materials.
+may cause serious environmental problems.[53] In recent dec-
+ades, a series of novel cellulose-solvent systems with conveni-
+ence, low toxicity, and environmental friendliness have been
+developed.[54–57] Many groups pay great efforts to promoting           solvents and their advantages through discussing the dissolu-
+regenerated cellulose processing technology, including devel-          tion mechanism.
+oping new cellulose dissolution solvents, improving the disso-
+lution quality, and regeneration methods. Owing to the large
+amounts of intra- and inter-hydrogen-bonding of cellulose              2.1. N-Methylmorpholine-N-Oxide
+chains, cellulose can only be dissolved in some specific solvent
+systems including N-methylmorpholine-N-oxide (NMMO),                   NMMO, as a nonderivatizing solvent, can be used to dissolve
+LiCl/N,N-dimethylacetamide (LiCl/DMAc), metal-complex                  cellulose, in which the cellulose dissolution process has been
+solutions, ionic liquids, tetra butyl ammonium fluoride/               proved to be an entirely physical process.[60] The active N–O
+dimethyl sulfoxide (DMSO), molten inorganic salt hydrates,             dipoles and the oxygen groups of NMMO can form hydrogen
+organic-base aqueous solutions, and alkali/urea solutions              bonds with the anhydrous glucopyranose unit (AGU) of cellu-
+(Table 1).[54,55,57–59] We would summarize the most used cellulose     lose, leading to the disruption of the cellulose’s intermolecular
+
+
+Adv. Mater. 2020, 2000682                                   2000682 (2 of 22)             © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                                            www.advmat.de
+
+
+
+
+Figure 1. a) Schematic of the tree hierarchical structure. Reproduced with permission.[10] Copyright 2011, Royal Society of Chemistry. b) Superimposed
+structures of the original crystal (blue) and density functional theory optimization (DFT-opt.) (red) 4 × cello-octamers of the cellulose chain sheet
+models. Reproduced with permission.[47] Copyright 2014, American Chemical Society.
+
+
+hydrogen bonds, eventually establishing a strong complex by                             for the dissolution process and uncontrolled fibrillation with
+forming new hydrogen bonds in the homogeneous cellulose                                 the NMMO solvent.[63]
+solution.[58,61] The commercialized Lyocell fibers spun from
+NMMO/H2O solution exhibit good mechanical properties up to
+5.4 cN dtex−1.[62] Nevertheless, Lyocell has a limited output in the                    2.2. LiCl/N,N-Dimethylacetamide
+world due to the extremely high industrial-production demands
+for avoiding problems due the occurrence of oxidative side                              It has been reported that cellulose can be dissolved up to
+reactions, thermal instability, or extremely high temperatures                          16 wt% in LiCl/DMAc solution.[57] The protonated hydroxyl of
+
+Table 1. The mechanical properties of regenerated cellulose materials from different solvents.
+
+Solvent              Solubility [wt%]              Regeneration strategies                        Cellulose materials            a)Mechanical property (Max.)      Ref.
+NMMO                        4–17           Physical crosslinking and wet drawing          Oriented nanofibril structure fibers              5.4 (TS)               [171]
+                                            Physical crosslinking and hot drying                         Films                             300 (TS)                [172]
+LiCl/DMAc                   3–16             Physical crosslinking and air drying                        Films                             160 (TS)                [173]
+                                             Physical crosslinking and drawing                  Anisotropic hydrogels                  53 (TS), 38 (TH)            [97]
+Metal complexes             4–12           Physical crosslinking and wet drawing                        Fibers                             2.0 (TS)                [172]
+                                             Physical crosslinking and air drying                        Films                             82.3 (TS)               [152]
+Ionic liquids               4–25                    Physical crosslinking                             Hydrogels                            0.6 (TS)                [174]
+                                          Physical crosslinking, supercritical drying                  Aerogels                             4 (CS)                 [94]
+                                             Physical crosslinking and air drying                        Films                             130 (TS)                [175]
+                                           Physical crosslinking and wet drawing                  Anisotropic fibers                       5.8 (TS)                [176]
+Organic base                9–13.5                 Chemical crosslinking                              Hydrogels                             3.1 (TS)               [99]
+                                               Physical crosslinking, air drying                         Films                      158.2 (TS), 25.52 (TH)         [84]
+Alkali/urea                  4–11             Double crosslinking and drawing                   Anisotropic hydrogels                      7.98 (TS)               [72]
+                                          Double crosslinking, drawing, air drying                 Anisotropic films                  253 (TS), 41.1 (TH)          [40]
+                                           Physical crosslinking and wet drawing          Oriented nanofibril structure fibers              3.5 (TS)               [51]
+                                           Physical crosslinking and hot pressing                Anisotropic plastics                      269 (TS)                [92]
+
+a)TS, CS, and TH represent the tensile strength (cN dtex−1 for fibers and MPa for the others), compression strength (MPa), and toughness (MJ m–3), respectively.
+
+
+
+
+Adv. Mater. 2020, 2000682                                                   2000682 (3 of 22)                    © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                              www.advmat.de
+
+
+cellulose forms strong hydrogen bonds with the Cl−; mean-           be dissolved rapidly in 7 wt% NaOH/12 wt% urea or 4.6 wt%
+while, the Li+ cations are solvated by DMAc molecules. The          LiOH/15 wt% urea aqueous solution within 2 min by stirring,
+intermolecular hydrogen-bonding networks of cellulose can           when precooled to −12 °C. The dissolution mechanism can be
+be broken when the Li+–Cl− ion pairs split. Thereafter, the cel-    explained in that NaOH “hydrates” form new hydrogen bonds
+lulose chains are dispersed at the molecular level to obtain a      with the cellulose at low temperatures. Urea hydrate is encapsu-
+homogeneous solution.[59] Cellulose in LiCl/DMAc solution           lated around the NaOH hydrogen-bonded cellulose to form an
+exhibits high solubility and stability. In addition, a thermal      inclusion complex with a tubular structure, resulting in the dis-
+runaway reaction, additives, or specialized equipment can be        solution of cellulose.[67,68] The cellulose (Mw < 10 × 104 g mol−1)
+avoided. However, the LiCl/DMAc solvent is used mainly for          inclusion complexes exist in a wormlike morphology with a
+analysis and characterization of cellulose due to its high cost     diameter of 3.6 ± 0.4 nm and a length of about 300 nm in their
+and difficulty of recycling.                                        dilute solution.[69] Weak interactions between the urea and the
+                                                                    cellulose can promote the dissolving process and maintain the
+                                                                    homogeneous dispersion and stability of the cellulose chains
+2.3. Metal-Complex Solutions                                        in solution by weakening the effect of the hydrophobic interac-
+                                                                    tions among the cellulose molecules.[70,71] The solubility of cel-
+Metal-complex solutions have been also used to dissolve             lulose in LiOH/urea is higher than that in NaOH/urea due to
+cellulose. Cuprammonium solution is a classical solvent for         the five times higher Li-ion fraction bonding ability than the Na
+cellulose, from which cuprammonium rayon has been spun              ions to the cellulose. The much stronger bonding ability of Li
+commercially. The cuprammonium solution has been applied            ions with cellulose chains leads to a stronger dissolving capacity
+to spun regenerated cellulose fibers, named “soft cuprammo-         by forming a more stable hydrogen-bonded inclusion com-
+nium rayon,” in the production of knitted and woven clothing,       plex.[56,57] In addition, with the introduction of a small amount
+upholstery, and decorative fabrics.[53] The cellulose dissolution   of ZnO in an alkali system (existing as Zn(OH)42−), Zn(OH)42−
+in cuprammonium solvent is based on Schweizer’s reagent.            can form stronger hydrogen bonds with cellulose than hydrated
+Namely, copper (II) hydroxide is precipitated from copper           NaOH, leading to the enhancement of the solubility. The alkali/
+sulfate aqueous solution by using either ammonia or sodium          urea solvent system has a relative nontoxicity and low cost, and
+hydroxide, and Cu2+ and (C6H8O5)n2− ions can form a com-            low energy consumption, indicating that it is a “green” solvent
+plex, leading to cellulose dissolution. Both the wet strength       for cellulose. Recently, by cooperating with Yibin Grace Co.
+(1.5 cN dtex−1) and abrasive resistance of the soft cuprammo-       Ltd in China (http://www.cn-grace.com), such technology has
+nium rayon exceeds that of viscose fiber (1.0 cN dtex−1).[64] The   been being industrially trialed to construct novel biodegradable
+manufacture of the cuprammonium rayon is mostly carried out         textiles and packaging materials for avoiding plastic pollution.
+in Japan.                                                           However, a deep investigation for further improving the dis-
+                                                                    solution degree and solvent-recycling efficiency is essential for
+                                                                    their industrial applications.
+2.4. Ionic Liquids
+
+Ionic liquids (ILs) are organic molten salts with a melting         2.6. Organic-Base Aqueous Solutions
+point below 100 °C. Hydrogen bonds among the cellulose
+macromolecular chains are broken by the interaction between         Lu and co-workers investigated the dissolution of cellulose
+the positively charged groups of the ILs and the oxygen atom        in organic-base solvent systems comprising triethyl ammo-
+of the hydroxyl group of the cellulose, as well as the nega-        nium hydroxide, ammonium hydroxide, and trimethyl benzyl
+tively charged group of the ILs and the hydrogen atom of            ammonium hydroxide. The solubility and stability are greatly
+the hydroxyl group.[65] The anion of the ILs attached to the        improved by increasing the hydrophobicity of the cation.
+hydroxyl group at the edge of the cellulose molecular bundles       The solubility of cellulose with viscosity-average molecular
+creates a negatively charged complex, and a cation is inserted      weights of 6.98 × 104, 10.8 × 104, and 21.5 × 104 in benzyltri-
+subsequently between the molecular bundles, thereby                 ethyl ammonium hydroxide solution reaches 13.5, 10.5, and
+promoting the separation of cellulose molecules, leading            9.2 wt%, respectively, which are comparable to the ionic liquid
+to the dissolution.[66] There are many advantages for ILs           1-butyl-3-methylimidazolium chloride.[54] The preferable wrap-
+dissolving cellulose, such as high thermal stability, chemical      ping interaction between cations and the cellulose glucose ring
+stability, and high solubility. However, ionic liquids may          prevents aggregation among the cellulose chains, removing
+corrode the machine and the solvent-recycling efficiency still      the partial water away from the first solvation shell and maxi-
+needs to be improved further for large-scale industrial produc-     mizing the solvent entropy. The anion (hydroxide ions) forms
+tion of cellulose-based materials.                                  new hydrogen bonds with the hydroxyl groups of cellulose.
+                                                                    The hydrophobic cation of the organic base accumulates at the
+                                                                    cellulose interface and decreases the surface tension, leading to
+2.5. Alkali/Urea Aqueous Solution                                   the dissolution of the cellulose. Quaternary ammonium hydrox-
+                                                                    ides can be easily recycled and reused, showing potential in the
+Zhang and co-workers developed new solvents for cellulose,          field of regenerated cellulose. Unfortunately, the synthesis of
+namely alkali/urea aqueous systems, in which cellulose has          quaternary ammonium hydroxides is relatively complicated and
+been successfully dissolved at low temperature. Cellulose can       of high cost.
+
+
+Adv. Mater. 2020, 2000682                                2000682 (4 of 22)             © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                        www.advmat.de
+
+
+3. Regenerated Robust Cellulose Materials                                  and then coagulated in dilute sulfuric acid to form physically
+                                                                           crosslinked nanofiber networks. The architecture of the cel-
+Based on the new solvents mentioned above, regenerated                     lulose networks in the chemically crosslinked gel state can
+cellulose materials with high performance have been suc-                   be directionally controlled, and then tightly stacked and long-
+cessfully fabricated in the forms of fibers, films/membranes,              range-aligned cellulose nanofibers could be formed and locked
+hydrogels, aerogels, beads/microspheres, and bioplastics via               through strong self-aggregation forces (hydrogen bonding)
+various crosslinking methods (physical crosslinking, chemical              among neighboring cellulose chains after destroying and
+crosslinking, double crosslinking, etc.) and processing strategies         removing the alkali/urea solvent shells on the cellulose chains
+(stretching orientation, hot pressing, twisting, etc.).[40,51,72–82]       in acidic solution. Films with ultrahigh toughness can be gen-
+The cellulose chains can self-assemble in parallel to form                 erated after air drying via a structural densification in the DC
+a nanofiber structure within the cellulose materials via the               hydrogel. The cellulose films displayed obvious birefringent
+“bottom-up” approach. Moreover, a combination of the chem-                 behavior under polarized light, indicating the existence of
+ical–physical dual-crosslinking strategy and the stretching pro-           ordered nanofibrillar structures. The tensile strength of the
+cess can be used to generate cellulose materials with a highly             films increased to 253 MPa with 120% prestretching, which is
+ordered nanostructure, eventually obtaining high toughness                 2.6 times higher than the nonstretching dual-crosslinked film
+and strength. These novel materials derived from sustainable               (Figure 3a). Anisotropic cellulose films exhibited the largest
+polymers can be used in various fields, such as tissue engi-               toughness (41.1 MJ m−3) compared to other reported cellu-
+neering, wound dressings, and photo/thermal response, as                   lose films. The robust and transparent films can depolarize a
+described in the following.                                                polarized beam and show wavelength selectivity for optical
+                                                                           polarizers, and they can be used for flexible electronic and opto-
+                                                                           electronic devices.
+3.1. High-Strength Regenerated Cellulose Films and Membranes                  Cai and co-workers fabricated oriented cellulose films using
+                                                                           the DC method. DC cellulose hydrogels were designed by
+Superstrong and tough cellulose films were constructed via a               sequential chemical crosslinking with epichlorohydrin (ECH)
+physical and chemical double-crosslinking (DC) strategy by                 and physical crosslinking in alcohol. Then, the DC cellulose
+Zhang and co-workers (Figure 2).[40] Cellulose hydrogel with               hydrogels were fixed with a unidirectional tensile clamp to dry
+loose chemical crosslinking was drawn at different ratios,                 in air. The tensile strength of robust cellulose films increased
+
+
+
+
+Figure 2. Schematic illustration of the bottom-up approach for fabricating DC cellulose films with anisotropic nanofiber structure. Reproduced with
+permission.[40] Copyright 2019, American Chemical Society.
+
+
+Adv. Mater. 2020, 2000682                                      2000682 (5 of 22)                © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                               www.advmat.de
+
+
+
+
+Figure 3. a) Photograph (left) and SEM image (middle) of dual-crosslinked cellulose films with superior rupture stress and toughness. Right: The
+mechanical properties of the anisotropic films with different drawing ratio. Reproduced with permission.[40] Copyright 2019, American Chemical Society.
+b) Photograph (left) and SEM image (middle) of transparent cellulose film (CF) from an organic base with water evaporation of 200 min. Right: The
+stress–strain curves of the CF with different water evaporation times. Reproduced with permission.[84] Copyright 2019, Elsevier. c) Left: Photograph of
+cellulose membrane (mCel-membrane) with good transparency, flexibility, and tailorability. Middle: the tensile stress–strain curves and right: the electro-
+chemical properties of cellulose membranes and some commercial films (NKK-MPF30AC, NKK-TF4030). Reproduced with permission.[90] Copyright 2017,
+Wiley-VCH. d) Photograph (left) and perpendicular image under polarized light (middle) of cellulose bioplastic sheets (CBP), and right: stretching
+stress–strain curves of CBP with different draw ratios (CBP-D1.20, draw ratio 1.20; CBP-D1.10 × 1.10, draw ratio 1.21, two steps; CBP-D1.20 × 1.10, draw
+ratio 1.32, two steps). Reproduced with permission.[92] Copyright 2013, Royal Society of Chemistry.
+
+
+
+Adv. Mater. 2020, 2000682                                          2000682 (6 of 22)                 © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                               www.advmat.de
+
+
+from 97 to 234 MPa as the draw ratio increased from 1.00 to 1.60.    The cellulose bioplastic sheet with a draw ratio of 1.32 exhib-
+The cellulose film at a draw ratio of 1.15 exhibited the highest     ited a superior tensile strength (269 MPa) and breaking energy
+toughness of 28.2 MJ m−3, which is higher than that of the           (30.3 MJ m−3). Importantly, the whole life-cycle assessment
+regenerated cellulose films from DMAc/LiCl (max. 25.4 MJ m−3)        confirmed that the cellulose bioplastic is an environmentally
+and from NMMO solution (max. 9.4 MJ m−3), as well as                 friendly material. This work opens a completely new avenue to
+cellulose nanofibrillar films (max. 16.7 MJ m−3), and bacterial      construct biodegradable plastics directly from the most intran-
+cellulose films (max. 24.7 MJ m−3) reported in the literature.[83]   sigent cellulose rather than its derivatives.
+   Many researchers have focused on developing cellulose                It is noted that the biodegradation times of plastic bottles
+materials through physical regeneration for maintaining the          and disposable diapers are 450 years and 475 years in the ocean,
+cellulose’s natural features. Lu and co-workers fabricated cel-      respectively, resulting in environmental pollution.[56] It is highly
+lulose films from an organic base (benzyltrimethyl ammo-             hopeful that environmentally friendly films and bioplastics with
+nium hydroxide) via water evaporation, which induced dense           good properties, biodegradability, and low cost can gradually
+packing (Figure 3b). The dry cellulose films with gas-barrier        replace some traditional plastics, such as packages and con-
+properties exhibited a high tensile strength of 158.2 MPa and        tainers for reducing pollution. However, their water-resistance
+toughness of 25.52 MJ m−3.[84] Zhang and co-workers prepared         properties and processing technology require further improve-
+cellulose films with higher tensile strength from alkali/urea        ment to realize commercial use.
+solution via regeneration in 5 wt% Na2SO4 solution, followed
+by drawing and drying at ambient temperature. The cellu-
+lose macromolecule chains were gradually oriented along the          3.2. Regenerated Hydrogels and Aerogels with High Strength
+draw direction with increasing draw ratio, resulting in higher
+tensile strength and modulus of elasticity from 89 to 213 MPa        Supertough cellulose aerogels and hydrogels can be obtained by
+and 4.4 to 11 GPa, respectively.[85] Many researchers have           physical regeneration. Zhang and co-workers prepared flexible
+used cellulose solutions from ionic liquids (ILs) to regenerate      and transparent cellulose aerogels from ILs by regeneration in a
+cellulose films in different coagulating baths such as acetone,      highly concentrated AMIMCl aqueous solution and then drying
+ethanol, and water.[86–89] Yu and co-workers used water to regen-    with supercritical CO2. These aerogels exhibited high bending
+erate cellulose membranes from an IL of 1-butyl-3-methylimida-       and compressive deformability, as well as high transmittance
+zolium chloride ([Bmim]Cl) (Figure 3c). The tensile strength of      and low thermal conductivities.[93] Budtova and co-workers fab-
+a soaked KOH-saturated cellulose membrane in the horizontal          ricated cellulose aerogels and cryogels from cellulose solution
+and vertical directions reached 42.98 and 40.22 MPa, respec-         in mixed solvents of 1-ethyl-3-methylimidazolium acetate ionic
+tively, which are far higher than those of commercial products       liquid ([Emim][OAc]) and DMSO by regenerating the cellulose
+(5–12 MPa).[90] Recently, Zhang and co-workers prepared cellu-       in ethanol followed by supercritical CO2 drying and freeze-
+lose films from 1-allyl-3-methylimidazolium chloride (AMIMCl)        drying. The morphology, porosity, and density of the resulting
+ILs on a large industrial scale with the assistance of a factory     hydrogels could be regulated by the cellulose molecular weight,
+(Shandong Henglian New Materials Co. Ltd) by coagulation             the solution concentration, and the drying method. The cellu-
+in water. The transparent and glossy cellulose films displayed       lose cryogels displayed compressive strength and fracture strain
+higher tension strength and elongation at break than commer-         of more than 4 MPa and 70%, respectively, which are both
+cial regenerated cellulose films.[43]                                higher than those of cellulose aerogels prepared at the same
+   Based on chemical crosslinking to offer the materials good        concentration.[94] Ao et al. fabricated a reusable, salt-tolerant,
+elasticity and toughness, Hu and co-workers fabricated chemi-        and superhydrophilic cellulose hydrogel from LiCl/DMAc sol-
+cally crosslinked cellulose membranes from NaOH/urea                 vent by immersing a wire mesh (with cellulose solution coating)
+aqueous solution by crosslinking with ECH.[91] The obtained          into a citric acid/ethanol solution for crosslinking, followed
+cellulose membranes exhibited strong mechanical properties           by heating at 100 °C for 2 h to complete the gelation.[95] The
+with breaking strength of 137.4 MPa and elongation at break          hydrogel displayed superhydrophilicity and underwater supero-
+of 18.3%, respectively. The membranes displayed self-adaptive        leophobicity owing to the intrinsic high surface energy of the
+breathability and excellent biocompatibility, showing promising      hydrogel and the rough surface microstructure, and it can be
+application for biomedical bandages and smart apparel.               used in various fields like separation of waste oils. Lu and co-
+   To address the global pollution caused by nonbiode-               workers investigated the effect of an electrolyte on the proper-
+gradable plastics, Zhang and co-workers reported a new class         ties of regenerated cellulose hydrogels. Cellulose dissolved in
+of bioplastic, which was constructed by hot-pressing cellulose       LiOH/urea solution was regenerated in different coagulating
+hydrogel prepared from cellulose solution in an alkali/urea          baths: CH3COOLi, HCOOLi, LiCl, and LiNO3, CH3COONa,
+system through changing the aggregated structure.[92] Based          CH3COONH4, and CH3COOK. CH3COO− and Li+ with large
+on the removability of the bundles of cellulose molecules in         B-coefficients (from Hofmeister sequence) in the coagulating
+the hydrogel state, the hot pressing could induce the transition     bath lead to a more homogeneous network structure, resulting
+of their aggregated structure; a radial orientation of the cellu-    in robust cellulose hydrogels.[96] The tensile strength of the cel-
+lose chain bundles occurred in the planar direction, leading to      lulose hydrogels regenerated in CH3COOLi aqueous solution
+plastic deformation. The cellulose bioplastic sheets were trans-     reached 2.34 MPa. In addition, they utilized an organic base
+parent, and they exhibited high tensile strength (240 MPa) and       (benzyltrimethyl ammonium hydroxide) to dissolve cellulose
+modulus (3.7 GPa), good flexural strength and thermal sta-           for the construction of robust functional cellulose hydrogels
+bility, and lower coefficient of thermal expansion (Figure 3d).      by using water evaporation to induce dense packing. With an
+
+
+Adv. Mater. 2020, 2000682                                 2000682 (7 of 22)             © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                www.advmat.de
+
+
+increase of the evaporation time from 0 to 200 min, the ten-          forces between nanofibers. Cellulose solution in an alkaline/
+sile strength, elongation at break, and toughness of the hydro-       urea aqueous system was chemically crosslinked with ECH.
+gels increased from 6.2 to 11.7 MPa, 73.8% to 87.1%, and 1.87 to      Then the chemical cellulose hydrogel was immersed in ethanol
+4.31 MJ m−3, respectively.[84]                                        to destroy the alkali/urea inclusion complex of the cellulose
+   The strategy of draft-induced orientation could be fur-            molecular chains, resulting in the full exposure of the hydroxyl
+ther applied for improving the mechanical properties of the           groups to re-form the hydrogen-bond network. Thus, a high-
+hydrogel. Gong and co-workers designed a superstrong ani-             strength and high-toughness cellulose hydrogel, with a tensile
+sotropic cellulose hydrogel (ACH) by drying in air with the           strength up to 2.7 MPa and an elongation at break of 81%,
+restriction of the length direction and reswelling in water. The      was generated.[101] The fracture energy of DC cellulose hydro-
+polymer chains, nano- and sub-microscopic fibrous structures          gels reached 0.65 MJ m−3, which is 1150 times higher than
+turned to be aligned spontaneously, owing to the sufficiently         the chemically crosslinked hydrogels, demonstrating a signifi-
+high tensile stress along the length direction, and the oriented      cant reinforcement in toughness. The DC cellulose hydrogels
+structure could be well retained after reswelling in water. The       could recover to their original shape even after suffering 70%
+water content of the reswollen cellulose gel decreased from 88%       strain, indicating their superior elasticity (Figure 4b). Mulvaney
+to 58% compared with the initial swollen gel. More importantly,       and co-workers prepared an optical cavity film by spin-coating
+the fracture stress of the reswollen cellulose gel increased from     a cellulose hydrogel precursor that contained ECH onto a
+25.80 ± 1.33 to 53.55 ± 0.53 MPa at 100% prestretching.[97] This      gold-coated poly(dimethylsiloxane) substrate, followed by
+work opens a new route for designing hydrogels with high              washing with a 30 wt% ethanol aqueous solution for physical
+strength.                                                             crosslinking and deposition of thick Au film on the substrate.
+   Wang and co-workers dissolved bacterial cellulose in LiOH/         The hygroscopic hydrogels were responsive to humidity by
+urea solvent with cooling for preparing cellulose hydrogels           change of both the refractive index and thickness.[102]
+by using ECH as a chemical crosslink.[98] In this finding, the           Recently, Zhang and co-workers constructed DC cellulose
+content of urea in solution could influence the dissolution           hydrogels from solution in a LiOH/urea solvent by chemically
+and regeneration. The crystalline ratio of cellulose I to cellu-      crosslinking with a small amount of ECH and subsequently
+lose II and the internal structure of cellulose hydrogels could       regeneration in dilute sulfuric acid. The loosely chemically
+be adjusted by changing the amount of urea. When the urea             crosslinked network as a large framework gives the elasticity
+content was 25 wt% in solvents, the regenerated hydrogels pos-        of hydrogels, while the densely physically crosslinked net-
+sessed a stable interconnected nanofiber network structure with       work dissipates mechanical energy by forming nanofibers
+the composition of cellulose I, together with an interspersed         through hydrogen bonds. Under deformation of the hydrogel,
+network composed of cellulose II and random chains, resulting         the unique physically and chemically crosslinked networks
+in excellent mechanical properties. In particular, the compres-       could be coordinately orientated easily, leading to hydrogel
+sive strength of the hydrogels was 3.17 MPa, 56 times larger          sensitively force-induced responsive birefringence behaviors
+than that of native bacterial cellulose, which can effectively pre-   (Figure 4c).[103]
+vent crack propagation by consuming energy. Cellulose hydro-             Interestingly, robust ACHs composed of nanoscale aligned
+gels with anti-freezing properties have been fabricated through       nanofibers were constructed from cellulose solution in an alkali/
+use of an organic base as solvent by Lu and co-workers.[99]           urea aqueous system by Zhang and co-workers.[72] Based on
+The transparent hydrogel could be knotted and twisted easily          directionally controlling the architecture of the cellulose chains
+without any fracture at −40.0 °C, and quickly recovered without       with a facile prestretching strategy in the chemical gel state, the
+rupture after removing the compressive force. The cellulose           highly ordered nanofibers were locked via strong self-aggrega-
+hydrogel even could maintain strong tensile strength (more            tion forces among neighboring cellulose nanofibers in dilute
+than 2.0 MPa) from −60 °C to room temperature. The hydro-             sulfuric acid solution. In the ACHs, the wrinkled structure had
+gels exhibited stable sensitivity to tensile strain, compressive      almost parallelly distributed microgrooves along the perpendic-
+pressure, and temperature, with a fast response time and no           ular direction on the surface, and the ridge and valley regions
+obvious hysteresis (Figure 4a).                                       displayed different microstructures, leading to different mechan-
+   Zhang and co-workers constructed chemically dual-                  ical properties (Figure 5a). The tensile strength, elastic modulus,
+crosslinked cellulose hydrogels through interaction with low-         and fracture energy of the ACH, with drawing ratio of 2.6 in
+molecular-weight and high-molecular-weight crosslinkers (ECH          the parallel direction, dramatically increased up to 7.98 MPa,
+and poly(ethylene glycol) diglycidyl ether, respectively). In this    37.93 MPa, and 1.08 MJ m−3, respectively. The “bottom-up” fabri-
+finding, the relatively short- and long-chain crosslinking could      cation of cellulose-based hydrogels with anisotropic microstruc-
+effectively dissipate mechanical energy and maintain the elas-        ture and biofunction paves a way in the potential application
+ticity of the network, respectively; thus, their tensile stress and   for in vitro culture of cardiomyocytes. Inspired by the construc-
+compressive strength increased from 65 and 112 kPa to 1.7 and         tion of DC cellulose hydrogels, Ye and co-workers constructed
+9.4 MPa, respectively.[100]                                           anisotropic and wrinkle-patterned cellulose hydrogels by regen-
+   As mentioned above, the mechanical properties of cellulose         erating a prestretched cellulose chemical hydrogel in dilute sul-
+hydrogel can be further improved by utilizing the synergistic         furic acid and relaxing within seconds. The wrinkle intervals
+effect of chemical and physical crosslinking. Cai and co-workers      and aligned nanostructures of the cellulose hydrogels could be
+designed double-crosslinked (DC) cellulose hydrogels by com-          regulated by adjusting the prestretching strain and the time of
+bining the covalent crosslinking of the nanofiber network and         the acid treatment (Figure 5b).[104] Thus, a consecutive through-
+the noncovalent crosslinking through strong self-aggregation          thickness modulus gradient with acid-penetration-directed
+
+
+Adv. Mater. 2020, 2000682                                  2000682 (8 of 22)             © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                     www.advmat.de
+
+
+
+
+Figure 4. a) Photograph and conductive performance of anti-freezing cellulose hydrogel from organic base, the mechanical properties of hydrogel
+under different temperatures. Reproduced with permission.[99] Copyright 2019, American Chemical Society. b) Photograph and AFM image of double-
+crosslinked cellulose hydrogels; compression resistance of hydrogels with a varying maximum compression. Reproduced with permission.[101]
+Copyright 2016, Wiley-VCH. c) Photographs of tough cellulose hydrogels (TCHs) with knotting and bending under polarized light, SEM image of
+TCHs, and compressive stress–strain curves of loose chemically crosslinked cellulose hydrogel (LCH) and TCHs with different degrees of chemical
+crosslinking (TCH1-7). Reproduced with permission.[103] Copyright 2017, American Chemical Society.
+
+
+
+Adv. Mater. 2020, 2000682                                    2000682 (9 of 22)               © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                         www.advmat.de
+
+
+
+
+Figure 5. a) Photograph (top) and microscopy image (bottom) of wrinkled cellulose hydrogel with anisotropic structure, and the tensile stress–strain
+curves of anisotropic cellulose hydrogel (ACH) with different draw ratios along the parallel and perpendicular directions. Reproduced with permis-
+sion.[72] Copyright 2018, American Chemical Society. b) Photograph and SEM image of hydrogels with highly ordered self-wrinkling configuration, and
+the improved mechanical properties of hydrogels compared with alkaline gel. Reproduced with permission.[104] Copyright 2019, Wiley-VCH.
+
+
+dual-crosslinking quickly occurred, leading to the formation                nanofibers during plasticized stretching in hot water, leading
+of self-wrinkling structures. The Young’s modulus of the pre-               to superstrong cellulose filaments with a tensile strength and
+stretched cellulose alkaline gel increased 2000 times from 0.006            elongation at break of 3.92 cN dtex−1 and 14.6%, respectively.
+to 12.18 MPa after acid treatment. The robust cellulose hydrogels           However, the coagulating bath is expensive and the recycling
+with highly ordered self-wrinkled structure show potential appli-           efficiency of the solvent and the coagulating bath should be fur-
+cation in biomedical materials.                                             ther improved for commercial use.
+                                                                               Welton and co-workers dissolved cellulose in a range of
+                                                                            superbase-derived ILs to fabricate fibers. Mixed ILs of 1,5-diaza­
+3.3. Mechanically Strong Fibers and Filaments                               bicyclo[4.3.0]non-5-enium ([DBNH]) with acetate ([OAc]) and
+                                                                            hexanoate ([Hex]) anions (9:1) were the best solvents to dissolve
+Zhang and co-workers made great efforts to explore “green”                  and fabricate cellulose fibers (Figure 6b). The tensile modulus
+industrialization for cellulose wet spinning. In recent years,              and the tensile strength of fibers from [DBNH][OAc][Hex] were
+they have spun mechanically strong regenerated cellulose fila-              significantly improved from 4.6 to 14.4 GPa and 78.9 to 209.9
+ments by utilizing a 15 wt% phytic acid/5 wt% Na2SO4 aqueous                MPa, respectively, compared with fibers from [DBNH][OAc].[106]
+solution at low temperature as the coagulator via the “bottom-              Sixta and co-workers dissolved 13 wt% cellulose in [DBNH]
+up” method.[51] Due to the large molecular weight of phytic acid            [OAc] for wet spinning. The effects of extrusion velocity, draw
+and the low temperature of the coagulation bath, the solvent/               ratio, spinneret aspect ratio, and bath temperature on the fila-
+nonsolvent exchanges in the coagulation bath were relatively                ment mechanical properties were investigated.[107] The pre-
+slow, so the naked cellulose macromolecules could aggregate                 pared filaments with 0.02–0.04 mL min−1 extrusion velocity and
+sufficiently in parallel to form the nanofibers (Figure 6a). More-          7.5–12.5 drawing ratio in the air gap exhibited high tenacity
+over, the cellulose nanofibers were further arranged in parallel            (3.68 ± 0.22 cN dtex−1 or 552 ± 34 MPa). In addition, they
+after a multistage stretching, and the mechanical strength of               fabricated cellulose fibers from another IL (1,5-diazabi-
+the regenerated filaments was significantly enhanced: it was                cyclo[4.3.0]non-5-ene acetate). The fibers displayed a smooth
+much higher than that of viscose filaments. The cellulose                   surface, dense fibrillar structure, and strong tensile strength
+fibers with a high degree orientation and crystallinity exhib-              (4.83 ± 0.46 cN dtex−1), any they could be used as an alternative
+ited an excellent tensile strength of 3.5 cN dtex−1 in the dry              to viscose and Lyocell (Figure 6c).[108] In addition, from this sol-
+state and 2.5 cN dtex−1 in the wet state. In addition, the tensile          vent, waste paper and cardboard could be recycled to fabricate
+strength of the cellulose fibers could be further reinforced by             textiles via dry-jet wet-fiber spinning and the tensile strength of
+TEMPO-oxidized nanofibrillated cellulose (NFC).[105] The dis-               the resulting fibers reached as high as 4.89 and 4.39 cN dtex−1
+ordered CNFs turned to be oriented with the aligned cellulose               in the dry state and wet state, respectively.[109] Moreover, the
+
+
+Adv. Mater. 2020, 2000682                                      2000682 (10 of 22)                © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                               www.advmat.de
+
+
+
+
+Figure 6. a) A schematic illustration of the nanofibers formation during the spinning process, polarized optical microscopy image, SEM image of
+nanofibril-structured cellulose fibers (NCF) with the drawing ratio of 2.0, and the tensile strength of NCF with 1.0, 1.5, and 2.0 drawing ratios under wet
+or dry states. Reproduced with permission.[51] Copyright 2018, American Chemical Society. b) SEM image and stress–strain curves of cellulose fibers
+regenerated from various kinds of ILs: (1) [C2C1im][DEP], (2) [C2C1im][OAc], (3) [DBNH][OAc][Hex], (4) [DBNEt][DEP], (5) [DBNH][OAc], (6) [DBUEt]
+[DEP], (7) [C2C1im][OAc][Hex]. Reproduced with permission.[106] Copyright 2017, Royal Society of Chemistry. c) SEM images of fracture surfaces of
+NMMO-type fiber. Reproduced with permission.[172] Copyright 2001, Elsevier.
+
+cellulose molar mass distribution could affect the final proper-               and co-workers developed a continuous process for fabricating
+ties of the regenerated fibers. High-molecular-weight cellulose                cellulose microbeads, including dissolution in an organic elec-
+(>20 wt%, DP > 2000) solutions exhibited an enhanced spinna-                   trolyte solution (1-ethyl-3-methylimidazolium acetate/DMSO),
+bility and large draw ratios, which is beneficial for the fabrica-             a cross-flow membrane emulsification–phase-inversion pro-
+tion of oriented and high-tenacity cellulose fibers. Their tensile             cess and coagulation with an antisolvent. The compressive
+strength and modulus can reach up to 4.9 cN dtex−1 (750 MPa)                   strength of the cellulose beads could be enhanced three times
+and 7.5 cN dtex−1 (22 GPa).[110]                                               by crosslinking with glyoxal.[115] Minami and co-workers fabri-
+                                                                               cated cellulose microspheres from 1-butyl-3-methylimidazoli-
+                                                                               umchrolide ([Bmim]Cl) and an N,N-dimethylformamide (DMF)
+3.4. Microspheres and Beads with Controlled Size                               co-solvent via the solvent-diffusion method. The spongy wet
+                                                                               microsphere collapsed into dense cellulose particles after the
+Spherical materials show great potential in various fields such                evaporation of the medium within the microspheres. The parti-
+as nanomedicine, separation technology, and biocatalyst immo-                  cles with high encapsulation efficiency could be used as carriers
+bilization and carriers.[111–115] Zhang and co-workers fabricated              for controlled release.[116] Cellulose aerogel beads from the IL of
+microspheres from cellulose solution in NaOH/urea solvent by                   1,5-diazabicyclo[4.3.0]non-5-enium propionate ([DBNH][CO2Et])
+the sol–gel transition method. The mean diameter (5–1500 µm)                   were designed via JetCutting technology and supercritical CO2
+of the cellulose microspheres could be controlled by adjusting                 drying by Budtova and co-workers.[117] In their work, [DBNH]
+the experimental parameters such as the amount of the sur-                     [CO2Et] was found to be a better thermodynamical solvent com-
+factants, the proportion of the water to the oil phase, and the                pared with 1-ethyl-3-methylimidazolium acetate ([Emim][OAc]),
+stirring speed. The homogeneous microspheres with nanopo-                      and to work better in the JetCutting process. The average diam-
+rous structure could be used to fractionate poly(ethylene oxide)               eter of the beads constructed from [DBNH][CO2Et] solutions
+from water and adsorb the dyes via physical interaction.[114] Scott            increased from 0.5 to 0.7 mm (2 wt%) to 1.7 mm (3 wt%) with
+
+
+Adv. Mater. 2020, 2000682                                         2000682 (11 of 22)                 © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                 www.advmat.de
+
+
+an increase of the cellulose concentration. This green strategy        with uniform dispersion of MWCNTs displayed good thermal
+provides a new route for constructing bio-aerogel beads.               stability and high Young’s modulus of 90 MPa. Meanwhile, they
+                                                                       exhibited good electrical conductivity and good sensitivity to
+                                                                       ambient pressure, and can be applied for the detection of gases
+4. Cellulose-Based Composite Materials                                 or volatile organic compounds (VOCs).[132]
+                                                                          Owing to the large number of hydroxyl groups in cellulose,
+with High Strength
+                                                                       cellulose can interact easily with organic or inorganic compounds
+Cellulose can be used as the matrix to prepare composite mate-         through hydrogen bonding. Therefore, cellulose hydrogels can
+rials containing other functional components. Regenerated cel-         be an ideal candidate for adsorbing and capturing inorganic or
+lulose-based composite materials with high performance have            organic molecules to construct various composite materials.
+been constructed in the presence of organic/inorganic/polymeric        Huang and co-workers fabricated cellulose/BNNSs/epoxy nano-
+molecules via blending with inorganic or organic matter, including     composites from an alkali/urea system via ECH crosslinking
+carbon nanotubes (CNTs), boron nitride nanosheets (BNNSs), chi-        followed by freeze-drying and vacuum impregnation of epoxy
+tosan, and cellulose nanowhiskers.[118–123] Moreover, the composite    (Figure 7b). The cellulose nanocomposites, with good mechan-
+materials can also be obtained from in situ synthesis and adsorp-      ical properties, displayed high thermal conductivity at a low
+tion by utilizing porous cellulose materials as the matrix.[124–128]   BNNS loading.[133] Similarly, anisotropic and robust cellulose/
+The synergistic reinforcement effect gives cellulose-based com-        BNNSs/poly(ethylene glycol) (PEG) composites have been fabri-
+posite materials excellent physical and chemical properties, which     cated by Fu and co-workers. First, BNNSs were processed with
+can greatly expand their applications in different fields.             edge-selective hydroxylation to obtain a stable BNNS dispersion
+                                                                       in alkali/urea solution. Cellulose/BNNSs aqueous mixtures were
+                                                                       crosslinked with ECH; then, the washed cellulose/BNNSs hydro-
+4.1. Cellulose-Based Composite Hydrogels and Aerogels                  gels were freeze-dried followed by vacuum impregnation of PEG
+                                                                       solution and cold compressing to construct the phase-change
+A mixture of multiple components is the most efficient way             materials. The composite aerogels, with excellent shape stability,
+to prepare composite hydrogels and aerogels. The good com-             possessed impressive compressive strength of 3.03 MPa, due to
+patibility between the additives and cellulose can improve the         the cooperative reinforcement of the cellulose nanofibers and the
+physical or chemical properties of the composite hydrogels and         BNNSs.[134] These intelligent materials, with exceptional thermal
+aerogels. Zhang and co-workers found that polyaniline (PANI)           conductivity, have potential applications in energy conversion
+doped with acidic phosphate ester can be dissolved rapidly in          and storage materials for thermal management.
+cellulose–NaOH/urea aqueous solution. PANI could be entan-                Another method for constructing cellulose composites with
+gled with the cellulose inclusion complex through hydrogen             a stable structure is in situ technology.[135] Cai and co-workers
+bonds to form a new complex in solution at low temperature,            used regenerated nanoporous cellulose hydrogels as a template
+leading to the dissolution of PANI. The PANI/cellulose com-            to fabricate a series of hydrogels and aerogels via in situ tech-
+posite hydrogels fabricated by crosslinking with ECH exhib-            nology.[136] Cellulose/silica composite aerogels were prepared
+ited a homogeneous macroporous structure, good miscibility,            via an in situ sol–gel process and supercritical CO2 drying. The
+and excellent mechanical strength. The compressive strength            resulting aerogels exhibited a large surface area of 474 m2 g−1,
+of the composite hydrogels increased from 0.25 to 0.48 MPa             flexibility, semitransparency, high tensile strength (10.8 MPa),
+with the addition of 15% PANI due to the entanglement of the           and low thermal conductivity (0.030 W m−1 K−1). This work
+PANI chains and the cellulose crosslinked networks.[129] Cel-          provides a new pathway for the development of various nano-
+lulose/ionic compounds hydrogels from highly concentrated              porous materials. In addition, they also prepared electrically
+ZnCl2/CaCl2 aqueous solution or glycerol/water solution were           conductive cellulose/polypyrrole aerogels by in situ vapor-phase
+fabricated via physical crosslinking by Yao and co-workers             polymerization of pyrrole monomers. The constructed aero-
+(Figure 7a). The hydrogels possessed good mechanical prop-             gels exhibited an excellent flexibility and extremely high com-
+erties under 25 and −60 °C, and the toughness, flexibility,            pression moduli up to 164 MPa. Such biocompatible, robust,
+stretchability, and conductivity could even be maintained at           and conductive composite aerogels have potential application
+−70 °C.[9] Deng and co-workers constructed chitosan/cellulose/         in nerve regeneration.[125] Zhang and co-workers fabricated
+rectorite hydrogels with chemical crosslinking of the ECH.             physically regenerated cellulose hydrogels; then, PANI/cel-
+The composite hydrogels could be twisted, knotted without              lulose composite hydrogels were obtained with an interfacial
+fracture, and were resilient after compression. These environ-         polymerization by using ammonium persulfate (APS) as the
+mentally friendly hydrogels with the maximum compressive               oxidant. The PANI nanoparticles were immobilized on cellulose
+strain over 5.65 MPa could be used for dye removal.[130] Fan           with the assistance of a phytic acid bridge through hydrogen
+and co-workers constructed cellulose/MXene (Ti3C2) composite           bonding; the interactions between the hydrophilic cellulose
+hydrogels from an alkali/urea system via ECH crosslinking.             and the hydrophobic PANI could induce the formation of
+The composite hydrogels displayed good mechanical proper-              nanofibers and nanoparticles (Figure 7c). The PANI/cellulose
+ties and light-induced swelling behavior by responding to near-        composite hydrogels, with good mechanical properties, could
+infrared light.[131] Mäder and co-workers fabricated cellulose/        be curled into tubes and efficiently accelerated sciatic-nerve
+MWCNT hydrogels from alkali/urea solution by regeneration              regeneration.[124] Zhang and co-workers prepared cellulose gels
+in a 5 wt% H2SO4 coagulation bath; they then lyophilized the           from the ionic liquid 1-allyl-methylimidazole chloride (AmimCl)
+hydrogels to obtain composite aerogels. The composite aerogels         by regeneration in an AmimCl/water bath, and then the gels
+
+
+Adv. Mater. 2020, 2000682                                   2000682 (12 of 22)            © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                          www.advmat.de
+
+
+
+
+Figure 7. a) Anti-freezing and thermally reversible cellulose hydrogels containing Zn2+ and Ca2+ ions. Reproduced with permission.[9] Copyright 2019,
+Wiley-VCH. b) SEM image and thermally conductive property of cellulose/epoxy/BNNS aerogel. Reproduced with permission.[133] Copyright 2017, Wiley-
+VCH. c) Photograph and TEM image of the PANI/cellulose composite hydrogels with conductive performances, and the mechanism of the interaction
+between cellulose and PANI through a phytic acid bridge. Reproduced with permission.[124] Copyright 2016, American Chemical Society.
+
+
+were incubated in a suspension of silica nanoparticles to fab-              substances. Mäder and co-workers prepared uniformly dis-
+ricate cellulose–silica composite aerogels via a two-step sol–gel           persed multifunctional multiwalled carbon nanotubes
+process and supercritical CO2 drying.[137] The composite aero-              (MWCNTs) in alkaline/urea aqueous solution with the assis-
+gels displayed better transparency, larger compressive prop-                tance of the nonionic surfactant Brij76.[138] Cellulose/MWCNT
+erties, and preferable thermal and thermal-oxidative stability              films were regenerated in 5 wt% H2SO4 for 5 min followed by
+with increasing content of silica due to the well-dispersed silica          rinsing in water and air drying. The incorporation of MWCNTs
+nanoparticles. The introduction of the silica nanoparticles can             into cellulose films decreased the stiffness, and enhanced the
+improve the mesoporous structures and delay the decomposi-                  toughness and stretchability. The strain-to-failure and toughness
+tion of aerogels, which can be used for flame-resistant materials.          of the composite films increased from 6.1% and 3.68 MJ m−3
+                                                                            to 11.1% and 7.55 MJ m−3 compared with cellulose films as a
+                                                                            result of the decreased crystallinity of the composite films. The
+4.2. Cellulose-Based Composite Films/Membranes                              MWCNTs/cellulose composite films achieved good conduc-
+                                                                            tivity and impressive multifunctional sensing abilities to tensile
+Cellulose-based composite films and membranes can be fab-                   strain, environmental temperature, and humidity. Isogai and
+ricated by blending cellulose solutions with organic/inorganic              co-workers prepared cellulose–saponite nanocomposite films
+
+
+Adv. Mater. 2020, 2000682                                      2000682 (13 of 22)                © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                www.advmat.de
+
+
+from cellulose–saponite alkali/urea solution followed by regen-       enhanced tensile strength due to the alignment of the graphene
+eration in acetone and air drying. The cellulose–saponite films       along the in-plane direction within the cellulose matrix. The
+exhibited high optical transparency, flexibility, good mechan-        uniform dispersion of the aligned graphene and the strong
+ical strength, high Young’s modulus, and excellent gas-barrier        hydrogen bonding between the cellulose and the functionalized
+properties. Moreover, a simple drawing process of the com-            graphene are attributed to the high in-plane thermal conduc-
+posite films could improve the orientation of the cellulose II        tivity of the composite plastics.[144] In addition, aligned cellu-
+crystallites and saponite platelets, leading to the reinforcement     lose/nanodiamond plastic film has also been constructed with
+of the tensile strength and Young’s modulus of the composite          the same method. The tensile strength and Young’s modulus of
+films (241 MPa and 7.7 GPa).[139] Cellulose/carboxymethyl cellu-      the composite plastics could be enhanced with the introduction
+lose film electrolytes were designed by Pereira and co-workers        of nanodiamond. The toughness of the composite plastic film
+as follows.[140] Cellulose/carboxymethyl cellulose solution in        was 3.67 times higher than that of the cellulose film, showing
+LiOH/urea solvent was immersed in acetic acid at low tem-             potential application in the field of thermal management.[145]
+perature to gel, and then the prepared gel was dried directly            Nanocellulose can be applied for enhancing the mechanical
+without a washing step to trap ions within cellulose structure.       properties of cellulose films. Zhang and co-workers prepared
+The composite membrane with high ionic concentration and              regenerated cellulose films with various ratios of cellulose
+good mechanical strength could be applied in electrochemical          whiskers. The tensile strength of the nanocomposite films
+devices.                                                              increased from 87 to 124 MPa with the addition of cellulose
+   Xu et al. fabricated cellulose/poly(lactic acid) (PLA) composite   whiskers. The nanocomposite films displayed an extremely
+films via dissolving PLA/cellulose in DMF and IL (1-butyl-            high tensile strength up to 157 MPa with a simple drawing pro-
+3-methylimidazolium acetate, [bmim]Ac) solvents followed by           cess, showing potential for biodegradable food packaging.[146]
+coagulating in ethanol and air drying.[141] The cellulose/PLA         Moreover, fluorescent cellulose films have been constructed
+composite film exhibited homogeneous structure as a result of         from alkali/urea solution in a 5 wt% H2SO4 coagulation bath.
+the strong hydrogen-bond interaction between the cellulose and        The films, with a homogeneous structure and excellent optical
+the PLA molecules. The composite film displayed improved              transmittance, exhibited good tensile strength after the drawing
+biocompatibility, biodegradability, and high tensile strength         process, which reached 138 MPa.[147] The films could be totally
+compared with cellulose film. Chen and co-workers constructed         biodegradable within a month (Figure 8b).
+a cellulose/PEG membrane by dissolving cellulose in a NaOH/              To explore the packaging applications of cellulose, hydro-
+urea aqueous solution with different amounts of PEG, followed         phobic cellulose composite films were also fabricated by using
+by chemical crosslinking with ECH and air drying.[118] The            cellulose hydrogel as a substrate by Zhang and co-workers.
+PEG chains bonded together with cellulose by forming strong           Based on the hair-inspired crystal growth in cavities of a porous
+hydrogen bonding between the hydroxyl groups in the cellulose         cellulose matrix via hydrophobic–hydrophilic interface inter-
+and the terminal hydroxyl in the PEG. The composite mem-              actions, the pores of the cellulose hydrogel could be used to
+branes could keep an intact shape when exposed to tempera-            promote the growth of short hair-like 12-hydroxyoctadecanoic
+tures from 25 to 150 °C. The tensile strength of the composite        acid (HOA) crystals on their surface for obtaining a high hydro-
+membrane increased dramatically from 33.92 to 211.06 MPa              phobic property. The hydrophobic cellulose composite films
+with the incorporation of PEG. Xiong and co-workers fabri-            were fabricated via solvent-vaporized controllable crystallization
+cated cellulose/BaTiO3 films from cellulose/BaTiO3/alkali/urea        of the hydrophobic HOA, which grew along the hydrophilic
+solution through physical crosslinking in a H2SO4 coagulation         cellulose pore wall, showing high hydrophobicity and biodeg-
+bath. The incorporation of BaTiO3 nanoparticles and BaTiO3            radability.[148] The tensile strength (σb) and high elongations at
+nanofibers improved the tensile strength and Young’s modulus          break (εb) of cellulose composite films were both higher than
+of the cellulose-based composite films (Figure 8a). Such flex-        those in the cellulose matrix, making them a highly promising
+ible cellulose/BaTiO3 nanocomposites with high energy density         candidate for novel biodegradable packaging materials.
+could be used for dielectric capacitors.[142] Yang and co-workers        To develop applications in the field of electrode materials,
+fabricated cellulose/BN films from cellulose alkali/urea solu-        Zhou and co-workers constructed transparent conductive
+tion that contained exfoliated boron nitride (BN), followed by        nano­paper from LiOH/urea solution by coagulation in ethanol
+regeneration in H2SO4 aqueous solution (or acetone) and air           followed by spin coating of poly(3,4-ethylenedioxythiophene):
+drying. The flexible cellulose/BN films displayed enhanced ten-       polystyrene sulfonate (PEDOT:PSS) on the surface of cellulose
+sile strength compared with cellulose films, owing to the tightly     films. Then, PLA was adhered to the conductive nanopaper to
+packed layered structure of the films after loading BN. However,      construct a PLA/conductive T-paper. The biodegradable and
+the tensile strength of the composite films decreased to 70 MPa       transparent composites with tensile stress over 65 MPa could
+when the BN content was further raised to 30 wt% due to the           be used for electret nanogenerators.[149] Yu and co-workers
+severe aggregation of BN nanoplatelets in the composite.[143]         utilized cellulose membrane prepared from [Bmim]Cl solu-
+The robust and flexile films possessed high energy-storage            tion as substrate to construct a solid-state electric-double-layer
+density and high thermal conductivity, showing potential in           capacitor by directly depositing the electrode materials on a
+biodegradable materials such as thermally dielectric energy-          membrane.[90] The flexible cellulose composite membrane with
+storage devices. Song and co-workers fabricated cellulose/func-       good mechanical properties showed promising application in
+tionalized graphene composite plastic film from NaOH/urea             portable energy-storage devices.
+solution via physical regeneration in ethanol and hot pressing.          Pötschke and co-workers constructed cellulose/graphene
+The semitransparent cellulose/graphene plastic film exhibited         composites by physical regeneration from an alkaline/urea
+
+
+Adv. Mater. 2020, 2000682                                  2000682 (14 of 22)            © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                           www.advmat.de
+
+
+
+
+Figure 8. a) Photograph and SEM images of flexible cellulose/BaTiO3 film; tensile strength and Weibull breakdown strength of cellulose/BaTiO3 film
+with various contents of BaTiO3 nanoparticles (BTNPs) and BaTiO3 nanofibers (BTNFs). Reproduced with permission.[142] Copyright 2019, American
+Chemical Society. b) Photographs of the photoluminescent cellulose films, and the tensile strengths of films with different molecular weights and
+their degradability in soil. Reproduced with permission.[147] Copyright 2009, Royal Society of Chemistry. c) Photograph, SEM images, and degradability
+(in soil) of hydrophobic cellulose/stearic acid films. Reproduced with permission.[148] Copyright 2013, American Chemical Society.
+
+aqueous solution, followed by in situ chemical reduction of                  with the introduction of graphite and polypyrrole, leading to
+graphene oxide.[150] The ecofriendly composite films, with good              excellent electromagnetic interference shielding effectiveness.
+mechanical properties, were responsive to different stimuli like             Zhou and co-workers constructed cellulose–Cu composite
+mechanical or environmental stimuli, and could be applied in                 films from cuprammonium solution by coagulation in NaOH
+multifunctional sensors. Sun and co-workers fabricated cel-                  aqueous solution, followed by soaking in NaBH4 solution for
+lulose/graphite/polypyrrole films from cellulose/graphite IL                 in situ coating of Cu nanoparticles. The cellulose–Cu films dis-
+(1-butyl-3-methylimidazolium chloride, [Bmim]Cl) by coagula-                 played good mechanical properties with Young’s modulus, ten-
+tion in a water bath, followed by in situ chemical polymeriza-               sile strength, and elongation at break of 2.4 ± 0.2 GPa, 55.8 ±
+tion of polypyrrole nanoparticles on the surface.[151] The graphite          1.2 MPa, and 13.7 ± 0.3%, respectively. The nanocomposite
+embedded in the cellulose matrix enhanced the thickness and                  films with high single-sided conductivity could be utilized as
+decreased the density of the composite films, resulting in a                 electronic substrates, wearable electronics, and sensors.[152] Yao
+decrease of the tensile strength from 158 to 34 MPa. However,                and co-workers fabricated cellulose/ZnO composite films from
+the incorporation of graphite in the composite films signifi-                NaOH/zincate/urea solution through direct regeneration in
+cantly enhanced the thermal stability and fire resistance. In addi-          10 wt% Na2SO4 aqueous solution. Then, cellulose/ZnO films
+tion, the electrical conductivity of the films increased sevenfold           were incubated in AgNO3 solution under UV irradiation to
+
+
+Adv. Mater. 2020, 2000682                                       2000682 (15 of 22)                © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                               www.advmat.de
+
+
+obtain Ag-functionalized cellulose/ZnO film. With the deposi-        co-workers used a new pathway to fabricate Cu@C hollow fibers
+tion of Ag nanoparticles, the tensile strength and Young’s mod-      through fast pyrolysis of cellulose/CuO fibers produced from
+ulus values of the composite films increased from 36.6 MPa           cuprammonium solution (Figure 9c).[159] The hollow fibers with
+and 2.5 GPa to 46.4 MPa and 3.6 GPa, respectively.[153] However,     functionalized microfluidic chip channels can be used for selec-
+some cellulose composite films with multiple functions needed        tive adsorption and the detection of Hg2+. Jeong and co-workers
+a complex and high-cost preparation process,[152,154] or suffered    constructed composite fibers of cellulose and multiwall CNTs
+from poor biocompatibility and biodegradability,[151,155] limiting   with multiple hydrogen bonding moieties (MWCNT-MHB) by
+their further applications.                                          blending cellulose/DMAc/LiCl solution with MWCNT-MHB
+                                                                     suspension in DMAc via wet spinning.[160] The microstruc-
+                                                                     ture and the mechanical and electrical properties of the com-
+4.3. Cellulose-Based Composite Fibers and Filaments                  posite fibers were influenced by the content of MWCNT-MHB.
+                                                                     The composite fibers exhibited high tensile strength of
+For expanding the functions of cellulose fibers, novel PANI/cel-     156–278 MPa, an initial modulus of 11.3–13.9 GPa, and failure
+lulose filament fibers were spun from PANI/cellulose complex         strain of 3.7–7.0% with an increase of the weight ratio of
+solution dissolved in aqueous 7 wt% NaOH/12 wt% urea sol-            MWCNT-MHB from 0 to 30 wt%. These composite fibers pos-
+vent through wet spinning by Zhang and co-workers.[156] Their        sess high conductivity, and they can be applied for electrically
+PANI/cellulose composite fibers exhibited good mechanical            conductive wires and electric heating elements in smart textiles.
+strength and excellent antistatic properties, and realized a tran-
+sition from insulator to semiconductor. Their work provides
+a simple and ecofriendly avenue to produce PANI composite            4.4. Cellulose-Based Composite Microspheres and Beads
+fibers, showing a potential application in the antistatic textile
+and military industries. Furthermore, cellulose/chitosan com-        Composite microspheres and beads have wide applications in
+posite fibers were successfully spun from their blending solu-       many fields.[161,162] Zhang and co-workers fabricated PANI/cellu-
+tions in a 4.5 wt% LiOH/7.5 wt% KOH/11.5 wt% urea aqueous            lose microspheres by in situ polymerization of aniline mono­mer
+solvent in a phytic acid coagulation bath. Based on the forma-       within cellulose microspheres. PANI was deposited on the
+tion of self-assembled nanofibers driven by the self-aggregation     surface of the microspheres with a loose coralline structure,
+force through hydrogen-bonding interactions, the composite           leading to ion channels for electrolyte penetration (Figure 10a).
+fibers showed good mechanical properties with a tensile              The PANI/phytic acid/cellulose microspheres displayed excel-
+strength of 3.2 cN dtex−1 in the dry state and 2.9 cN dtex−1 in      lent cycling stability and high rate capability, showing great
+the wet state.[119] Interestingly, the composite fibers displayed    potential in energy-storage devices.[163] In addition, the blended
+a two-switch shape-memory behavior under different pH envi-          cellulose/PANI solution from the alkali/urea system was
+ronments owing to the destruction and recovery of the strong         used to fabricate cellulose/PANI microspheres via the emul-
+self-aggregation force between cellulose and chitosan through        sion method. Subsequently, the composite microspheres were
+hydrogen-bonding interactions (Figure 9a).                           freeze-dried and carbonized in a N2 atmosphere to design
+   Inorganic nanoparticles can also be used for fabricating          N/S-co-doped carbon anode (Figure 10b). The obtained carbon
+cellulose/inorganic nanoparticle composite fibers. Liu and           microspheres with hierarchical micro- and nanostructure were
+co-workers prepared Ag-embedded cellulose filaments from             conducive for the adsorption of Na ions and could enhance
+NaOH/zincate/urea/AgNO3 solution via wet spinning followed           the electronic conductivity, and they could therefore be applied
+by a reduction process. The introduction of Ag not only              in large-scale energy storage.[164] Moreover, magnetic cellu-
+enhanced the tension strength, but also improved the antibac-        lose microspheres have been constructed through microwave
+terial durability of cellulose fibers.[157] Fu and co-workers con-   heating inducing a sol–gel transition of cellulose/Fe3O4 micro-
+structed cellulose/BNNS fabrics through wet spinning of cel-         droplets. Cellulose/TiO2 nanocomposite microspheres have
+lulose/hydroxylated BNNS alkali solution in a 15 wt% phytic          been fabricated by dispersing magnetic cellulose microspheres
+acid/5 wt% Na2SO4 coagulation bath, followed by drawing in           into a TiO2 precursor solution via in situ synthesis. Cellulose
+hot water, washing, and weaving (Figure 9b). The degree of ori-      is well known for its high safety and biocompatibility and is an
+entation of BNNS in the fibers and the tensile strength of the       ideal biomedical material matrix. The nanocomposite micro-
+fibers could be enhanced by regulating the speed of the pro-         spheres with magnetic susceptibility display selective enrich-
+pulsion pump and the drawing ratio. Owing to the orientation         ment of phosphopeptides from a mixture of β-casein and BSA
+of BNNS and aligned nanofibers along with the filaments, the         with a molar ratio of 1:1000 (Figure 10c), which is much better
+mechanical strength of the highly loaded BNNS fibers reached         than that achieved by commercial TiO2 nanoparticles (1:1).[165]
+140 MPa. The robust and thermally conductive fabrics could           However, practical application is restricted by the complicated
+serve as personal cooling textiles.[120] Gries and co-workers spun   production process and difficult solvent recycling. Mu and co-
+cellulose/CNT fibers from NaOH/urea solution via regenera-           workers fabricated magnetic chitosan/cellulose microspheres
+tion in a 10 wt% H2SO4/10 wt% Na2SO4 coagulating bath.[158]          from chitosan/cellulose/Fe3O4 ionic-liquid solutions via sol–gel
+The CNTs were well dispersed in fibers owing to the addition         translation technology.[166] The renewable and biocompatible
+of surfactant (Brij76). These flexible composite fibers with good    microspheres immobilized with glucose oxidase can be utilized
+mechanical properties could respond to tensile strain, tempera-      as an effective and recyclable material for enzyme immobili-
+ture, environmental humidity, and liquid water. The cellulose/       zation. The composite microspheres exhibited good catalytic
+CNT fibers can be used as wearable electronics. Zhou and             activity for glucose oxidation and retained significant activity
+
+
+Adv. Mater. 2020, 2000682                                 2000682 (16 of 22)            © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                         www.advmat.de
+
+
+
+
+Figure 9. a) Photograph and SEM images of cellulose/chitosan (CLS) fibers, and tensile strength of high-strength CLS fibers with drawing ratios of
+1.0, 1.3, and 1.6 under wet or dry states. Reproduced with permission.[119] Copyright 2019, American Chemical Society. b) Photograph, SEM images,
+and thermal infrared imaging of cellulose/BNNSs fibers used for cooling textiles. Reproduced with permission.[120] Copyright 2019, American Chemical
+Society. c) SEM image and formation mechanism of Cu@C hollow fibers calcined by cellulose/CuO fibers from cuprammonium solution, and the
+selective adsorption and the detection of Hg2+ of hollow fibers. Reproduced with permission.[159] Copyright 2016, Wiley-VCH.
+
+
+even after reusing over 15 cycles, showing promising potential              crosslinking; 2) physical crossslinking; and 3) chemical–phys-
+in the cell/enzyme immobilization field.                                    ical double crosslinking. The network structures of the cellulose
+                                                                            materials play an important role in changing their crystal-
+                                                                            linity and mechanical properties. Take cellulose hydrogels for
+5. Design Strategy for Regenerated Cellulose                                example (Figure 11), for physically crosslinked cellulose hydro-
+                                                                            gels, large amounts of intra- and inter-hydrogen-bonding forms
+Materials with Superior Mechanical Properties
+                                                                            within the cellulose networks. Due to the strong hydrogen-
+Up to now there have been mainly three kinds of network                     bonding interaction, the cellulose chains are densely packed
+structures for regenerated cellulose materials: 1) chemical                 and are difficult to be moved, leading to high crystallinity and
+
+
+Adv. Mater. 2020, 2000682                                      2000682 (17 of 22)                © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                            www.advmat.de
+
+
+
+
+Figure 10. a) SEM image and electrochemical performances of PANI/PA/cellulose microspheres. Reproduced with permission.[163] Copyright 2015, Royal
+Society of Chemistry. b) Formation mechanism, morphology, and the charge–discharge curves of a N/S-co-doped carbon anode made from carbonized
+cellulose/polyaniline microspheres. Reproduced with permission.[164] Copyright 2016, Wiley-VCH. c) The magnetic responsiveness and selective enrichment
+for trace phosphopeptides of cellulose–TiO2 nanocomposite microspheres. Reproduced with permission.[165] Copyright 2015, Royal Society of Chemistry.
+
+low elongation at break. Their tensile strength can be improved              increase of the chemical crosslinker amount, the flexibility and
+by generating nanofibers through inducing self-aggregation of                swelling ratio is improved yet the strength decreases. Further-
+cellulose chains in parallel. For the chemically crosslinked cel-            more, the elasticity and strength of chemically crosslinked cel-
+lulose hydrogels, there is a large amount of free and exposed                lulose hydrogels can be enhanced simultaneously by applying
+hydroxyl groups in the hydrogel, which can bind lots of water                the combination of the low- and high-molecular-weight chem-
+molecules to enhance the flexibility and swelling ratio. With an             ical crosslinkers, namely chemical dual crosslinking. It is worth
+
+
+Adv. Mater. 2020, 2000682                                       2000682 (18 of 22)                 © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                                www.advmat.de
+
+
+
+
+Figure 11. Interaction mechanism of cellulose chains of cellulose hydrogels with chemical crosslinking, chemically dual-crosslinking, physical crosslinking,
+chemically and physically double crosslinking, and the corresponding microstructure and mechanical performance of hydrogels. SEM image and stress–
+strain graph for chemical crosslinking: Reproduced with permission.[103] Copyright 2017, American Chemical Society. SEM image and stress–strain graph
+for chemical dual-crosslinking: Reproduced with permission.[100] Copyright 2019, American Chemical Society. SEM image and stress–strain graph for
+physical crosslinking: Reproduced with permission.[51] Copyright 2018, American Chemical Society. SEM image and stress–strain graph for chemical
+and physical double crosslinking: Reproduced with permission.[101] Copyright 2016, Wiley-VCH.
+
+noting that both the tensile strength and toughness of the cel-                 environmentally friendly materials is becoming more and more
+lulose hydrogel can be significantly improved by the chemical                   attractive. Cellulose is the most abundant natural polymers on
+and physical double-crosslinking (DC) strategy. The loosely                     Earth; however, the strong intermolecular and intramolecular
+chemically crosslinked network gives the elasticity of hydro-                   hydrogen bonding within cellulose leads to difficult dissolution
+gels, while the densely physically crosslinked network dissi-                   and processing for cellulose, limiting its exploitation. In recent
+pates mechanical energy and contributes to the rigidity through                 years, a series of new “green” solvents have been developed,
+hydrogen bonds. Moreover, the DC method can be combined                         and cellulose-based materials with excellent mechanical proper-
+with the stretching orientation strategy for fabricating aniso-                 ties and multiple functions have been fabricated, showing com-
+tropic cellulose materials with high toughness and strength                     plete biodegradability in soil and the ocean.
+for different applications such as flexible optoelectronic devices                  Herein, the various cellulose solvent systems (NMMO, LiCl/
+and cell-directed growth. In a word, regenerated cellulose mate-                DMAc, ionic liquids, organic-base aqueous solutions, alkali/
+rials with superior mechanical properties can be fabricated by                  urea solutions, etc.) and the regenerated cellulose materials
+design of an ideal crosslinking structure.                                      (film, hydrogel, aerogel, bead, fiber, bioplastic, etc.) fabricated
+                                                                                via the “bottom-up” approach are reviewed. The design strate-
+                                                                                gies for high-strength regenerated cellulose-based materials
+6. Conclusion and Perspective                                                   have also been summarized. Although great achievements
+                                                                                have been obtained, some drawbacks still exist and need to be
+Faced with the severe pollution of the nonbiodegradable plastic                 improved. For example, only a small amount of chemical and
+waste generated from petroleum-based synthetic polymers,                        physical crosslinkers have been reported during the regen-
+the utilization of renewable biomass resources to fabricate                     eration process, and some crosslinking agents are toxic and
+
+
+Adv. Mater. 2020, 2000682                                         2000682 (19 of 22)                  © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                             www.advmat.de
+
+
+expensive, which is not appropriate for industrial production.                 [1] C. M. Rochman, M. A. Browne, B. S. Halpern, B. T. Hentschel,
+In addition, the industrialization process is limited by the pro-                  E. Hoh, H. K. Karapanagioti, L. M. Rios-Mendoza, H. Takada,
+duction cost and material properties such as the strength and                      S. Teh, R. C. Thompson, Nature 2013, 494, 169.
+water resistance at present.                                                  [2] J. R. Jambeck, R. Geyer, C. Wilcox, T. R. Siegler, M. Perryman,
+                                                                                   A. Andrady, R. Narayan, K. L. Law, Science 2015, 347, 768.
+   The following several directions should be the points for
+                                                                              [3] M. Bergmann, M. B. Tekman, L. Gutow, Nature 2017, 544, 297.
+future research and development of regenerated cellulose                      [4] E. MacArthur, Science 2017, 358, 843.
+materials. First, new “green” cellulose solvents with strong dis-             [5] I. Peeken, S. Primpke, B. Beyer, J. Gütermann, C. Katlein, T. Krumpen,
+solving ability, stability, and easy recycling should be the focus.                M. Bergmann, L. Hehemann, G. Gerdts, Nat. Commun. 2018, 9, 1505.
+Second, new physical processing strategies combined with                      [6] Y. Zhu, C. Romain, C. K. Williams, Nature 2016, 540, 354.
+multiple technologies should be explored for the construction                 [7] H. Kou, J. Lu, Y. Li, Adv. Mater. 2014, 26, 5518.
+of cellulose materials with internal hierarchical structure,                  [8] J. P. Gong, Y. Katsuyama, T. Kurokawa, Y. Osada, Adv. Mater. 2003,
+to realize high strength and hydrophobicity. Third, cellulose                      15, 1155.
+regeneration is a complicated process, so the exploration of                  [9] X. F. Zhang, X. Ma, T. Hou, K. Guo, J. Yin, Z. Wang, L. Shu, M. He,
+simple and highly efficient regeneration conditions is also                        J. Yao, Angew. Chem., Int. Ed. 2019, 58, 7366.
+                                                                            [10] R. J. Moon, A. Martini, J. Nairn, J. Simonsen, J. Youngblood, Chem.
+important. Moreover, cheap, safe, and environmentally friendly
+                                                                                   Soc. Rev. 2011, 40, 3941.
+technologies to construct regenerated cellulose materials with               [11] J. Song, C. Chen, Z. Yang, Y. Kuang, T. Li, Y. Li, H. Huang,
+high strength, hydrophobicity, and biodegradability should be                      I. Kierzewski, B. Liu, S. He, T. Gao, S. U. Yuruker, A. Gong, B. Yang,
+developed for pushing products into the market. Last, further                      L. Hu, ACS Nano 2018, 12, 140.
+industrialization promotion processes should focus on innova-               [12] C. Jia, C. Chen, Y. Kuang, K. Fu, Y. Wang, Y. Yao, S. Kronthal,
+tive approaches for converting cellulose into new regenerated                      E. Hitz, J. Song, F. Xu, B. Liu, L. Hu, Adv. Mater. 2018, 30, 1801347.
+materials that not only have excellent properties but also can               [13] F. Jiang, T. Li, Y. Li, Y. Zhang, A. Gong, J. Dai, E. Hitz, W. Luo,
+be completely biodegraded in soil and the oceans to reduce                         L. Hu, Adv. Mater. 2018, 30, 1703453.
+environmental pollution. Most of the time, different synthetic               [14] W. Kong, C. Wang, C. Jia, Y. Kuang, G. Pastel, C. Chen, G. Chen,
+polymers need to be composited to obtain functional materials                      S. He, H. Huang, J. Zhang, Adv. Mater. 2018, 30, 1801934.
+                                                                            [15] J. Song, C. Chen, S. Zhu, M. Zhu, J. Dai, U. Ray, Y. Li, Y. Kuang,
+with high performance. For example, PANI needs to be com-
+                                                                                   Y. Li, N. Quispe, Nature 2018, 554, 224.
+posited with polyethylene and polystyrene (as the matrix) to con-           [16] S. He, C. Chen, Y. Kuang, R. Mi, Y. Liu, Y. Pei, W. Kong, W. Gan,
+struct functional materials for solar cells and conductive paper                   H. Xie, E. Hitz, Energy Environ. Sci. 2019, 12, 1558.
+applications, respectively.[167,168] PMMA can be blended with                [17] T. Li, Y. Zhai, S. He, W. Gan, Z. Wei, M. Heidarinejad, D. Dalgo,
+poly(cyclohexylethylene) and polysulfone to fabricate functional                   R. Mi, X. Zhao, J. Song, Science 2019, 364, 760.
+composites for lithography and filtration membranes.[169,170]               [18] C. Chen, L. Hu, Acc. Chem. Res. 2018, 51, 3154.
+However, all of these polymers could not be biodegraded, which              [19] S. Morimune-Moriya, M. Salajkova, Q. Zhou, T. Nishino,
+would hurt the environment after they are discarded. We hope                       L. A. Berglund, Biomacromolecules 2018, 19, 2423.
+that cellulose could act as at least one component or matrix for            [20] Z. Zhu, S. Fu, L. A. Lucia, ACS Sustainable Chem. Eng. 2019, 7, 5376.
+composite materials to partially substitute synthetic polymers,             [21] X. Yang, S. K. Biswas, H. Yano, K. Abe, ACS Sustainable Chem. Eng.
+                                                                                   2019, 7, 9092.
+which will significantly reduce the use of nonbiodegradable
+                                                                            [22] S. K. Biswas, S. Tanpichai, S. Witayakran, X. Yang, M. I. Shams,
+polymers and be beneficial for a sustainable world.                                H. Yano, ACS Nano 2019, 13, 7357.
+                                                                            [23] A. Isogai, T. Hänninen, S. Fujisawa, T. Saito, Prog. Polym. Sci. 2018,
+                                                                                   86, 122.
+Acknowledgements                                                            [24] H. Kargarzadeh, M. Mariano, D. Gopakumar, I. Ahmad,
+                                                                                   S. Thomas, A. Dufresne, J. Huang, N. Lin, Cellulose 2018, 25, 2151.
+This work was supported by the Major Program of National Natural            [25] M. S. Toivonen, O. D. Onelli, G. Jacucci, V. Lovikka, O. J. Rojas,
+Science Foundation of China (21334005), the Major International                    O. Ikkala, S. Vignolini, Adv. Mater. 2018, 30, 1704050.
+(Regional) Joint Research Project (21620102004), and Funds for              [26] N. Mittal, R. Jansson, M. Widhe, T. Benselfelt, K. M. O. Håkansson,
+International Cooperation and Exchange of the National Natural Science             F. Lundell, M. Hedhammar, L. D. Söderberg, ACS Nano 2017, 11,
+Foundation of China (21811530006), and the National Natural Science                5148.
+Foundation of China (51873164).
+                                                                            [27] D. Klemm, F. Kramer, S. Moritz, T. Lindström, M. Ankerfors,
+                                                                                   D. Gray, A. Dorris, Angew. Chem., Int. Ed. 2011, 50, 5438.
+                                                                            [28] B. Frka-Petesic, S. Vignolini, Nat. Photonics 2019, 13, 365.
+Conflict of Interest                                                        [29] A. Tripathi, B. L. Tardy, S. A. Khan, F. Liebner, O. J. Rojas, J. Mater.
+                                                                                   Chem. A 2019, 7, 15309.
+The authors declare no conflict of interest.                                [30] K. Kobayashi, Y. Ura, S. Kimura, J. Sugiyama, Adv. Mater. 2018, 30,
+                                                                                   1705315.
+                                                                             [31] N. Mittal, T. Benselfelt, F. Ansari, K. Gordeyeva, S. V. Roth,
+                                                                                   L. Wågberg, L. D. Söderberg, Angew. Chem., Int. Ed. 2019, 58, 18562.
+Keywords                                                                    [32] P. Mohammadi, M. S. Toivonen, O. Ikkala, W. Wagermaier,
+biodegradable materials, cellulose, green solvents, high-strength                  M. B. Linder, Sci. Rep. 2017, 7, 11860.
+materials, regenerated cellulose materials                                  [33] D. M. Nascimento, Y. L. Nunes, M. C. Figueirêdo, H. M. De Azeredo,
+                                                                                   F. A. Aouada, J. P. Feitosa, M. F. Rosa, A. Dufresne, Green Chem.
+                                               Received: January 30, 2020          2018, 20, 2428.
+                                                  Revised: April 16, 2020   [34] N. T. Cervin, E. Johansson, P. A. Larsson, L. WåGberg, ACS Appl.
+                                                      Published online:            Mater. Interfaces 2016, 8, 11682.
+
+
+Adv. Mater. 2020, 2000682                                       2000682 (20 of 22)               © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                                     www.advmat.de
+
+
+ [35] D. Trache, M. H. Hussin, M. M. Haafiz, V. K. Thakur, Nanoscale               [69] Z. Jiang, Y. Fang, J. Xiang, Y. Ma, A. Lu, H. Kang, Y. Huang,
+       2017, 9, 1763.                                                                    H. Guo, R. Liu, L. Zhang, J. Phys. Chem. B 2014, 118, 10250.
+ [36] F. Liebner, E. Haimer, M. Wendland, M.-A. Neouze, K. Schlufter,               [70] S. Wang, P. Sun, M. Liu, A. Lu, L. Zhang, Phys. Chem. Chem. Phys.
+       P. Miethe, T. Heinze, A. Potthast, T. Rosenau, Macromol. Biosci.                  2017, 19, 17909.
+       2010, 10, 349.                                                               [71] S. Wang, P. Sun, R. Zhang, A. Lu, M. Liu, L. Zhang, Phys. Chem.
+ [37] G. Chu, D. Qu, E. Zussman, Y. Xu, Chem. Mater. 2017, 29, 3980.                     Chem. Phys. 2017, 19, 7486.
+ [38] H. Zheng, W. Li, W. Li, X. Wang, Z. Tang, S. X.-A. Zhang, Y. Xu,              [72] D. Ye, P. Yang, X. Lei, D. Zhang, L. Li, C. Chang, P. Sun, L. Zhang,
+       Adv. Mater. 2018, 30, 1705948.                                                    Chem. Mater. 2018, 30, 5175.
+ [39] E. J. Foster, R. J. Moon, U. P. Agarwal, M. J. Bortner, J. Bras,              [73] Y. Ma, S. Asaadi, L. S. Johansson, P. Ahvenainen, M. Reza,
+       S. Camarero-Espinosa, K. J. Chan, M. J. D. Clift, E. D. Cranston,                 M. Alekhina, L. Rautkari, A. Michud, L. Hauru, M. Hummel,
+       S. J. Eichhorn, D. M. Fox, W. Y. Hamad, L. Heux, B. Jean,                         ChemSusChem 2015, 8, 4030.
+       M. Korey, W. Nieh, K. J. Ong, M. S. Reid, S. Renneckar, R. Roberts,          [74] A. Nakayama, A. Kakugo, J. P. Gong, Y. Osada, M. Takai, T. Erata,
+       J. A. Shatkin, J. Simonsen, K. Stinson-Bagby, N. Wanasekara,                      S. Kawano, Adv. Funct. Mater. 2004, 14, 1124.
+       J. Youngblood, Chem. Soc. Rev. 2018, 47, 2609.                               [75] K. Qiu, A. N. Netravali, Polym. Rev. 2014, 54, 598.
+ [40] D. Ye, X. Lei, T. Li, Q. Cheng, C. Chang, L. B. Hu, L. Zhang, ACS             [76] D. Ciolacu, C. Rudaz, M. Vasilescu, T. Budtova, Carbohydr. Polym.
+       Nano 2019, 13, 4843.                                                              2016, 151, 392.
+  [41] W. Tian, J. Zhang, J. Yu, J. Wu, J. Zhang, J. He, F. Wang, Adv. Funct.       [77] J. Zhang, H. Kitayama, Y. Gotoh, A. Potthast, T. Rosenau, Carbo-
+       Mater. 2018, 28, 1703548.                                                         hydr. Polym. 2019, 226, 115258.
+ [42] J. Zhang, N. Luo, X. Zhang, L. Xu, J. Wu, J. Yu, J. He, J. Zhang, ACS         [78] S. Flauder, T. Heinze, F. A. Müller, Cellulose 2014, 21, 97.
+       Sustainable Chem. Eng. 2016, 4, 4417.                                        [79] F. Cheng, J. W. Betts, S. M. Kelly, D. W. Wareham, A. Kornherr,
+ [43] J. Zhang, J. Wu, J. Yu, X. Zhang, J. He, J. Zhang, Mater. Chem.                    F. Dumestre, J. Schaller, T. Heinze, J. Mater. Chem. B 2014, 2, 3057.
+       Front. 2017, 1, 1273.                                                       [80] X. Shen, J. L. Shamshina, P. Berton, J. Bandomir, H. Wang,
+ [44] H. Liu, G. Cheng, M. Kent, V. Stavila, B. A. Simmons, K. L. Sale,                  G. Gurau, R. D. Rogers, ACS Sustainable Chem. Eng. 2016, 4, 471.
+       S. Singh, J. Phys. Chem. B 2012, 116, 8131.                                  [81] X. Shen, J. L. Shamshina, P. Berton, G. Gurau, R. D. Rogers, Green
+ [45] G. Molnár, D. Rodney, F. Martoïa, P. J. J. Dumont, Y. Nishiyama,                   Chem. 2016, 18, 53.
+       K. Mazeau, L. Orgéas, Proc. Natl. Acad. Sci. USA 2018, 115, 7260.           [82] T. Budtova, Cellulose 2019, 26, 81.
+ [46] D. Klemm, B. Heublein, H. P. Fink, A. Bohn, Angew. Chem., Int. Ed.           [83] P. Wei, J. Huang, Y. Lu, Y. Zhong, Y. Men, L. Zhang, J. Cai, ACS Sus-
+       2005, 44, 3358.                                                                   tainable Chem. Eng. 2019, 7, 1707.
+ [47] T. Uto, S. Mawatari, T. Yui, J. Phys. Chem. B 2014, 118, 9313.               [84] Y. Wang, L. Yuan, H. Tian, L. Zhang, A. Lu, J. Membr. Sci. 2019,
+ [48] T. Nishino, K. Takano, K. Nakamae, J. Polym. Sci., Part B: Polym.                  585, 99.
+       Phys. 1995, 33, 1647.                                                       [85] S. Liu, L. Zhang, Y. Sun, Y. Lin, X. Zhang, Y. Nishiyama, Macromol.
+ [49] F. L. Dri, L. G. Hector, R. J. Moon, P. D. Zavattieri, Cellulose 2013,             Biosci. 2009, 9, 29.
+       20, 2703.                                                                    [86] L. Sun, J. Y. Chen, W. Jiang, V. Lynch, Carbohydr. Polym. 2015, 118, 150.
+ [50] X. Wu, R. J. Moon, A. Martini, Cellulose 2014, 21, 2233.                      [87] S. Livazovic, Z. Li, A. R. Behzad, K.-V. Peinemann, S. P. Nunes,
+ [51] K. Zhu, C. Qiu, A. Lu, L. Luo, J. Guo, H. Cong, F. Chen, X. Y. Liu,                J. Membr. Sci. 2015, 490, 282.
+       X. Zhang, H. Wang, J. Cai, Q. Fu, L. Zhang, ACS Sustainable Chem.           [88] J. Sundberg, G. Toriz, P. Gatenholm, Polymer 2013, 54, 6555.
+       Eng. 2018, 6, 5314.                                                         [89] Å. Östlund, A. Idström, C. Olsson, P. T. Larsson, L. Nordstierna,
+ [52] H. Wang, G. Gurau, R. D. Rogers, Chem. Soc. Rev. 2012, 41, 1519.                   Cellulose 2013, 20, 1657.
+ [53] A. J. Sayyed, N. A. Deshmukh, D. V. Pinjari, Cellulose 2019, 26, 2913.       [90] D. Zhao, C. Chen, Q. Zhang, W. Chen, S. Liu, Q. Wang, Y. Liu, J. Li,
+ [54] Y. Wang, L. J. Liu, P. Chen, L. Zhang, A. Lu, Phys. Chem. Chem.                    H. Yu, Adv. Energy Mater. 2017, 7, 1700739.
+       Phys. 2018, 20, 14223.                                                       [91] S. Shi, K. Zhu, X. Chen, J. Hu, L. Zhang, ACS Sustainable Chem.
+ [55] S. Zhu, Y. Wu, Q. Chen, Z. Yu, C. Wang, S. Jin, Y. Ding, G. Wu,                    Eng. 2019, 7, 19799.
+       Green Chem. 2006, 8, 325.                                                   [92] Q. Wang, J. Cai, L. Zhang, M. Xu, H. Cheng, C. Han, S. Kuga,
+ [56] B. Duan, H. Tu, L. Zhang, Acta Polym. Sin. 2020, 51, 66.                           J. Xiao, R. Xiao, J. Mater. Chem. A 2013, 1, 6678.
+ [57] S. Wang, A. Lu, L. Zhang, Prog. Polym. Sci. 2016, 53, 169.                   [93] Q. Mi, S. Ma, J. Yu, J. He, J. Zhang, ACS Sustainable Chem. Eng.
+ [58] B. D. Rabideau, A. E. Ismail, J. Phys. Chem. B 2015, 119, 15014.                   2016, 4, 656.
+ [59] C. Zhang, R. G. Liu, J. Xiang, H. Kang, Z. Liu, Y. Huang, J. Phys.           [94] N. Buchtová, C. Pradille, J.-L. Bouvard, T. Budtova, Soft Matter
+       Chem. B 2014, 118, 9507.                                                          2019, 15, 7901.
+ [60] J. Chen, Y. Guan, K. Wang, X. Zhang, F. Xu, R. Sun, Carbohydr.               [95] C. Ao, R. Hu, J. Zhao, X. Zhang, Q. Li, T. Xia, W. Zhang, C. Lu,
+       Polym. 2015, 128, 147.                                                            Chem. Eng. J. 2018, 338, 271.
+  [61] M. Krysztof, K. Olejnik, P. Kulpinski, A. Stanislawska, S. Khadzhynova,     [96] L. Liu, Y. Wang, A. Lu, Carbohydr. Polym. 2019, 210, 234.
+       Cellulose 2018, 25, 3595.                                                    [97] M. T. I. Mredha, Y. Z. Guo, T. Nonoyama, T. Nakajima, T. Kurokawa,
+ [62] A. J. Sayyed, L. V. Mohite, N. A. Deshmukh, D. V. Pinjari, Carbo-                  J. P. Gong, Adv. Mater. 2018, 30, 1704937.
+       hydr. Polym. 2019, 206, 220.                                                [98] M. Zhang, S. Chen, N. Sheng, B. Wang, J. Yao, Z. Wu, H. Wang,
+ [63] R. Zimmermann, Y. Muller, U. Freudenberg, D. Jehnichen,                            Nanoscale 2019, 11, 15347.
+       A. Potthast, T. Rosenau, C. Werner, Cellulose 2016, 23, 3535.               [99] Y. Wang, L. Zhang, A. Lu, ACS Appl. Mater. Interfaces 2019, 11, 41710.
+ [64] C. Woodings, Regenerated Cellulose Fibres, Elsevier, Amsterdam,             [100] D. Ye, C. Chang, L. Zhang, Biomacromolecules 2019, 20, 1989.
+       The Netherlands 2001.                                                      [101] D. Zhao, J. Huang, Y. Zhong, K. Li, L. Zhang, J. Cai, Adv. Funct.
+ [65] L. Dai, W. Zhu, J. Lu, F. Kong, C. Si, Y. Ni, Green Chem. 2019, 21, 5222.          Mater. 2016, 26, 6279.
+ [66] H. Liu, K. L. Sale, B. M. Holmes, B. A. Simmons, S. Singh, J. Phys.         [102] Y. Dong, E. M. Akinoglu, H. Zhang, F. Maasoumi, J. Zhou,
+       Chem. B 2010, 114, 4293.                                                          P. Mulvaney, Adv. Funct. Mater. 2019, 29, 1904290.
+ [67] J. Cai, L. Zhang, Macromol. Biosci. 2005, 5, 539.                           [103] D. Ye, Q. Cheng, Q. Zhang, Y. Wang, C. Chang, L. Li, H. Peng,
+ [68] J. Cai, L. Zhang, S. L. Liu, Y. T. Liu, X. J. Xu, X. M. Chen, B. Chu,              L. Zhang, ACS Appl. Mater. Interfaces 2017, 9, 43154.
+       X. L. Guo, J. Xu, H. Cheng, C. C. Han, S. Kuga, Macromolecules             [104] J. Zou, S. Wu, J. Chen, X. Lei, Q. Li, H. Yu, S. Tang, D. Ye, Adv.
+       2008, 41, 9345.                                                                   Mater. 2019, 31, 1904762.
+
+
+Adv. Mater. 2020, 2000682                                            2000682 (21 of 22)                  © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advancedsciencenews.com                                                                                                                       www.advmat.de
+
+
+[105] C. Qiu, K. Zhu, W. Yang, Y. Wang, L. Zhang, F. Chen, Q. Fu,                 [140] I. Cunha, R. Barras, P. Grey, D. Gaspar, E. Fortunato, R. Martins,
+       Biomacromolecules 2018, 19, 4386.                                                  L. Pereira, Adv. Funct. Mater. 2017, 27, 1606755.
+[106] O. Kuzmina, J. Bhardwaj, S. R. Vincent, N. D. Wanasekara,                    [141] A. Xu, Y. Wang, J. Gao, J. Wang, Green Chem. 2019, 21, 4449.
+       L. M. Kalossaka, J. Griffith, A. Potthast, S. Rahatekar, S. J. Eichhorn,   [142] C. Zhang, Y. Yin, Q. Yang, Z. Shi, G. Hu, C. Xiong, ACS Sustainable
+       T. Welton, Green Chem. 2017, 19, 5949.                                             Chem. Eng. 2019, 7, 10641.
+[107] L. K. J. Hauru, M. Hummel, A. Michud, H. Sixta, Cellulose 2014, 21,         [143] J. Lao, H. Xie, Z. Shi, G. Li, B. Li, G.-H. Hu, Q. Yang, C. Xiong, ACS
+       4471.                                                                              Sustainable Chem. Eng. 2018, 6, 7151.
+[108] A. Michud, M. Tanttu, S. Asaadi, Y. Ma, E. Netti, P. Kääriainen,            [144] N. Song, X. Hou, L. Chen, S. Cui, L. Shi, P. Ding, ACS Appl. Mater.
+       A. Persson, A. Berntsson, M. Hummel, H. Sixta, Text. Res. J. 2016,                 Interfaces 2017, 9, 17914.
+       86, 543.                                                                   [145] N. Song, D. Cao, X. Luo, Y. Guo, J. Gu, P. Ding, J. Mater. Chem. C
+[109] Y. Ma, M. Hummel, M. Määttänen, A. Särkilahti, A. Harlin,                           2018, 6, 13108.
+       H. Sixta, Green Chem. 2016, 18, 858.                                       [146] H. Qi, J. Cai, L. Zhang, S. Kuga, Biomacromolecules 2009, 10, 1597.
+[110] A. Michud, M. Hummel, H. Sixta, Polymer 2015, 75, 1.                        [147] H. Qi, C. Chang, L. Zhang, Green Chem. 2009, 11, 177.
+ [111] L. Druel, A. Kenkel, V. Baudron, S. Buwalda, T. Budtova, Biomacro-         [148] M. He, M. Xu, L. Zhang, ACS Appl. Mater. Interfaces 2013, 5, 585.
+       molecules 2020, 21, 1824.                                                  [149] X. Gao, L. Huang, B. Wang, D. Xu, J. Zhong, Z. M. Hu, L. Zhang,
+[112] K.-F. Du, M. Yan, Q.-Y. Wang, H. Song, J. Chromatogr. A 2010, 1217,                 J. Zhou, ACS Appl. Mater. Interfaces 2016, 8, 35587.
+       1298.                                                                      [150] Y. Chen, P. Pötschke, J. Pionteck, B. Voit, H. Qi, J. Mater. Chem. A
+ [113] Y. Zhang, L. Xu, L. Zhao, J. Peng, C. Li, J. Li, M. Zhai, Carbohydr.               2018, 6, 7777.
+       Polym. 2012, 88, 931.                                                      [151] J. Chen, J. Xu, K. Wang, X. Qian, R. Sun, ACS Appl. Mater. Inter-
+ [114] X. Luo, L. Zhang, J. Chromatogr. A 2010, 1217, 5922.                               faces 2015, 7, 15641.
+[115] J. C. Obrien, L. Torrente-Murciano, D. Mattia, J. L. Scott, ACS             [152] B. Jia, Y. Dong, J. Zhou, L. Zhang, J. Mater. Chem. C 2014, 2, 524.
+       Sustainable Chem. Eng. 2017, 5, 5931.                                      [153] F. Fu, J. Gu, R. Zhang, X. Xu, X. Yu, L. Liu, X. Liu, J. Zhou, J. Yao,
+[116] T. Omura, K. Imagawa, K. Kono, T. Suzuki, H. Minami, ACS Appl.                      J. Colloid Interface Sci. 2018, 530, 433.
+       Mater. Interfaces 2017, 9, 944.                                            [154] M. Mashkour, M. Tajvidi, F. Kimura, H. Yousefi, T. Kimura, ACS
+ [117] L. Druel, P. Niemeyer, B. Milow, T. Budtova, Green Chem. 2018, 20,                 Appl. Mater. Interfaces 2014, 6, 8165.
+       3993.                                                                      [155] D. Han, L. Yan, Carbohydr. Polym. 2010, 79, 614.
+[118] L. Zhao, J. Fu, Z. Du, X. Jia, Y. Qu, F. Yu, J. Du, Y. Chen, J. Membr.      [156] X. Shi, Y. Hu, F. Fu, J. Zhou, Y. Wang, L. Chen, H. Zhang, J. Li,
+       Sci. 2020, 593, 117428.                                                            X. Wang, L. Zhang, J. Mater. Chem. A 2014, 2, 7669.
+[119] K. Zhu, Y. Wang, A. Lu, Q. Fu, J. Hu, L. Zhang, ACS Sustainable             [157] F. Fu, W. Zhang, R. Zhang, L. Liu, S. Chen, Y. Zhang, B. Yang,
+       Chem. Eng. 2019, 7, 6981.                                                          S. Touhid, X. Liu, J. Zhou, J. Yao, Cellulose 2018, 25, 7211.
+[120] K. Wu, L. Yu, C. Lei, J. Huang, D. Liu, Y. Liu, Y. Xie, F. Chen, Q. Fu,     [158] H. Qi, B. R. Schulz, T. Vad, J. Liu, E. MäDer, G. Seide, T. Gries, ACS
+       ACS Appl. Mater. Interfaces 2019, 11, 40685.                                       Appl. Mater. Interfaces 2015, 7, 22404.
+[121] Z. Luo, A. Wang, C. Wang, W. Qin, N. Zhao, H. Song, J. Gao,                 [159] Y. Dong, B. Jia, F. Fu, H. Zhang, L. Zhang, J. Zhou, Angew. Chem.,
+       J. Mater. Chem. A 2014, 2, 7327.                                                   Int. Ed. 2016, 55, 13504.
+[122] K. J. De France, E. D’emilio, E. D. Cranston, T. Geiger, G. Nyström,        [160] T.-W. Lee, M. Han, S.-E. Lee, Y. G. Jeong, Compos. Sci. Technol.
+       Carbohydr. Polym. 2020, 234, 115885.                                               2016, 123, 57.
+[123] X. Zhang, Y. Shu, S. Su, J. Zhu, Carbohydr. Polym. 2018, 181, 499.          [161] M. Beaumont, S. Rosenfeldt, B. L. Tardy, C. Gusenbauer,
+[124] D. Xu, L. Fan, L. Gao, Y. Xiong, Y. Wang, Q. Ye, A. Yu, H. Dai,                     A. Khakalo, Nonappa, M. Opietnik, A. Potthast, O. J. Rojas,
+       Y. Yin, J. Cai, L. Zhang, ACS Appl. Mater. Interfaces 2016, 8, 17090.              T. Rosenau, Nanoscale 2019, 11, 17773.
+[125] Z. Shi, H. Gao, J. Feng, B. Ding, X. Cao, S. Kuga, Y. Wang,                 [162] J. Liu, A. Fu, Y. Wang, P. Guo, H. Feng, H. Li, X. S. Zhao,
+       L. Zhang, J. Cai, Angew. Chem., Int. Ed. 2014, 53, 5380.                           ChemElectroChem 2017, 4, 2027.
+[126] C. Ding, X. Qian, G. Yu, X. An, Cellulose 2010, 17, 1067.                   [163] D. Xu, X. Xiao, J. Cai, J. Zhou, L. Zhang, J. Mater. Chem. A 2015,
+[127] S. M. Maliyekkal, K. P. Lisha, T. Pradeep, J. Hazard. Mater. 2010,                  3, 16424.
+       181, 986.                                                                  [164] D. Xu, C. Chen, J. Xie, B. Zhang, L. Miao, J. Cai, Y. Huang,
+[128] X. Yue, J. Li, T. Zhang, F. Qiu, D. Yang, M. Xue, Chem. Eng. J. 2017,               L. Zhang, Adv. Energy Mater. 2016, 6, 1501929.
+       328, 117.                                                                  [165] J. Duan, X. He, L. Zhang, Chem. Commun. 2015, 51, 338.
+[129] X. Shi, Y. Hu, K. Tu, L. Zhang, H. Wang, J. Xu, H. Zhang, J. Li,            [166] Z. Liu, H. Wang, B. Li, C. Liu, Y. Jiang, G. Yu, X. Mu, J. Mater.
+       X. Wang, M. Xu, Soft Matter 2013, 9, 10129.                                        Chem. 2012, 22, 15085.
+[130] H. Tu, Y. Yu, J. Chen, X. Shi, J. Zhou, H. Deng, Y. Du, Polym. Chem.        [167] Q. Li, H. Chen, L. Lin, P. Li, Y. Qin, M. Li, B. He, L. Chu, Q. Tang,
+       2017, 8, 2913.                                                                     J. Mater. Chem. A 2013, 1, 5326.
+ [131] C. Xing, S. Chen, X. Liang, Q. Liu, M. Qu, Q. Zou, J. Li, H. Tan,          [168] A. Youssef, S. Mohamed, M. Abdel-Aziz, M. Abdel-Aziz, G. Turky,
+       L. Liu, D. Fan, ACS Appl. Mater. Interfaces 2018, 10, 27631.                       S. Kamel, Carbohydr. Polym. 2016, 147, 333.
+[132] H. Qi, E. Mader, J. Liu, J. Mater. Chem. A 2013, 1, 9714.                   [169] Y. Yang, L. Miao, J. Hu, G. Liu, Y. Tu, S. Lin, F. Liu, F. Li, Y. Wu,
+[133] J. Chen, X. Huang, Y. Zhu, P. Jiang, Adv. Funct. Mater. 2017, 27,                   G. Zhang, H. Zou, J. Mater. Chem. A 2014, 2, 10410.
+       1604754.                                                                   [170] J. G. Kennemur, L. Yao, F. S. Bates, M. A. Hillmyer, Macromolecules
+[134] C. Lei, K. Wu, L. Wu, W. Liu, R. Du, F. Chen, Q. Fu, J. Mater. Chem.                2014, 47, 1411.
+       A 2019, 7, 19364.                                                            [171] M. K. Yoo, M. S. Reza, I. M. Kim, K. J. Kim, Fibers Polym. 2015, 16, 1618.
+[135] Z. Li, L. Zhong, T. Zhang, F. Qiu, X. Yue, D. Yang, ACS Sustainable          [172] H. Fink, P. Weigel, H. Purz, J. Ganster, Prog. Polym. Sci. 2001, 26, 1473.
+       Chem. Eng. 2019, 7, 9984.                                                  [173] X. Zhang, X. Liu, W. Zheng, J. Zhu, Carbohydr. Polym. 2012, 88, 26.
+[136] J. Cai, S. Liu, J. Feng, S. Kimura, M. Wada, S. Kuga, L. Zhang,             [174] L. Li, Z. Lin, X. Yang, Z. Wan, S. Cui, Sci. China: Chem. 2011, 54,
+       Angew. Chem., Int. Ed. 2012, 51, 2076.                                             1622.
+[137] B. Yuan, J. Zhang, Q. Mi, J. Yu, R. Song, J. Zhang, ACS Sustainable         [175] Y. Cao, H. Q. Li, Y. Zhang, J. Zhang, J. S. He, J. Appl. Polym. Sci.
+       Chem. Eng. 2017, 5, 11117.                                                         2010, 116, 547.
+[138] H. Qi, J. Liu, S. Gao, E. Mader, J. Mater. Chem. A 2013, 1, 2161.           [176] H. Sixta, A. Michud, L. Hauru, S. Asaadi, Y. Ma, A. W. King,
+[139] Q. Yang, T. Saito, A. Isogai, J. Appl. Polym. Sci. 2013, 130, 3168.                 I. Kilpeläinen, M. Hummel, Nord. Pulp Pap. Res. J. 2015, 30, 43.
+
+
+Adv. Mater. 2020, 2000682                                            2000682 (22 of 22)                  © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+

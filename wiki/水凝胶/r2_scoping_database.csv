@@ -1,0 +1,175 @@
+﻿doi,year,journal,reading_depth,cellulose_type,strategy,application,mentions_temp_value,has_negative_temp,lowest_neg_temp,mentions_conductivity,reports_cond_value,mentions_mechanics,reports_mech_value,mentions_GF,reports_GF_value,mentions_self_healing,reports_heal_value,mentions_adhesion,reports_adh_value,mentions_anti_drying,mentions_sustainability,mentions_transparency,claims_wide_temperature
+10.1016/j.carbpol.2024.122271,2024,Carbohydrate polymers,R2,Unspecified,NanoCell,General,YES,YES,-40,YES,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,YES
+10.1016/j.carbpol.2024.122444,2024,Carbohydrate polymers,R2,Unspecified,Unclear,Energy,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2024.122472,2024,Carbohydrate polymers,R2,Regen,Unclear,Sensor+Energy,YES,YES,-60,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.carbpol.2024.122936,2024,Carbohydrate polymers,R2,Unspecified,Salt,Sensor,YES,YES,-80,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES
+10.1016/j.carbpol.2024.122939,2024,Carbohydrate polymers,R2,Unspecified,DES+NanoCell,Sensor+Biomedical+Actuator,YES,NO,,YES,YES,YES,YES,YES,NO,YES,YES,YES,YES,NO,NO,NO,YES
+10.1016/j.carbpol.2025.123253,,,R1,Unspecified,DES+Org-H+NanoCell,Sensor,YES,YES,-50,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES,NO,YES
+10.1016/j.heliyon.2024.e35014,2024,Heliyon,R2,Unspecified,NanoCell+Chitin/CS,Biomedical,NO,NO,,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO
+10.1016/j.ijbiomac.2023.125973,2023,International journal of biological macromolecules,R2,CMC,DN,Sensor+Actuator,NO,NO,,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO
+10.1016/j.ijbiomac.2023.126550,,,R2,Regen,Salt+DN+PAA,General,YES,YES,-45,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2023.127396,2023,International journal of biological macromolecules,R2,CNF+Modified,Unclear,Sensor+Actuator,YES,NO,,YES,NO,YES,YES,YES,NO,YES,YES,YES,YES,NO,NO,NO,YES
+10.1016/j.ijbiomac.2023.129068,2023,International journal of biological macromolecules,R2,Modified,Org-H+Starch+DynamicBond+PAM,Sensor+Actuator,YES,YES,-30,YES,NO,YES,YES,YES,YES,YES,NO,NO,NO,YES,NO,YES,YES
+10.1016/j.ijbiomac.2023.129081,2023,International journal of biological macromolecules,R2,Modified,NanoCell+DynamicBond,Environmental,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.ijbiomac.2024.130732,2024,International journal of biological macromolecules,R2,Unspecified,NanoCell,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,NO,NO
+10.1016/j.ijbiomac.2024.131115,,,R1,Unspecified,DES+PhotoPoly,Sensor,NO,NO,,YES,NO,YES,YES,NO,NO,YES,NO,YES,YES,NO,NO,YES,YES
+10.1016/j.ijbiomac.2024.131129,,,R1,Regen,DES+NanoCell,Sensor+Actuator,YES,YES,-80,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,YES
+10.1016/j.ijbiomac.2024.132912,2024,International journal of biological macromolecules,R2,Regen,Unclear,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.1016/j.ijbiomac.2024.137911,2024,International journal of biological macromolecules,R2,Unspecified,PhotoPoly,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2024.138188,2024,International journal of biological macromolecules,R2,CNC+Modified,DES+DN+NanoCell+Lignin+PVA+PAA,Sensor+Agricultural,NO,NO,,YES,NO,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.ijbiomac.2025.141174,2025,International journal of biological macromolecules,R2,Unspecified,NanoCell,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO
+10.1016/j.ijbiomac.2025.141443,2025,International journal of biological macromolecules,R2,Unspecified,Starch,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.ijbiomac.2025.143914,2025,International journal of biological macromolecules,R2,Unspecified,DES,Sensor,NO,NO,,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.ijpharm.2022.121750,2022,International journal of pharmaceutics,R2,CMC,Unclear,Biomedical+Environmental,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO
+10.1016/j.jcis.2024.02.002,2024,Journal of colloid and interface science,R2,Unspecified,Org-H+NanoCell+PVA,General,YES,YES,-70,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES
+10.1016/j.jcis.2024.05.102,2024,Journal of colloid and interface science,R2,Regen,PAM,Energy,YES,YES,-45,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES,NO,YES
+10.1016/j.jcis.2024.10.070,2024,Journal of colloid and interface science,R2,None,DES,Sensor,YES,YES,-60,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES
+10.1021/acs.biomac.3c00596,2023,Biomacromolecules,R2,CNF,Unclear,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO
+10.1021/acs.biomac.3c01011,2024,Biomacromolecules,R2,HEC,Org-H,Sensor,YES,YES,-40,YES,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES
+10.1021/acs.biomac.4c00578,2024,Biomacromolecules,R2,Unspecified,Unclear,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.1021/acs.chemrev.2c00492,2023,Chemical Reviews,R2,Unspecified,NanoCell+Lignin,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.1021/acs.langmuir.4c02244,2024,Langmuir : the ACS journal of surfaces and colloid,R2,Unspecified,DN,Sensor,NO,NO,,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1021/acsami.2c21617,2023,ACS applied materials & interfaces,R2,CMC,DN,Sensor+Energy,YES,YES,-23,YES,NO,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES
+10.1021/acsami.4c08592,2024,ACS applied materials & interfaces,R2,Regen,DN,Sensor,NO,NO,,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO
+10.1021/acsami.4c13621,2024,ACS applied materials & interfaces,R2,None,Unclear,Sensor,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES
+10.1038/s41524-023-01161-x,2023,npj Computational Materials,R2,None,DN,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1088/1748-605X/acd49a,2023,Biomedical Materials,R2,Modified,NanoCell+Chitin/CS,Energy+Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.1093/nsr/nwaf541,2025,National Science Review,R2,None,Unclear,Sensor+Energy,NO,NO,,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO
+10.3390/gels10010001,2023,Gels,R2,Unspecified,DES+Org-H+NanoCell+Lignin,Biomedical+Agricultural,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.3390/gels10120842,2024,Gels,R2,Unspecified,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.3390/gels9070546,2023,Gels,R2,Regen,DES,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.3390/nano13050853,2023,Nanomaterials,R2,CNF+CNC,NanoCell+PAM,Biomedical,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.3390/nano14201645,2024,Nanomaterials,R2,Unspecified,Unclear,Energy+Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO
+10.3390/polym16040530,2024,Polymers,R2,Unspecified,Unclear,General,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO
+10.3390/polym16070971,2024,Polymers,R2,None,Unclear,Sensor+Biomedical+Actuator,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES
+10.3390/polym16172506,2024,Polymers,R2,None,Unclear,Energy,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1002/adfm.200305197,2004,Advanced Functional Materials [原文]「JOURNAL: Advanc,R2,BC,DN+Gelatin,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1115/1.4000858,,,R2,BC,Gelatin,Biomedical+Agricultural,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES
+10.17576/jsm-2015-4406-04,,,R2,CNC,NanoCell+Gelatin,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1155/2015/963436,,,R2,Unspecified,NanoCell,General,NO,NO,,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES
+10.24200/sci.2017.4285,,,R2,Unspecified,Unclear,General,YES,YES,-146,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1088/1757-899x/223/1/012052,,,R2,Regen,Unclear,General,NO,NO,,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2018.08.054,,,R2,BC,Unclear,Sensor,NO,NO,,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.eurpolymj.2018.02.013,,,R2,None,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.carbpol.2019.115084,,,R2,CNC,Org-H+NanoCell+DynamicBond,Sensor+Energy+Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES
+10.1002/anie.201902578,2019,Angewandte Chemie,R2,Regen,Salt+Org-H,General,YES,YES,-70,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1002/admt.202000358,2020,Advanced Materials Technologies,R2,Unspecified,Unclear,Sensor+Actuator,NO,NO,,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.matlet.2020.128340,,,R2,Unspecified,NanoCell+Gelatin,Biomedical+Agricultural,NO,NO,,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES
+10.1002/app.48564,2020,Journal of Applied Polymer Science,R2,CNF,NanoCell,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.compositesb.2020.108246,,,R2,None,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.3139/146.111938,,,R2,Unspecified,Unclear,Actuator,YES,YES,-196,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.tws.2020.106842,,,R2,Unspecified,Unclear,General,YES,YES,-100,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.cej.2020.125341,,,R2,Unspecified,Lignin,Coating,NO,NO,,YES,NO,YES,YES,NO,NO,YES,YES,YES,YES,NO,NO,YES,YES
+10.3901/jme.2020.24.190,,,R2,Unspecified,Unclear,General,YES,YES,-50,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1039/d0ta04360e,,,R2,Unspecified,Unclear,Energy,YES,YES,-40,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2021.02.104,,,R2,None,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.ijbiomac.2021.09.075,,,R2,Modified,NanoCell,Agricultural,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES
+10.1039/d1ta06468a,,,R2,Unspecified,Unclear,Environmental,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.eurpolymj.2021.110565,,,R2,None,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1007/s10570-021-04067-3,,,R2,Unspecified,Unclear,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.eurpolymj.2020.110258,,,R2,None,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1007/s10570-021-03782-1,,,R2,Unspecified,NanoCell+PAA,Sensor,NO,NO,,YES,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2020.117233,,,R2,Unspecified,NanoCell,General,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1051/matecconf/202134700014,,,R2,CNC,NanoCell+Gelatin,Environmental+Actuator,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2021.117671,,,R2,BC,Unclear,Biomedical,NO,NO,,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2021.117665,,,R2,HEC,Unclear,Sensor+Biomedical,NO,NO,,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1021/acsami.1c08395,,,R2,Unspecified,NanoCell+PVA,Sensor+Biomedical,NO,NO,,YES,NO,YES,YES,NO,NO,YES,NO,YES,NO,NO,YES,NO,YES
+10.1007/s10570-021-04052-w,,,R2,Regen+Modified,Unclear,Environmental,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2021.118078,,,R2,Unspecified,DES+Org-H,Sensor+TENG,NO,NO,,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,YES
+10.1016/j.ijbiomac.2022.06.011,,,R2,Unspecified,Salt+DES+DN+Starch+PVA,Sensor+Biomedical,YES,YES,-40,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2022.119199,,,R2,Unspecified,Org-H+DMSO+NanoCell+PVA,Sensor,YES,YES,-50,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2021.119005,,,R2,CNC,Org-H+NanoCell+PhotoPoly+PAM,Encryption,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES
+10.1002/cssc.202200399,2022,ChemSusChem,R2,Unspecified,Unclear,Actuator,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.ijbiomac.2022.03.025,,,R2,Unspecified,Salt+DES+Org-H+Chitin/CS+PAM,General,YES,YES,-80,YES,NO,YES,NO,YES,NO,YES,NO,YES,NO,YES,YES,NO,YES
+10.1039/d2ta06835d,,,R2,Regen,Lignin,Sensor+Energy+Environmental,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2021.118925,,,R2,Regen,NanoCell,Biomedical,YES,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1021/acsami.2c14157,,,R2,Unspecified,DynamicBond+PVA,Sensor,YES,NO,,YES,YES,NO,NO,YES,NO,YES,YES,YES,NO,YES,YES,NO,YES
+10.1016/j.ijbiomac.2022.11.014,,,R2,Unspecified,NanoCell+PVA,Sensor,NO,NO,,NO,NO,YES,YES,YES,NO,YES,YES,NO,NO,NO,YES,NO,YES
+10.1002/adfm.202207714,2022,Advanced Functional Materials,R2,Unspecified,DES,Sensor+Actuator+TENG,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.carbpol.2022.120117,,,R2,CNF+CNC+MFC/MCC,NanoCell+PVA,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1002/anie.202200271,2022,Angewandte Chemie,R2,None,Unclear,Environmental,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.1016/j.jcis.2022.01.117,,,R2,Unspecified,NanoCell+PAM,Sensor,NO,NO,,YES,NO,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES
+10.1063/1674-0068/cjcp2106104,,,R2,CMC,PAA,Sensor+Coating,NO,NO,,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.ijbiomac.2023.126693,,,R2,Regen,Unclear,Biomedical,YES,NO,,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2023.123936,,,R2,Unspecified,PAM,Sensor+Agricultural,YES,YES,-70,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2023.123425,,,R2,Regen,Salt+DN,Sensor,NO,NO,,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES
+10.1016/j.ijbiomac.2023.124780,,,R2,Unspecified,NanoCell+Chitin/CS,Sensor,NO,NO,,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES
+10.1002/adfm.202305879,2023,Advanced Functional Materials,R2,None,DES+PhotoPoly,Sensor+TENG,YES,NO,,YES,NO,YES,YES,YES,NO,YES,YES,YES,NO,NO,YES,NO,YES
+10.1080/10584587.2023.2227051,,,R2,Unspecified,Salt+Org-H+NanoCell+PVA,Sensor,YES,YES,-20,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES
+10.1002/pc.27243,2023,Polymer Composites,R2,CNC,NanoCell+Lignin+Chitin/CS,General,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1063/5.0139951,,,R2,Unspecified,DN+PAM+PAA,Sensor+Actuator+TENG,NO,NO,,YES,NO,YES,NO,YES,NO,YES,NO,YES,NO,NO,NO,NO,YES
+10.1021/acsami.3c05208,,,R2,Unspecified,DES+Org-H+DN+Gelatin,Sensor,YES,YES,-20,YES,NO,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES,YES,YES
+10.1016/j.carbpol.2023.120567,,,R2,CNF,NanoCell+PAM,Sensor,YES,YES,-40,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2023.120744,,,R2,Regen,DES,Actuator,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1002/slct.202400710,2024,ChemistrySelect,R2,CNC,DN+NanoCell+PVA+PAM,Sensor,NO,NO,,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES
+10.1002/adfm.202312149,2024,Advanced Functional Materials,R2,None,Org-H,Sensor+Biomedical,YES,NO,,YES,NO,YES,YES,YES,NO,NO,NO,YES,YES,YES,NO,YES,YES
+10.1063/5.0207037,,,R2,Unspecified,Salt+NanoCell+Chitin/CS+PVA,Sensor,NO,NO,,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.bios.2023.115893,,,R2,CMC,Unclear,Sensor+Encryption,NO,NO,,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES
+10.1002/app.55298,2024,Journal of Applied Polymer Science,R2,None,DN+PVA,Actuator,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.carbpol.2024.123136,,,R2,Unspecified,Salt+Chitin/CS+PVA,Sensor+Biomedical,YES,NO,,YES,NO,NO,YES,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2024.131118,,,R2,Unspecified,DN+NanoCell+PVA,Sensor+Actuator,YES,NO,,YES,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES
+10.1080/1536383x.2024.2310697,,,R2,Unspecified,Starch+Chitin/CS+PVA+Gelatin,Biomedical,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.59717/j.xinn-mater.2024.100092,,,R2,CNF,PVA,General,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1080/10601325.2024.2409754,,,R2,CMC,DN,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1039/d4ma00725e,,,R2,Unspecified,Org-H,Sensor,NO,NO,,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1002/adfm.202411029,2024,Advanced Functional Materials,R2,None,DES,Sensor+Energy,YES,NO,,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2024.122068,,,R2,CNC,NanoCell,Sensor+Biomedical+Environmental,NO,NO,,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2023.121685,,,R2,None,Unclear,General,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.1016/j.ijbiomac.2024.132419,,,R2,CNC,NanoCell+PVA,Sensor+Biomedical,YES,NO,,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2024.135947,,,R2,BC,Unclear,Sensor,NO,NO,,YES,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO,YES,NO,YES
+10.1002/sus2.249,,,R2,Regen,DES+DynamicBond,Sensor+Biomedical,NO,NO,,YES,NO,YES,YES,NO,NO,YES,YES,NO,NO,YES,NO,YES,YES
+10.2166/wpt.2023.230,,,R2,Unspecified,Gelatin,Environmental,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1002/adem.202300641,2023,Advanced Engineering Materials,R2,CNF+Modified,Gelatin,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO
+10.1016/j.carbpol.2024.121932,,,R2,CNC,Org-H+NanoCell,Sensor,YES,YES,-60,YES,NO,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,YES
+10.1002/smll.202409365,,,R2,Unspecified,DES+PAM,Sensor+Energy,YES,NO,,YES,NO,YES,NO,YES,NO,YES,YES,YES,NO,YES,YES,NO,YES
+10.1002/smll.202405826,,,R2,CNC,NanoCell,Biomedical,YES,YES,-60,YES,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES
+10.1016/j.ijbiomac.2024.136439,,,R2,Unspecified,DES+DN+Lignin+Chitin/CS,Sensor,YES,YES,-25,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES
+10.1021/acsami.4c08984,,,R2,Unspecified,Org-H+NanoCell,Sensor,YES,NO,,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,YES,YES,YES
+10.1016/j.carbpol.2024.122552,,,R2,Unspecified,PAA,Sensor+Energy+Actuator+TENG,YES,YES,-60,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1021/acsnano.3c11578,,,R2,Unspecified,Org-H,Sensor,YES,YES,-20,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.carbpol.2024.122497,,,R2,Unspecified,PhotoPoly,Sensor+Encryption,YES,YES,-75,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.ijbiomac.2024.132585,,,R2,Unspecified,DES+DynamicBond+Gelatin,Sensor+Energy,NO,NO,,YES,NO,YES,NO,YES,NO,YES,NO,YES,NO,NO,YES,NO,YES
+10.1016/j.carbpol.2024.122406,,,R2,Unspecified,DN+PAM,Sensor,YES,NO,,NO,NO,YES,YES,YES,YES,NO,NO,NO,NO,YES,YES,NO,YES
+10.1016/j.carbpol.2025.124312,,,R2,Unspecified,Org-H+PVA,Sensor,YES,YES,-18,NO,NO,YES,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES
+10.1016/j.ijbiomac.2025.148851,,,R2,Unspecified,DES+DN+NanoCell+Chitin/CS,Sensor+Biomedical,YES,NO,,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.jcis.2024.08.119,,,R2,Unspecified,Org-H+DN,General,YES,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1002/app.58040,,,R2,CMC,DN+PVA,Sensor,YES,YES,-40,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES
+10.1002/macp.202500164,,,R2,Unspecified,Org-H+PAA,Sensor,NO,NO,,YES,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,YES,YES
+10.1016/j.ijbiomac.2025.147477,,,R2,Unspecified,Org-H+PVA,Sensor+Biomedical,YES,YES,-50,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1016/j.jmbbm.2025.107258,,,R2,Unspecified,NanoCell+Gelatin,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1016/j.ijbiomac.2025.149374,,,R2,CMC,PAM,Sensor+Biomedical,YES,YES,-20,YES,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES,YES,NO,YES
+10.1016/j.ijbiomac.2026.150776,,,R2,CNF,PVA,Sensor+Biomedical,NO,NO,,YES,NO,YES,YES,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES
+10.1038/ncomms15911,,,R2,Unspecified,Org-H,General,YES,YES,-78,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.3389/fbioe.2020.602318,,,R2,Unspecified,Unclear,Sensor,NO,NO,,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1039/d3ta07424b,,,R2,Unspecified,NanoCell+PAM,Sensor,NO,NO,,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1039/d3ta04980a,,,R2,Unspecified,DN,Sensor,NO,NO,,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES
+10.1039/d4nj03774j,,,R2,Unspecified,Unclear,Sensor,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES
+10.1039/c6ra12517d,,,R2,Unspecified,DynamicBond+Gelatin,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.33140/jpcppr.01.01.01,,,R2,Unspecified,PAM+Gelatin,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.3390/polym17233102,,,R2,Unspecified,Salt+DN+PAM,Sensor,YES,NO,,YES,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES
+10.3390/gels11070522,,,R2,Unspecified,Unclear,Biomedical+Coating,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES
+10.1038/s41467-018-05904-z,,,R2,Unspecified,PAA,General,YES,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.3390/antibiotics12050873,,,R2,Unspecified,Unclear,Biomedical+Agricultural+FoodPack,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES
+10.3390/gels7040277,,,R2,HEC,Org-H+DN+Gelatin,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.3390/gels9010020,,,R2,CMC+HEC,DN,General,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1039/d5gc05362e,,,R2,Unspecified,DES,General,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES
+10.4028/www.scientific.net/amr.1103.9,,,R2,Unspecified,Chitin/CS,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.4028/www.scientific.net/msf.929.136,,,R2,Unspecified,Unclear,General,YES,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.15376/biores.11.3.7710-7720,,,R2,Unspecified,NanoCell,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES
+10.3390/gels11010038,,,R2,CMC,Gelatin,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,YES
+10.3390/ma12101628,,,R2,CMC,Org-H+Gelatin,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES
+10.18321/ectj524,,,R2,Unspecified,Unclear,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1039/c4ra07576e,,,R2,Unspecified,PAM,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.4028/www.scientific.net/msf.1009.3,,,R2,CMC,Gelatin,Biomedical,NO,NO,,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1002/admt.202501019,2026,Advanced Materials Technologies,R2,None,DN,General,NO,NO,,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO
+10.3390/foods6060041,,,R2,CMC,Gelatin,Environmental+FoodPack,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.3390/foods11111619,,,R2,Unspecified,NanoCell,Environmental+FoodPack,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES
+10.54097/ijbls.v2i3.8660,,,R2,BC,Unclear,Environmental,NO,NO,,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES
+10.1039/c8ra01639a,,,R2,BC,Unclear,Actuator,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.15376/biores.13.1.xu,,,R2,Unspecified,Unclear,Biomedical,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.1039/c8cc05779f,,,R2,BC,Unclear,General,NO,NO,,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.1038/s41467-022-30224-8,,,R2,Unspecified,Unclear,Sensor,YES,YES,-20,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.4028/www.scientific.net/amm.852.349,,,R2,Regen,Unclear,General,YES,YES,-77,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.3390/ma13245789,,,R2,Unspecified,Unclear,General,YES,YES,-40,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES
+10.54254/2753-8818/2026.au32025,,,R2,BC,DynamicBond,Biomedical+Environmental,NO,NO,,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES
+10.3390/ma14206165,,,R2,Unspecified,Org-H+PAA,Sensor,YES,YES,-70,YES,NO,YES,YES,YES,NO,YES,YES,YES,NO,YES,NO,NO,YES

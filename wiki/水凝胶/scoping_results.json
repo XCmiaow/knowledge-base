@@ -1,0 +1,182 @@
+{
+  "analysis_date": "2026-05-14",
+  "total_records": 174,
+  "R1_fulltext": 3,
+  "R2_abstract": 171,
+  "primary_set_cellulose_relevant": 156,
+  "non_cellulose_records": 18,
+  "cellulose_types": {
+    "Unspecified": 90,
+    "Regen": 16,
+    "CMC": 12,
+    "CNC": 10,
+    "BC": 9,
+    "CNF": 5,
+    "Modified": 4,
+    "HEC": 3,
+    "CNF+Modified": 2,
+    "CNC+Modified": 1,
+    "CNF+CNC": 1,
+    "Regen+Modified": 1
+  },
+  "strategies": {
+    "NanoCell": 47,
+    "Org-H": 25,
+    "DN": 23,
+    "DES": 20,
+    "PVA": 20,
+    "Gelatin": 18,
+    "PAM": 17,
+    "Chitin/CS": 11,
+    "Salt": 10,
+    "PAA": 9,
+    "DynamicBond": 8,
+    "Lignin": 7,
+    "Starch": 4,
+    "PhotoPoly": 4,
+    "DMSO": 1
+  },
+  "applications": {
+    "Sensor": 70,
+    "Biomedical": 43,
+    "Actuator": 15,
+    "Energy": 12,
+    "Environmental": 12,
+    "Agricultural": 7,
+    "TENG": 4,
+    "Coating": 3,
+    "Encryption": 3,
+    "FoodPack": 3
+  },
+  "general_app": 38,
+  "years": {
+    "2004": 1,
+    "2019": 1,
+    "2020": 2,
+    "2022": 3,
+    "2023": 13,
+    "2024": 20,
+    "2025": 3
+  },
+  "metrics": {
+    "claims_wide_temperature": {
+      "label": "Claims wide-temperature or anti-freezing",
+      "yes_primary": 130,
+      "rate_primary": 83.3,
+      "yes_all": 137,
+      "rate_all": 78.7
+    },
+    "mentions_temp_value": {
+      "label": "Reports specific temperature value",
+      "yes_primary": 55,
+      "rate_primary": 35.3,
+      "yes_all": 59,
+      "rate_all": 33.9
+    },
+    "has_negative_temp": {
+      "label": "Reports subzero temperature",
+      "yes_primary": 39,
+      "rate_primary": 25.0,
+      "yes_all": 40,
+      "rate_all": 23.0
+    },
+    "mentions_conductivity": {
+      "label": "Mentions conductivity",
+      "yes_primary": 75,
+      "rate_primary": 48.1,
+      "yes_all": 82,
+      "rate_all": 47.1
+    },
+    "reports_cond_value": {
+      "label": "Reports conductivity value",
+      "yes_primary": 22,
+      "rate_primary": 14.1,
+      "yes_all": 23,
+      "rate_all": 13.2
+    },
+    "mentions_GF": {
+      "label": "Mentions gauge factor or strain sensitivity",
+      "yes_primary": 53,
+      "rate_primary": 34.0,
+      "yes_all": 56,
+      "rate_all": 32.2
+    },
+    "reports_GF_value": {
+      "label": "Reports GF value",
+      "yes_primary": 10,
+      "rate_primary": 6.4,
+      "yes_all": 10,
+      "rate_all": 5.7
+    },
+    "mentions_self_healing": {
+      "label": "Mentions self-healing",
+      "yes_primary": 35,
+      "rate_primary": 22.4,
+      "yes_all": 38,
+      "rate_all": 21.8
+    },
+    "reports_heal_value": {
+      "label": "Reports self-healing value",
+      "yes_primary": 15,
+      "rate_primary": 9.6,
+      "yes_all": 17,
+      "rate_all": 9.8
+    },
+    "mentions_adhesion": {
+      "label": "Mentions adhesion",
+      "yes_primary": 30,
+      "rate_primary": 19.2,
+      "yes_all": 34,
+      "rate_all": 19.5
+    },
+    "reports_adh_value": {
+      "label": "Reports adhesion value",
+      "yes_primary": 4,
+      "rate_primary": 2.6,
+      "yes_all": 5,
+      "rate_all": 2.9
+    },
+    "mentions_anti_drying": {
+      "label": "Mentions anti-drying or water retention",
+      "yes_primary": 23,
+      "rate_primary": 14.7,
+      "yes_all": 25,
+      "rate_all": 14.4
+    },
+    "mentions_sustainability": {
+      "label": "Mentions sustainability/biodegradability",
+      "yes_primary": 69,
+      "rate_primary": 44.2,
+      "yes_all": 71,
+      "rate_all": 40.8
+    },
+    "mentions_transparency": {
+      "label": "Mentions transparency",
+      "yes_primary": 23,
+      "rate_primary": 14.7,
+      "yes_all": 25,
+      "rate_all": 14.4
+    },
+    "reports_mech_value": {
+      "label": "Reports quantitative mechanical value",
+      "yes_primary": 59,
+      "rate_primary": 37.8,
+      "yes_all": 62,
+      "rate_all": 35.6
+    },
+    "any_func_nonmech": {
+      "label": "Any non-mechanical functional metric",
+      "yes_primary": 39,
+      "rate_primary": 25.0,
+      "yes_all": 42,
+      "rate_all": 24.1
+    },
+    "any_func_all": {
+      "label": "Any quantitative performance metric (incl. mechanics)",
+      "yes_primary": 69,
+      "rate_primary": 44.2,
+      "yes_all": 73,
+      "rate_all": 42.0
+    }
+  }
+}

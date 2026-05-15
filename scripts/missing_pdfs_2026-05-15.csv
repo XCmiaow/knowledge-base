@@ -1,0 +1,613 @@
+# 水凝胶文献综述 — 缺 PDF 列表
+# 生成时间: 2026-05-15
+# 总笔记数: 685, 已有PDF: 78, 缺PDF: 607
+# 状态说明: failed = pipeline尝试下载失败, untried = 从未尝试下载
+# 列: DOI | 标题 | 状态
+
+10.1002/adem.202300641 | Reinforcing Tissue‐Engineered Cartilage: Nanofibrillated Cellulose Enhances Mechanical Properties of Alginate Dialdehyde–Gelatin Hydrogel | failed
+10.1002/adfm.202305879 | Initiatorless Solar Photopolymerization of Versatile and Sustainable Eutectogels as Multi‐Response and Self‐Powered Sensors for Human–Computer Interface | failed
+10.1002/adfm.202307566 | Hofmeister Effect‐Assisted Facile One‐Pot Fabrication of Double Network Organohydrogels with Exceptional Multi‐Functions | untried
+10.1002/adfm.202312149 | A Freeze‐Resistant, Highly Stretchable and Biocompatible Organohydrogel for Non‐Delayed Wearable Sensing at Ultralow‐Temperatures | failed
+10.1002/adfm.202314864 | Tough, Anti‐Fatigue, Self‐Adhesive, and Anti‐Freezing Hydrogel Electrolytes for Dendrite‐Free Flexible Zinc Ion Batteries and Strain Sensors | untried
+10.1002/adfm.202405896 | Extreme Hydrogel Bioelectronics | untried
+10.1002/adfm.202409670 | Unlocking the Potential of Hybrid Nanocomposite Hydrogels: Design, Mechanical Properties and Biomedical Performances | untried
+10.1002/adfm.202409726 | Ultratough and Highly Conductive Supramolecular Poly(Vinyl Alcohol) Eutectogels via a Sequentially Enhanced Strategy | untried
+10.1002/adfm.202409864 | Programmable Multi-responsive Nanocellulose-based Hydrogels With Embodied Logic | untried
+10.1002/adfm.202411029 | High Fire‐Safety and Multifunctional Eutectogel for Flexible Quasi‐Solid‐State Supercapacitors | failed
+10.1002/adfm.202419161 | Super Strong and Tough Hydrogels Constructed via Network Uniformization of Macromolecular Chains | untried
+10.1002/adfm.202425778 | Eutectogels: Recent Advances and Emerging Biological Applications | untried
+10.1002/adfm.202504356 | Hydrogels for Long‐Term Moisture Retention under Ambient Conditions: Inhibiting the Evaporation of Free Water from Macroscopic to Molecular Scales | untried
+10.1002/adfm.202504726 | Coupling of Mechanical, Self‐Healing, Adhesion, and High‐Ion Conducting Properties in Anti‐Freezing Hydrogel Electrolytes of Zinc Ion Batteries via Fe3+‐Carboxylate Coordination | untried
+10.1002/adfm.202505265 | Self-Powered Ultra-Stretchable Organo-Hydrogel Sensors with Excellent Stability Based on a Solvent Replacement Strategy | untried
+10.1002/adfm.202531960 | Hydrogel‐Based Implantable Medical Devices: Pioneering Therapies and Monitoring | untried
+10.1002/adhm.202500810 | pH and Glucose Dual‐Responsive Hydrogels Promoted Diabetic Wound Healing by Remodeling the Wound Microenvironment | untried
+10.1002/adhm.202502205 | Hydrogel‐Based Therapeutics for Diabetic Oral Wounds: From Mechanisms to Applications | untried
+10.1002/adma.200304907 | Double-Network Hydrogels with Extremely High Mechanical Strength | untried
+10.1002/adma.202000682 | Recent Progress in High‐Strength and Robust Regenerated Cellulose Materials | untried
+10.1002/adma.202412792 | (NO TITLE) | failed
+10.1002/adma.202413856 | Intrinsic Anti‐Freezing, Tough, and Transparent Hydrogels for Smart Optical and Multi‐Modal Sensing Applications | untried
+10.1002/adma.202420214 | Development of Ternary Hydrogel Electrolytes for Superior Gel Thermocells: Exceptional Anti‐Drying, Anti‐Freezing, and Mechanical Robustness | untried
+10.1002/adma.202512806 | Additive Manufacturing of Molecular Architecture Encoded Stretchable Polyethylene Glycol Hydrogels and Elastomers | untried
+10.1002/admt.202401898 | Flexible 3D‐Printed Cellulosic Constructs for EMI Shielding and Piezoresistive Sensing | untried
+10.1002/admt.202501019 | Hydrogel‐Based 3D‐Printable Stretchable Pressure Sensor | failed
+10.1002/admt.202501673 | Engineering Ultra-Soft Porous Hydrogel Scaffolds via High-Resolution 3D Printing to Enhance Cell-Based Therapy for Glioblastoma | untried
+10.1002/adsu.202400341 | Composites of 2D Materials and Bacterial Cellulose for Sustainable Energy Storage and Environmental Remediation | untried
+10.1002/advs.202500478 | Hydrogel-Transformable Probiotic Powder for Targeted Eradication of Helicobacter pylori with Enhanced Gastric Mucosal Repair and Microbiota Preservation | untried
+10.1002/advs.202507209 | Recent Developments in Nanoparticle‐Hydrogel Hybrid Materials for Controlled Release | untried
+10.1002/advs.202510717 | Mechanically Active Hydrogel for Healing Intestinal Fistulas through the YAP-Mediated Mechanosensitization of Intestinal Epithelial Cells | untried
+10.1002/aesr.202300231 | Recent Advancements of MXene/Nanocellulose-Based Hydrogel and Aerogel: A Review | untried
+10.1002/anie.201708614 | Anti-freezing, Conductive Self-healing Organohydrogels with Stable Strain-sensitivity at Subzero Temperatures | untried
+10.1002/anie.201803366 | Rational Fabrication of Anti-Freezing, Non-Drying Tough Organohydrogels by One-Pot Solvent Displacement. | untried
+10.1002/anie.202503776 | Tumor Microenvironment-Responsive Polymer Delivery Platforms for Cancer Therapy. | untried
+10.1002/anie.202512142 | Bioinspired Anti-Freezing Hydrogel With Localized Ice Regulation for Subzero Soft Robotics. | untried
+10.1002/app.55298 | A temperature-responsive dual network hydrogel for reversible smart actuator | failed
+10.1002/app.58040 | High‐Strength, Frost‐Resistant PVA/PANI Conductive Hydrogels Suitable for Flexible Sensing | failed
+10.1002/chem.202503107 | Interpenetrating Polymer Network Eutectogels Derived From Polymerizable Deep Eutectic Solvents for Low-Temperature Supercapacitors. | untried
+10.1002/cssc.202200399 | Cellulose-derived carbon dots guided growth of ZnIn2S4 nanosheets for photocatalytic oxidation of 5-hydroxymethylfurfural into 2,5-diformylfuran. | failed
+10.1002/ddr.70102 | Multilayer Antibacterial Hydrogel Wound Dressings Incorporated With Green Synthesized Silver Nanoparticles | untried
+10.1002/efd2.70080 | Bacterial Nanocellulose: A Sustainable Revolution in Food Science | untried
+10.1002/fob2.70000 | Natural polymer‐based hydrogels: Types, functionality, food applications, environmental significance and future perspectives: An updated review | untried
+10.1002/jccs.202400303 | Silver nanoparticle‐infused hydrogels for biomedical applications: A comprehensive review | untried
+10.1002/mabi.202300376 | Biofabrication of Cellulose-Based Hydrogels for Advanced Wound Healing: a Special Emphasis on 3d Bioprinting. | untried
+10.1002/mabi.202500568 | Bacteriophage and Nitric Oxide Combined Release from a Dual Hydrogel Matrix for Wound Healing Applications | untried
+10.1002/macp.202500164 | Preparation of PAMgA/LiCl/GL Anti‐Freezing Conductive Hydrogel for Wearable Strain Sensors | failed
+10.1002/marc.202500270 | A Cellulose Ionogel with Mechanical Robustness and Extreme Temperature Tolerance for Electronic Skin. | untried
+10.1002/mba2.70017 | Emerging Trends in Injectable Stimuli‐Responsive Hydrogel Microspheres: Design Strategies and Therapeutic Innovations | untried
+10.1002/pat.70099 | Interpenetrating Polymer Networks in Biomedical Fields: Recent Advanced and Applications | untried
+10.1002/pat.70132 | Bioactive Hydrogels (Bio-HyGs): Emerging Trends in Drug Delivery and Wound Healing Applications | untried
+10.1002/pat.70372 | Advances in Polyvinyl Alcohol Based Hydrogels for Sensing Technologies | untried
+10.1002/pc.27243 | Preparation of spherical nanocellulose from <scp>Gai</scp> bamboo and mechanical properties of chitosan/nanocellulose composite | failed
+10.1002/pen.70053 | Development and Characterization of Novel Biodegradable Hydrogels With Controlled Moisture Release for Smart Packaging Materials | untried
+10.1002/pol.20250422 | Design and Simulation of Thermo‐Responsive 4D Hydrogel Materials | untried
+10.1002/slct.202400710 | A Cellulose Reinforced Polyacrylamide/Polyvinyl Alcohol Dual Network Hydrogel for Flexible Sensors | failed
+10.1002/slct.202405745 | (NO TITLE) | untried
+10.1002/smll.202400161 | Nature-Inspired Molecular-Crowding Enabling Wide-Humidity Range Applicable, Anti-Freezing, and Robust Zwitterionic Hydrogels for On-Skin Electronics. | untried
+10.1002/smll.202405826 | Silver Nanoparticle-Decorated Cellulose Nanocrystal Reinforced Ionic Polymer Hydrogel With High Conductivity and Environmental Tolerance for Multifunctional Sensing and Emergency Alarm System. | failed
+10.1002/smll.202409365 | Self-Healing and Antifreezing/Antidrying Conductive Eutectohydrogel-Based Biosignal Monitoring Multisensors with Integrated Supercapacitor. | failed
+10.1002/smll.202411657 | N-Doped Holey Graphene/Porous Carbon/Cellulose Nanofibers Electrode and Hydrogel Electrolyte for Low-temperature Zinc-ion Hybrid Supercapacitors. | untried
+10.1002/sstr.202300073 | Anisotropic, Strong, and Thermally Insulating 3D-Printed Nanocellulose-PNIPAAM Aerogels | untried
+10.1002/sus2.249 | Poly(ionic liquid) functionalization: A general strategy for strong, tough, ionic conductive, and multifunctional polysaccharide hydrogels toward sensors | failed
+10.1007/bf00820270 | (NO TITLE) | failed
+10.1007/s10118-025-3419-2 | (NO TITLE) | failed
+10.1007/s10570-009-9300-6 | (NO TITLE) | failed
+10.1007/s10570-009-9357-2 | (NO TITLE) | failed
+10.1007/s10570-011-9514-2 | (NO TITLE) | failed
+10.1007/s10570-012-9664-x | (NO TITLE) | failed
+10.1007/s10570-019-02435-8 | (NO TITLE) | failed
+10.1007/s10570-019-02783-5 | (NO TITLE) | failed
+10.1007/s10570-021-04278-8 | (NO TITLE) | failed
+10.1007/s10570-021-04321-8 | (NO TITLE) | failed
+10.1007/s10570-022-04642-2 | (NO TITLE) | failed
+10.1007/s10570-022-04643-1 | (NO TITLE) | failed
+10.1007/s10570-022-04652-0 | (NO TITLE) | failed
+10.1007/s10570-022-04936-5 | (NO TITLE) | failed
+10.1007/s10570-023-05312-7 | (NO TITLE) | failed
+10.1007/s10570-023-05548-3 | (NO TITLE) | failed
+10.1007/s10570-024-05874-0 | (NO TITLE) | failed
+10.1007/s10570-024-05964-z | (NO TITLE) | failed
+10.1007/s10570-024-06093-3 | (NO TITLE) | failed
+10.1007/s10570-024-06226-8 | (NO TITLE) | failed
+10.1007/s10570-025-06861-9 | (NO TITLE) | failed
+10.1007/s10853-022-07379-2 | (NO TITLE) | failed
+10.1007/s10904-025-04148-x | (NO TITLE) | failed
+10.1007/s10924-024-03321-6 | (NO TITLE) | failed
+10.1007/s12221-022-4584-3 | (NO TITLE) | failed
+10.1007/s12274-022-4944-8 | (NO TITLE) | failed
+10.1007/s12274-023-6267-9 | (NO TITLE) | failed
+10.1007/s40820-024-01329-0 | A Sustainable Dual Cross-Linked Cellulose Hydrogel Electrolyte for High-Performance Zinc-Metal Batteries | untried
+10.1016/S0032-3861(01)00358-5 | States of water in different hydrophilic polymers — DSC and FTIR studies | untried
+10.1016/j.addr.2024.115463 | (NO TITLE) | failed
+10.1016/j.apmt.2023.101777 | (NO TITLE) | failed
+10.1016/j.bej.2022.108476 | (NO TITLE) | failed
+10.1016/j.biortech.2023.129401 | Exploration of the interaction mechanism of lignocellulosic hybrid systems based on deep eutectic solvents. | untried
+10.1016/j.carbpol.2021.117671 | Preparation and properties of conductive bacterial cellulose-based graphene oxide-silver nanoparticles antibacterial dressing. | failed
+10.1016/j.carbpol.2021.118695 | Structure reorganization of cellulose hydrogel by green solvent exchange for potential plastic replacement. | untried
+10.1016/j.carbpol.2021.118872 | Nanocellulose-enhanced organohydrogel with high-strength, conductivity, and anti-freezing properties for wearable strain sensors. | untried
+10.1016/j.carbpol.2022.119199 | An environmentally tolerant, highly stable, cellulose nanofiber-reinforced, conductive hydrogel multifunctional sensor. | failed
+10.1016/j.carbpol.2022.119673 | Stretchable and conductive cellulose hydrogel electrolytes for flexible and foldable solid-state supercapacitors. | untried
+10.1016/j.carbpol.2022.120117 | Microstructural architecture and mechanical properties of empowered cellulose-based aerogel composites via TEMPO-free oxidation. | failed
+10.1016/j.carbpol.2022.120140 | Cellulose/nanocellulose superabsorbent hydrogels as a sustainable platform for materials applications: A mini-review and perspective. | untried
+10.1016/j.carbpol.2023.120567 | Strong, conductive, and freezing-tolerant polyacrylamide/PEDOT:PSS/cellulose nanofibrils hydrogels for wearable strain sensors. | failed
+10.1016/j.carbpol.2023.120744 | The thermodynamics of enhanced dope stability of cellulose solution in NaOH solution by urea. | failed
+10.1016/j.carbpol.2023.121160 | Tough and strong sustainable thermoplastic elastomers nanocomposite with self-assembly of SI-ATRP modified cellulose nanofibers. | untried
+10.1016/j.carbpol.2023.121235 | Adhesive injectable cellulose-based hydrogels with rapid self-healing and sustained drug release capability for promoting wound healing. | untried
+10.1016/j.carbpol.2023.121454 | (NO TITLE) | failed
+10.1016/j.carbpol.2023.121685 | Multifunctioning of carboxylic-cellulose nanocrystals on the reinforcement of compressive strength and conductivity for acrylic-based hydrogel. | failed
+10.1016/j.carbpol.2024.121932 | Self-healing, environmentally stable and adhesive hydrogel sensor with conductive cellulose nanocrystals for motion monitoring and character recognition. | failed
+10.1016/j.carbpol.2024.122067 | Nanocellulose-mediated bilayer hydrogel actuators with thermo-responsive, shape memory and self-sensing performances. | untried
+10.1016/j.carbpol.2024.122068 | Highly elastic, fatigue-resistant, antibacterial, conductive, and nanocellulose-enhanced hydrogels with selenium nanoparticles loading as strain sensors. | failed
+10.1016/j.carbpol.2024.122271 | Zwitterionic cellulose nanofibers-based hydrogels with high toughness, ionic conductivity, and healable capability in cryogenic environments. | failed
+10.1016/j.carbpol.2024.122406 | Wide-humidity, anti-freezing and stretchable multifunctional conductive carboxymethyl cellulose-based hydrogels for flexible wearable strain sensors and arrays. | failed
+10.1016/j.carbpol.2024.122444 | Dual cross-linked cellulose-based hydrogel for dendrites-inhibited flexible zinc-ion energy storage devices with ultra-long cycles and high energy density. | failed
+10.1016/j.carbpol.2024.122472 | Strong, tough, and freeze-tolerant all-natural cellulose-based ionic conductor enabled by multiscale cellulose networks. | failed
+10.1016/j.carbpol.2024.122497 | Tunable thermoresponsive and stretchable hydrogel sensor based on hydroxypropyl cellulose for human motion/health detection, visual signal transmission and information encryption. | failed
+10.1016/j.carbpol.2024.122552 | Tough and temperature-tolerance cellulose/polyacrylic acid/bentonite hydrogel with high ionic conductivity enables self-powered triboelectric wearable electronic devices. | failed
+10.1016/j.carbpol.2024.122788 | (NO TITLE) | untried
+10.1016/j.carbpol.2024.122936 | A flexible, antifreezing, and long-term stable cellulose ionic conductive hydrogel via one-step preparation for flexible electronic sensors. | failed
+10.1016/j.carbpol.2024.122939 | Natural cellulose reinforced multifunctional eutectogels for wearable sensors and epidermal electrodes. | failed
+10.1016/j.carbpol.2024.123136 | An antimicrobial and adhesive conductive chitosan quaternary ammonium salt hydrogel dressing for combined electrical stimulation and photothermal treatment to promote wound healing. | failed
+10.1016/j.carbpol.2025.123253 | Hybrid crosslinking cellulose nanofibers-reinforced zwitterionic poly (ionic liquid) organohydrogel with high-stretchable, anti-freezing, anti-drying as strain sensor application. | failed
+10.1016/j.carbpol.2025.123257 | (NO TITLE) | untried
+10.1016/j.carbpol.2025.124312 | Anti-freezing and robust Ag-MOFs@PVA/XG hydrogel for flexible sensing and robotic state monitoring. | failed
+10.1016/j.cej.2020.125341 | Ultrafast gelling using sulfonated lignin-Fe3+ chelates to produce dynamic crosslinked hydrogel/coating with charming stretchable, conductive, self-healing, and ultraviolet-blocking properties | failed
+10.1016/j.cej.2021.130353 | (NO TITLE) | failed
+10.1016/j.cej.2022.135057 | (NO TITLE) | failed
+10.1016/j.cej.2022.137056 | (NO TITLE) | failed
+10.1016/j.cej.2022.138675 | (NO TITLE) | failed
+10.1016/j.cej.2023.147065 | (NO TITLE) | failed
+10.1016/j.cej.2023.147888 | (NO TITLE) | failed
+10.1016/j.cej.2023.148192 | (NO TITLE) | failed
+10.1016/j.cej.2023.148305 | (NO TITLE) | failed
+10.1016/j.cej.2024.149951 | (NO TITLE) | failed
+10.1016/j.cej.2024.151143 | (NO TITLE) | failed
+10.1016/j.cej.2024.153309 | Unique CuOx-FeOx interfaces in Cu-decorated Fe-based catalysts facilitating CO2 hydrogenation to higher hydrocarbons | untried
+10.1016/j.cej.2024.153567 | (NO TITLE) | failed
+10.1016/j.cej.2024.154883 | (NO TITLE) | untried
+10.1016/j.cej.2024.154994 | (NO TITLE) | failed
+10.1016/j.cej.2024.155808 | (NO TITLE) | failed
+10.1016/j.colsurfa.2022.130390 | (NO TITLE) | failed
+10.1016/j.colsurfa.2025.136757 | (NO TITLE) | failed
+10.1016/j.colsurfa.2026.140175 | (NO TITLE) | failed
+10.1016/j.compositesa.2022.107039 | (NO TITLE) | failed
+10.1016/j.compositesb.2020.108246 | (NO TITLE) | failed
+10.1016/j.compositesb.2023.111022 | (NO TITLE) | failed
+10.1016/j.diamond.2024.110789 | (NO TITLE) | failed
+10.1016/j.esci.2026.100584 | (NO TITLE) | failed
+10.1016/j.eurpolymj.2020.110258 | (NO TITLE) | failed
+10.1016/j.eurpolymj.2021.110565 | (NO TITLE) | failed
+10.1016/j.eurpolymj.2023.112603 | (NO TITLE) | failed
+10.1016/j.eurpolymj.2024.113312 | (NO TITLE) | failed
+10.1016/j.eurpolymj.2024.113620 | (NO TITLE) | failed
+10.1016/j.ijbiomac.2020.10.143 | (NO TITLE) | untried
+10.1016/j.ijbiomac.2021.02.104 | (NO TITLE) | failed
+10.1016/j.ijbiomac.2021.09.075 | A TEMPO-oxidized cellulose nanofibers/MOFs hydrogel with temperature and pH responsiveness for fertilizers slow-release. | failed
+10.1016/j.ijbiomac.2022.03.025 | Chitin/Ca solvent-based conductive and stretchable organohydrogel with anti-freezing and anti-drying. | failed
+10.1016/j.ijbiomac.2022.06.011 | A high-conductive, anti-freezing, antibacterial and anti-swelling starch-based physical hydrogel for multifunctional flexible wearable sensors. | failed
+10.1016/j.ijbiomac.2022.11.014 | Highly stretchable, self-healing, and degradable ionic conductive cellulose hydrogel for human motion monitoring. | failed
+10.1016/j.ijbiomac.2023.123425 | Highly conductive and anti-freezing cellulose hydrogel for flexible sensors. | failed
+10.1016/j.ijbiomac.2023.123936 | High strength, anti-freezing and conductive silkworm excrement cellulose-based ionic hydrogel with physical-chemical double cross-linked for pressure sensing. | failed
+10.1016/j.ijbiomac.2023.124780 | Highly stretchable, tough and conductive chitin nanofiber composite hydrogel as a wearable sensor. | failed
+10.1016/j.ijbiomac.2023.125973 | Muscle-inspired anisotropic carboxymethyl cellulose-based double-network conductive hydrogels for flexible strain sensors. | failed
+10.1016/j.ijbiomac.2023.126550 | Compressible, anti-freezing, and ionic conductive cellulose/polyacrylic acid composite hydrogel prepared via AlCl3/ZnCl2 aqueous system as solvent and catalyst. | failed
+10.1016/j.ijbiomac.2023.126693 | A dual pH- and temperature-responsive hydrogel produced in situ crosslinking of cyclodextrin-cellulose for wound healing. | failed
+10.1016/j.ijbiomac.2023.127396 | Low-temperature strain-sensitive sensor based on cellulose-based ionic conductive hydrogels with moldable and self-healing properties. | failed
+10.1016/j.ijbiomac.2023.129068 | Multifunctional organohydrogel via the synergy of dialdehyde starch and glycerol for motion monitoring and sign language recognition. | failed
+10.1016/j.ijbiomac.2023.129081 | Recent advances in TEMPO-oxidized cellulose nanofibers: Oxidation mechanism, characterization, properties and applications. | failed
+10.1016/j.ijbiomac.2024.130732 | Recent advances and biomedical application of 3D printed nanocellulose-based adhesive hydrogels: A review. | failed
+10.1016/j.ijbiomac.2024.131115 | Cellulose-reinforced highly stretchable and adhesive eutectogels as efficient sensors. | failed
+10.1016/j.ijbiomac.2024.131118 | Anti-freezing hydrogel regulated by ice-structuring proteins/cellulose nanofibers system as flexible sensor for winter sports. | failed
+10.1016/j.ijbiomac.2024.131129 | Transparent, super stretchable, freezing-tolerant, self-healing ionic conductive cellulose based eutectogel for multi-functional sensors. | failed
+10.1016/j.ijbiomac.2024.132419 | Mussel-inspired antimicrobial hydrogel with cellulose nanocrystals/tannic acid modified silver nanoparticles for enhanced calvarial bone regeneration. | failed
+10.1016/j.ijbiomac.2024.132585 | Ultra-stretchable, adhesive, fatigue resistance, and anti-freezing conductive hydrogel based on gelatin/guar gum and liquid metal for dual-sensory flexible sensor and all-in-one supercapacitors. | failed
+10.1016/j.ijbiomac.2024.132912 | Novel insights on room temperature-induced cellulose dissolution mechanism via ZnCl2 aqueous solution: Migration, penetration, interaction, and dispersion. | failed
+10.1016/j.ijbiomac.2024.135947 | Notch-insensitive, tough and self-healing conductive bacterial cellulose nanocomposite hydrogel for flexible wearable strain sensor. | failed
+10.1016/j.ijbiomac.2024.136439 | Sustainable, temperature-tolerant, dual network conductive pressure sensitive adhesive from cellulose and rosin for wearable sensing. | failed
+10.1016/j.ijbiomac.2024.137911 | Itaconic acid/cellulose-based hydrogels with fire-resistant and anti-freezing properties via vat photopolymerization 3D printing. | failed
+10.1016/j.ijbiomac.2024.138188 | Synthesis of novel deep eutectic solvent-modified nano cellulosic gel formulation-based strain sensor for human motion monitoring. | failed
+10.1016/j.ijbiomac.2025.023888 | (NO TITLE) | failed
+10.1016/j.ijbiomac.2025.141174 | Cellulose-based 3D printing bio-inks for biomedical applications: A review. | failed
+10.1016/j.ijbiomac.2025.141443 | Effect of cellulose fibers on the structure, rheological and 3D printing properties of corn starch-based hydrogel ink. | failed
+10.1016/j.ijbiomac.2025.143914 | Fully enhances the performance of eutectic hydrogels in the field of flexible sensors by cellulose. | failed
+10.1016/j.ijbiomac.2025.147477 | Sodium carboxymethyl cellulose/polyvinyl alcohol/clove essential oil composite hydrogel with integrated antibacterial, antifreeze, and conductive properties as a wearable sensor for human motion monitoring. | failed
+10.1016/j.ijbiomac.2025.148851 | Cellulose nanofiber-reinforced chitosan conductive hydrogel tailored by double-network strategy for stretchable strain sensor. | failed
+10.1016/j.ijbiomac.2025.149374 | Mechanically resilient, freeze-resistant, and antibacterial carboxymethyl cellulose/phytic acid hydrogel sensors for respiratory monitoring. | failed
+10.1016/j.ijbiomac.2026.150776 | Polydopamine-functionalized cellulose nanofibrils with Ag deposition for robust poly(vinyl alcohol) hydrogel strain sensor. | failed
+10.1016/j.indcrop.2015.11.083 | (NO TITLE) | failed
+10.1016/j.indcrop.2024.118026 | (NO TITLE) | failed
+10.1016/j.indcrop.2024.118405 | (NO TITLE) | failed
+10.1016/j.indcrop.2024.118692 | (NO TITLE) | failed
+10.1016/j.indcrop.2024.119541 | (NO TITLE) | failed
+10.1016/j.jcis.2021.04.001 | (NO TITLE) | failed
+10.1016/j.jcis.2022.01.117 | Super-stretchable and adhesive cellulose Nanofiber-reinforced conductive nanocomposite hydrogel for wearable Motion-monitoring sensor. | failed
+10.1016/j.jcis.2024.02.002 | Frost-resistant nanocellulose-based organohydrogel with high mechanical strength and transparency. | failed
+10.1016/j.jcis.2024.05.102 | Aqueous AlCl3/ZnCl2 solution room-induced the self-growing strategy of expanded topological network for cellulose/polyacrylamide-based solid-state electrolytes. | failed
+10.1016/j.jcis.2024.08.119 | Dual-network hydrogel capsules for controlled molecular transport via pH and temperature responsiveness. | failed
+10.1016/j.jcis.2024.10.070 | Polymerizable deep eutectic solvent-gels synthesized in situ under molecular engineering control exhibit excellent adhesion, freeze resistance, as well as stretching and humidity sensing capabilities. | failed
+10.1016/j.jmbbm.2025.107258 | Electrospun gelatin fiber-gelatin methacryloyl hydrogel composites for reproductive applications. | failed
+10.1016/j.molliq.2023.122456 | (NO TITLE) | failed
+10.1016/j.mseb.2025.118923 | (NO TITLE) | failed
+10.1016/j.nanoen.2022.107374 | (NO TITLE) | failed
+10.1016/j.nanoen.2024.109500 | (NO TITLE) | failed
+10.1016/j.polymer.2023.126490 | (NO TITLE) | failed
+10.1016/j.polymer.2024.126735 | (NO TITLE) | failed
+10.1016/j.polymer.2024.126837 | (NO TITLE) | failed
+10.1016/j.polymer.2025.129027 | (NO TITLE) | failed
+10.1016/j.polymer.2025.129279 | (NO TITLE) | failed
+10.1016/j.polymertesting.2024.108607 | (NO TITLE) | failed
+10.1016/j.porgcoat.2022.106784 | (NO TITLE) | failed
+10.1016/j.progpolymsci.2015.07.003 | Recent advances in regenerated cellulose materials | untried
+10.1016/j.reactfunctpolym.2023.105572 | (NO TITLE) | failed
+10.1016/j.rser.2025.115914 | (NO TITLE) | failed
+10.1016/j.sna.2023.114223 | (NO TITLE) | failed
+10.1016/j.solener.2024.113099 | (NO TITLE) | failed
+10.1016/j.susmat.2022.e00437 | (NO TITLE) | failed
+10.1016/j.susmat.2025.e01234 | (NO TITLE) | failed
+10.1021/acs.biomac.3c00152 | (NO TITLE) | untried
+10.1021/acs.biomac.3c01011 | Ionic Conductive Cellulose-Based Hydrogels with Superior Long-Lasting Moisture and Antifreezing Features for Flexible Strain Sensor Applications. | failed
+10.1021/acs.biomac.3c01385 | (NO TITLE) | untried
+10.1021/acs.biomac.4c00496 | (NO TITLE) | untried
+10.1021/acs.biomac.4c00578 | Single-Component Cellulose Acetate Sulfate Hydrogels for Direct Ink Writing 3D Printing. | failed
+10.1021/acs.biomac.5c02331 | (NO TITLE) | untried
+10.1021/acs.chemmater.2c01582 | (NO TITLE) | untried
+10.1021/acs.chemmater.5c00474 | (NO TITLE) | untried
+10.1021/acs.langmuir.4c02244 | Attapulgite-Reinforced Cellulose Hydrogels with High Conductivity and Antifreezing Property for Flexible Sensors. | failed
+10.1021/acs.macromol.3c00967 | (NO TITLE) | untried
+10.1021/acs.macromol.4c02431 | (NO TITLE) | untried
+10.1021/acs.nanolett.2c00967 | (NO TITLE) | untried
+10.1021/acsabm.3c00050 | (NO TITLE) | untried
+10.1021/acsabm.4c01063 | (NO TITLE) | untried
+10.1021/acsabm.4c01659 | (NO TITLE) | untried
+10.1021/acsaelm.4c00799 | (NO TITLE) | failed
+10.1021/acsaelm.5c01008 | (NO TITLE) | failed
+10.1021/acsaem.5c01260 | (NO TITLE) | failed
+10.1021/acsami.1c08395 | Self-Healing, Self-Adhesive Silk Fibroin Conductive Hydrogel as a Flexible Strain Sensor. | failed
+10.1021/acsami.2c14157 | Highly Sensitive Zwitterionic Hydrogel Sensor for Motion and Pulse Detection with Water Retention, Adhesive, Antifreezing, and Self-Healing Properties. | failed
+10.1021/acsami.2c21255 | (NO TITLE) | untried
+10.1021/acsami.2c21617 | Rapid Preparation of Antifreezing Conductive Hydrogels for Flexible Strain Sensors and Supercapacitors. | failed
+10.1021/acsami.2c22831 | (NO TITLE) | untried
+10.1021/acsami.3c02279 | (NO TITLE) | untried
+10.1021/acsami.3c05208 | Stretchable Organohydrogel with Adhesion, Self-Healing, and Environment-Tolerance for Wearable Strain Sensors. | failed
+10.1021/acsami.4c08592 | Tough and Elastic Cellulose Composite Hydrogels/Films for Flexible Wearable Sensors. | failed
+10.1021/acsami.4c08984 | Temperature-Tolerant Versatile Conductive Zwitterionic Nanocomposite Organohydrogel toward Multisensory Applications. | failed
+10.1021/acsami.4c09185 | (NO TITLE) | untried
+10.1021/acsami.4c13621 | Antifreezing/Antiswelling Hydrogels: Synthesis Strategies and Applications as Flexible Motion Sensors. | failed
+10.1021/acsami.5c02326 | (NO TITLE) | untried
+10.1021/acsami.5c24901 | (NO TITLE) | untried
+10.1021/acsapm.2c00487 | (NO TITLE) | failed
+10.1021/acsapm.3c00634 | (NO TITLE) | failed
+10.1021/acsapm.3c01381 | (NO TITLE) | failed
+10.1021/acsapm.5c00427 | (NO TITLE) | untried
+10.1021/acsbiomaterials.4c00923 | (NO TITLE) | untried
+10.1021/acsbiomaterials.5c00980 | (NO TITLE) | untried
+10.1021/acsbiomaterials.5c02155 | (NO TITLE) | untried
+10.1021/acsbiomedchemau.3c00001 | (NO TITLE) | untried
+10.1021/acsmaterialsau.4c00138 | (NO TITLE) | untried
+10.1021/acsnano.3c11578 | Tough, Antifreezing, and Piezoelectric Organohydrogel as a Flexible Wearable Sensor for Human-Machine Interaction. | failed
+10.1021/acsnanomed.5c00204 | (NO TITLE) | untried
+10.1021/acsomega.5c04153 | (NO TITLE) | untried
+10.1021/acsomega.5c10568 | (NO TITLE) | untried
+10.1021/acsomega.5c11007 | (NO TITLE) | untried
+10.1021/acspolymersau.5c00053 | (NO TITLE) | untried
+10.1021/acssuschemeng.3c02175 | High-Efficiency and Recyclable Green Molten Salt Hydrate Solvent for Cellulose Hydrogels with High Conductivity and Freeze Tolerance | untried
+10.1021/acssuschemeng.3c07949 | (NO TITLE) | failed
+10.1021/acssuschemeng.4c04198 | (NO TITLE) | untried
+10.1021/bk-2024-1469.ch011 | (NO TITLE) | untried
+10.1021/bm400217j | Antifreeze (Glyco)protein mimetic behavior of PVA: IRI activity | untried
+10.1021/ma049506i | (NO TITLE) | untried
+10.1038/nature11409 | Highly stretchable and tough hydrogels | untried
+10.1038/nmat2630 | Supramolecular hydrogels | untried
+10.1038/s41467-023-40792-y | Skin-like cryogel electronics from suppressed-freezing tuned polymer amorphization | untried
+10.1038/s41467-023-41874-7 | Programmable nanocomposites of cellulose nanocrystals and zwitterionic hydrogels for soft robotics | untried
+10.1038/s41467-024-48017-9 | (NO TITLE) | untried
+10.1038/s41467-024-48745-9 | Spider-silk-inspired hydrogel fibers with anti-freezing and water retention | untried
+10.1038/s41467-024-55677-x | Hierarchically aligned heterogeneous core-sheath hydrogels | untried
+10.1038/s41467-025-57800-y | Ultrastrong eutectogels via integrated mechanical training | untried
+10.1038/s41467-025-62742-6 | Mechanically robust eutectogels by engineered crystalline domains | untried
+10.1038/s41467-025-64061-2 | Cellulose-mediated ionic liquid crystallization enables tough-stiff switchable ionogels | untried
+10.1038/s41467-025-64966-y | Balancing mechanical-thermal-electrical properties in cellulose ionogels via crystallization-induced molecular assembly | untried
+10.1038/s41578-024-00672-3 | (NO TITLE) | failed
+10.1039/B210714G | Novel solvent properties of choline chloride/urea mixtures | untried
+10.1039/D0MH01029D | (NO TITLE) | untried
+10.1039/D2GC00784C | (NO TITLE) | failed
+10.1039/D2GC04730F | Cellulose processing in ionic liquids from a materials science perspective: turning a versatile biopolymer into the cornerstone of our sustainable future | untried
+10.1039/D3SM00026E | Encapsulating eutectogels for stretchable humidity-resistant strain sensors. | untried
+10.1039/D4CS00718B | Antifreezing hydrogels: from mechanisms and strategies to applications. | untried
+10.1039/D4NR03363A | (NO TITLE) | untried
+10.1039/c0nr00583e | (NO TITLE) | untried
+10.1039/c4ra07576e | Graphene oxide/polyacrylamide/carboxymethyl cellulose sodium nanocomposite hydrogel with enhanced mechanical strength: preparation, characterization and the swelling behavior | failed
+10.1039/c6ra12517d | A unique high mechanical strength dialdehyde microfibrillated cellulose/gelatin composite hydrogel with a giant network structure | failed
+10.1039/c8cc05779f | Sea cucumber mimicking bacterial cellulose composite hydrogel with ionic strength-sensitive mechanical adaptivity | failed
+10.1039/d0ta04360e | Zinc ion trapping in a cellulose hydrogel as a solid electrolyte for a safe and flexible supercapacitor | failed
+10.1039/d1ta06468a | Advances in cellulose-metal organic framework composites: preparation and applications | failed
+10.1039/d2cs00652a | Ionogels: recent advances in design, material properties and emerging biomedical applications. | untried
+10.1039/d2na00769j | Facile sulfation of cellulose via recyclable ternary deep eutectic solvents for low-cost cellulose nanofibril preparation | untried
+10.1039/d2ta06835d | Comprehensive utilization of lignocellulosic biomass for electrode and electrolyte in zinc-ion hybrid supercapacitor | failed
+10.1039/d2ta09068f | Rarely negative-thermovoltage cellulose ionogel with simultaneously boosting mechanical strength and ionic conductivity via ion-molecular engineering | untried
+10.1039/d3mh02008h | Ultra-strong, nonfreezing, and flexible strain sensors enabled by biomass-based hydrogels through triple dynamic bond design | untried
+10.1039/d3na00531c | In situ modified nanocellulose/alginate hydrogel composite beads for purifying mining effluents | untried
+10.1039/d3ta04980a | A highly stretchable, self-adhesive, anti-freezing, and highly sensitive dual-network conductive hydrogel sensor for multifunctional electronic skin | failed
+10.1039/d3ta07424b | A highly conductive and ultra-stretchable polyaniline/cellulose nanocrystal/polyacrylamide hydrogel with hydrophobic associations for wearable strain sensors | failed
+10.1039/d3ta08069b | Conductive nanocomposite hydrogels for flexible wearable sensors | untried
+10.1039/d4cs00387j | Bottom-up and top-down strategies toward strong cellulose-based materials | untried
+10.1039/d4ma00725e | Facile fabrication of stretchable, anti-freezing, and stable organohydrogels for strain sensing at subzero temperatures | failed
+10.1039/d4na00732h | A rapid one-step synthesis of silver and copper coordinated chlorine functionalized fullerene nanoparticles with enhanced antibacterial activity | untried
+10.1039/d4nj03774j | A strong, stretchable, adhesive, conductive, transparent cellulose-based hydrogel for wearable strain sensors and arrays | failed
+10.1039/d4ra00971a | Influence of the coagulation bath on the nanostructure of cellulose films regenerated from an ionic liquid solution | untried
+10.1039/d5gc05362e | Eco-designed cellulose-reinforced deep eutectic gels with synergistic mechanical strength, ionic conductivity, and freezing tolerance for flexible electronics | failed
+10.1063/1674-0068_cjcp2106104 | Water-resistant and stretchable conductive ionic hydrogel fibers reinforced by carboxymethyl cellulose | failed
+10.1063/5.0139951 | Stretchable and self-healable conductive hydrogel-based multifunctional triboelectric nanogenerator for energy harvesting and dance motion sensing | failed
+10.1063/5.0207037 | A rapid stretchable hydrogel strain sensor based on PVA/MXene and graphene with basketball monitoring function | failed
+10.1080/10584587.2023.2227051 | Preparation and Properties of Multifunctional Nanocellulose-Reinforced PVA Ionic Hydrogel | failed
+10.1080/10601320701285045 | (NO TITLE) | failed
+10.1080/10601325.2024.2409754 | CMC-Na and Laponite dual network reinforced P (AM-co-NVCL) hydrogel with pH/temperature dual sensitivity | failed
+10.1080/1536383x.2024.2310697 | Bio-friendly fluorescent polyvinyl alcohol/gelatin/chitosan hydrogel membranes strengthened by g-C3N4/CQDs nanocomposite: Preparation, investigation of UV-absorption, mechanical and rheological properties | failed
+10.1088/1748-605x_acd49a | Injectable cell-laden hydrogels fabricated with cellulose and chitosan nanofibers for bioprinted liver tissues | failed
+10.1088/1757-899x_223_1_012052 | Mechanical strength and ionic conductivity of polymer electrolyte membranes prepared from cellulose acetate-lithium perchlorate | failed
+10.1109/ee.1941.6434631 | (NO TITLE) | failed
+10.1115/1.4000858 | Preparation and Characterization of Novel Bacterial Cellulose/Gelatin Scaffold for Tissue Regeneration Using Bacterial Cellulose Hydrogel | failed
+10.1126/sciadv.ado7750 | Dehydration drives damage in the freezing of brittle hydrogels | untried
+10.1126/science.aaf3627 | Advances in engineering hydrogels | untried
+10.1155/2015_963436 | The preparation of a highly stretchable cellulose nanowhisker nanocomposite hydrogel | failed
+10.1186/s12929-025-01166-2 | (NO TITLE) | untried
+10.1186/s40486-025-00239-z | (NO TITLE) | failed
+10.1295/polymj.32.866 | Solubility of Cellulose in NaOH/Urea Aqueous Solution | untried
+10.15376/biores.11.3.7710-7720 | Effects of Ozone and Nanocellulose Treatments on the Strength and Optical Properties of Paper Made from Chemical Mechanical Pulp | failed
+10.15376/biores.13.1.xu | Review of Silver Nanoparticles (AgNPs)-Cellulose Antibacterial Composites | failed
+10.18321/ectj524 | Furazolidone Immobilized in a Hydrogel Based on Crosslinked Carboxymethyl Cellulose | failed
+10.19045/bspab.2026.150008 | (NO TITLE) | failed
+10.2115/fiberst.2018-0004 | (NO TITLE) | failed
+10.2139/ssrn.4193410 | (NO TITLE) | failed
+10.2139/ssrn.4197761 | (NO TITLE) | failed
+10.2139/ssrn.4204630 | (NO TITLE) | failed
+10.2139/ssrn.4397162 | (NO TITLE) | failed
+10.2166/wpt.2023.230 | Quantum adsorption mechanism of gelatin cellulose hydrogel for the effective removal of Cu2+ and Co2+ from wastewater using artificial neural networks | failed
+10.2352/j.imagingsci.technol.2025.69.3.030412 | (NO TITLE) | failed
+10.26599/nr.2025.94907822 | (NO TITLE) | failed
+10.26634/jms.5.1.13484 | (NO TITLE) | failed
+10.3139/146.111938 | Investigation on microstructural and mechanical properties of sub-zero processed AISI 440C steel | failed
+10.3390/coatings13050843 | Preparation of Nanocellulose Whisker/Polyacrylamide/Xanthan Gum Double Network Conductive Hydrogels | untried
+10.3390/foods11111619 | Novel Fluorescent Nanocellulose Hydrogel Based on Nanocellulose and Carbon Dots for Detection and Removal of Heavy Metal Ions in Water | failed
+10.3390/gels7040277 | Degradation-Dependent Stress Relaxing Semi-Interpenetrating Networks of Hydroxyethyl Cellulose in Gelatin-PEG Hydrogel with Good Mechanical Stability and Reversibility | failed
+10.3390/ma12101628 | Fabrication and Characterization of Low Methoxyl Pectin/Gelatin/Carboxymethyl Cellulose Absorbent Hydrogel Film for Wound Dressing Applications | failed
+10.3390/ma13245789 | The Influence of Sub-Zero Conditions on the Mechanical Properties of Polylactide-Based Composites | failed
+10.3390/ma14206165 | Ultra-Stretchable and Self-Healing Anti-Freezing Strain Sensors Based on Hydrophobic Associated Polyacrylic Acid Hydrogels | failed
+10.3390/polym16070971 | Recent Progress of Anti-Freezing, Anti-Drying, and Anti-Swelling Conductive Hydrogels and Their Applications | failed
+10.3390/polym16172506 | Recent Advancements in Gel Polymer Electrolytes for Flexible Energy Storage Applications | failed
+10.36463/idw.2022.0816 | (NO TITLE) | failed
+10.3724/sp.j.1077.2008.01011 | (NO TITLE) | failed
+10.3724/sp.j.1105.2011.10137 | (NO TITLE) | failed
+10.3901/jme.2020.24.190 | Wide Temperature Range Experimental Study into the Fluid Mechanics of Hydraulic Orifices | failed
+10.4028/www.scientific.net_amm.852.349 | The Effect of Sub-Zero Treatment on Mechanical Properties of GTAW Welded AA6082 | failed
+10.4028/www.scientific.net_amr.1103.9 | Effect of pH and Freezing Condition on Cryogel Encapsulation of Curcumin | failed
+10.4028/www.scientific.net_msf.1009.3 | Hybrid Gelatin/Carboxymethyl Cellulose Hydrogel Loaded Copper (II) Ion for Medical Applications | failed
+10.4028/www.scientific.net_msf.929.136 | Effect of Sub Zero Treatment on Microstructures, Mechanical Properties, and Dimensional Stability of AISI D2 Cold Work Tool Steel | failed
+10.4325/seikeikakou.28.326 | (NO TITLE) | failed
+10.47939/et.v2i3.149 | (NO TITLE) | failed
+10.52340/ns.2022.05 | (NO TITLE) | failed
+10.54254/2753-8818_2026.au32025 | The Review of Antibacterial Mechanism of Cellulose-based Hydrogel | failed
+10.5658/wood.2015.43.6.740 | (NO TITLE) | failed
+10.59717/j.xinn-mater.2024.100092 | Cellulose nanofibril-guided orienting response of supramolecular network enables superstretchable, robust, and antifatigue hydrogel | failed
+10.64149/j.carcinog.22.2.166-179 | (NO TITLE) | failed
+10.71329/iupjmech_2025.18.2.66-96 | (NO TITLE) | failed
+10/1002_adfm_202304625 | (NO TITLE) | untried
+10/1002_adfm_202311502 | (NO TITLE) | untried
+10/1002_adfm_202313531 | (NO TITLE) | untried
+10/1002_adfm_202315656 | (NO TITLE) | untried
+10/1002_adfm_202316137 | (NO TITLE) | untried
+10/1002_adfm_202400936 | (NO TITLE) | untried
+10/1002_adfm_202402461 | (NO TITLE) | untried
+10/1002_adfm_202408160 | (NO TITLE) | untried
+10/1002_adfm_202409081 | (NO TITLE) | untried
+10/1002_adfm_202416701 | (NO TITLE) | untried
+10/1002_adfm_202417498 | (NO TITLE) | untried
+10/1002_adfm_202422162 | (NO TITLE) | untried
+10/1002_adfm_202501263 | (NO TITLE) | untried
+10/1002_adfm_202503512 | (NO TITLE) | untried
+10/1002_adfm_202507159 | (NO TITLE) | untried
+10/1002_adfm_202519010 | (NO TITLE) | untried
+10/1002_adfm_202519971 | (NO TITLE) | untried
+10/1002_adhm_202301477 | (NO TITLE) | untried
+10/1002_adma_202211783 | (NO TITLE) | untried
+10/1002_adma_202311255 | (NO TITLE) | untried
+10/1002_adma_202401858 | (NO TITLE) | untried
+10/1002_adma_202411997 | (NO TITLE) | untried
+10/1002_adma_202416275 | (NO TITLE) | untried
+10/1002_adma_202416304 | (NO TITLE) | untried
+10/1002_adma_202420338 | (NO TITLE) | untried
+10/1002_adma_202510982 | (NO TITLE) | untried
+10/1002_adma_202515996 | (NO TITLE) | untried
+10/1002_advs_202414301 | (NO TITLE) | untried
+10/1002_advs_202510444 | (NO TITLE) | untried
+10/1002_advs_202511759 | (NO TITLE) | untried
+10/1002_aenm_202503986 | (NO TITLE) | untried
+10/1002_anie_202521038 | (NO TITLE) | untried
+10/1002_chem_202400622 | (NO TITLE) | untried
+10/1002_jbm_b_35346 | (NO TITLE) | untried
+10/1002_mabi_202500217 | (NO TITLE) | untried
+10/1002_pol_20240219 | (NO TITLE) | untried
+10/1002_smll_202412538 | (NO TITLE) | untried
+10/1002_smtd_202300553 | (NO TITLE) | untried
+10/1007_s10570-024-06016-2 | (NO TITLE) | untried
+10/1016_j_carbpol_2021_119018 | (NO TITLE) | untried
+10/1016_j_carbpol_2023_120647 | (NO TITLE) | untried
+10/1016_j_carbpol_2023_120951 | (NO TITLE) | untried
+10/1016_j_carbpol_2023_121193 | (NO TITLE) | untried
+10/1016_j_carbpol_2023_121239 | (NO TITLE) | untried
+10/1016_j_carbpol_2023_121654 | (NO TITLE) | untried
+10/1016_j_carbpol_2023_121679 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_121740 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_121836 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_121932 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_122286 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_122552 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_122566 | (NO TITLE) | untried
+10/1016_j_carbpol_2024_122788 | (NO TITLE) | untried
+10/1016_j_carbpol_2025_123257 | (NO TITLE) | untried
+10/1016_j_carbpol_2025_123732 | (NO TITLE) | untried
+10/1016_j_carres_2024_109054 | (NO TITLE) | untried
+10/1016_j_cej_2023_145177 | (NO TITLE) | untried
+10/1016_j_cej_2023_146583 | Multiple dynamic interaction-enabled eutectogel with strong tissue adhesion, mechanical strength and temperature tolerance for transdermal drug delivery: Double monodentate coordination and π-π interaction | untried
+10/1016_j_cej_2024_150121 | (NO TITLE) | untried
+10/1016_j_cej_2024_151691 | (NO TITLE) | untried
+10/1016_j_cej_2024_153865 | (NO TITLE) | untried
+10/1016_j_cej_2024_154357 | (NO TITLE) | untried
+10/1016_j_cej_2024_154883 | (NO TITLE) | untried
+10/1016_j_cej_2024_158243 | (NO TITLE) | untried
+10/1016_j_cej_2025_159636 | Green synthesis of multifunctional cellulose-based eutectogel using a metal salt hydrate-based deep eutectic solvent for sustainable self-powered sensing | untried
+10/1016_j_cej_2025_159950 | Anisotropic and anti-freezing cellulose hydrogel electrolyte with aligned channels stabilizing Zn metal anode | untried
+10/1016_j_cej_2025_166097 | Biosafety, anti-swelling and anti-freezing amino acid-based ionogels for flexible strain sensors | untried
+10/1016_j_cej_2025_168883 | A biodegradable cellulose-based ionic conductor for sustainable and high-safety quasi-solid-state sodium batteries | untried
+10/1016_j_cej_2025_171367 | Preparing both mechanically robust and highly conductive semi-solid supercapacitor using environment-friendly gelatin-based hydrogel with cellulose fibers and ionic liquid | untried
+10/1016_j_cej_2026_174479 | (NO TITLE) | untried
+10/1016_j_cplett_2024_141655 | (NO TITLE) | untried
+10/1016_j_crmeth_2024_100777 | (NO TITLE) | untried
+10/1016_j_eurpolymj_2024_113173 | (NO TITLE) | untried
+10/1016_j_foodhyd_2023_108722 | (NO TITLE) | untried
+10/1016_j_foodhyd_2023_109127 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2020_10_143 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2023_124365 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2023_125108 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_129600 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_131115 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_131118 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_131129 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_135263 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_138479 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2024_138903 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2025_141176 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2025_142187 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2025_143442 | (NO TITLE) | untried
+10/1016_j_ijbiomac_2025_148238 | (NO TITLE) | untried
+10/1016_j_indcrop_2025_121012 | (NO TITLE) | untried
+10/1016_j_jcis_2022_12_101 | (NO TITLE) | untried
+10/1016_j_jcis_2023_01_147 | (NO TITLE) | untried
+10/1016_j_jcis_2024_10_168 | (NO TITLE) | untried
+10/1016_j_jddst_2025_106749 | (NO TITLE) | untried
+10/1016_j_mattod_2024_02_007 | (NO TITLE) | untried
+10/1016_j_mtchem_2023_101803 | (NO TITLE) | untried
+10/1016_j_mtnano_2023_100440 | (NO TITLE) | untried
+10/1016_j_nanoen_2024_109599 | (NO TITLE) | untried
+10/1016_j_nanoen_2024_110047 | (NO TITLE) | untried
+10/1016_j_nanoen_2024_110411 | (NO TITLE) | untried
+10/1016_j_nanoen_2025_110646 | (NO TITLE) | untried
+10/1016_j_pmatsci_2024_101378 | (NO TITLE) | untried
+10/1021_acs_biomac_3c00476 | (NO TITLE) | untried
+10/1021_acs_biomac_3c01396 | (NO TITLE) | untried
+10/1021_acs_biomac_4c00040 | (NO TITLE) | untried
+10/1021_acs_biomac_4c00447 | (NO TITLE) | untried
+10/1021_acs_biomac_5c02651 | (NO TITLE) | untried
+10/1021_acs_biomac_9b00027 | (NO TITLE) | untried
+10/1021_acs_chemmater_4c00504 | (NO TITLE) | untried
+10/1021_acs_chemrev_2c00618 | (NO TITLE) | untried
+10/1021_acs_jpcb_4c05085 | (NO TITLE) | untried
+10/1021_acs_nanolett_1c00514 | (NO TITLE) | untried
+10/1021_acs_nanolett_4c04103 | (NO TITLE) | untried
+10/1021_acs_nanolett_5c04651 | (NO TITLE) | untried
+10/1021_acsabm_4c00358 | (NO TITLE) | untried
+10/1021_acsaenm_4c00098 | (NO TITLE) | untried
+10/1021_acsami_3c06681 | (NO TITLE) | untried
+10/1021_acsami_3c08052 | (NO TITLE) | untried
+10/1021_acsami_4c16614 | (NO TITLE) | untried
+10/1021_acsanm_4c03831 | (NO TITLE) | untried
+10/1021_acsapm_3c01861 | (NO TITLE) | untried
+10/1021_acsapm_4c00362 | (NO TITLE) | untried
+10/1021_acsapm_4c00872 | (NO TITLE) | untried
+10/1021_acsapm_5c04637 | (NO TITLE) | untried
+10/1021_acsnano_4c01179 | (NO TITLE) | untried
+10/1021_acsnano_4c02677 | (NO TITLE) | untried
+10/1021_acsnano_4c07677 | (NO TITLE) | untried
+10/1021_acsnano_5c06914 | (NO TITLE) | untried
+10/1021_acssuschemeng_3c06488 | (NO TITLE) | untried
+10/1038_s41467-023-39648-2 | (NO TITLE) | untried
+10/1038_s41467-024-46866-9 | (NO TITLE) | untried
+10/1038_s41467-024-47986-y | (NO TITLE) | untried
+10/1038_s41467-024-51198-9 | (NO TITLE) | untried
+10/1038_s41467-024-52266-w | (NO TITLE) | untried
+10/1038_s41467-024-53291-5 | (NO TITLE) | untried
+10/1038_s41467-024-54879-7 | (NO TITLE) | untried
+10/1038_s41467-024-55303-w | (NO TITLE) | untried
+10/1038_s41467-025-57692-y | (NO TITLE) | untried
+10/1038_s41467-025-58631-7 | (NO TITLE) | untried
+10/1038_s41467-025-58806-2 | (NO TITLE) | untried
+10/1038_s41467-025-60256-9 | (NO TITLE) | untried
+10/1038_s41467-025-65089-0 | (NO TITLE) | untried
+10/1038_s41467-025-66512-2 | (NO TITLE) | untried
+10/1038_s41467-026-69450-9 | (NO TITLE) | untried
+10/1038_s41524-025-01658-7 | (NO TITLE) | untried
+10/1038_s41563-025-02137-6 | (NO TITLE) | untried
+10/1038_s41563-025-02146-5 | (NO TITLE) | untried
+10/1038_s41586-025-09269-4 | (NO TITLE) | untried
+10/1038_s41893-024-01414-7 | (NO TITLE) | untried
+10/1039_D2GC04730F | (NO TITLE) | untried
+10/1039_D2MA00856D | (NO TITLE) | untried
+10/1039_D3SM00026E | (NO TITLE) | untried
+10/1039_D4CS00718B | (NO TITLE) | untried
+10/1039_D4MH01665C | (NO TITLE) | untried
+10/1039_D4NR03363A | (NO TITLE) | untried
+10/1039_D4SM01098A | (NO TITLE) | untried
+10/1039_D4TB00053F | (NO TITLE) | untried
+10/1039_D5EE00158G | (NO TITLE) | untried
+10/1039_D5GC05362E | (NO TITLE) | untried
+10/1039_D5NJ04464B | (NO TITLE) | untried
+10/1039_D5TA00422E | (NO TITLE) | untried
+10/1039_D5TA01250C | (NO TITLE) | untried
+10/1039_D5TB00008D | (NO TITLE) | untried
+10/1039_D5TB01470K | (NO TITLE) | untried
+10/1039_D5TC02011E | (NO TITLE) | untried
+10/1039_d2ta09068f | (NO TITLE) | untried
+10/1039_d5bm00420a | (NO TITLE) | untried
+10/1088_1748-605X_ad5d83 | (NO TITLE) | untried
+10/1088_2631-7990_ae2577 | (NO TITLE) | untried
+10/1088_2752-5724_ad5c84 | (NO TITLE) | untried
+10/1089_soro_2024_0019 | (NO TITLE) | untried
+10/1126_sciadv_adt2286 | (NO TITLE) | untried
+10/3389_frsfm_2023_1281171 | (NO TITLE) | untried
+10/3390_app142210288 | (NO TITLE) | untried
+10/3390_gels11070550 | (NO TITLE) | untried
+10/3390_ijms23042037 | (NO TITLE) | untried
+10/3390_polym16020247 | (NO TITLE) | untried
+10/3390_polym17101373 | (NO TITLE) | untried
+10/34133_research_0533 | (NO TITLE) | untried
+README | (NO TITLE) | untried
+arXiv/2604.28040v1 | (NO TITLE) | untried
+arXiv/2604.28101v1 | (NO TITLE) | untried
+arXiv/2604.28114v1 | (NO TITLE) | untried
+arXiv/2604.28136v1 | (NO TITLE) | untried
+arXiv/2604.28144v1 | (NO TITLE) | untried
+arXiv/2604.28169v1 | (NO TITLE) | untried
+arXiv/2604.28171v1 | (NO TITLE) | untried
+arXiv/2604.28177v1 | (NO TITLE) | untried
+arXiv/2604.28179v1 | (NO TITLE) | untried
+arXiv/2604.28180v1 | (NO TITLE) | untried
+arXiv/2604.28183v1 | (NO TITLE) | untried
+arXiv/2604.28184v1 | (NO TITLE) | untried
+arXiv/2604.28187v1 | (NO TITLE) | untried
+arXiv/2604.28191v1 | (NO TITLE) | untried
+arXiv/2604.28192v1 | (NO TITLE) | untried
+arXiv/2604.28195v1 | (NO TITLE) | untried
+arXiv/2605.00629v1 | (NO TITLE) | untried
+arXiv/2605.00643v1 | (NO TITLE) | untried
+arXiv/2605.00721v1 | (NO TITLE) | untried
+arXiv/2605.00727v1 | (NO TITLE) | untried
+arXiv/2605.00793v1 | (NO TITLE) | untried
+arXiv/2605.00797v1 | (NO TITLE) | untried
+arXiv/2605.00798v1 | (NO TITLE) | untried
+arXiv/2605.00801v1 | (NO TITLE) | untried
+arXiv/2605.00807v1 | (NO TITLE) | untried
+arXiv/2605.00810v1 | On the Schur multiplier of $p$-groups with abelianization $s$-elementary abelian | untried
+arXiv/2605.00813v1 | Statistical mechanics for Scrabble predicts strategy, entropy and language | untried
+arXiv/2605.00815v1 | Revealing the origin of XMCD in an altermagnet via three-dimensional control of spins | untried
+arXiv/2605.00818v1 | $4\\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback | untried
+arXiv/2605.00822v1 | PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence | untried
+arXiv/2605.00823v1 | Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations | untried
+arXiv/2605.02708v1 | Temporally Consistent Object 6D Pose Estimation for Robot Control | untried
+arXiv/2605.02795v1 | Analyzing Unsolicited Internet Traffic: Measuring IoT Security Threats via Network Telescopes | untried
+arXiv/2605.02821v1 | When Is the Same Model Not the Same Service? A Measurement Study of Hosted Open-Weight LLM APIs | untried
+arXiv/2605.02847v1 | Landau levels via Jordan superalgebras | untried
+arXiv/2605.02849v1 | Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion | untried
+arXiv/2605.02866v1 | Laplacian Frequency Interaction Network for Rural Thematic Road Extraction | untried
+arXiv/2605.02870v1 | Role of General Users in the Lifecycle of Scientific Software | untried
+arXiv/2605.02871v1 | Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks | untried
+arXiv/2605.02877v1 | Note on Strong Quantum Markov Properties | untried
+arXiv/2605.02879v1 | Blow-up analysis and a priori bounds for NLS equations on metric graphs | untried
+arXiv/2605.02882v1 | Tracing Primordial Gravitational Waves via non-Gaussian Signatures of Halo Bias | untried
+arXiv/2605.02883v1 | de Sitter Vacua &amp; pUniverses | untried
+arXiv/2605.02884v1 | Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics | untried
+arXiv/2605.02890v1 | Collins asymmetries for pion-in-jet production in polarized $\\ell p$ collisions at the EIC | untried
+arXiv/2605.02891v1 | Interlayer Five-Spin Polaron in Superconducting Bilayer Nickelates | untried
+figures/tables_minimum_package_v0 | (NO TITLE) | untried
+manuscript/chapter1_introduction_v1 | (NO TITLE) | untried
+manuscript/chapter1_introduction_v2_reviewer_edit | (NO TITLE) | untried
+manuscript/methods_results_v0 | (NO TITLE) | untried
+r1/candidate_upgrade_v1 | (NO TITLE) | untried
+r1/core_verification_v0 | (NO TITLE) | untried
+总览 | (NO TITLE) | untried
+综述执行方案 | (NO TITLE) | untried
+综述执行方案/v3 | (NO TITLE) | untried
+综述执行方案/v4 | (NO TITLE) | untried
+综述执行方案/v5 | (NO TITLE) | untried
+综述执行方案/v6_Final | (NO TITLE) | untried
+综述执行方案/v7_DeepReview | (NO TITLE) | untried
+综述推进决策/2026-05-14 | (NO TITLE) | untried
+综述框架 | (NO TITLE) | untried
+综述框架/v2 | (NO TITLE) | untried
